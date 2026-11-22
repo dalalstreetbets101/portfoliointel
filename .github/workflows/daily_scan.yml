@@ -17,13 +17,25 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install BSE India API Library
+        run: |
+          pip install -U bse
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      - name: Fetch Live Market Data & Verified News
+      - name: Fetch Live Market Data & Financial News
         run: node scripts/fetch_live_data.js
+
+      - name: Fetch Official BSE Regulatory Announcements (BseIndiaApi)
+        run: python scripts/fetch_bse_filings.py
 
       - name: Compile Dashboard & Markdown Report
         run: node scripts/compile_dashboard.js
@@ -33,4 +45,4 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add raw_data/ data.js health_status.js Daily_Stock_Update_Report.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-Update: Live Market Data & Verified News [skip ci]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-Update: Live Market Data, BSE Filings & 7-Day Verified News [skip ci]" && git push)
