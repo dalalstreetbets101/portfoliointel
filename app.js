@@ -290,7 +290,8 @@ document.addEventListener("DOMContentLoaded", () => {
             let devHtml = "No major developments in the last 7 days.";
             if (firstDev) {
                 const srcName = firstDev.source_name || "Verified Source";
-                devHtml = `<span class="date-badge">${getRelativeDateString(firstDev.date)}</span> ${firstDev.headline} <a href="${firstDev.source_link}" target="_blank" onclick="event.stopPropagation();" style="color: var(--accent); margin-left: 6px; text-decoration: underline; font-weight: 500;">[${srcName}]</a>`;
+                const catHtml = firstDev.category ? `<span class="category-badge">${firstDev.category}</span>` : '';
+                devHtml = `<span class="date-badge">${getRelativeDateString(firstDev.date)}</span> ${catHtml}${firstDev.headline} <a href="${firstDev.source_link}" target="_blank" onclick="event.stopPropagation();" style="color: var(--accent); margin-left: 6px; text-decoration: underline; font-weight: 500;">[${srcName}]</a>`;
             }
 
             return `

@@ -99,7 +99,7 @@ function compile() {
   });
 
   for (const s of sortedList) {
-    const devText = s.developments.length > 0 ? s.developments[0].headline : "No major developments in the last 7 days.";
+    const devText = s.developments.length > 0 ? (s.developments[0].category ? `\`${s.developments[0].category}\` ` : '') + s.developments[0].headline : "No major developments in the last 7 days.";
     md += `| **${s.ticker}**<br>${s.name} | ${s.developments.length} | ${s.sentiment} | ${s.risk_level} | ${devText} |\n`;
   }
 
@@ -112,6 +112,7 @@ function compile() {
       for (const d of s.developments) {
         md += `**A. News Summary:**\n`;
         md += `- **Headline:** ${d.headline}\n`;
+        md += `- **Category:** \`${d.category || 'Strategic Corporate News'}\`\n`;
         md += `- **Date:** ${d.date} | **Source:** [${d.source_name || 'Verified Source'}](${d.source_link})\n`;
         md += `- **Importance Score:** **${d.importance_score}/10** | **Sentiment:** ${d.sentiment}\n`;
         md += `- **Short-Term Impact:** ${d.short_term_impact}\n`;

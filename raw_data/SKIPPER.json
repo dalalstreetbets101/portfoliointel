@@ -11,32 +11,49 @@
   "fifty_two_week_low": 327.05,
   "currency": "INR",
   "canvas_categories": {
-    "order_inflow_changes": "Order backlog sustains at a record ₹10,066 crore (export share 38%, domestic T&D 62%), providing strong revenue visibility for 3+ years across 765 kV transmission towers, monopoles, and EPC contracting. Executive Director Sharan Bansal confirmed management projects a 35% growth in order inflows for FY27, reinforced by securing ~₹1,000 crore in export orders in Q2 alone from North America, Europe, and Australia. Turnkey transmission EPC platform 'Evergrid India' is pre-qualified to bid for ₹15,000 crore in high-voltage TBCB transmission corridors over the next 12 months, while factory dispatches commenced for multi-gigawatt Latin American 765 kV tower supply contracts.",
-    "direct_company_news": "(2026-11-19) Adisoft Technologies Ltd (ADISOFT) Share Price - Business Today [Business Today]",
-    "promoter_activity": "Promoters (Sajan Kumar Bansal and family) hold 71.89% equity with zero encumbrance, demonstrating strong commitment and active leadership in expanding global transmission tower and monopole fabrication footprint.",
-    "demand_cycle_changes": "Unprecedented global and domestic grid infrastructure investments to evacuate multi-gigawatt renewable energy capacity (India 500 GW non-fossil by 2030, US/European grid modernization) drive multi-year structural supercycle for 765 kV towers, monopoles, and high-voltage substations.",
-    "raw_material_changes": "Domestic HR coil and zinc prices remain stable, with 85%+ of Skipper's order contracts carrying complete price escalation pass-through clauses, fully shielding operating margins.",
-    "institutional_activity": "Institutional allocators and infrastructure PMS funds engaged management following the Avendus Spark Mumbai conference, noting Skipper's record ₹10,066 crore backlog, 35% inflow growth guidance, and asset-light EPC scaling through Evergrid India.",
-    "government_policy_changes": "Central Electricity Authority (CEA) transmission rolling plan and Ministry of Power's fast-tracked ISTS bidding mandates provide structural multi-year order inflow momentum for domestic transmission infrastructure manufacturers.",
-    "sector_news": "Power transmission and distribution (T&D) EPC sector is experiencing an unprecedented structural boom with global supply bottlenecks in structural steel fabrication positioning Indian manufacturers as preferred global suppliers.",
-    "management_commentary": "Executive Director Sharan Bansal highlighted that international market expansion (securing nearly ₹1,000 crore of export orders in Q2 across North America, Europe, and Australia) marks a major inflection point, positioning Skipper for 35% growth in annual order inflows and consolidated revenues crossing ₹5,000 crore by FY28.",
-    "competitor_news": "KEC International and Kalpataru Projects International are also seeing strong order books, while Skipper differentiates through full backward integration from billets to towers, superior cost structure, and specialized monopole engineering."
+    "direct_company_news": "No material corporate earnings/results reported in the last 7 days.",
+    "sector_news": "Sector developments monitored across Power & Renewables.",
+    "competitor_news": "Peer performance and market share movements.",
+    "government_policy_changes": "Policy environment remains supportive for domestic industry.",
+    "raw_material_changes": "Input cost trends monitored against operating margins.",
+    "order_inflow_changes": "(2026-11-19) ‘Expecting 35% growth in order inflows this year’: Sharan Bansal, Executive Director, Skipper - The Financial Express [The Financial Express]",
+    "demand_cycle_changes": "(2026-11-20) Skipper Investor Analysis | StockIQ - The Economic Times [The Economic Times]",
+    "management_commentary": "Quarterly guidance and management strategic updates.",
+    "institutional_activity": "FII/DII holding changes and block trading trends.",
+    "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
   "developments": [
     {
-      "date": "2026-11-19",
-      "headline": "Adisoft Technologies Ltd (ADISOFT) Share Price - Business Today",
-      "source_name": "Business Today",
-      "source_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ09zdzNqQWFHMUowLWsyZnNOd2VtYkpBc1V4ekxkU0dTeDNSbTQwQVREN05scHpxOGVEb2lVbkp0dWZYdmt2VzBiOENuNlVIVHZYUjJzdDJzRlpnX25mWHZjWmxlZXNRSWozeUNnQ2pDZ04tazJZRFBGN0p6ZEVCTV9lTWpjbk5OZ1I0WDhjRm8?oc=5",
+      "date": "2026-11-20",
+      "headline": "Skipper Investor Analysis | StockIQ - The Economic Times",
+      "category": "Capex & Expansion",
+      "source_name": "The Economic Times",
+      "source_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSGJieVZnQ2FYNUZfcW5RT3VFUl91Vm1TZ1FBUU9TeXJmaG04QVBDSDQ4eEVkVV8tRndxbzRXcVd3ZXFKVmEwMV9WOW5oX1drbHJFQi1qWVdZYWRkOEZwMTMwaUpYWS1ERjF3LXRuaHFGYXg1T0t4Q0FDUGlQUVV2SkRPM0lwZw?oc=5",
       "sentiment": "Neutral",
       "importance_score": 6,
-      "short_term_impact": "Reported by Business Today on 2026-11-19. Market participant positioning reflects recent corporate updates.",
+      "short_term_impact": "Reported by The Economic Times on 2026-11-20. Corporate development in Capex & Expansion.",
       "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
       "thesis_impact": "Neutral",
       "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Macro interest rate and broad market swings.",
+      "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
-      "hidden_implications": "Information verified directly from Business Today publication."
+      "hidden_implications": "Information verified directly from The Economic Times publication."
+    },
+    {
+      "date": "2026-11-19",
+      "headline": "‘Expecting 35% growth in order inflows this year’: Sharan Bansal, Executive Director, Skipper - The Financial Express",
+      "category": "Order Inflows & Contracts",
+      "source_name": "The Financial Express",
+      "source_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWWNFSGJtX1pTNXBLNEQwZTFsbXlMLW9uZ1paVmcwZWFzUkdZV09MejdFR0xVVHgxTXZGQzRiN192SllTZGRmNnpNME5DYTRvWlh0S0FIbW5MX1JWTHhhS3o4bGFocU00cVJWS3RJcVpjZmtKMkVPUjZQVklMU2dYV0EzN0pMLTlwMlZCd2dFS1B1Rmw5bTZkT09ET1pYc0VfZTNnSGJBMl85RXJoeVN5RVFXR295WTFWRDhfdnowaS0zekt5eGpUeDh1ZHVrRmJjdEpMSmF3U0FXR1Bockh0StIB5wFBVV95cUxOeDg4OXptWUFRcElhNjZrZzA4d0licGJTZUdfajJlLWhUNjZYNDl6ejhTXzlDZHdnc3ZMSzJnQ2R2eFF5TWJUOXpHNk1QWEZwcUpNRlRHeFJha0p3ZzA1TG1mdkg0RkdFX3hEZWxJRVdocDJ1QjdfdHFUX0JmR19VMlFUMGYyTGpaa3dHVjQ1Um1ZUm1XOG1WTE5TZFNNSHNBUUZMQ2FQcFRBNjJrbzFOcGtaajZOeFRCeTM5eHlubWM3RzQ5ZlBrMHM5Mlh4T1k1M21TREU2OGs3OHI3YXhnQ2JrRUhwVXM?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by The Financial Express on 2026-11-19. Corporate development in Order Inflows & Contracts.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from The Financial Express publication."
     }
   ]
 }

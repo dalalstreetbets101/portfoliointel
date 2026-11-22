@@ -2,7 +2,7 @@
   "ticker": "NSE:VPRPL",
   "company_name": "Vishnu Prakash R Punglia Ltd",
   "sector": "Infra & Railways",
-  "news_found": false,
+  "news_found": true,
   "ltp": 25.76,
   "change": -0.47,
   "change_percent": -1.79,
@@ -11,7 +11,7 @@
   "fifty_two_week_low": 23.4,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "No material corporate developments reported in the last 7 days.",
+    "direct_company_news": "(2026-11-16) Vishnu Prakash R Punglia Limited (NSE:VPRPL) Publishes Q2 FY27 Financial Results in Leading Newspapers - Kalkine Media [Kalkine Media]",
     "sector_news": "Sector developments monitored across Infra & Railways.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
@@ -22,5 +22,38 @@
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
-  "developments": []
+  "developments": [
+    {
+      "date": "2026-11-16",
+      "headline": "Vishnu Prakash R Punglia (NSE:VPRPL): Did It Publish Q2 FY27 Financial Results in Newspapers? - Kalkine India",
+      "category": "Financial Performance & Results",
+      "source_name": "Kalkine India",
+      "source_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPamc5eEFfX2tBSko4S0VCTlVnbGhzaTFzaS1VbEZjNkZDeVp5R1MyTFRGX0FhRGR0WWczOFVFOXBDWmEwcGlKNEdaYmY0eF9TQXBaS3h0TEVfc2M5Ym5jMkpEU28xZVY4TVBiMXFMXzZ2VnByMjZVZ2ZSREpjbVlKV1Rva0pMSnJwcVl1UXh6c0QtTDc2d1pKbkstaWd6V0FkVVFDeGVhZTdzX0dVZGN6TExhd3NweW12dmpUWHd0S255V1ZnZjRCSVJndzlmWkJRaHc?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Kalkine India on 2026-11-16. Corporate development in Financial Performance & Results.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Kalkine India publication."
+    },
+    {
+      "date": "2026-11-16",
+      "headline": "Vishnu Prakash R Punglia Limited (NSE:VPRPL) Publishes Q2 FY27 Financial Results in Leading Newspapers - Kalkine Media",
+      "category": "Financial Performance & Results",
+      "source_name": "Kalkine Media",
+      "source_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZ2V0NmY2WmFBeHNxVmtVVVduS1dnX1p3REpTclJmTWFvRTNkbDlpYXhvOWJyR3V4cU1LbVUtbEh2YkU0c3J1MVpQdm5mNFFzei1acU03dG9xaGJNZjZGdnpDdVByQmxZbVFqOWVvRElVX0N2NVpzYmRUNG5SZVU3WFNCVVVIOEdVakRSVWMtQ1dxVDhWanhhZWYtZmtjdk0zbzI0UnJqLU90VlZKN0pWME9sUC15d290Y0k3MGNyY2w5LU84VHdhNGc1UDhCNDZPSWdaRU55bXRNTm40YU13?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Kalkine Media on 2026-11-16. Corporate development in Financial Performance & Results.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Kalkine Media publication."
+    }
+  ]
 }

@@ -11,7 +11,7 @@
   "fifty_two_week_low": 163.21,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "(2026-11-22) Prakash Pipes Ltd is Rated Hold by MarketsMOJO - MarketsMojo [MarketsMojo] | (2026-11-20) Solid Earnings May Not Tell The Whole Story For Prakash Pipes (NSE:PPL) - Simply Wall St [Simply Wall St]",
+    "direct_company_news": "(2026-11-20) Solid Earnings May Not Tell The Whole Story For Prakash Pipes (NSE:PPL) - Simply Wall St [Simply Wall St]",
     "sector_news": "Sector developments monitored across Auto, FMCG & Energy.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
@@ -24,32 +24,18 @@
   },
   "developments": [
     {
-      "date": "2026-11-22",
-      "headline": "Prakash Pipes Ltd is Rated Hold by MarketsMOJO - MarketsMojo",
-      "source_name": "MarketsMojo",
-      "source_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeU95UjlwZ3hpZlItUnRQVXltR19vR2tNMW45V1g2cV9ielFETE9JRWRTNWJIajI4LVoxYXRZa0Z2TUpPZzZ6NnBQM2NUSGFYYU1ILUZ3dnFsT1lsQjJVVTQ1YVF5UzZpb2xuNjBnWGdJbEs5M2RQeml6M0pNWE5MNlZqdVRhQTgyMUJoTTB2RU15XzNVTnd0UHdYWGNDbVNFWXoxNmd5b3VzeXNO?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by MarketsMojo on 2026-11-22. Market participant positioning reflects recent corporate updates.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Macro interest rate and broad market swings.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from MarketsMojo publication."
-    },
-    {
       "date": "2026-11-20",
       "headline": "Solid Earnings May Not Tell The Whole Story For Prakash Pipes (NSE:PPL) - Simply Wall St",
+      "category": "Financial Performance & Results",
       "source_name": "Simply Wall St",
       "source_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLXdUUGtoZ2J2RlJXX0wzOHZldlV1M3d0aU54TWxVS0VERDY4UWNwRThoNnFLZW1tR0RHMm81aDZicGp0b0dvQVpWNmtyWXd2WFJfQTZXRGJaUzdTbXJjVTc3U3EzdnU0Yk5xdWFXSllXdmoxTXo4WFZreWVFTjZJRElZdHNUaDhZWUw3UnRweUFBQVMzdkdQRnFWV1ZYTVNNeU1kQ0o4XzNrbGhYaUVFVVdwaDVWc0JnVVNSX19RYU1JWEdfZEZEMnFrZ3lTWS1xZXVQd2NCTdIB3AFBVV95cUxNVzZRMTF5VzJxN2tIUGVJTURlaEpkWXllTjRHNTk4SERweGktQVlMbmVjaVRfUVZqbkVCUkh4ZzFsN01qb2ozTXZPTDM1N1NOT1JscVlGLWpsQmtMelVoTWRUX2RDVGQxZm5UaER0SzZjaHdGTXhabjNjVTZ1QWtibkxWbFFGYWJFdXRZSmY3SHlPMldPUHNFRXgzZzh3MktfSjhRN180MFhWeDNDSW1MTDA0U2xsX2FHa2hFTmpjZVVVUTFDX3BBcEx3V1d2a2lwcE1XZHlvRkNWTDNH?oc=5",
       "sentiment": "Neutral",
       "importance_score": 6,
-      "short_term_impact": "Reported by Simply Wall St on 2026-11-20. Market participant positioning reflects recent corporate updates.",
+      "short_term_impact": "Reported by Simply Wall St on 2026-11-20. Corporate development in Financial Performance & Results.",
       "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
       "thesis_impact": "Neutral",
       "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Macro interest rate and broad market swings.",
+      "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
       "hidden_implications": "Information verified directly from Simply Wall St publication."
     }

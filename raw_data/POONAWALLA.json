@@ -2,7 +2,7 @@
   "ticker": "NSE:POONAWALLA",
   "company_name": "Poonawalla Fincorp Limited",
   "sector": "Financials",
-  "news_found": false,
+  "news_found": true,
   "ltp": 519,
   "change": 14.25,
   "change_percent": 2.82,
@@ -11,16 +11,65 @@
   "fifty_two_week_low": 361.2,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "No material corporate developments reported in the last 7 days.",
+    "direct_company_news": "(2026-11-19) Can Piramal Finance, Aditya Birla Capital and Poonawalla Fincorp replicate Bajaj Finance's success? - bfsi.economictimes.indiatimes.com [bfsi.economictimes.indiatimes.com]",
     "sector_news": "Sector developments monitored across Financials.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
     "order_inflow_changes": "Commercial order book and revenue visibility.",
     "demand_cycle_changes": "Demand trends across institutional and retail segments.",
-    "management_commentary": "Quarterly guidance and management strategic updates.",
+    "management_commentary": "(2026-11-18) Buy Poonawalla Fincorp; target of Rs 600: Motilal Oswal - Moneycontrol.com [Moneycontrol.com]",
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
-  "developments": []
+  "developments": [
+    {
+      "date": "2026-11-19",
+      "headline": "Can Piramal Finance, Aditya Birla Capital and Poonawalla Fincorp replicate Bajaj Finance's success? - bfsi.economictimes.indiatimes.com",
+      "category": "Strategic Corporate News",
+      "source_name": "bfsi.economictimes.indiatimes.com",
+      "source_link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNU3dQMm92eVp0NHVOUWJLMFppNGdjRTlPNE5hT0JwMVQ0dGpyQ2t2enhoY2dSVHpMc3JoeHdiRS1BTTBIcnRuNXJLX3M1d3dFd2lvTDJzTHRKdThOb1JRMmVsR0k3TUdfdHlrc3pKNGh6Zkp3VmN2TkNnX1VkRkpNQUNrVWZDR3FlQUdCT2dhOEVSUVppdmVZS1RvLTlGQnhuQW40Vm5EQWM3ekxyNy1sTEd0ZC1jRlExd1VKR3JHOTFucHoxMFZhN1gyc0FhWTlyY3VRMDl6UExDLXloNEh1MmdFTmNYVHByQ0JtTEVR0gHzAUFVX3lxTE1ZTjQtbXFBR29zYk9zQ2hwLWM2cWNHdWszMnBBYVV6RGg4dXJGcFlqbnI5NFhEaUo5YjNjb084M2NSSkxvQ0YwX19qRDc3ZzcxVk9NUEtlV3R0Nl9iZlVQTTc2WjBVcEk4aFFSOUNuTzRDeGdidmdLV0F6TFV3bTI2dmIzTWxSMlBrQi15Y3M0azlMa2VNTGh1WVctbWhDTFAybEZ6QXRtcmFWb2NqY3ZRSEMyTlFfLTNhdU83UDkzSGJJRWthWjNqal81Q0lPb3RJMUwyX3psbGhVOGtGdlpXdjhlUmpQMGQ5dWFRMjBtZGRRRQ?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by bfsi.economictimes.indiatimes.com on 2026-11-19. Corporate development in Strategic Corporate News.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from bfsi.economictimes.indiatimes.com publication."
+    },
+    {
+      "date": "2026-11-18",
+      "headline": "Buy Poonawalla Fincorp; target of Rs 600: Motilal Oswal - TradingView",
+      "category": "Management & Strategy",
+      "source_name": "TradingView",
+      "source_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdDdNSDdaUkZTZWU5NTJVeG9BakxhZzVpT19IdF9GZVFBRnlFWEI4Rm03bHhENExrdWRKcEJLbWw1OGZJQjNHOUhBdDZwa09xa0hwUU1HdEx4WF9meG51ci1EVm5rYmZkTi1Eb1I3YzU4S21hTDMzbTNBM05nbGlLZWJFTjYtVDF4cjhwR2tuNEVnMkZ4UHlVWGdrTUxlaTNxd2p6QVA3VkczOEVHTkd1eldjdEpjNTg?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by TradingView on 2026-11-18. Corporate development in Management & Strategy.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from TradingView publication."
+    },
+    {
+      "date": "2026-11-18",
+      "headline": "Buy Poonawalla Fincorp; target of Rs 600: Motilal Oswal - Moneycontrol.com",
+      "category": "Management & Strategy",
+      "source_name": "Moneycontrol.com",
+      "source_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSlhZbmhhQnVZYXp4aUdHckRST2ZjZWlWdkhvTkdTcndFTHQ1bjFvQXRrNEF4Y0RkOXdlbE8xaGpDSXByU0xySU1JWm01Rkd6bDFzRHViVk9wOE96elg4UGpuZ0NWdzEzR3p2VllCWFAtbEQxU2MzSVQxVGxGZlVFNlZVTXZtenpqVnF6bms0TjZ1Z2lJbmJqWXhFQ1JWemxLZlpOVGtINkwyRTIzaVR1d2Fnc1NFc24tNU5Z0gHAAUFVX3lxTFBQdkl6UnJlaTVRMlhkTG9fdXFscWN2VVQxRksyM2RyeWI5VDRzZGswVGU1TVNSeE1FTWhBbWQ5U2lyaks2R21KVFZDb3pjaVRXSVhoNzVpT21ZRC1tVWx4VXVHWUdGQXZ5SGlBWDRWczQ2QzdfVG9GZlVNb0I5ampscGdwNGxXWmlXZzNnWTUwbmRoNmlHUE4ydjR5aWd3VEZ0cWluQVlBV0FMUktrajd2b1g0NUkwdU4taHFNeW1ERg?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by Moneycontrol.com on 2026-11-18. Corporate development in Management & Strategy.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Moneycontrol.com publication."
+    }
+  ]
 }

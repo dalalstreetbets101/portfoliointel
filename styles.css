@@ -355,6 +355,20 @@ header {
     vertical-align: middle;
 }
 
+.category-badge {
+    display: inline-block;
+    padding: 0.12rem 0.42rem;
+    border-radius: 4px;
+    font-size: 0.72rem;
+    font-weight: 600;
+    background: rgba(16, 185, 129, 0.12);
+    color: #6ee7b7;
+    border: 1px solid rgba(16, 185, 129, 0.25);
+    margin-right: 0.45rem;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
 .news-explanation {
     font-size: 0.85rem;
     color: var(--text-muted);

@@ -11,7 +11,7 @@
   "fifty_two_week_low": 39.46,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "(2026-11-17) Embassy Developments Launches ₹1,400 Crore Luxury Residential Project in Bengaluru; Shares Fall Nearly 1.8% - HDFC Sky [HDFC Sky] | (2026-11-20) India's Embassy Developments buys out US joint venture partner - TradingView [TradingView] | (2026-11-19) Embassy Developments to Buy 50% Stake for ₹32.65 Crore - Multibagg AI [Multibagg AI]",
+    "direct_company_news": "(2026-11-20) India's Embassy Developments buys out US joint venture partner - TradingView [TradingView]",
     "sector_news": "Sector developments monitored across Infra & Railways.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
@@ -19,54 +19,57 @@
     "order_inflow_changes": "Commercial order book and revenue visibility.",
     "demand_cycle_changes": "Demand trends across institutional and retail segments.",
     "management_commentary": "Quarterly guidance and management strategic updates.",
-    "institutional_activity": "FII/DII holding changes and block trading trends.",
-    "promoter_activity": "Promoter shareholding stability and pledge tracking."
+    "institutional_activity": "(2026-11-19) Embassy Developments EMBDL Acquires Full Stake in Embassy Columbia - Kalkine India [Kalkine India]",
+    "promoter_activity": "(2026-11-19) Embassy Developments EMBDL Acquires Full Stake in Embassy Columbia - Kalkine India [Kalkine India]"
   },
   "developments": [
     {
-      "date": "2026-11-17",
-      "headline": "Embassy Developments Launches ₹1,400 Crore Luxury Residential Project in Bengaluru; Shares Fall Nearly 1.8% - HDFC Sky",
-      "source_name": "HDFC Sky",
-      "source_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVDloX0ZlZjRfdFBFd19EUE1sYmtyNTEyenNKYVNLVUtsWjBoZUlqU05wUnBsNVNPUjRzbU1TWVpLb3Fzd2dZeWZrQzNnTDI5SlNoeGliQ0FQay1kaDF5SlBkMmRWTHJtRl9QS1pGOG1SeTJaR190aHNUVGZiZ2trREk4RkdVNlI5ZDFnYlpJWTlRUjhwRmE2WEdqZGlYX3p1bERLZzNJM0c3TmVTR3VDSUVUaVYzeF9LOWd3MjlNTFh1dXd2a25JUDdKYXpwV1dDeWFnZA?oc=5",
-      "sentiment": "Bearish",
-      "importance_score": 7,
-      "short_term_impact": "Reported by HDFC Sky on 2026-11-17. Market participant positioning reflects recent corporate updates.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Bearish",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Near-term market volatility or regulatory/earnings headwind.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from HDFC Sky publication."
-    },
-    {
       "date": "2026-11-20",
       "headline": "India's Embassy Developments buys out US joint venture partner - TradingView",
+      "category": "Strategic Corporate News",
       "source_name": "TradingView",
       "source_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcEN2d3RVem1Dc0R1WUVXaVJ0SmNTVkc0Qm15NV9fTlBkSFdpVmlOejVUUURxSWx5bmNwMDg3WHBZWTMtNS11SWJlbzR6Z2V5bGNqNThuc0JVS2tjc1Nvd2k5TU5JcklPNGlOR2FmdGtSYkpCSVVQRG1XcGR0b1pwQkZDdWJQNlZLc3M4ZXNkNHh4TDc4cmpNU3U4c1dOVE9MZVdBWnY5WHMxMVRUU0ZacDZSRF9yc2FzaXFZ?oc=5",
       "sentiment": "Neutral",
       "importance_score": 6,
-      "short_term_impact": "Reported by TradingView on 2026-11-20. Market participant positioning reflects recent corporate updates.",
+      "short_term_impact": "Reported by TradingView on 2026-11-20. Corporate development in Strategic Corporate News.",
       "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
       "thesis_impact": "Neutral",
       "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Macro interest rate and broad market swings.",
+      "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
       "hidden_implications": "Information verified directly from TradingView publication."
     },
     {
       "date": "2026-11-19",
       "headline": "Embassy Developments to Buy 50% Stake for ₹32.65 Crore - Multibagg AI",
+      "category": "Institutional & Promoter Activity",
       "source_name": "Multibagg AI",
       "source_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSG5KU09Nc2ZyeUNCamQ4Z3BXZ3FfTzZ1dGNaMW45NklSXzgzRlhfZ3ZrZkgwQm5TYU03eUxMUDhzZk9wZ0dnNE9wek5ET1JNamVON0llNS15YWZPaENhQXVKUE9mN2E3bHhnQzJ2S1Zod1lTOWJGcjhxZXJ2VWpmeXZJV2lmVE5jakVBTkhkNXBiM0h6ZlU2WWViN2gwZ2ZuaVpPa004WFJEOUo3akJMYlpBUG5Tdw?oc=5",
       "sentiment": "Neutral",
       "importance_score": 6,
-      "short_term_impact": "Reported by Multibagg AI on 2026-11-19. Market participant positioning reflects recent corporate updates.",
+      "short_term_impact": "Reported by Multibagg AI on 2026-11-19. Corporate development in Institutional & Promoter Activity.",
       "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
       "thesis_impact": "Neutral",
       "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Macro interest rate and broad market swings.",
+      "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
       "hidden_implications": "Information verified directly from Multibagg AI publication."
+    },
+    {
+      "date": "2026-11-19",
+      "headline": "Embassy Developments EMBDL Acquires Full Stake in Embassy Columbia - Kalkine India",
+      "category": "Institutional & Promoter Activity",
+      "source_name": "Kalkine India",
+      "source_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWUxrSXhnMEJUNlpGcUp0MmJaQ0VlUFBYUHREMWVuT09fSDFfaWt4YV84M0I0T2Q3UVF1SHNMVjY3WV9iZDgyQkVyZFQzWXJDWGlVZDk1ejBLOS1HUGlacTN0U0FkVUVKUkNWeFlxbTZFT3RpSnFvLVFNVi1yanVLVW9nanhQYk9PdGR1VHBuQmk1Q0xxNnd2SVJZemxGUHN1NHFSZXliTHU1bi1yb3lIY2dKVVlJOUpNODQ0NzFpdUlQb3hBY0dYNDQwYW5GYmlaSFpzOA?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Kalkine India on 2026-11-19. Corporate development in Institutional & Promoter Activity.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Kalkine India publication."
     }
   ]
 }

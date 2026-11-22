@@ -2,7 +2,7 @@
   "ticker": "NSE:HDFCBANK",
   "company_name": "HDFC Bank Limited",
   "sector": "Financials",
-  "news_found": false,
+  "news_found": true,
   "ltp": 846,
   "change": 24.2,
   "change_percent": 2.94,
@@ -11,16 +11,65 @@
   "fifty_two_week_low": 669.2,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "No material corporate developments reported in the last 7 days.",
+    "direct_company_news": "No material corporate earnings/results reported in the last 7 days.",
     "sector_news": "Sector developments monitored across Financials.",
     "competitor_news": "Peer performance and market share movements.",
-    "government_policy_changes": "Policy environment remains supportive for domestic industry.",
+    "government_policy_changes": "(2026-11-20) HDFC Bank Market Capitalisation Reclaims ₹13 Lakh Crore After ₹2.38 Lakh Crore Addition in 15 Sessions - Kotak Neo [Kotak Neo]",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
     "order_inflow_changes": "Commercial order book and revenue visibility.",
     "demand_cycle_changes": "Demand trends across institutional and retail segments.",
-    "management_commentary": "Quarterly guidance and management strategic updates.",
+    "management_commentary": "(2026-11-17) HDFC Bank inches up as Board locks in senior leadership - TradingView [TradingView]",
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
-  "developments": []
+  "developments": [
+    {
+      "date": "2026-11-20",
+      "headline": "HDFC Bank Market Capitalisation Reclaims ₹13 Lakh Crore After ₹2.38 Lakh Crore Addition in 15 Sessions - Kotak Neo",
+      "category": "Government Policy & Regulatory",
+      "source_name": "Kotak Neo",
+      "source_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUTVPN19SYjAybFp6UU9NVldPeEtER05YME9haVJvUGpaLWZmYy1IeHVDeTZ5WmlaYkJzSmVxdDF0ZVJDTDNHVzdPVG1udWtrbDg0SXJYVG4tNXRQWU9faE9aSENRRjdEY09IYnFROVpWT0tlbG5LY054YmVKcmZjSi1haDE4NE9pQTkzamZR?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Kotak Neo on 2026-11-20. Corporate development in Government Policy & Regulatory.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Kotak Neo publication."
+    },
+    {
+      "date": "2026-11-17",
+      "headline": "HDFC Bank inches up as Board locks in senior leadership - BusinessLine",
+      "category": "Management & Strategy",
+      "source_name": "BusinessLine",
+      "source_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSHlvcThzd2xaNHpQeWFkRDVrYlBuN1czUFEtNnpyMFhrSnBIaWlSSkZxUFhQVHNZVTgycUpZazV0UlpLck9DZW51WXIxRHJFemM5UldzNll0R3MxejdwSzVjVTE2ZWl5WWtJbjRHYU04bWNraUdsS0UxSnltQ04yZkx5T2FTT1YzSnpjWnItd1RzT096enF1dWpWbjlvX0pvemNDWkhQSEh3cDBBM0dUelhLTGZFbW9TdVk5VmZlUDJkb2YxS2lodHYwWno0TFHSAdYBQVVfeXFMTnkyRGlvMnh6dEZHdVJOUDFodmJpUkgxYklXMElraG1kWDVmaEdCR1dWelg4OGttdl83c1N1dk1OZHAzZFVIcWxuZE5Ld00tbFFSTlMybnFyWlMwZ0JPUGNGWW5VWVM0RUxjNkhsNU82NTBBUWZXMl9ZVHpQNFV2TEhJZWEwNzJwQ3o4RHpZX3dnUUdDRE13M19rRXVDQlBvdVhDeE9sQ3JzNlhsc0dxSjN1QVJmamx1TG1pRFNCY1JPZEFuQ1g0RFBEcUNwTHhCM0lSOWI4QQ?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by BusinessLine on 2026-11-17. Corporate development in Management & Strategy.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from BusinessLine publication."
+    },
+    {
+      "date": "2026-11-17",
+      "headline": "HDFC Bank inches up as Board locks in senior leadership - TradingView",
+      "category": "Management & Strategy",
+      "source_name": "TradingView",
+      "source_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdmZvS3JHQWtEU19WLVlQWjJ3dUU2ZU5Kd21uNFg5dnFIazZWdi1icmRBcldYNlY4azA0RGttOGdXeDRzUDZMSjZLdWFMbmFkWEh0Y2Z1akF4eXBvWVUtV0R3ckhJZkc1QVhaRk4wQmxnd1R1YmxTWnRLZ2NmQ0VLQno0LWlmRVViMmZNeThGb3RvbEpJRzVyVU43cElCb1JKd0NuZ2ZocmE3SnVvVzhqbnpn?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by TradingView on 2026-11-17. Corporate development in Management & Strategy.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from TradingView publication."
+    }
+  ]
 }

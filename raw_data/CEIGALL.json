@@ -2,7 +2,7 @@
   "ticker": "NSE:CEIGALL",
   "company_name": "Ceigall India Ltd",
   "sector": "Infra & Railways",
-  "news_found": false,
+  "news_found": true,
   "ltp": 379,
   "change": -2.95,
   "change_percent": -0.77,
@@ -11,16 +11,65 @@
   "fifty_two_week_low": 222.61,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "No material corporate developments reported in the last 7 days.",
+    "direct_company_news": "(2026-11-20) The Strong Earnings Posted By B.L. Kashyap and Sons (NSE:BLKASHYAP) Are A Good Indication Of The Strength Of The Business - Simply Wall St [Simply Wall St]",
     "sector_news": "Sector developments monitored across Infra & Railways.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
-    "order_inflow_changes": "Commercial order book and revenue visibility.",
+    "order_inflow_changes": "(2026-11-16) Ceigall India wins Rs 684 crore work order from NHAI for Haryana highway - scanx.trade [scanx.trade]",
     "demand_cycle_changes": "Demand trends across institutional and retail segments.",
     "management_commentary": "Quarterly guidance and management strategic updates.",
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
-  "developments": []
+  "developments": [
+    {
+      "date": "2026-11-16",
+      "headline": "Ceigall India wins Rs 684 crore work order from NHAI for Haryana highway - scanx.trade",
+      "category": "Order Inflows & Contracts",
+      "source_name": "scanx.trade",
+      "source_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSDRIUDlaeFJqNm16azNkTjUyWWhnTHA4X2hsTDB1Z2xXY3lvTmRWcXEyYVp5S2R0RnppTTNMTUwyNE9sVzhwLXVkal8tb3BlLVFYbnVGZWM3Uzg4bHBBbE5CNHN3WENkalNoTmdjUnpITmN2MURLWS15cmNKbWJGbm00bDE2Nmt0X1FFN2QtQWpzUV9iWHJuQ3Y0OE1NdkFra0VmNTZMbFV4X0kwQkVQYWFYdVM4R0gxMHVzMg?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by scanx.trade on 2026-11-16. Corporate development in Order Inflows & Contracts.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from scanx.trade publication."
+    },
+    {
+      "date": "2026-11-21",
+      "headline": "Ceigall India IPO GMP Today with Trend - IPO Watch",
+      "category": "Strategic Corporate News",
+      "source_name": "IPO Watch",
+      "source_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XaGpQOUxGLWN1QUhMMWtIekN5V1lYUHlJZlJ2V1hBNFRFSVhZczd1QWJQbW5xblRpX1hTQlZBZUdEZ0FiSUZfM2tabjRwZVVjNnBLRA?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by IPO Watch on 2026-11-21. Corporate development in Strategic Corporate News.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from IPO Watch publication."
+    },
+    {
+      "date": "2026-11-20",
+      "headline": "The Strong Earnings Posted By B.L. Kashyap and Sons (NSE:BLKASHYAP) Are A Good Indication Of The Strength Of The Business - Simply Wall St",
+      "category": "Financial Performance & Results",
+      "source_name": "Simply Wall St",
+      "source_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONFFNU1JMQUhHVUxUS3RmaklrQkF2OXk0blhTYVlUcGt3SG81aVVrSVk1bGRILWhMRmN6allBcWJfM014T1NkZ2p3bTFzX1ZvdERTNW9WTHk3Y1VodE16T1I0NjVLQVA1LXRsNE5KTkhjaHcySk1xUl9FMy1RNkx0ZjQ5bkNDYk5hUktwNk9LeTFCdlNvbl9rRmswbnI4al80TUpZRzAteko3ZEgyUHZlQkpCUFNCUzdERHlSNVV3cVFOUFAzdTBMWHZLUTVCamFRcmR3UWxrV0dMbk56RURTMHhZNV9vTDjSAewBQVVfeXFMTk43UmVZWEMwNEI4Smd2T00xN2VVWWIyaEprTzNyX2VCci1xMGpmQU9maTRqUm9JT0tadzNNRENEYmxNdTdkRVVoSjZDVE9tLU0yMTNONmFnMkhNUU84czhBSnJ4Z18wcV8tcF9DZWlHZFpvbDJLc1RxbGFSNXk2dkh4ZDRPaUNPU21pa2oxUndxcFFFalZNUnZWRE9wN1pac0wxenpCSGEzQmswUzJndmdvRWtSeTMybUV2OUpnd1VhSVJEVjByOWZBblJ2UnRxS2dMUUY0MWlhNjBLRHFjb19oc2ZMbkNOU3hjbVI?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Simply Wall St on 2026-11-20. Corporate development in Financial Performance & Results.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Simply Wall St publication."
+    }
+  ]
 }
