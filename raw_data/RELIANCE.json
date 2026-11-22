@@ -1,0 +1,72 @@
+{
+  "ticker": "NSE:RELIANCE",
+  "company_name": "Reliance Industries Ltd",
+  "sector": "Auto, FMCG & Energy",
+  "news_found": true,
+  "ltp": 1377.5,
+  "change": 1.9,
+  "change_percent": 0.14,
+  "prev_close": 1375.6,
+  "fifty_two_week_high": 1611.8,
+  "fifty_two_week_low": 1152.2,
+  "currency": "INR",
+  "canvas_categories": {
+    "direct_company_news": "(2026-11-20) Reliance Industries Limited (RELIANCE.NS) stock price, news, quote and history - Yahoo Finance Singapore [Yahoo Finance Singapore] | (2026-11-20) Reliance Industries Share Price - Live NSE: RELIANCE Stock Price & Chart - Upstox [Upstox] | (2026-11-22) Reliance Industries shares climb 3 percent as Jio Platforms sets IPO price band - DD News [DD News]",
+    "sector_news": "Sector developments monitored across Auto, FMCG & Energy.",
+    "competitor_news": "Peer performance and market share movements.",
+    "government_policy_changes": "Policy environment remains supportive for domestic industry.",
+    "raw_material_changes": "Input cost trends monitored against operating margins.",
+    "order_inflow_changes": "Commercial order book and revenue visibility.",
+    "demand_cycle_changes": "Demand trends across institutional and retail segments.",
+    "management_commentary": "Quarterly guidance and management strategic updates.",
+    "institutional_activity": "FII/DII holding changes and block trading trends.",
+    "promoter_activity": "Promoter shareholding stability and pledge tracking."
+  },
+  "developments": [
+    {
+      "date": "2026-11-20",
+      "headline": "Reliance Industries Limited (RELIANCE.NS) stock price, news, quote and history - Yahoo Finance Singapore",
+      "source_name": "Yahoo Finance Singapore",
+      "source_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1UDZIUDhFZW9XLXg2c2J0LVI1aDE2SVJCcVBOZGJMbDlpdmlfaHRPeWZIZjlqQkNzWEtOUmtsa19NUVpGcnRwazJ1djQ4ckYtZm1TQVpkb3MzaTg?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Yahoo Finance Singapore on 2026-11-20. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Yahoo Finance Singapore publication."
+    },
+    {
+      "date": "2026-11-20",
+      "headline": "Reliance Industries Share Price - Live NSE: RELIANCE Stock Price & Chart - Upstox",
+      "source_name": "Upstox",
+      "source_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6bHBYSldaWTEwM0pneWlBUVNlVjM0Njl2NFVCNGR3NTlneGlzM3VRa3Zha1RQWXJDRkxjUjR6V0hPTGsyN2FKTmFtak50X0pjUjNtQmhvMmRCTHJnNXdhYzI4c0lKU3hlVnB4cWRNbw?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Upstox on 2026-11-20. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Upstox publication."
+    },
+    {
+      "date": "2026-11-22",
+      "headline": "Reliance Industries shares climb 3 percent as Jio Platforms sets IPO price band - DD News",
+      "source_name": "DD News",
+      "source_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV0Jtd3Nwem05OWtXZHJkYWRaTWU2Y1p3VVk1eEswR0twTWZIanUxSWRMTXU4Yk9TMzNqOVNfVDBuZXBMWExpQzJoTTZSSWtRQThDcVNkWEpzNDVOQmI2ZF96eGpreUdBNGNQZVJMOU4xM2o3Z0U3OURuVmVOaVRaMUdLZG5fSEppcTU4b1NFZVpMaWNQVEl5R1B6eHFNQ2VkMElwdGFUX00?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by DD News on 2026-11-22. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from DD News publication."
+    }
+  ]
+}

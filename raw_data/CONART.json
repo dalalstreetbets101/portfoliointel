@@ -1,0 +1,26 @@
+{
+  "ticker": "NSE:CONART",
+  "company_name": "Conart Engineers Ltd",
+  "sector": "Infra & Railways",
+  "news_found": false,
+  "ltp": 86,
+  "change": -3.37,
+  "change_percent": -3.77,
+  "prev_close": 89.37,
+  "fifty_two_week_high": 119,
+  "fifty_two_week_low": 60,
+  "currency": "INR",
+  "canvas_categories": {
+    "order_inflow_changes": "Order inflow pipeline remains focused on industrial civil construction, structural engineering, and commercial general contracting mandates across Gujarat and Maharashtra for specialty chemicals, pharmaceuticals, heavy engineering, and institutional clients. No new material contracts or project awards were announced in the last 24-48 hours (November 21 – November 22, 2026) or within the rolling 7-day retention window.",
+    "direct_company_news": "No material corporate developments reported in the last 7 days.",
+    "promoter_activity": "Promoter and promoter group led by Chairman & MD Chandrakant Sura and ED & CFO Jimish Sura maintain a stable controlling stake with zero pledged shares, overseeing conservative project selection and low balance sheet leverage.",
+    "demand_cycle_changes": "Demand for industrial factory construction, chemical plant civil works, and cleanroom facilities in Gujarat (Dahej, Bharuch, Vadodara) and Maharashtra industrial belts remains steady, driven by private industrial capex and chemical manufacturing investments.",
+    "raw_material_changes": "Cement, TMT structural steel, aggregates, and construction labor costs remain range-bound in Q2/Q3 FY27, allowing predictable civil execution margins and driving operating margin expansion to 9.46%.",
+    "institutional_activity": "Trading volume and retail/HNI participation remain stable following the record quarterly scorecard (₹27.80 crore revenue, ₹1.80 crore PAT, 9.46% margin) and zero-debt balance sheet discipline, with the stock consolidating in the ₹88.50–₹92.00 band while market technicians monitor the 50/200 DMA positioning.",
+    "government_policy_changes": "Gujarat Industrial Development Corporation (GIDC) infrastructure expansion, industrial corridor master-planning, and state incentives for manufacturing setups provide steady downstream civil contracting opportunities.",
+    "sector_news": "Industrial civil construction and general contracting sector experiences steady demand from specialty chemicals, pharmaceuticals, and manufacturing units seeking experienced turnkey contractors.",
+    "management_commentary": "Management maintains a conservative approach—focusing on project execution excellence, unencumbered debt-free balance sheet health, and prompt cash collections across Western India industrial sites following the record quarterly scorecard.",
+    "competitor_news": "Regional industrial civil contractors including PSP Projects, B L Kashyap, and local construction firms compete for private sector factory and institutional building packages."
+  },
+  "developments": []
+}

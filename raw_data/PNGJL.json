@@ -1,0 +1,72 @@
+{
+  "ticker": "NSE:PNGJL",
+  "company_name": "P N Gadgil Jewellers Ltd",
+  "sector": "Auto, FMCG & Energy",
+  "news_found": true,
+  "ltp": 572.2,
+  "change": -4.5,
+  "change_percent": -0.78,
+  "prev_close": 576.7,
+  "fifty_two_week_high": 736.4,
+  "fifty_two_week_low": 503,
+  "currency": "INR",
+  "canvas_categories": {
+    "direct_company_news": "(2026-11-21) P N GADGIL JEWELLERS LTD Share Price - Live NSE: PNGJL Stock Price & Chart - Upstox [Upstox] | (2026-11-18) P N Gadgil Jewellers to host analyst meet on November 17, 2026 - scanx.trade [scanx.trade] | (2026-11-16) P N Gadgil Jewellers Limited Targets 4x Diamond Output - Multibagg AI [Multibagg AI]",
+    "sector_news": "Sector developments monitored across Auto, FMCG & Energy.",
+    "competitor_news": "Peer performance and market share movements.",
+    "government_policy_changes": "Policy environment remains supportive for domestic industry.",
+    "raw_material_changes": "Input cost trends monitored against operating margins.",
+    "order_inflow_changes": "Commercial order book and revenue visibility.",
+    "demand_cycle_changes": "Demand trends across institutional and retail segments.",
+    "management_commentary": "Quarterly guidance and management strategic updates.",
+    "institutional_activity": "FII/DII holding changes and block trading trends.",
+    "promoter_activity": "Promoter shareholding stability and pledge tracking."
+  },
+  "developments": [
+    {
+      "date": "2026-11-21",
+      "headline": "P N GADGIL JEWELLERS LTD Share Price - Live NSE: PNGJL Stock Price & Chart - Upstox",
+      "source_name": "Upstox",
+      "source_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LZElsd193bWtqLUE4bElXTG9hSU1BaGV6MmFWY0FrR1BLWW9WOEtvcHN6UWxMQ0lQOHphZlZsa0l5RHIzLWktS0lkeWdVTEtjeWhMNzJuNXpfUUdMZW5Fa29SVndfWV95WFVzVWtuaTU?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Upstox on 2026-11-21. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Upstox publication."
+    },
+    {
+      "date": "2026-11-18",
+      "headline": "P N Gadgil Jewellers to host analyst meet on November 17, 2026 - scanx.trade",
+      "source_name": "scanx.trade",
+      "source_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSFhUMXRJMWE3eDZVYnZkZlp6eFVxSFZfVVNZN0tBcmlCb05PNFZzVjZ3dkdmN2pBRlFyV3hoRHpOQ2FIanA1RTQzSlJDWnJYZ2pXSmRkVl9jZDR5Yjk0U1RLRGEyR3RBa1p5QkZZTU1tYkNWTzhtSG9rTVQzV3pNaExMbDVXUUxNVXRlWGowcTVIZHl1TGdTZHhwcmtIYU1aSFlsUjVsSzV4QmhJeXpuNjdR?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by scanx.trade on 2026-11-18. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from scanx.trade publication."
+    },
+    {
+      "date": "2026-11-16",
+      "headline": "P N Gadgil Jewellers Limited Targets 4x Diamond Output - Multibagg AI",
+      "source_name": "Multibagg AI",
+      "source_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOUxyWXlSYnFVbVEzZG5heTRyNUN6LXQ1ODZnYUJodWlqM0c5YUR6RWpaUl9LNjZCWm1TOFRoTERKeEtKcV9xUUpMWFlBbVc2NHBuM1dXalhOalA3M0tvUHFtYl85NVd1UWVIMFlCSWM0VGc1REEtZVktMW8yVnRubEJhQXRIdFpWdmdCcko1QUtIdEVCbnctSE9pUFd0RDE2QkhUUEs1Sk8zeTQ?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by Multibagg AI on 2026-11-16. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Multibagg AI publication."
+    }
+  ]
+}

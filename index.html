@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Updates - Umar's Portfolio Intelligence</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Sidebar Navigation -->
+    <div class="sidebar">
+        <div class="logo-container">
+            <div class="logo-icon"></div>
+            <div class="logo-text">DAILY UPDATES</div>
+        </div>
+        
+        <ul class="nav-menu">
+            <li class="nav-item active" data-tab="dashboard">
+                <svg fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6a2 2 0 012-2h2a2 2 0 012 2v4a2 2 0 01-2 2H6a2 2 0 01-2-2V6zM14 6a2 2 0 012-2h2a2 2 0 012 2v4a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v4a2 2 0 01-2 2H6a2 2 0 01-2-2v-4zM14 16a2 2 0 012-2h2a2 2 0 012 2v4a2 2 0 01-2 2h-2a2 2 0 01-2-2v-4z" />
+                </svg>
+                Dashboard
+            </li>
+            <li class="nav-item" data-tab="sectors">
+                <svg fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
+                </svg>
+                Sector Analytics
+            </li>
+            <li class="nav-item" data-tab="explorer">
+                <svg fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
+                </svg>
+                Stock Canvas
+            </li>
+        </ul>
+        
+        <div style="margin-top: auto; font-size: 0.75rem; color: var(--text-muted); text-align: center; border-top: 1px solid var(--border-color); padding-top: 1.5rem;">
+            Database Refreshed:<br>
+            <strong id="db-refresh-date">June 11, 2026</strong>
+        </div>
+    </div>
+
+    <!-- Main Content Panel -->
+    <div class="main-content">
+        
+        <!-- Header -->
+        <header>
+            <div class="header-title">
+                <h1 id="page-header-title">Umar's Portfolio Intelligence</h1>
+                <p id="page-header-subtitle">Daily buy-side research and exchange compliance scanner</p>
+            </div>
+            <div style="text-align: right; display: flex; align-items: center; gap: 0.75rem; justify-content: flex-end;">
+                <span id="system-health-badge" class="badge" style="padding: 0.5rem 1rem; border-radius: 8px; font-weight: 600; cursor: pointer; transition: all 0.2s ease;">● Status Unknown</span>
+            </div>
+        </header>
+
+        <!-- DASHBOARD TAB -->
+        <div id="dashboard-tab" class="tab-content active">
+            
+            <!-- Stats Counters -->
+            <div class="stats-grid">
+                <div class="stat-card total">
+                    <span class="stat-label">Total Stocks</span>
+                    <span class="stat-value" id="stat-total">38</span>
+                </div>
+                <div class="stat-card bullish">
+                    <span class="stat-label">Bullish Developments</span>
+                    <span class="stat-value" id="stat-bullish">0</span>
+                </div>
+                <div class="stat-card bearish">
+                    <span class="stat-label">Bearish Developments</span>
+                    <span class="stat-value" id="stat-bearish">0</span>
+                </div>
+                <div class="stat-card neutral">
+                    <span class="stat-label">No News / Neutral</span>
+                    <span class="stat-value" id="stat-neutral">0</span>
+                </div>
+            </div>
+
+            <!-- Double Panel for Key News -->
+            <div class="double-panel">
+                <div class="panel-card">
+                    <div class="panel-title bullish-title">
+                        <svg style="width: 20px; height: 20px;" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
+                        </svg>
+                        Top Positive Developments
+                    </div>
+                    <div class="news-list" id="positive-news-list">
+                        <!-- Rendered by app.js -->
+                    </div>
+                </div>
+                
+                <div class="panel-card">
+                    <div class="panel-title bearish-title">
+                        <svg style="width: 20px; height: 20px;" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 17h8m0 0v-8m0 8l-8-8-4 4-6-6" />
+                        </svg>
+                        Top Risks & Bearish Developments
+                    </div>
+                    <div class="news-list" id="negative-news-list">
+                        <!-- Rendered by app.js -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- Stock Directory Table Header -->
+            <h2 style="font-size: 1.35rem; font-weight: 700; margin-bottom: 1rem;">Portfolio Stock Directory</h2>
+
+            <!-- Search & Filters -->
+            <div class="filter-bar">
+                <div class="search-wrapper">
+                    <svg fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                    </svg>
+                    <input type="text" id="search-input" class="search-input" placeholder="Search by Ticker or Company Name...">
+                </div>
+                
+                <div class="filter-group">
+                    <span class="filter-label">Sector:</span>
+                    <select id="sector-select" class="filter-select">
+                        <option value="">All Sectors</option>
+                        <option value="IT & Telecom">IT & Telecom</option>
+                        <option value="Infra & Railways">Infra & Railways</option>
+                        <option value="Power & Renewables">Power & Renewables</option>
+                        <option value="Financials">Financials</option>
+                        <option value="Auto, FMCG & Energy">Auto, FMCG & Energy</option>
+                    </select>
+                </div>
+
+                <div class="filter-group">
+                    <span class="filter-label">Sentiment:</span>
+                    <select id="sentiment-select" class="filter-select">
+                        <option value="">All Sentiments</option>
+                        <option value="Bullish">Bullish</option>
+                        <option value="Bearish">Bearish</option>
+                        <option value="Neutral">Neutral</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Table -->
+            <div class="table-container">
+                <table class="portfolio-table">
+                    <thead>
+                        <tr>
+                            <th>Ticker</th>
+                            <th>Company Name & Sector</th>
+                            <th style="text-align: right;">LTP (₹)</th>
+                            <th style="text-align: center;">Day Change</th>
+                            <th style="text-align: center;">Sentiment</th>
+                            <th style="text-align: center;">Risk Level</th>
+                            <th>Key Development & Source</th>
+                        </tr>
+                    </thead>
+                    <tbody id="portfolio-table-body">
+                        <!-- Rendered by app.js -->
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+
+        <!-- SECTOR TAB -->
+        <div id="sectors-tab" class="tab-content">
+            <h2 style="font-size: 1.5rem; font-weight: 700; margin-bottom: 1.5rem;">Sector-Wide Dashboard</h2>
+            <div class="sector-grid" id="sector-grid-container">
+                <!-- Rendered by app.js -->
+            </div>
+        </div>
+
+        <!-- STOCK CANVAS TAB -->
+        <div id="explorer-tab" class="tab-content">
+            
+            <!-- Stock Select Menu -->
+            <div style="background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 12px; padding: 1.25rem 1.5rem; margin-bottom: 2rem; display: flex; align-items: center; justify-content: space-between; backdrop-filter: blur(10px);">
+                <div style="font-size: 1.05rem; font-weight: 600;">Select Ticker for JETRO Canvas Analysis:</div>
+                <select id="stock-selector" class="filter-select" style="min-width: 320px; font-weight: 600; border-color: var(--accent);">
+                    <!-- Rendered by app.js -->
+                </select>
+            </div>
+
+            <!-- Profile Summary -->
+            <div class="stock-explorer-header">
+                <div class="stock-profile">
+                    <div class="stock-badges">
+                        <h2 id="profile-ticker" style="font-size: 2.25rem; font-weight: 800; letter-spacing: -0.5px;">NSE:RELIANCE</h2>
+                        <span id="profile-sentiment" class="tag bullish">BULLISH</span>
+                        <span id="profile-risk" class="badge low">LOW RISK</span>
+                    </div>
+                    <div id="profile-name" style="font-size: 1.15rem; font-weight: 500; color: #fff;">Reliance Industries Ltd</div>
+                    <div id="profile-sector" style="font-size: 0.9rem; color: var(--text-muted); font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">Energy, Retail, Telecom & Digital</div>
+                    
+                    <!-- Action box removed -->
+                </div>
+            </div>
+
+            <!-- Summary Text Block (if news) -->
+            <div id="stock-summary-box" class="panel-card" style="margin-bottom: 2rem; border-color: rgba(93, 91, 251, 0.3); display: none;">
+                <!-- Rendered by app.js -->
+            </div>
+
+            <!-- Red Flags -->
+            <div id="profile-red-flags" class="red-flags-alert" style="margin-bottom: 2rem;">
+                <!-- Rendered by app.js -->
+            </div>
+
+            <!-- JETRO Canvas Grid -->
+            <h3 style="font-size: 1.35rem; font-weight: 700; margin-bottom: 1.25rem;">JETRO Canvas Dashboard Grid</h3>
+            <div class="canvas-grid" id="canvas-grid-container">
+                <!-- Rendered by app.js -->
+            </div>
+
+        </div>
+
+    </div>
+
+    <!-- Scripts -->
+    <script src="health_status.js"></script>
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

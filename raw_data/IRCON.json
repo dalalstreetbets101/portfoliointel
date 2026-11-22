@@ -1,0 +1,72 @@
+{
+  "ticker": "NSE:IRCON",
+  "company_name": "Ircon International Ltd",
+  "sector": "Infra & Railways",
+  "news_found": true,
+  "ltp": 108.95,
+  "change": -0.25,
+  "change_percent": -0.23,
+  "prev_close": 109.2,
+  "fifty_two_week_high": 186.44,
+  "fifty_two_week_low": 95.76,
+  "currency": "INR",
+  "canvas_categories": {
+    "order_inflow_changes": "Total executable order book stands at ₹21,296 crore as of September 30, 2026, comprising Railway EPC projects at ₹16,271 crore (~76.4%), Highways at ₹3,538 crore (~16.6%), and other infrastructure sectors at ₹1,487 crore (~7.0%). In strategic guidance, management reiterated targeting fresh order inflows of ₹9,000 to ₹10,000 crore for FY27, anchoring the order book around ₹25,000 crore. In parallel, IRCON is actively progressing investor roadshows with Axis Capital for the ₹3,000 crore monetization of four road concessions (two BOT and two HAM) to recycle equity capital into high-return rail infrastructure. No new individual contracts were awarded in the last 24-48 hours (November 21 – November 22, 2026) or within the rolling 7-day retention window.",
+    "direct_company_news": "(2026-11-19) Top 9 Railway Stocks Of India In November 2026 - Samco [Samco] | (2026-11-16) Ircon International wins Rs 862.45 crore EPC order from East Central Railway - scanx.trade [scanx.trade] | (2026-11-20) Six Stocks To Buy Today, November 20: BHEL, TVS Motor, Physicswallah, And More - NDTV Profit [NDTV Profit]",
+    "promoter_activity": "The Government of India (Ministry of Railways) maintains a 65.17% controlling equity stake in IRCON with zero pledge. Strategic direction under CMD Saleem Ahmad remains firmly oriented towards capital discipline, monetization of mature operational road assets, and prioritized bidding for high-capacity multi-tracking rail EPC packages.",
+    "demand_cycle_changes": "Demand cycle across Indian Railways infrastructure EPC continues to expand under the National Rail Plan 2030, with multi-tracking trunk routes (3rd and 4th lines), heavy-haul 32.5-tonne track upgrades, and high-altitude Himalayan rail connectivity receiving continuous central budgetary allocations.",
+    "raw_material_changes": "Key railway permanent way inputs (sleepers, structural steel, ballast, rails, and fastening components) have exhibited stable price trends in Q2/Q3 FY27. Comprehensive price variation clauses (PVC) embedded across IRCON's EPC contracts mitigate inflationary commodity risks and protect baseline operating margins.",
+    "institutional_activity": "Institutional and mutual fund participation remains supported by IRCON's double-digit top-line growth (+14.9% YoY in Q2 to ₹2,271.7 crore), ₹21,296 crore executable backlog, attractive dividend yield (~4.5%–5%), and management commentary confirming post-monsoon margin recovery, FY27 inflow target of ₹9,000–₹10,000 crore, and asset monetization.",
+    "government_policy_changes": "Union Cabinet prioritization of multi-tracking decongestion projects, the National Monetisation Pipeline (NMP) enabling capital recycling from road concessions, and annual railway capex exceeding ₹2.5 lakh crore provide multi-year contracting predictability.",
+    "sector_news": "Public sector railway EPC enterprises are shifting toward asset-light balance sheets by monetizing operational highway concessions while capturing high-value railway multi-tracking, DFCC feeder lines, and signaling contracts.",
+    "management_commentary": "Management led by CMD Saleem Ahmad and Director (Finance) Ragini Advani guided for post-monsoon margin recovery in H2 FY27, targeting standalone PAT margins of 6%–7% and core consolidated EBITDA margins of 8%–9%. IRCON is targeting fresh order intake of ₹9,000–₹10,000 crore in FY27 to sustain the backlog around ₹25,000 crore, while actively executing roadshows with Axis Capital for the ₹3,000 crore monetization of four road concessions.",
+    "competitor_news": "Railway EPC peers including RVNL, RITES, Larsen & Toubro, and KEC International continue to actively compete for railway track doubling, station modernization, and electrical traction tenders."
+  },
+  "developments": [
+    {
+      "date": "2026-11-19",
+      "headline": "Top 9 Railway Stocks Of India In November 2026 - Samco",
+      "source_name": "Samco",
+      "source_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WMXZjd2wwVnYwcDhNd1BSNmpTZG8xcTZhS0ZwZ2tHLUpGVDJYUWpxcGJwNndfenVqdmx4VnRobVVRcjk4Yno5MGNxZVZTZ1g0UDZIRmJrWWxNWEl1NkVoeHJ5U2JRenhqYXMyUjFjVQ?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Samco on 2026-11-19. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Samco publication."
+    },
+    {
+      "date": "2026-11-16",
+      "headline": "Ircon International wins Rs 862.45 crore EPC order from East Central Railway - scanx.trade",
+      "source_name": "scanx.trade",
+      "source_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTlBEMXdUZ21IaENlRlFLY01fQmZKYlJMMXRBM2REWF9SbkUzNldueFBKLXZoTHhkQzV0RGlzcF9wUEduQWw5cjRUVWFmeUM4cFpDT2pxUnRUZ0lvS09NWFlVcjUwTzRYSXc3NGt6dXlvV1lTY3ZQUnVxbUdGaWJ2QWN3cllhRG92UVZ6RWRTTnJIcV9HT1hDcFdEbGRBUnZvVHBVVVF0eHBtZU9MRlItME5oX2VSZGU0R2pLMQ?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by scanx.trade on 2026-11-16. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from scanx.trade publication."
+    },
+    {
+      "date": "2026-11-20",
+      "headline": "Six Stocks To Buy Today, November 20: BHEL, TVS Motor, Physicswallah, And More - NDTV Profit",
+      "source_name": "NDTV Profit",
+      "source_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWWJRYXl6T1I2cFdtbDlxdjZGcFdxWlB5aHNqVE5rSHFqaGxSaDFFT1YxNElvQ0J1Um02N0kyTVozci1GR0QybkxkVmF4cHA5cmMxbUZUdEN0VTJOdDdoVnIwd3ktX2ZZSVdaOGNlNHkwbnFlaldJcXRTRld0bHZlTWh5aW1sY1RZbVNJdmF3U2IwaHFzaWYzaXVucl92S096OWFkb1JjSEFDdGMxUnhMbXdvcFdJV1N6UGZfLWlnbHZBTmZWcTM2S19HSzhfbmZLLWNUcFMtaEgxZlFaak5j0gHnAUFVX3lxTE5xQnYyaC11OUVSUmlFWnpyalhNcGNFd3NhNU0xYjU1bjlCbVpkbUZscDEwa19wWUhhX1h1MEltTldfZHZwVWJNTUlpNFBFSC1nYWhLZGowUURUUGJFMnNJQXhkZmtpWk01TWNfNy1IeVNuMWs3aE5vZkhiNzBYRDI3RzBUdHpwUHB4Tmw5Y0lTTDdzQzNwYlVzU1hRQTBkcjZBVlFZUFc1TTBXUkY4bV9LRTF2LS1iVkRObmhxNlZ0TGtxYmdFZ3MxMkpVT056VDZJR0JOTWNyeW1BbldDelBURXQwZTVMdw?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by NDTV Profit on 2026-11-20. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from NDTV Profit publication."
+    }
+  ]
+}

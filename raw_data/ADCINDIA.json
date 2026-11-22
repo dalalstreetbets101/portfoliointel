@@ -1,0 +1,57 @@
+{
+  "ticker": "NSE:ADCINDIA",
+  "company_name": "ADC India Communications Ltd",
+  "sector": "IT & Telecom",
+  "news_found": true,
+  "ltp": 2180.7,
+  "change": -92.2,
+  "change_percent": -4.06,
+  "prev_close": 2272.9,
+  "fifty_two_week_high": 2678.35,
+  "fifty_two_week_low": 1150.25,
+  "currency": "INR",
+  "canvas_categories": {
+    "direct_company_news": "(2026-11-20) ADC India Communications appoints Lavanya Ashok as independent director - scanx.trade [scanx.trade] | (2026-11-20) ADC India Investor Analysis | StockIQ - The Economic Times [The Economic Times]",
+    "sector_news": "Sector developments monitored across IT & Telecom.",
+    "competitor_news": "Peer performance and market share movements.",
+    "government_policy_changes": "Policy environment remains supportive for domestic industry.",
+    "raw_material_changes": "Input cost trends monitored against operating margins.",
+    "order_inflow_changes": "Commercial order book and revenue visibility.",
+    "demand_cycle_changes": "Demand trends across institutional and retail segments.",
+    "management_commentary": "Quarterly guidance and management strategic updates.",
+    "institutional_activity": "FII/DII holding changes and block trading trends.",
+    "promoter_activity": "Promoter shareholding stability and pledge tracking."
+  },
+  "developments": [
+    {
+      "date": "2026-11-20",
+      "headline": "ADC India Communications appoints Lavanya Ashok as independent director - scanx.trade",
+      "source_name": "scanx.trade",
+      "source_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd2U5dE9laXU1OTdFSE1rMWhhREhIWmo2X2JraXJyY3NXeGRScHZnUFlRTVhwN05ZbDIxd2pSbllCdFozVENfNUllM2FQZXItVEdKc3hyenBnYlJJU0dORGpGLWVacU52UHdobl9fRnhwUXNCZ2J3RmszV0Rlc2ZYdUNXYlZra0lQMjRwZUVXcHJWZUFnbENlRGl3RDg2c2FIc21zbWN6NmM1VVVLbmlIT2Jhc2RfUHZTQWROaXNzX3lVdnc?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by scanx.trade on 2026-11-20. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from scanx.trade publication."
+    },
+    {
+      "date": "2026-11-20",
+      "headline": "ADC India Investor Analysis | StockIQ - The Economic Times",
+      "source_name": "The Economic Times",
+      "source_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPXzRyekxnTDdJai1NaVFwVldzOHFpdk5pVnI4SUhxQUdwNnZzQ256X0N3NUxESDJzdkpUaUhDcjdxYVpxbS1kYW50R0llY1hqMmYzaTlNY053LUc4MVpDSzFqVTktbzFaZS14RTNuNzdCZDhkN2txejZiLW9jRjhGQ254ZTZqNE1XRlJUODN4NkxHeHNJR1NEUnVWTUY?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by The Economic Times on 2026-11-20. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from The Economic Times publication."
+    }
+  ]
+}

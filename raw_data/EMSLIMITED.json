@@ -1,0 +1,72 @@
+{
+  "ticker": "NSE:EMSLIMITED",
+  "company_name": "EMS Ltd",
+  "sector": "Infra & Railways",
+  "news_found": true,
+  "ltp": 301.8,
+  "change": -10.7,
+  "change_percent": -3.42,
+  "prev_close": 312.5,
+  "fifty_two_week_high": 464.7,
+  "fifty_two_week_low": 256.05,
+  "currency": "INR",
+  "canvas_categories": {
+    "direct_company_news": "(2026-11-18) EMSLIMITED Share Price Today - EMS on NSE/BSE - scanx.trade [scanx.trade] | (2026-11-17) EMS Limited adds Rs 900 crore, book reaches Rs 3,152 crore - Multibagg AI [Multibagg AI] | (2026-11-17) EMS Limited Reports Q2 Margin Recovery and ₹900 Crore Orders - Multibagg AI [Multibagg AI]",
+    "sector_news": "Sector developments monitored across Infra & Railways.",
+    "competitor_news": "Peer performance and market share movements.",
+    "government_policy_changes": "Policy environment remains supportive for domestic industry.",
+    "raw_material_changes": "Input cost trends monitored against operating margins.",
+    "order_inflow_changes": "Commercial order book and revenue visibility.",
+    "demand_cycle_changes": "Demand trends across institutional and retail segments.",
+    "management_commentary": "Quarterly guidance and management strategic updates.",
+    "institutional_activity": "FII/DII holding changes and block trading trends.",
+    "promoter_activity": "Promoter shareholding stability and pledge tracking."
+  },
+  "developments": [
+    {
+      "date": "2026-11-18",
+      "headline": "EMSLIMITED Share Price Today - EMS on NSE/BSE - scanx.trade",
+      "source_name": "scanx.trade",
+      "source_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13a0M5RHByUFZxaVFWSkk4VkRpNFhxZC1BLTY1TjlsSTl2eDZSWGxvRVk1UWVXZ2pMemNZS1EwNnVWWlhjdlhTbnpjbTMtWXFLdzhKRg?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by scanx.trade on 2026-11-18. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from scanx.trade publication."
+    },
+    {
+      "date": "2026-11-17",
+      "headline": "EMS Limited adds Rs 900 crore, book reaches Rs 3,152 crore - Multibagg AI",
+      "source_name": "Multibagg AI",
+      "source_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ2ZBdzJzQlgwRVpsX0ZNc24tMjBMeU8xZUxHc1VLX0F1UWY3R2lhcHpFZW1SamtTMEM1MThEUWlqN3VPWm1fclBFVFpaeE1ybk9GRGZKcFcwY0dkdlVWdkdYck5FRkVmQkdBSnlIckhzX0tod0NNMTBHSF9ZZE1XaFRwZUticUZpUW9LblBhQ3JGd3JNelJ0V3U5dnJEOVd6MGg2VnRtdldKcm4w?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Multibagg AI on 2026-11-17. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Multibagg AI publication."
+    },
+    {
+      "date": "2026-11-17",
+      "headline": "EMS Limited Reports Q2 Margin Recovery and ₹900 Crore Orders - Multibagg AI",
+      "source_name": "Multibagg AI",
+      "source_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeUpjRTVGVGF5Y3lUel83ZDdsYnA2bUlKNTdRdlNSaGdrcGttMFowdDEtcU9VbFBrTi1BR2Z3Ul91T2F3ckFOcEFLSFVQU0FTZDJPdXUxRWhNZGpOVmZiOTAzbTZreGNISFA0Nm9pdm5jVzhlczB5M242VTlaSlhfWmJuM0l2UTBwZU13YmJUZFhscFFOZDBERTJaMnlpT0loMDBR?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by Multibagg AI on 2026-11-17. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Multibagg AI publication."
+    }
+  ]
+}

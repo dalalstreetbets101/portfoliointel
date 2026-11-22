@@ -1,0 +1,6 @@
+# Logs & Temp
+*.log
+scratch/
+*.pdf
+*.txt
+.agents/

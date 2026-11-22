@@ -1,0 +1,72 @@
+{
+  "ticker": "NSE:WAAREERTL",
+  "company_name": "Waaree Renewable Technologies Ltd",
+  "sector": "Power & Renewables",
+  "news_found": true,
+  "ltp": 693.4,
+  "change": -10.2,
+  "change_percent": -1.45,
+  "prev_close": 703.6,
+  "fifty_two_week_high": 1202.6,
+  "fifty_two_week_low": 653.8,
+  "currency": "INR",
+  "canvas_categories": {
+    "order_inflow_changes": "Group EPC execution pipeline receives massive structural expansion following Waaree Forever Energies' signing of a landmark 25-year PPA with SECI for a 700 MW solar power project paired with a 700 MW / 2,800 MWh BESS storage system in Solapur, Maharashtra. Group arm Waaree Transpower secured an order exceeding ₹100 crore from NTPC for high-capacity transformers. Waaree RTL's unexecuted standalone solar EPC order backlog remains firm at ~₹6,500 crore (>3.2 GWp capacity) across utility-scale solar, BESS hybrid configurations, and corporate C&I captive projects.",
+    "direct_company_news": "(2026-11-16) Waaree Renewable Technologies Profit Falls 30% Despite Sales Gain - Multibagg AI [Multibagg AI] | (2026-11-16) Waaree Renewable Technologies Wins 285 MWp Solar EPC Project - Construction World [Construction World] | (2026-11-18) Green Stocks Nov 18: Most Stocks Slip as Select Players Defy the Trend - Saur Energy [Saur Energy]",
+    "promoter_activity": "Promoter group (Hitesh Doshi and family / Waaree Energies) holds 74.46% equity with zero encumbrance, ensuring complete operational alignment and supply security for Tier-1 solar modules and utility battery packs.",
+    "demand_cycle_changes": "Accelerating commercial and industrial (C&I) decarbonization mandates, corporate net-zero pledges, and state utility solar-plus-storage tenders drive robust turnkey EPC order demand.",
+    "raw_material_changes": "Waaree RTL benefits from captive module and BESS pack supply security from parent Waaree Energies (India's largest solar module manufacturer with 5.15 GWh battery capacity), eliminating supply chain bottlenecks and margin compression.",
+    "institutional_activity": "Institutional and renewable-focused funds maintained active interest following the Avendus Spark Mumbai roadshow and mega 700 MW SECI PPA announcement, drawn by Waaree RTL's ~₹6,500 Cr order backlog, 40%+ ROE, and industry-leading execution velocity.",
+    "government_policy_changes": "Operationalization of the PM-eBus Sewa Payment Security Mechanism (PSM ₹3,435 Cr), ALMM enforcement, basic customs duty (BCD) protections on solar cells and modules, and state rooftop solar incentives continue strengthening the competitive positioning of domestic turnkey EPC players.",
+    "sector_news": "Solar EPC installation capacity in India is tracking toward a record 25+ GW additions in FY27, with utility-scale and corporate captive storage-paired projects driving the highest volume growth.",
+    "management_commentary": "Management reiterated that Waaree RTL is poised to convert its record order backlog into substantial revenue growth over the next 18 months, with integrated BESS capabilities positioning the company for complex RTC hybrid contracts.",
+    "competitor_news": "Competes with Sterling and Wilson Renewable Energy, Tata Power Solar, and Larsen & Toubro; Waaree RTL differentiates through faster commissioning timelines, captive module and BESS access, and lean operating cost structure."
+  },
+  "developments": [
+    {
+      "date": "2026-11-16",
+      "headline": "Waaree Renewable Technologies Profit Falls 30% Despite Sales Gain - Multibagg AI",
+      "source_name": "Multibagg AI",
+      "source_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMERtQ05DbXZ2QzRyeEhJLUxiRVM1SWRqN2dWb3F1b0VsanU4ZV9IOUNwOUpSdEF5eFhoX2g5N2c1eTdCYWhwYVlfTGZEYjdvcUxDckZsS0kwNWFya3NjWFJLT0w2LTZ0Y1RxVDlKWDdPM2szeFhXOG1ya0RiSHp5a3ZrdjNWcnd2MUEtODlUOTA0TXF4ZUpsNDMtOVNFUWVzTXNSSUZ3Y1lGdmtFOHFIa2dB?oc=5",
+      "sentiment": "Bearish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by Multibagg AI on 2026-11-16. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bearish",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Near-term market volatility or regulatory/earnings headwind.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Multibagg AI publication."
+    },
+    {
+      "date": "2026-11-16",
+      "headline": "Waaree Renewable Technologies Wins 285 MWp Solar EPC Project - Construction World",
+      "source_name": "Construction World",
+      "source_link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNd0U0Z0F0NHhBdGdWcG9XTUFtclNEU3lWSmFOMTRkTkVVc0tLaFJkXzRISWpoS0FiRmZsdExwd0pkWkthajZFaWpkdlF6eG5ORmM3aXBLcGY2ZDFQd2JqZkFVUkU4MnI3SDdTdldSZlB2b0EzY0xLeUVRUFk5OUxRRkx3eXQ0QWcwYzdLaXB2Z0E3OEE0Y0EtVXRkZlFZbWNLWWUxWVJTM3lxamc0b3BXQVFrTlVZbU5ObzdWSTV3a3UwQXZMdlJGN2FkWUY5Y1FlcWY2QmNVeXB5dzYtX0VQaWVPUQ?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by Construction World on 2026-11-16. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Construction World publication."
+    },
+    {
+      "date": "2026-11-18",
+      "headline": "Green Stocks Nov 18: Most Stocks Slip as Select Players Defy the Trend - Saur Energy",
+      "source_name": "Saur Energy",
+      "source_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUFliWjVwSU4xaC1FVGtPR05ZUkpXSGdEbnNnTmI5enZacm1QSDBhbnp4ZlNlb01ZYlJhNGM4UjlNVjdxdFVJWkR0S0VYd0N5MzhTTVh5cGtQYm5GeWRLS0Z3WklSRWVRN0Q0ZjZmMktNa2xMMXhFY0JYNXBDbE5EZlR4ZG85SlJWOEphSUN1SWRNenNWLVBHX2k5TkQwdDhJaHVFS1JOdFBUbEktaEwxTDE3Z0JXMFJzSEo2b2g2ZlZsWkdKWUNHQmhR?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Saur Energy on 2026-11-18. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Saur Energy publication."
+    }
+  ]
+}

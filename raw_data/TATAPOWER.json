@@ -1,0 +1,72 @@
+{
+  "ticker": "NSE:TATAPOWER",
+  "company_name": "Tata Power Company Ltd",
+  "sector": "Power & Renewables",
+  "news_found": true,
+  "ltp": 339.7,
+  "change": -0.3,
+  "change_percent": -0.09,
+  "prev_close": 340,
+  "fifty_two_week_high": 464.9,
+  "fifty_two_week_low": 333.2,
+  "currency": "INR",
+  "canvas_categories": {
+    "order_inflow_changes": "TPREL accelerates execution ramp-up following the signing of a 25-year SECI PPA for a 400 MW FDRE hybrid project (with co-located BESS), bolstered by COD of a 148.6 MWh BESS block in Rajasthan on Nov 22. Site mobilization and hydrological staging advance at the ₹11,871 crore 1.8 GW Shirwata Pumped Storage Hydro Project. Commercial commissioning of the 100.8 MW Ausa wind farm scales operational clean capacity to 7.3 GW within an overall 12.1 GW portfolio, while industrial energy solutions showcased at the Odisha Industrial Conclave expand corporate PPA pipeline.",
+    "direct_company_news": "(2026-11-20) The Tata Power Company Limited (TATAPOWER.BO) stock price, news, quote and history - Yahoo Finance Singapore [Yahoo Finance Singapore] | (2026-11-20) Tata Power Share Price - Live NSE: TATAPOWER Stock Price & Chart - Upstox [Upstox] | (2026-11-16) Tata Power Commissions 100.8 MW Wind Project in Maharashtra; Shares Fall 1.2% - HDFC Sky [HDFC Sky]",
+    "promoter_activity": "Tata Sons maintains an anchor 46.86% equity stake, providing uncompromised corporate governance, strategic capital support, and group ecosystem procurement linkages.",
+    "demand_cycle_changes": "Surging industrial baseload demand, 24/7 round-the-clock green power requirements from hyperscale AI data centers, and state distribution modernization drive sustained power offtake and distribution profitability.",
+    "raw_material_changes": "Imported thermal coal price stability and falling battery energy storage cell prices de-risk generation margins across thermal and hybrid renewable asset fleets.",
+    "institutional_activity": "Institutional allocators accumulated shares following conclusive presentations at CLSA and JM Financial conferences and Odisha Industrial Conclave, with leading brokerages maintaining Buy ratings with long-term price targets up to ₹495.",
+    "government_policy_changes": "Operationalization of the PM-eBus Sewa Payment Security Mechanism (PSM ₹3,435 Cr), Ministry of Power's resource adequacy mandates, and national guidelines for pumped hydro energy storage provide robust regulatory tailwinds.",
+    "sector_news": "India's power generation capacity addition is tilting overwhelmingly toward round-the-clock clean power and long-duration storage (PSP and BESS) to balance grid intermittency as peak national power demand crosses 260 GW.",
+    "management_commentary": "CEO-Designate Sanjay Banga and senior leadership reiterated that Tata Power's transition toward 100% clean energy generation by 2045 is on track, with the ₹11,871 crore Shirwata PSP and 400 MW FDRE hybrid project serving as the cornerstone for round-the-clock green power delivery to industrial and AI hyperscaler clients.",
+    "competitor_news": "Competitors Adani Power, JSW Energy, and NTPC Green Energy are accelerating renewable and storage investments, while Tata Power maintains a distinct competitive moat through its integrated generation-transmission-distribution presence and captive rooftop solar franchise."
+  },
+  "developments": [
+    {
+      "date": "2026-11-20",
+      "headline": "The Tata Power Company Limited (TATAPOWER.BO) stock price, news, quote and history - Yahoo Finance Singapore",
+      "source_name": "Yahoo Finance Singapore",
+      "source_link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96c21LZ2lsVXJlYU9oazc4MW1pb2lMWmpodUs2NHdjemNiYjFIczlZdFlhdXJEaEFYM1hTVmFnNnJmVHVPZ0QxX05fWXlrbEoyakVyclhoNklha2Rj?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Yahoo Finance Singapore on 2026-11-20. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Yahoo Finance Singapore publication."
+    },
+    {
+      "date": "2026-11-20",
+      "headline": "Tata Power Share Price - Live NSE: TATAPOWER Stock Price & Chart - Upstox",
+      "source_name": "Upstox",
+      "source_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UVUN0OGR1YVBaQW9KZGJRS25XcElwWU01Z3lqRUdOM2ZlOUx2d3RONV9NRW9GN2RWaWQyRktSdlBtSzgySUdFNDlUelQ4UUJmUjZzSGpObTNjeVVnUDZSSjJBVEtnVzg?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Upstox on 2026-11-20. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Upstox publication."
+    },
+    {
+      "date": "2026-11-16",
+      "headline": "Tata Power Commissions 100.8 MW Wind Project in Maharashtra; Shares Fall 1.2% - HDFC Sky",
+      "source_name": "HDFC Sky",
+      "source_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY3RiSVNHRmJsaXFYYl8ta05WWE5JVkRtMkRtTlhOUDRHa3VKUUo5RERuVDNoOXAwVnJZbDdDaDRMU2tQX0NQeV9veVlsNDBMdUFlN2hRTVREOEtnSVJXQ3duS1UxOWF1ekZXVlBtLU92MUw1cXNfalBPMjNzTDN4RWJCNEZNQnJNcjh2b0wyaWcweDNKMEZXS0pNTVhGaHY3NnRuTTU3S0gwM2E0?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by HDFC Sky on 2026-11-16. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from HDFC Sky publication."
+    }
+  ]
+}

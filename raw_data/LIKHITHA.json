@@ -1,0 +1,26 @@
+{
+  "ticker": "NSE:LIKHITHA",
+  "company_name": "Likhitha Infrastructure Ltd",
+  "sector": "Infra & Railways",
+  "news_found": false,
+  "ltp": 197.83,
+  "change": -0.08,
+  "change_percent": -0.04,
+  "prev_close": 197.91,
+  "fifty_two_week_high": 272,
+  "fifty_two_week_low": 131.45,
+  "currency": "INR",
+  "canvas_categories": {
+    "direct_company_news": "No material corporate developments reported in the last 7 days.",
+    "sector_news": "Sector developments monitored across Infra & Railways.",
+    "competitor_news": "Peer performance and market share movements.",
+    "government_policy_changes": "Policy environment remains supportive for domestic industry.",
+    "raw_material_changes": "Input cost trends monitored against operating margins.",
+    "order_inflow_changes": "Commercial order book and revenue visibility.",
+    "demand_cycle_changes": "Demand trends across institutional and retail segments.",
+    "management_commentary": "Quarterly guidance and management strategic updates.",
+    "institutional_activity": "FII/DII holding changes and block trading trends.",
+    "promoter_activity": "Promoter shareholding stability and pledge tracking."
+  },
+  "developments": []
+}

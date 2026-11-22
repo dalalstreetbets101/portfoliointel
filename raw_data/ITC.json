@@ -1,0 +1,72 @@
+{
+  "ticker": "NSE:ITC",
+  "company_name": "ITC Ltd",
+  "sector": "Auto, FMCG & Energy",
+  "news_found": true,
+  "ltp": 299.1,
+  "change": -1.9,
+  "change_percent": -0.63,
+  "prev_close": 301,
+  "fifty_two_week_high": 409.5,
+  "fifty_two_week_low": 252.8,
+  "currency": "INR",
+  "canvas_categories": {
+    "direct_company_news": "(2026-11-20) ITC Share Price - Upstox [Upstox] | (2026-11-17) ITC stock reclaims 200-DMA after a year; is it a rebound or fresh uptrend? - Business Standard [Business Standard] | (2026-11-17) ITC shares are on course for their best monthly run in over two years; Is the stock now a buy? - CNBC TV18 - LinkedIn [LinkedIn]",
+    "sector_news": "Sector developments monitored across Auto, FMCG & Energy.",
+    "competitor_news": "Peer performance and market share movements.",
+    "government_policy_changes": "Policy environment remains supportive for domestic industry.",
+    "raw_material_changes": "Input cost trends monitored against operating margins.",
+    "order_inflow_changes": "Commercial order book and revenue visibility.",
+    "demand_cycle_changes": "Demand trends across institutional and retail segments.",
+    "management_commentary": "Quarterly guidance and management strategic updates.",
+    "institutional_activity": "FII/DII holding changes and block trading trends.",
+    "promoter_activity": "Promoter shareholding stability and pledge tracking."
+  },
+  "developments": [
+    {
+      "date": "2026-11-20",
+      "headline": "ITC Share Price - Upstox",
+      "source_name": "Upstox",
+      "source_link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IMkRMcVVlTDVzbjFob3JsSlJPSWdHbFpvZjJyLTlwQnY4ejlneWdlUk01d1VMbnE2ejBSeWNvcXZuMnZWbklIeVM4UU5hcmMwendocGU1UmE1UQ?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Upstox on 2026-11-20. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Upstox publication."
+    },
+    {
+      "date": "2026-11-17",
+      "headline": "ITC stock reclaims 200-DMA after a year; is it a rebound or fresh uptrend? - Business Standard",
+      "source_name": "Business Standard",
+      "source_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTjVhS0pyQlpVdEVTM2xUbmlNS0M5RmNBUXRNSmpPNXI1aWRRTlhQcWZSN2x0NVE2Tzd5c3p1NWxWUXVUZDljUVdfN0g5clNOWG5HR2hOdWlPeGJxcC1Rb2hMbXNEa3B0Z29SanZobnB2cVloTEsxOW96RTV3azd6T0hBQVhUZ3dzcGF3WlNlQUZhTUhvT3dHcGViTFJESkRVSk1uZFczeEpVNVJidlVCMWxxazFEdXV3MEc0MGUtQTFJdlBjZ1lnRFEydFF5QWh5TlZjbjdETHlmaWNaMXJnTXBsU2I2WGxBRmJr0gHwAUFVX3lxTE1PSXFYMjdYdklGR1pPSGtnZ0hwbkdqVW1XRlo4QWpONE0xanlybW50Nm55Tmg5c3A1aFFwRXFwbWdyV1o4eXk4TDJlRlp6amxxYlRuTlBmbUdwMkFLay1WejFZZmhmVFc2STZFODNPdUpkUHNid1RhSV9TNzQ3SlBQSWl1aTRwd0FNbjB5VXB0TnFiVlM2ZzN0cVY4TTVHc3Q1RkNIajktMk5WUEd2aUQ1dVZwbFZDWFh1bFJpb1RycHZzYVJ2bl9RbzgtSENkYXRCU1lzYXVNVTJkS0FsTklEc1ZITEt1d0xPM1MwcU02Rw?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Business Standard on 2026-11-17. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Business Standard publication."
+    },
+    {
+      "date": "2026-11-17",
+      "headline": "ITC shares are on course for their best monthly run in over two years; Is the stock now a buy? - CNBC TV18 - LinkedIn",
+      "source_name": "LinkedIn",
+      "source_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMzJjMHlhOTBjVUo2c2I5U3gwYzZXR05GMkpkZHptNHJZbmZLalhTVWFSTG1Fa09wU0FNcTVvcW9PYVJHTTQzUGsxbTZ3UXlldVNKRnphSXZVejd2eGxJQTR4ZGZSam81TnlvUG1QUGVna0dwWHJzMldjVWFNWHpDYldRTFlBWEJpTG00WmJMWVcxdXpYdWdKNk5QQUQ4Yl9YQXprWEk4YjFzWjN1VjhINVNWNGRBdk0xc0Y0bUlONA?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by LinkedIn on 2026-11-17. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from LinkedIn publication."
+    }
+  ]
+}

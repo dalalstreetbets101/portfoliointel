@@ -1,0 +1,72 @@
+{
+  "ticker": "NSE:OLECTRA",
+  "company_name": "Olectra Greentech Ltd",
+  "sector": "Power & Renewables",
+  "news_found": true,
+  "ltp": 996.6,
+  "change": -8,
+  "change_percent": -0.8,
+  "prev_close": 1004.6,
+  "fifty_two_week_high": 1556,
+  "fifty_two_week_low": 866.6,
+  "currency": "INR",
+  "canvas_categories": {
+    "order_inflow_changes": "Order backlog stands firm at 4,500+ electric buses across state transport undertakings and municipal corporations (BEST Mumbai, TSRTC, MSRTC, etc.). Heavy electric commercial truck pilot trials with cement and mining logistics fleets advance into payload durability phase, laying groundwork for commercial truck order bookings.",
+    "direct_company_news": "(2026-11-19) Olectra Greentech Q2FY27 results: Net profit up 6.8% to ₹52.9 crore - scanx.trade [scanx.trade] | (2026-11-20) Olectra Greentech Develops 13.5-Meter Electric Bus For Private Fleets - Autocar Professional [Autocar Professional] | (2026-11-19) Olectra Greentech Projects H2 FY27 Revenue Growth and Energy Margin Target - Sahi [Sahi]",
+    "promoter_activity": "Promoter MEIL (Megha Engineering & Infrastructures Ltd) holds 50.02% equity stake with zero pledge, providing immense engineering support, project execution backing, and capital stability.",
+    "demand_cycle_changes": "Central government's PM-eBus Sewa initiative targeting 10,000 electric buses across Tier-2/3 cities, alongside state STU fleet modernization, provides multi-year structural procurement tailwinds.",
+    "raw_material_changes": "Global lithium-ion battery cell prices have decreased significantly, lowering raw material procurement costs and expanding gross vehicle margins.",
+    "institutional_activity": "Domestic mutual funds and mobility-focused PMS allocators accumulated shares, viewing Olectra as the pure-play market leader in Indian electric bus manufacturing with massive production capacity expansion.",
+    "government_policy_changes": "Operationalization of the ₹3,435.33 crore PM-eBus Sewa Payment Security Mechanism (PSM) on Nov 20 and PM E-Drive scheme outlay of ₹10,900 crore de-risk receivables and ensure timely capital flows for bus manufacturers.",
+    "sector_news": "Electric bus adoption in India is crossing an inflection point, with commercial fleet electrification extending beyond passenger buses into heavy mining tippers and short-haul logistics trucks.",
+    "management_commentary": "Management reaffirmed that ramping Seetharampur facility to full capacity will quadruple annual delivery capabilities, while commercializing electric tippers and haulage trucks will unlock a ₹10,000+ crore commercial vehicle revenue opportunity by FY30.",
+    "competitor_news": "Competes with Tata Motors Commercial Vehicles and JBM Auto; Olectra differentiates through proven BYD battery powertrain reliability and MEIL's balance sheet backing."
+  },
+  "developments": [
+    {
+      "date": "2026-11-19",
+      "headline": "Olectra Greentech Q2FY27 results: Net profit up 6.8% to ₹52.9 crore - scanx.trade",
+      "source_name": "scanx.trade",
+      "source_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLTlNZzYzXzA2Uy14NVF5TmFoNmc5b3VnV3R4bVJLTFVCQVZJejYxQ0M2cVJZQ04wbHNkbG8xWDRIUHVOSGpWWWc2VEVmbmxjSVN6MlZoX3E5Z0FVN2p6djRmbFlTZXMzWnpLWUlKLXUySHloc1RfQ2wycmFwbXBvUDh4VDBMRzBwdGJSQnFGTkJKYlc2czd6RTRUSjhDWG1PTkxLUGhSRndOTnFUSjd4c24xZTdBRDJhR3JqeW9PTl9JVWJq?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by scanx.trade on 2026-11-19. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from scanx.trade publication."
+    },
+    {
+      "date": "2026-11-20",
+      "headline": "Olectra Greentech Develops 13.5-Meter Electric Bus For Private Fleets - Autocar Professional",
+      "source_name": "Autocar Professional",
+      "source_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ2N5V0w3bG4zTmkzRkxmRm9NWE10NGJ0aExFQVJzRzNrb1ZaSkhfY2tkTFpuQVVscjJVSW5yc2Q3ekVzQ19QTTNGdkk0MXRwSzAxT0dqcHc4d09GYm1oNG9GRy0wbTRxeTZ4V0pSLTRnNlhWN3JjNVV3bEhUU2ctNkR6cXNYNEZYYko0MV9YUDU3SUFJdTdZa2hGRlh6U09aRHlsLWlBOFhLZ9IBsgFBVV95cUxPT1NycDVyZ2lFRnEzLW5DUUstSkVSdHhBbFFEYjNsR2pJMmVKSzN2QWg1UnpqcUJYTzhhYmZVQjhKRkMyQ0RuVVFpeHRyTU53Z1hKRHI4NTlZclQtM0xWenpRb3hPOElkS1Fnb2F6ZV9tdzZ3ejg3a0lVNFA0bWhhU3hDX1FRT0huQkhtSjN2UkNESTcweGxPWVJ6M3U2MWliQ0x3azVxZUczNFhDWkNScm1B?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Autocar Professional on 2026-11-20. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Autocar Professional publication."
+    },
+    {
+      "date": "2026-11-19",
+      "headline": "Olectra Greentech Projects H2 FY27 Revenue Growth and Energy Margin Target - Sahi",
+      "source_name": "Sahi",
+      "source_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZDBmRlU0eDBqZFNYeWhLYV9iam44R2RrT3hhbDlIdG5rYV9Nd2dfX3BkdTl2djVySm1JMXVMUi1YN201dFhRZl90ZzRwMXJiclplZDVtWGdfdkpmdWF1ZUhzOWZPWmk5TXgtWEdtWm5jMld6dHQ0bnh5OFVWVkYzRS1EZVZMcjhpY19JT19uUGRFLTRaRlU2ZnQ4MnBTTHpYdEE?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by Sahi on 2026-11-19. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Sahi publication."
+    }
+  ]
+}
