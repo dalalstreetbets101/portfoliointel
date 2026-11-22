@@ -82,9 +82,9 @@ body {
 .logo-icon {
     width: 32px;
     height: 32px;
-    background: linear-gradient(135deg, var(--accent), var(--bullish));
+    background: url('favicon.png') no-repeat center center / contain;
     border-radius: 8px;
-    box-shadow: 0 0 15px var(--accent-glow);
+    box-shadow: 0 0 15px rgba(93, 91, 251, 0.3);
 }
 
 .logo-text {
