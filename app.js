@@ -251,7 +251,7 @@ document.addEventListener("DOMContentLoaded", () => {
         });
 
         if (filtered.length === 0) {
-            tbody.innerHTML = `<tr><td colspan="7" style="text-align: center; color: var(--text-muted); padding: 3rem;">No stocks matching filter criteria.</td></tr>`;
+            tbody.innerHTML = `<tr><td colspan="5" style="text-align: center; color: var(--text-muted); padding: 3rem;">No stocks matching filter criteria.</td></tr>`;
             return;
         }
 
@@ -286,12 +286,6 @@ document.addEventListener("DOMContentLoaded", () => {
             if (stock.risk_level === "High") riskClass = "high";
             else if (stock.risk_level === "Medium") riskClass = "medium";
 
-            const ltpDisplay = stock.ltp ? `₹${Number(stock.ltp).toLocaleString('en-IN', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}` : 'N/A';
-            const changeP = stock.change_percent !== undefined ? stock.change_percent : 0;
-            const changeClass = changeP > 0 ? 'bullish' : (changeP < 0 ? 'bearish' : 'neutral');
-            const changeSign = changeP > 0 ? '+' : '';
-            const changeDisplay = stock.change_percent !== undefined ? `${changeSign}${changeP.toFixed(2)}%` : '0.00%';
-
             let firstDev = (stock.developments && stock.developments.length > 0 && isWithinLast7Days(stock.developments[0].date)) ? stock.developments[0] : null;
             let devHtml = "No major developments in the last 7 days.";
             if (firstDev) {
@@ -306,8 +300,6 @@ document.addEventListener("DOMContentLoaded", () => {
                         <div class="company-name-cell">${stock.name}</div>
                         <div class="company-sector">${stock.sector}</div>
                     </td>
-                    <td style="text-align: right; font-weight: 700; font-family: monospace; font-size: 0.95rem; white-space: nowrap;">${ltpDisplay}</td>
-                    <td style="text-align: center;"><span class="tag ${changeClass}">${changeDisplay}</span></td>
                     <td style="text-align: center;"><span class="tag ${sentimentClass}">${sentimentBadgeText}</span></td>
                     <td style="text-align: center;"><span class="badge ${riskClass}">${stock.risk_level}</span></td>
                     <td class="key-dev-cell">${devHtml}</td>

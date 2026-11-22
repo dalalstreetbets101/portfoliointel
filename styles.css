@@ -443,7 +443,7 @@ header {
     background: var(--card-bg);
     border: 1px solid var(--border-color);
     border-radius: 16px;
-    overflow: hidden;
+    overflow-x: auto;
     backdrop-filter: blur(15px);
 }
 
@@ -451,21 +451,23 @@ header {
     width: 100%;
     border-collapse: collapse;
     text-align: left;
+    min-width: 900px;
 }
 
 .portfolio-table th {
     background: rgba(5, 7, 12, 0.6);
-    padding: 1rem 1.5rem;
+    padding: 1rem 1.25rem;
     font-size: 0.85rem;
     font-weight: 600;
     color: var(--text-muted);
     text-transform: uppercase;
     letter-spacing: 0.5px;
     border-bottom: 1px solid var(--border-color);
+    white-space: nowrap;
 }
 
 .portfolio-table td {
-    padding: 1.15rem 1.5rem;
+    padding: 1.15rem 1.25rem;
     font-size: 0.9rem;
     border-bottom: 1px solid rgba(255, 255, 255, 0.03);
     vertical-align: middle;
@@ -473,7 +475,7 @@ header {
 }
 
 .portfolio-table td.key-dev-cell {
-    max-width: 480px;
+    min-width: 380px;
     white-space: normal !important;
     word-break: break-word;
     line-height: 1.5;

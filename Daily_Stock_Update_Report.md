@@ -7,46 +7,46 @@
 
 ## 1. PORTFOLIO DASHBOARD
 
-| Stock | Live LTP (₹) | Day Change | News (7D) | Sentiment | Risk Level | Most Important Development |
-| :--- | :---: | :---: | :---: | :---: | :---: | :--- |
-| **NSE:BBOX**<br>Black Box Limited | ₹898 | -1.04% | 3 | Neutral | Low | Black Box Q2FY27 Results: Net profit rises 31% YoY to ₹73 crore - scanx.trade |
-| **NSE:BSE**<br>BSE Limited | ₹3781 | +0.42% | 3 | Bullish | Low | BSE Limited (BSE.NS) Stock Price, News, Quote & History - Yahoo! Finance Canada |
-| **NSE:BSOFT**<br>Birlasoft Limited | ₹303.7 | +1.62% | 3 | Bearish | Medium | Birlasoft wants to measure skills by deployment, not learning hours - HR Katha |
-| **NSE:CDSL**<br>Central Depository Services (India) Limited | ₹1430 | +0.46% | 3 | Neutral | Low | CDSL’s Consol Income, Net Profit Grow 15% YoY - https://www.fintechbiznews.com/ |
-| **NSE:CEIGALL**<br>Ceigall India Ltd | ₹379 | -0.77% | 3 | Bullish | Low | Ceigall India wins Rs 684 crore work order from NHAI for Haryana highway - scanx.trade |
-| **NSE:DCI**<br>Datamatics Global Services Limited | ₹691 | -1.44% | 3 | Bullish | Low | Datamatics named Major Contender in Everest Group FAS PEAK Matrix 2026 - scanx.trade |
-| **NSE:EMBDL**<br>Embassy Developments Ltd | ₹49.85 | -1.17% | 3 | Bearish | Medium | Embassy Developments Launches ₹1,400 Crore Luxury Residential Project in Bengaluru; Shares Fall Nearly 1.8% - HDFC Sky |
-| **NSE:EMSLIMITED**<br>EMS Ltd | ₹301.8 | -3.42% | 3 | Bullish | Low | EMSLIMITED Share Price Today - EMS on NSE/BSE - scanx.trade |
-| **NSE:HUDCO**<br>Housing and Urban Development Corporation Limited | ₹162.05 | -2.19% | 3 | Bearish | Medium | HUDCO Share Price Fall: Large Cap Housing Finance Update - Univest |
-| **NSE:IOC**<br>Indian Oil Corporation Ltd | ₹150.5 | +1.83% | 3 | Neutral | Low | Indian Oil Share Price - Live NSE: IOC Stock Price & Chart - Upstox |
-| **NSE:IRCON**<br>Ircon International Ltd | ₹108.95 | -0.23% | 3 | Bullish | Low | Top 9 Railway Stocks Of India In November 2026 - Samco |
-| **NSE:IREDA**<br>Indian Renewable Energy Development Agency Ltd | ₹131.7 | +1.46% | 3 | Bullish | Low | IREDA Share Price - Upstox |
-| **NSE:ITC**<br>ITC Ltd | ₹299.1 | -0.63% | 3 | Neutral | Low | ITC Share Price - Upstox |
-| **NSE:JIOFIN**<br>Jio Financial Services Limited | ₹224.97 | -0.81% | 3 | Neutral | Low | JIO Finance Share Price - Live NSE: JIOFIN Stock Price & Chart - Upstox |
-| **NSE:NHPC**<br>NHPC Ltd | ₹76.61 | +0.41% | 3 | Neutral | Low | NHPC Share Price - Upstox |
-| **NSE:OLECTRA**<br>Olectra Greentech Ltd | ₹996.6 | -0.8% | 3 | Bullish | Low | Olectra Greentech Q2FY27 results: Net profit up 6.8% to ₹52.9 crore - scanx.trade |
-| **NSE:ORIENTTECH**<br>Orient Technologies Limited | ₹203 | +2.9% | 3 | Bullish | Low | Orient Technologies wins Rs 30.81 crore work order from The New India Assurance Company Limited - scanx.trade |
-| **NSE:PNGJL**<br>P N Gadgil Jewellers Ltd | ₹572.2 | -0.78% | 3 | Bullish | Low | P N GADGIL JEWELLERS LTD Share Price - Live NSE: PNGJL Stock Price & Chart - Upstox |
-| **NSE:POONAWALLA**<br>Poonawalla Fincorp Limited | ₹519 | +2.82% | 3 | Bullish | Low | JM Financial hikes target price of Poonawalla Fincorp; sees 24% upside - The Economic Times |
-| **NSE:RAILTEL**<br>RailTel Corporation of India Ltd | ₹248 | -1.49% | 3 | Bullish | Low | Railtel Corp of India Share Price - Upstox |
-| **NSE:RELIANCE**<br>Reliance Industries Ltd | ₹1377.5 | +0.14% | 3 | Neutral | Low | Reliance Industries Limited (RELIANCE.NS) stock price, news, quote and history - Yahoo Finance Singapore |
-| **NSE:SJVN**<br>SJVN Ltd | ₹55.69 | -0.91% | 3 | Bearish | Medium | SJVN Limited Brings Buxar Plant to Full 1,320 MW Operation - Multibagg AI |
-| **NSE:SWSOLAR**<br>Sterling and Wilson Renewable Energy Ltd | ₹155 | -1.08% | 3 | Neutral | Low | Green Stocks Nov 18: Most Stocks Slip as Select Players Defy the Trend - Saur Energy |
-| **NSE:TATAMOTORS**<br>Tata Motors Ltd | ₹266.35 | +1.08% | 3 | Bullish | Low | Tata Motors PV shares plunge 9% after Q2 results; brokerages cut target - Business Standard |
-| **NSE:TATAPOWER**<br>Tata Power Company Ltd | ₹339.7 | -0.09% | 3 | Bullish | Low | The Tata Power Company Limited (TATAPOWER.BO) stock price, news, quote and history - Yahoo Finance Singapore |
-| **NSE:TATATECH**<br>Tata Technologies Ltd | ₹728.5 | +3.52% | 3 | Bullish | Low | Tata Technologies Share Price - Live NSE: TATATECH Stock Price & Chart - Upstox |
-| **NSE:TEMBO**<br>Tembo Global Industries Ltd | ₹49.95 | -2.88% | 3 | Neutral | Low | Tembo Global Industries EBITDA up 40% to ₹86 crore in H1FY27 - scanx.trade |
-| **NSE:TITAGARH**<br>Titagarh Rail Systems Ltd | ₹727.7 | -1.3% | 3 | Bullish | Low | Titagarh Rail Systems Secures ₹65.38 Crore Order from Chittaranjan Locomotive Works for New Traction Motors - Kotak Neo |
-| **NSE:WAAREERTL**<br>Waaree Renewable Technologies Ltd | ₹693.4 | -1.45% | 3 | Bearish | Medium | Waaree Renewable Technologies Profit Falls 30% Despite Sales Gain - Multibagg AI |
-| **NSE:WELSPUNLIV**<br>Welspun Living Ltd | ₹263.8 | +4.21% | 3 | Neutral | Low | Welspun India Share Price - Live NSE: WELSPUNLIV Stock Price & Chart - Upstox |
-| **NSE:ADCINDIA**<br>ADC India Communications Ltd | ₹2180.7 | -4.06% | 2 | Neutral | Low | ADC India Communications appoints Lavanya Ashok as independent director - scanx.trade |
-| **NSE:PPL**<br>Prakash Pipes Ltd | ₹216.05 | -1.59% | 2 | Neutral | Low | Prakash Pipes Ltd is Rated Hold by MarketsMOJO - MarketsMojo |
-| **NSE:VPRPL**<br>Vishnu Prakash R Punglia Ltd | ₹25.76 | -1.79% | 2 | Neutral | Low | Vishnu Prakash R Punglia (NSE:VPRPL): Did It Publish Q2 FY27 Financial Results in Newspapers? - Kalkine India |
-| **NSE:BCPL**<br>BCPL Railway Infrastructure Ltd | ₹64.03 | -1.05% | 1 | Bullish | Low | Bcpl Railway Infrastructure wins Rs 18.63 crore work order from Eastern Railway for Kalyani-Ranaghat line - scanx.trade |
-| **NSE:ORIENTLTD**<br>Oriental Rail Infrastructure Ltd | ₹117.9 | +2.3% | 1 | Neutral | Low | Oriental Rail Infrastructure Limited (ORIRAIL.NS) stock price, news, quote and history - Yahoo Finance UK |
-| **NSE:SKIPPER**<br>Skipper Ltd | ₹487 | -0.22% | 1 | Neutral | Low | Adisoft Technologies Ltd (ADISOFT) Share Price - Business Today |
-| **NSE:CONART**<br>Conart Engineers Ltd | ₹86 | -3.77% | 0 | Neutral | Low | No major developments in the last 7 days. |
-| **NSE:LIKHITHA**<br>Likhitha Infrastructure Ltd | ₹197.83 | -0.04% | 0 | Neutral | Low | No major developments in the last 7 days. |
+| Stock | News Count | Sentiment | Risk Level | Most Important Development |
+| :--- | :---: | :---: | :---: | :--- |
+| **NSE:BBOX**<br>Black Box Limited | 3 | Neutral | Low | Black Box Q2FY27 Results: Net profit rises 31% YoY to ₹73 crore - scanx.trade |
+| **NSE:BSE**<br>BSE Limited | 3 | Bullish | Low | BSE Limited (BSE.NS) Stock Price, News, Quote & History - Yahoo! Finance Canada |
+| **NSE:BSOFT**<br>Birlasoft Limited | 3 | Bearish | Medium | Birlasoft wants to measure skills by deployment, not learning hours - HR Katha |
+| **NSE:CDSL**<br>Central Depository Services (India) Limited | 3 | Neutral | Low | CDSL’s Consol Income, Net Profit Grow 15% YoY - https://www.fintechbiznews.com/ |
+| **NSE:CEIGALL**<br>Ceigall India Ltd | 3 | Bullish | Low | Ceigall India wins Rs 684 crore work order from NHAI for Haryana highway - scanx.trade |
+| **NSE:DCI**<br>Datamatics Global Services Limited | 3 | Bullish | Low | Datamatics named Major Contender in Everest Group FAS PEAK Matrix 2026 - scanx.trade |
+| **NSE:EMBDL**<br>Embassy Developments Ltd | 3 | Bearish | Medium | Embassy Developments Launches ₹1,400 Crore Luxury Residential Project in Bengaluru; Shares Fall Nearly 1.8% - HDFC Sky |
+| **NSE:EMSLIMITED**<br>EMS Ltd | 3 | Bullish | Low | EMSLIMITED Share Price Today - EMS on NSE/BSE - scanx.trade |
+| **NSE:HUDCO**<br>Housing and Urban Development Corporation Limited | 3 | Bearish | Medium | HUDCO Share Price Fall: Large Cap Housing Finance Update - Univest |
+| **NSE:IOC**<br>Indian Oil Corporation Ltd | 3 | Neutral | Low | Indian Oil Share Price - Live NSE: IOC Stock Price & Chart - Upstox |
+| **NSE:IRCON**<br>Ircon International Ltd | 3 | Bullish | Low | Top 9 Railway Stocks Of India In November 2026 - Samco |
+| **NSE:IREDA**<br>Indian Renewable Energy Development Agency Ltd | 3 | Bullish | Low | IREDA Share Price - Upstox |
+| **NSE:ITC**<br>ITC Ltd | 3 | Neutral | Low | ITC Share Price - Upstox |
+| **NSE:JIOFIN**<br>Jio Financial Services Limited | 3 | Neutral | Low | JIO Finance Share Price - Live NSE: JIOFIN Stock Price & Chart - Upstox |
+| **NSE:NHPC**<br>NHPC Ltd | 3 | Neutral | Low | NHPC Share Price - Upstox |
+| **NSE:OLECTRA**<br>Olectra Greentech Ltd | 3 | Bullish | Low | Olectra Greentech Q2FY27 results: Net profit up 6.8% to ₹52.9 crore - scanx.trade |
+| **NSE:ORIENTTECH**<br>Orient Technologies Limited | 3 | Bullish | Low | Orient Technologies wins Rs 30.81 crore work order from The New India Assurance Company Limited - scanx.trade |
+| **NSE:PNGJL**<br>P N Gadgil Jewellers Ltd | 3 | Bullish | Low | P N GADGIL JEWELLERS LTD Share Price - Live NSE: PNGJL Stock Price & Chart - Upstox |
+| **NSE:POONAWALLA**<br>Poonawalla Fincorp Limited | 3 | Bullish | Low | JM Financial hikes target price of Poonawalla Fincorp; sees 24% upside - The Economic Times |
+| **NSE:RAILTEL**<br>RailTel Corporation of India Ltd | 3 | Bullish | Low | Railtel Corp of India Share Price - Upstox |
+| **NSE:RELIANCE**<br>Reliance Industries Ltd | 3 | Neutral | Low | Reliance Industries Limited (RELIANCE.NS) stock price, news, quote and history - Yahoo Finance Singapore |
+| **NSE:SJVN**<br>SJVN Ltd | 3 | Bearish | Medium | SJVN Limited Brings Buxar Plant to Full 1,320 MW Operation - Multibagg AI |
+| **NSE:SWSOLAR**<br>Sterling and Wilson Renewable Energy Ltd | 3 | Neutral | Low | Green Stocks Nov 18: Most Stocks Slip as Select Players Defy the Trend - Saur Energy |
+| **NSE:TATAMOTORS**<br>Tata Motors Ltd | 3 | Bullish | Low | Tata Motors PV shares plunge 9% after Q2 results; brokerages cut target - Business Standard |
+| **NSE:TATAPOWER**<br>Tata Power Company Ltd | 3 | Bullish | Low | The Tata Power Company Limited (TATAPOWER.BO) stock price, news, quote and history - Yahoo Finance Singapore |
+| **NSE:TATATECH**<br>Tata Technologies Ltd | 3 | Bullish | Low | Tata Technologies Share Price - Live NSE: TATATECH Stock Price & Chart - Upstox |
+| **NSE:TEMBO**<br>Tembo Global Industries Ltd | 3 | Neutral | Low | Tembo Global Industries EBITDA up 40% to ₹86 crore in H1FY27 - scanx.trade |
+| **NSE:TITAGARH**<br>Titagarh Rail Systems Ltd | 3 | Bullish | Low | Titagarh Rail Systems Secures ₹65.38 Crore Order from Chittaranjan Locomotive Works for New Traction Motors - Kotak Neo |
+| **NSE:WAAREERTL**<br>Waaree Renewable Technologies Ltd | 3 | Bearish | Medium | Waaree Renewable Technologies Profit Falls 30% Despite Sales Gain - Multibagg AI |
+| **NSE:WELSPUNLIV**<br>Welspun Living Ltd | 3 | Neutral | Low | Welspun India Share Price - Live NSE: WELSPUNLIV Stock Price & Chart - Upstox |
+| **NSE:ADCINDIA**<br>ADC India Communications Ltd | 2 | Neutral | Low | ADC India Communications appoints Lavanya Ashok as independent director - scanx.trade |
+| **NSE:PPL**<br>Prakash Pipes Ltd | 2 | Neutral | Low | Prakash Pipes Ltd is Rated Hold by MarketsMOJO - MarketsMojo |
+| **NSE:VPRPL**<br>Vishnu Prakash R Punglia Ltd | 2 | Neutral | Low | Vishnu Prakash R Punglia (NSE:VPRPL): Did It Publish Q2 FY27 Financial Results in Newspapers? - Kalkine India |
+| **NSE:BCPL**<br>BCPL Railway Infrastructure Ltd | 1 | Bullish | Low | Bcpl Railway Infrastructure wins Rs 18.63 crore work order from Eastern Railway for Kalyani-Ranaghat line - scanx.trade |
+| **NSE:ORIENTLTD**<br>Oriental Rail Infrastructure Ltd | 1 | Neutral | Low | Oriental Rail Infrastructure Limited (ORIRAIL.NS) stock price, news, quote and history - Yahoo Finance UK |
+| **NSE:SKIPPER**<br>Skipper Ltd | 1 | Neutral | Low | Adisoft Technologies Ltd (ADISOFT) Share Price - Business Today |
+| **NSE:CONART**<br>Conart Engineers Ltd | 0 | Neutral | Low | No major developments in the last 7 days. |
+| **NSE:LIKHITHA**<br>Likhitha Infrastructure Ltd | 0 | Neutral | Low | No major developments in the last 7 days. |
 
 ---
 

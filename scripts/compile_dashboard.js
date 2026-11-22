@@ -90,8 +90,8 @@ function compile() {
   md += `**Retention Policy:** Rolling 7-day active window with live market data & verified media links.  \n`;
   md += `**Analyst:** Buy-Side Equity Research Unit (JETRO CANVAS Style Format)\n\n---\n\n`;
   md += `## 1. PORTFOLIO DASHBOARD\n\n`;
-  md += `| Stock | Live LTP (₹) | Day Change | News (7D) | Sentiment | Risk Level | Most Important Development |\n`;
-  md += `| :--- | :---: | :---: | :---: | :---: | :---: | :--- |\n`;
+  md += `| Stock | News Count | Sentiment | Risk Level | Most Important Development |\n`;
+  md += `| :--- | :---: | :---: | :---: | :--- |\n`;
 
   const sortedList = [...stockList].sort((a, b) => {
     if (b.developments.length !== a.developments.length) return b.developments.length - a.developments.length;
@@ -99,9 +99,8 @@ function compile() {
   });
 
   for (const s of sortedList) {
-    const changeSign = s.change_percent >= 0 ? `+${s.change_percent}%` : `${s.change_percent}%`;
     const devText = s.developments.length > 0 ? s.developments[0].headline : "No major developments in the last 7 days.";
-    md += `| **${s.ticker}**<br>${s.name} | ₹${s.ltp} | ${changeSign} | ${s.developments.length} | ${s.sentiment} | ${s.risk_level} | ${devText} |\n`;
+    md += `| **${s.ticker}**<br>${s.name} | ${s.developments.length} | ${s.sentiment} | ${s.risk_level} | ${devText} |\n`;
   }
 
   md += `\n---\n\n## 2. INDIVIDUAL STOCK INTELLIGENCE REPORTS\n\n`;

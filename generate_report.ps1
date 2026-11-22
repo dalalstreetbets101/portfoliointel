@@ -153,8 +153,8 @@ $md = @"
 
 ## 1. PORTFOLIO DASHBOARD
 
-| Stock | Live LTP (₹) | Day Change | News (7D) | Sentiment | Risk Level | Most Important Development |
-| :--- | :---: | :---: | :---: | :---: | :---: | :--- |
+| Stock | News Count | Sentiment | Risk Level | Most Important Development |
+| :--- | :---: | :---: | :---: | :--- |
 "@
 
 # Sort portfolio: Stocks with news first (by score/date), then alphabetically
@@ -163,8 +163,7 @@ $sortedPortfolio = $portfolio | Sort-Object -Property @{Expression={$_.NewsCount
 foreach ($stock in $sortedPortfolio) {
     $sentimentBadge = $stock.Sentiment
     $riskBadge = $stock.RiskLevel
-    $changeSign = if ($stock.ChangePercent -ge 0) { "+$($stock.ChangePercent)%" } else { "$($stock.ChangePercent)%" }
-    $md += "`n| **$($stock.Ticker)**<br>$($stock.Name) | ₹$($stock.LTP) | $changeSign | $($stock.NewsCount) | $sentimentBadge | $riskBadge | $($stock.KeyDev) |"
+    $md += "`n| **$($stock.Ticker)**<br>$($stock.Name) | $($stock.NewsCount) | $sentimentBadge | $riskBadge | $($stock.KeyDev) |"
 }
 
 $md += "`n`n---`n`n## 2. SECTOR DASHBOARD`n`n"
