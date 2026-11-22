@@ -36,7 +36,7 @@
             </li>
         </ul>
         
-        <div style="margin-top: auto; font-size: 0.75rem; color: var(--text-muted); text-align: center; border-top: 1px solid var(--border-color); padding-top: 1.5rem;">
+        <div class="sidebar-footer-date" style="margin-top: auto; font-size: 0.75rem; color: var(--text-muted); text-align: center; border-top: 1px solid var(--border-color); padding-top: 1.5rem;">
             Database Refreshed:<br>
             <strong id="db-refresh-date">June 11, 2026</strong>
         </div>
@@ -141,6 +141,14 @@
                 </div>
             </div>
 
+            <!-- Mobile Scroll Hint -->
+            <div class="mobile-scroll-hint">
+                <svg width="14" height="14" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4" />
+                </svg>
+                <span>Swipe left/right to view all columns</span>
+            </div>
+
             <!-- Table -->
             <div class="table-container">
                 <table class="portfolio-table">
@@ -173,9 +181,9 @@
         <div id="explorer-tab" class="tab-content">
             
             <!-- Stock Select Menu -->
-            <div style="background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 12px; padding: 1.25rem 1.5rem; margin-bottom: 2rem; display: flex; align-items: center; justify-content: space-between; backdrop-filter: blur(10px);">
-                <div style="font-size: 1.05rem; font-weight: 600;">Select Ticker for JETRO Canvas Analysis:</div>
-                <select id="stock-selector" class="filter-select" style="min-width: 320px; font-weight: 600; border-color: var(--accent);">
+            <div class="canvas-selector-bar">
+                <div class="canvas-selector-label" style="font-size: 1.05rem; font-weight: 600;">Select Ticker for JETRO Canvas Analysis:</div>
+                <select id="stock-selector" class="filter-select canvas-select" style="font-weight: 600; border-color: var(--accent);">
                     <!-- Rendered by app.js -->
                 </select>
             </div>

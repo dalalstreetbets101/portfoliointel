@@ -799,7 +799,31 @@ header {
     color: #fff;
 }
 
-/* Responsive Overrides */
+/* Base Mobile Scroll Hint & Canvas Selector */
+.mobile-scroll-hint {
+    display: none;
+}
+
+.canvas-selector-bar {
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 1.25rem 1.5rem;
+    margin-bottom: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    backdrop-filter: blur(10px);
+    gap: 1rem;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.canvas-selector-bar .canvas-select {
+    min-width: 320px;
+}
+
+/* Responsive Overrides & Mobile-First Optimization */
 @media (max-width: 1200px) {
     .canvas-grid {
         grid-template-columns: repeat(2, 1fr);
@@ -820,28 +844,35 @@ header {
         width: 100%;
         height: auto;
         position: relative;
-        padding: 1.5rem;
+        padding: 1.25rem 1.5rem;
         border-right: none;
         border-bottom: 1px solid var(--border-color);
     }
     .logo-container {
-        margin-bottom: 1.5rem;
+        margin-bottom: 1rem;
     }
     .nav-menu {
         flex-direction: row;
         overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+    }
+    .nav-menu::-webkit-scrollbar {
+        display: none;
     }
     .main-content {
         margin-left: 0;
         width: 100%;
         max-width: 100%;
-        padding: 1.25rem;
+        padding: 1.5rem;
+        height: auto;
+        overflow-y: visible;
         box-sizing: border-box;
         min-width: 0;
     }
     .portfolio-table {
         table-layout: auto;
-        min-width: 650px;
+        min-width: 660px;
     }
     .portfolio-table th.col-ticker,
     .portfolio-table th.col-company,
@@ -867,21 +898,282 @@ header {
     }
 }
 
-@media (max-width: 600px) {
+/* Mobile Devices (Tablets, Large Phones, Smartphones) */
+@media (max-width: 768px) {
+    .sidebar {
+        position: sticky;
+        top: 0;
+        z-index: 1000;
+        padding: 0.75rem 1rem;
+        background: rgba(5, 7, 12, 0.95);
+        backdrop-filter: blur(25px);
+        gap: 0.65rem;
+    }
+    .logo-container {
+        margin-bottom: 0;
+    }
+    .sidebar-footer-date {
+        display: none !important;
+    }
+    .nav-menu {
+        gap: 0.5rem;
+        padding-bottom: 2px;
+    }
+    .nav-item {
+        padding: 0.5rem 0.85rem;
+        font-size: 0.82rem;
+        white-space: nowrap;
+        border-radius: 8px;
+        flex-shrink: 0;
+    }
+    .nav-item svg {
+        width: 16px;
+        height: 16px;
+        margin-right: 0.4rem;
+    }
+    .main-content {
+        padding: 1.15rem 0.85rem;
+    }
+    header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.65rem;
+        margin-bottom: 1.25rem;
+    }
+    .header-title h1 {
+        font-size: 1.5rem;
+        line-height: 1.25;
+        letter-spacing: -0.3px;
+    }
+    .header-title p {
+        font-size: 0.82rem;
+        line-height: 1.35;
+    }
+    #system-health-badge {
+        font-size: 0.74rem;
+        padding: 0.35rem 0.75rem;
+        align-self: flex-start;
+    }
     .stats-grid {
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0.65rem;
+        margin-bottom: 1.25rem;
     }
-    .canvas-grid {
-        grid-template-columns: 1fr;
+    .stat-card {
+        padding: 0.85rem;
+        min-height: 80px;
+        border-radius: 12px;
     }
-    .canvas-grid .canvas-block:last-child {
-        grid-column: span 1;
+    .stat-label {
+        font-size: 0.7rem;
+        letter-spacing: 0.5px;
     }
-    .sector-dimension-grid {
+    .stat-value {
+        font-size: 1.65rem;
+        margin-top: 0.25rem;
+    }
+    .double-panel {
         grid-template-columns: 1fr;
+        gap: 1rem;
+        margin-bottom: 1.5rem;
+    }
+    .panel-card {
+        padding: 1.1rem;
+        border-radius: 14px;
+    }
+    .panel-title {
+        font-size: 1.05rem;
+        margin-bottom: 0.85rem;
+    }
+    .news-item {
+        gap: 0.5rem;
+    }
+    .news-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.35rem;
+    }
+    .news-headline {
+        font-size: 0.88rem;
+        line-height: 1.4;
+    }
+    .news-explanation {
+        font-size: 0.78rem;
+        line-height: 1.45;
     }
     .filter-bar {
+        padding: 0.85rem;
+        gap: 0.65rem;
+        border-radius: 12px;
+        margin-bottom: 1rem;
+    }
+    .search-wrapper {
+        width: 100%;
+    }
+    .search-input {
+        font-size: 0.85rem;
+        padding: 0.6rem 0.75rem 0.6rem 2.25rem;
+    }
+    .filter-group {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .filter-label {
+        font-size: 0.75rem;
+        min-width: 65px;
+    }
+    .filter-select {
+        flex-grow: 1;
+        font-size: 0.82rem;
+        padding: 0.55rem 1.75rem 0.55rem 0.75rem;
+    }
+    .mobile-scroll-hint {
+        display: flex;
+        align-items: center;
+        gap: 0.4rem;
+        font-size: 0.74rem;
+        color: #818cf8;
+        background: rgba(99, 102, 241, 0.1);
+        border: 1px solid rgba(99, 102, 241, 0.2);
+        padding: 0.4rem 0.75rem;
+        border-radius: 6px;
+        margin-bottom: 0.5rem;
+    }
+    .table-container {
+        border-radius: 12px;
+        width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: thin;
+    }
+    .portfolio-table {
+        min-width: 680px;
+        table-layout: auto;
+    }
+    .portfolio-table th {
+        padding: 0.75rem 0.65rem;
+        font-size: 0.72rem;
+        white-space: nowrap;
+    }
+    .portfolio-table td {
+        padding: 0.8rem 0.65rem;
+        font-size: 0.82rem;
+    }
+    .ticker-badge {
+        font-size: 0.74rem;
+        padding: 0.15rem 0.4rem;
+    }
+    .company-name-cell {
+        font-size: 0.82rem;
+    }
+    .company-sector {
+        font-size: 0.7rem;
+    }
+    .category-badge {
+        font-size: 0.68rem;
+        padding: 0.1rem 0.35rem;
+    }
+    .date-badge {
+        font-size: 0.7rem;
+        padding: 0.1rem 0.35rem;
+    }
+    .portfolio-table td.key-dev-cell {
+        font-size: 0.8rem;
+        min-width: 270px;
+        white-space: normal !important;
+    }
+    .canvas-selector-bar {
         flex-direction: column;
         align-items: stretch;
+        padding: 1rem;
+        gap: 0.65rem;
+        margin-bottom: 1.25rem;
+    }
+    .canvas-selector-label {
+        font-size: 0.92rem;
+    }
+    .canvas-selector-bar .canvas-select {
+        width: 100% !important;
+        min-width: 0 !important;
+    }
+    .stock-badges {
+        flex-wrap: wrap;
+        gap: 0.45rem;
+    }
+    #profile-ticker {
+        font-size: 1.55rem !important;
+    }
+    #profile-name {
+        font-size: 1.05rem !important;
+    }
+    .canvas-grid {
+        grid-template-columns: 1fr !important;
+        gap: 0.85rem !important;
+    }
+    .canvas-block {
+        padding: 1rem !important;
+        border-radius: 12px !important;
+    }
+    .canvas-block-content {
+        font-size: 0.82rem !important;
+        line-height: 1.5 !important;
+    }
+    .sector-grid {
+        grid-template-columns: 1fr !important;
+        gap: 1rem !important;
+    }
+    .sector-card {
+        padding: 1.15rem !important;
+        border-radius: 12px !important;
+    }
+    .sector-dimension-grid {
+        grid-template-columns: 1fr !important;
+        gap: 0.5rem !important;
+    }
+}
+
+/* Small Smartphone Optimization (< 480px) */
+@media (max-width: 480px) {
+    .main-content {
+        padding: 0.85rem 0.65rem;
+    }
+    .header-title h1 {
+        font-size: 1.32rem;
+    }
+    .header-title p {
+        font-size: 0.78rem;
+    }
+    .stat-card {
+        padding: 0.75rem;
+        min-height: 72px;
+    }
+    .stat-value {
+        font-size: 1.45rem;
+    }
+    .stat-label {
+        font-size: 0.68rem;
+    }
+    .filter-bar {
+        padding: 0.75rem;
+        gap: 0.5rem;
+    }
+    .filter-group {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 0.25rem;
+    }
+    .filter-label {
+        font-size: 0.72rem;
+    }
+    #profile-ticker {
+        font-size: 1.35rem !important;
+    }
+    #profile-name {
+        font-size: 0.95rem !important;
+    }
+    .canvas-block {
+        padding: 0.85rem !important;
     }
 }
