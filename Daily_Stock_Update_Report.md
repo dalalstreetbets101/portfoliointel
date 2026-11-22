@@ -10,43 +10,48 @@
 | Stock | News Count | Sentiment | Risk Level | Most Important Development |
 | :--- | :---: | :---: | :---: | :--- |
 | **NSE:BBOX**<br>Black Box Limited | 3 | Neutral | Low | Black Box Q2FY27 Results: Net profit rises 31% YoY to ₹73 crore - scanx.trade |
-| **NSE:BSE**<br>BSE Limited | 3 | Bullish | Low | BSE Limited (BSE.NS) Stock Price, News, Quote & History - Yahoo! Finance Canada |
-| **NSE:BSOFT**<br>Birlasoft Limited | 3 | Bearish | Medium | Birlasoft wants to measure skills by deployment, not learning hours - HR Katha |
 | **NSE:CDSL**<br>Central Depository Services (India) Limited | 3 | Neutral | Low | CDSL’s Consol Income, Net Profit Grow 15% YoY - https://www.fintechbiznews.com/ |
-| **NSE:CEIGALL**<br>Ceigall India Ltd | 3 | Bullish | Low | Ceigall India wins Rs 684 crore work order from NHAI for Haryana highway - scanx.trade |
-| **NSE:DCI**<br>Datamatics Global Services Limited | 3 | Bullish | Low | Datamatics named Major Contender in Everest Group FAS PEAK Matrix 2026 - scanx.trade |
 | **NSE:EMBDL**<br>Embassy Developments Ltd | 3 | Bearish | Medium | Embassy Developments Launches ₹1,400 Crore Luxury Residential Project in Bengaluru; Shares Fall Nearly 1.8% - HDFC Sky |
 | **NSE:EMSLIMITED**<br>EMS Ltd | 3 | Bullish | Low | EMSLIMITED Share Price Today - EMS on NSE/BSE - scanx.trade |
 | **NSE:HUDCO**<br>Housing and Urban Development Corporation Limited | 3 | Bearish | Medium | HUDCO Share Price Fall: Large Cap Housing Finance Update - Univest |
+| **NSE:INFY**<br>Infosys Limited | 3 | Neutral | Low | Infosys Share Price - Live NSE: INFY Stock Price & Chart - Upstox |
 | **NSE:IOC**<br>Indian Oil Corporation Ltd | 3 | Neutral | Low | Indian Oil Share Price - Live NSE: IOC Stock Price & Chart - Upstox |
 | **NSE:IRCON**<br>Ircon International Ltd | 3 | Bullish | Low | Top 9 Railway Stocks Of India In November 2026 - Samco |
 | **NSE:IREDA**<br>Indian Renewable Energy Development Agency Ltd | 3 | Bullish | Low | IREDA Share Price - Upstox |
-| **NSE:ITC**<br>ITC Ltd | 3 | Neutral | Low | ITC Share Price - Upstox |
 | **NSE:JIOFIN**<br>Jio Financial Services Limited | 3 | Neutral | Low | JIO Finance Share Price - Live NSE: JIOFIN Stock Price & Chart - Upstox |
 | **NSE:NHPC**<br>NHPC Ltd | 3 | Neutral | Low | NHPC Share Price - Upstox |
 | **NSE:OLECTRA**<br>Olectra Greentech Ltd | 3 | Bullish | Low | Olectra Greentech Q2FY27 results: Net profit up 6.8% to ₹52.9 crore - scanx.trade |
 | **NSE:ORIENTTECH**<br>Orient Technologies Limited | 3 | Bullish | Low | Orient Technologies wins Rs 30.81 crore work order from The New India Assurance Company Limited - scanx.trade |
 | **NSE:PNGJL**<br>P N Gadgil Jewellers Ltd | 3 | Bullish | Low | P N GADGIL JEWELLERS LTD Share Price - Live NSE: PNGJL Stock Price & Chart - Upstox |
-| **NSE:POONAWALLA**<br>Poonawalla Fincorp Limited | 3 | Bullish | Low | JM Financial hikes target price of Poonawalla Fincorp; sees 24% upside - The Economic Times |
 | **NSE:RAILTEL**<br>RailTel Corporation of India Ltd | 3 | Bullish | Low | Railtel Corp of India Share Price - Upstox |
 | **NSE:RELIANCE**<br>Reliance Industries Ltd | 3 | Neutral | Low | Reliance Industries Limited (RELIANCE.NS) stock price, news, quote and history - Yahoo Finance Singapore |
+| **NSE:SBIN**<br>State Bank of India | 3 | Neutral | Low | SBI Share Price - Live NSE: SBIN Stock Price & Chart - Upstox |
 | **NSE:SJVN**<br>SJVN Ltd | 3 | Bearish | Medium | SJVN Limited Brings Buxar Plant to Full 1,320 MW Operation - Multibagg AI |
 | **NSE:SWSOLAR**<br>Sterling and Wilson Renewable Energy Ltd | 3 | Neutral | Low | Green Stocks Nov 18: Most Stocks Slip as Select Players Defy the Trend - Saur Energy |
-| **NSE:TATAMOTORS**<br>Tata Motors Ltd | 3 | Bullish | Low | Tata Motors PV shares plunge 9% after Q2 results; brokerages cut target - Business Standard |
 | **NSE:TATAPOWER**<br>Tata Power Company Ltd | 3 | Bullish | Low | The Tata Power Company Limited (TATAPOWER.BO) stock price, news, quote and history - Yahoo Finance Singapore |
 | **NSE:TATATECH**<br>Tata Technologies Ltd | 3 | Bullish | Low | Tata Technologies Share Price - Live NSE: TATATECH Stock Price & Chart - Upstox |
+| **NSE:TCS**<br>Tata Consultancy Services Limited | 3 | Neutral | Low | TCS Share Price Today - Tata Consultancy Services on NSE/BSE - scanx.trade |
 | **NSE:TEMBO**<br>Tembo Global Industries Ltd | 3 | Neutral | Low | Tembo Global Industries EBITDA up 40% to ₹86 crore in H1FY27 - scanx.trade |
 | **NSE:TITAGARH**<br>Titagarh Rail Systems Ltd | 3 | Bullish | Low | Titagarh Rail Systems Secures ₹65.38 Crore Order from Chittaranjan Locomotive Works for New Traction Motors - Kotak Neo |
+| **NSE:TMCV**<br>Tata Motors Commercial Vehicles Ltd | 3 | Neutral | Low | Tata Motors Limited (TMCV.NS) stock price, news, quote and history - Yahoo Finance UK |
+| **NSE:TMPV**<br>Tata Motors Passenger Vehicles Ltd | 3 | Bullish | Low | Tata Motors PV shares plunge 9% after Q2 results; brokerages cut target - Business Standard |
 | **NSE:WAAREERTL**<br>Waaree Renewable Technologies Ltd | 3 | Bearish | Medium | Waaree Renewable Technologies Profit Falls 30% Despite Sales Gain - Multibagg AI |
 | **NSE:WELSPUNLIV**<br>Welspun Living Ltd | 3 | Neutral | Low | Welspun India Share Price - Live NSE: WELSPUNLIV Stock Price & Chart - Upstox |
 | **NSE:ADCINDIA**<br>ADC India Communications Ltd | 2 | Neutral | Low | ADC India Communications appoints Lavanya Ashok as independent director - scanx.trade |
 | **NSE:PPL**<br>Prakash Pipes Ltd | 2 | Neutral | Low | Prakash Pipes Ltd is Rated Hold by MarketsMOJO - MarketsMojo |
-| **NSE:VPRPL**<br>Vishnu Prakash R Punglia Ltd | 2 | Neutral | Low | Vishnu Prakash R Punglia (NSE:VPRPL): Did It Publish Q2 FY27 Financial Results in Newspapers? - Kalkine India |
 | **NSE:BCPL**<br>BCPL Railway Infrastructure Ltd | 1 | Bullish | Low | Bcpl Railway Infrastructure wins Rs 18.63 crore work order from Eastern Railway for Kalyani-Ranaghat line - scanx.trade |
-| **NSE:ORIENTLTD**<br>Oriental Rail Infrastructure Ltd | 1 | Neutral | Low | Oriental Rail Infrastructure Limited (ORIRAIL.NS) stock price, news, quote and history - Yahoo Finance UK |
 | **NSE:SKIPPER**<br>Skipper Ltd | 1 | Neutral | Low | Adisoft Technologies Ltd (ADISOFT) Share Price - Business Today |
+| **NSE:BSE**<br>BSE Limited | 0 | Neutral | Low | No major developments in the last 7 days. |
+| **NSE:BSOFT**<br>Birlasoft Limited | 0 | Neutral | Low | No major developments in the last 7 days. |
+| **NSE:CEIGALL**<br>Ceigall India Ltd | 0 | Neutral | Low | No major developments in the last 7 days. |
 | **NSE:CONART**<br>Conart Engineers Ltd | 0 | Neutral | Low | No major developments in the last 7 days. |
+| **NSE:DCI**<br>DC Infotech and Communication Limited | 0 | Neutral | Low | No major developments in the last 7 days. |
+| **NSE:HDFCBANK**<br>HDFC Bank Limited | 0 | Neutral | Low | No major developments in the last 7 days. |
+| **NSE:ITC**<br>ITC Ltd | 0 | Neutral | Low | No major developments in the last 7 days. |
 | **NSE:LIKHITHA**<br>Likhitha Infrastructure Ltd | 0 | Neutral | Low | No major developments in the last 7 days. |
+| **NSE:ORIRAIL**<br>Oriental Rail Infrastructure Ltd | 0 | Neutral | Low | No major developments in the last 7 days. |
+| **NSE:POONAWALLA**<br>Poonawalla Fincorp Limited | 0 | Neutral | Low | No major developments in the last 7 days. |
+| **NSE:VPRPL**<br>Vishnu Prakash R Punglia Ltd | 0 | Neutral | Low | No major developments in the last 7 days. |
 
 ---
 
@@ -108,51 +113,13 @@
 
 ### Ticker: NSE:BSE - Name: BSE Limited (LTP: ₹3781)
 
-**A. News Summary:**
-- **Headline:** BSE Limited (BSE.NS) Stock Price, News, Quote & History - Yahoo! Finance Canada
-- **Date:** 2026-11-20 | **Source:** [Yahoo! Finance Canada](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LdFRtM1NDSmZkcXlWeS1IaENDSjE5d1JSNGZWRzk5aG56LTM5YlpLME9sbEVydVJ4YTNJUTllM01HOFRON3Zkc3VQakg0clNfU0IzYQ?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by Yahoo! Finance Canada on 2026-11-20. Market participant positioning reflects recent corporate updates.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-
-**A. News Summary:**
-- **Headline:** BSE Share Price - Live NSE: BSE Stock Price & Chart - Upstox
-- **Date:** 2026-11-19 | **Source:** [Upstox](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTnN6TVlhQ29TZ05VSFcxRWpEeUY5TWpBNUhXTm1OYldOWGZqOUNlOWdpSDhJMFdISmdPQjcyV1FIalhzdHRYSzhMZGpVZDlGb3RjSVJPRDg3Tnhadm5r?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by Upstox on 2026-11-19. Market participant positioning reflects recent corporate updates.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-
-**A. News Summary:**
-- **Headline:** BSE Gets US Regulatory Clearance for BANKEX Futures, Allowing American Investors Access to Indian Banking Index - Kotak Neo
-- **Date:** 2026-11-16 | **Source:** [Kotak Neo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOW9tN1U4ZEZaSjl1Q0dOdnlZR3h0TWNPR0ZvWUY2dWVsNW05VlZJSzRuR2dRaC1tMTY5ZDNLWHQ4Z3hRMVc0bHJFNGNZbjdkZzlZbW9HSmtWRXIyVkRBZlFpMWFaNlNXRjRkRzZhZUZjY3lSa2ItY1A5YTZMcDhWUzROYnJua1VKeVhIOHFDUE8ybHY2cV85eFVQU1N0bjdveF9TTEh4OFU0QQ?oc=5)
-- **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by Kotak Neo on 2026-11-16. Market participant positioning reflects recent corporate updates.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+> **News Status:** No direct company news reported in the last 7 days. Stale developments older than 1 week are automatically archived/purged.
 
 ---
 
 ### Ticker: NSE:BSOFT - Name: Birlasoft Limited (LTP: ₹303.7)
 
-**A. News Summary:**
-- **Headline:** Birlasoft wants to measure skills by deployment, not learning hours - HR Katha
-- **Date:** 2026-11-17 | **Source:** [HR Katha](https://news.google.com/rss/articles/CBMiogFBVV95cUxONEozX0F0d1NKNW9DTHVkSXpYR2lLZmFRTkpmdmNzZEV3bVozY1E0VUZuVEpYSXpncEdRUFlqUnNLbTJoODRNOHg4YmF0RG42Q0JKOGstek9PQ2ZCWUpUYTJ2clhsYXJHSHBSU2tWOE9iNDNPaXV1NEJiT1FZank4YlRKMW5tRjY4TWtaN1ZCZ015Z0xERER4T0dfb0NJbmh4Nmc?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by HR Katha on 2026-11-17. Market participant positioning reflects recent corporate updates.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-
-**A. News Summary:**
-- **Headline:** Zee Business. . Stock In Action BirlaSoft और Coforge में शानदार तेजी, आगे क्या? NSE में जारी है मजबूती, क्या करें? Maruti और Hyundai ने कैसे किया कमाल? HDFC Bank क्यों बना रॉकेट? Union Bank में अभी भी खरीदार - Facebook
-- **Date:** 2026-11-20 | **Source:** [Facebook](https://news.google.com/rss/articles/CBMi1wRBVV95cUxQYk8wb2czVVFXMmRfeFV1cjR6anVHV25BMGlyc2NIbHVnNTUwbDdRNzltYkU1RGlZWDdVRDI0U3IzQllsQmxSallqYTZmazJ1MjVYS3VpZkN4RG1FejA0eVpPUEJMRUVHRHltd2k2ZFlxWDZvWHJIZk84ODUxNXM3Wkk0cnUtNVZRN1hUX2pObUxqVGZPdkdVbHgtN25DRTNzN0ZsbGVfc0c3bElPWks2dDk1aW1OQnhYMHljellIbHBiWEh2ZUxNT3dlVE5vQTRmMnBLODlrN1ktRjNSajVQd2lxLXROVGdMVm5ld3ZadU1MQzB0MnRwcDJQM3Mxa3dodlcxamhDZHpvNFlZRld1UW9YVk1yaFVDVDJrNHVMekttSlJzMVBpQlRHVW1MdzNjOHk4RFNOR1c2QVF0b1FackFOSXhTbVQ2Uk43YkVSUkxSblNWX3g3STRSVnRralBsM1dSOGJlX0ZDam9UQ2dwSk1rVkxfTnpsd2FoR1p1SXBVVllYM1VsVDNtZkhONjNRTy1Ja2xPVmpxN0E4S3Y0R01qVzBOTFpfNlV0YUszU2Rxa1p6ZFZSRHNuN25DS1k3NlktR3VoV0FLOHozb09UYW9taGlwUm43NlF1eGNrZjNyaE9ucXdzRDBZOGVoaTdmeF94N004NTJxWkZ3bVhzaDlaaHVWUDVJd29IZGpqaWd4RUZTNGk3eXZLTXZyZ3pmalJPRl93UHRXRnFWb09qSk1xVkdLTVJPdWZlN1ZSZHZ5X0VQbzE0TmI4WDN3SjJCSVROc2s3aw?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by Facebook on 2026-11-20. Market participant positioning reflects recent corporate updates.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-
-**A. News Summary:**
-- **Headline:** Did Birlasoft's Fall Catch You Out? What Investors Missed - Yahoo Finance
-- **Date:** 2026-11-18 | **Source:** [Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxPTl9LanRndGE0SzM3c1RuX2tEemZYVU10NDlDUnVZVzF3bFZXRG9nNFFaZjhUaVYtdndfT3hJWlR4WTJ4OE1vZEtYUk1ZUUQtRWJ0SERldUtTZS1NaWlmZ3plNVg4czFuMW9BeGU0SkNWVFp0b1FhLTVGVjZoQkZ5dXYxNXFSc2ltMFRpa1hCU1N3bDBBWXJiV0Q0X0QwRzl3ZUE?oc=5)
-- **Importance Score:** **7/10** | **Sentiment:** Bearish
-- **Short-Term Impact:** Reported by Yahoo Finance on 2026-11-18. Market participant positioning reflects recent corporate updates.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+> **News Status:** No direct company news reported in the last 7 days. Stale developments older than 1 week are automatically archived/purged.
 
 ---
 
@@ -183,26 +150,7 @@
 
 ### Ticker: NSE:CEIGALL - Name: Ceigall India Ltd (LTP: ₹379)
 
-**A. News Summary:**
-- **Headline:** Ceigall India wins Rs 684 crore work order from NHAI for Haryana highway - scanx.trade
-- **Date:** 2026-11-16 | **Source:** [scanx.trade](https://news.google.com/rss/articles/CBMivAFBVV95cUxOSDRIUDlaeFJqNm16azNkTjUyWWhnTHA4X2hsTDB1Z2xXY3lvTmRWcXEyYVp5S2R0RnppTTNMTUwyNE9sVzhwLXVkal8tb3BlLVFYbnVGZWM3Uzg4bHBBbE5CNHN3WENkalNoTmdjUnpITmN2MURLWS15cmNKbWJGbm00bDE2Nmt0X1FFN2QtQWpzUV9iWHJuQ3Y0OE1NdkFra0VmNTZMbFV4X0kwQkVQYWFYdVM4R0gxMHVzMg?oc=5)
-- **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by scanx.trade on 2026-11-16. Market participant positioning reflects recent corporate updates.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-
-**A. News Summary:**
-- **Headline:** Koninklijke Bam Groep NV (BGPA.HA) stock price, news, quote and history - Yahoo Finance UK
-- **Date:** 2026-11-20 | **Source:** [Yahoo Finance UK](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUSVg3WjRGaDNuWXFBR2VWM0c0TEJGWXlKaWZsTWotcWdFZ1BGNFc3eWFydTFtNDhSUTBiYWRQUzVsWUFHQ1lrTVRKcDFRWmdmVzFFNDNR?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by Yahoo Finance UK on 2026-11-20. Market participant positioning reflects recent corporate updates.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-
-**A. News Summary:**
-- **Headline:** Ceigall India Investor Analysis | StockIQ - The Economic Times
-- **Date:** 2026-11-21 | **Source:** [The Economic Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxQMFpOX2t2UHhGZHpOaFBTMk1tMWxoaGxXRjFSNVI1c2VqT0RSMm1OejBkXzQ2ZExXZ1BienhmVDBqVWZlYUgyNlQtdlV2ZVNrSHVtWWlfMzVyTjdiZXg3cmktcDBTN3h4c3JtS2Q3OGM1TnNxdnZ5SUdWaVVmUkZmUDZ5ZGp1NHFnQjhEMnlobkI?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by The Economic Times on 2026-11-21. Market participant positioning reflects recent corporate updates.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+> **News Status:** No direct company news reported in the last 7 days. Stale developments older than 1 week are automatically archived/purged.
 
 ---
 
@@ -212,28 +160,9 @@
 
 ---
 
-### Ticker: NSE:DCI - Name: Datamatics Global Services Limited (LTP: ₹691)
+### Ticker: NSE:DCI - Name: DC Infotech and Communication Limited (LTP: ₹379)
 
-**A. News Summary:**
-- **Headline:** Datamatics named Major Contender in Everest Group FAS PEAK Matrix 2026 - scanx.trade
-- **Date:** 2026-11-16 | **Source:** [scanx.trade](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSmdxd2FLUk9TYXc5NVVoYWpGMnBKeXZHc2Fka3gtZEhnYVJZdm9LcXVHRTdMYkgwVkxEWmVBbmt1TkJkZU9FZ0JDYUF0aVg2d0U5bVJPSzVwVU4wWEkwNVptbXFKbzNOZFZ1dHY4bVp2c1FMVllHWXQxV3MyaG16alpNVVNyRTEwMVl4VTlVRFFCZ1I2VVdGVV81Q1BsUDlhN1hBM1U0YWx2RU5wSTY4cGdxaXVjdUhUSTJHc0Q2Zl80Zw?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by scanx.trade on 2026-11-16. Market participant positioning reflects recent corporate updates.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-
-**A. News Summary:**
-- **Headline:** Datamatics Global Services Share Price Target: Rs 734 - Univest
-- **Date:** 2026-11-20 | **Source:** [Univest](https://news.google.com/rss/articles/CBMigAFBVV95cUxNeXpkRjhqLXNrUFR2QkF5Vks0NWU1T01RYWt3ZmF4UFBjSkVCMm5EQUQ4a3RFSHplak1YYkZzSFRJS3IxOHllSlRMRmZpTndPZWxaS0hBdWRsbG5IWEdHZnlzVDRkTnVJWVc3dy01N0dLZDVCOGNPU0wwRVN0bUloVg?oc=5)
-- **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by Univest on 2026-11-20. Market participant positioning reflects recent corporate updates.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-
-**A. News Summary:**
-- **Headline:** Datamatics Global Services Deploys AFC and Mobile Ticketing Systems for Mumbai Metro Lines 2B and 9 - scanx.trade
-- **Date:** 2026-11-21 | **Source:** [scanx.trade](https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNnVaTlNkcV83VnpkWTVoaWdHX2lROGV4M0l4dFh1bFNpR3JKbDZ4RFZ6TlExUjJNOVAtR2ppZGY5RDVRbjA5X1dpTTFXallxbkNFNWMxWXFwUHgyRFlpc2xhVDQ5aS01RjladFJ2ZThXQjZPVG1RdTVZWF9pVndIUWJNdTcyNmRVT2Y2RFpTd1ZqVHVTNG81aXdBWVBpNE8tVjdFZjhDTG1kVEd1X2hIWFdXNVZJMlpxNFBxY0JpcTRGMlZDR3lBZFV2emZlb0p2UVBSUFdGVVJDUC11cGUycmxPSFF5Y1lqMm9uZg?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by scanx.trade on 2026-11-21. Market participant positioning reflects recent corporate updates.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+> **News Status:** No direct company news reported in the last 7 days. Stale developments older than 1 week are automatically archived/purged.
 
 ---
 
@@ -287,6 +216,12 @@
 
 ---
 
+### Ticker: NSE:HDFCBANK - Name: HDFC Bank Limited (LTP: ₹846)
+
+> **News Status:** No direct company news reported in the last 7 days. Stale developments older than 1 week are automatically archived/purged.
+
+---
+
 ### Ticker: NSE:HUDCO - Name: Housing and Urban Development Corporation Limited (LTP: ₹162.05)
 
 **A. News Summary:**
@@ -308,6 +243,31 @@
 - **Date:** 2026-11-19 | **Source:** [Whispers in the Corridors](https://news.google.com/rss/articles/CBMihAFBVV95cUxNZVhzMHd3NzhTMmcyTjJXcXE4bE9JNzZzMUtEQnBHM3MydWdxa1RlSG1lQ2pFS2tyRzJKV0JUTlBmcWROSFpJQXRqNEtHeUxZeG1RdzduQTBJN0hOdWY3UkpiQ3R6OENnS3RVUDZJaGNSWEo5MUt4UERqRmtFUS1oYTVua2Y?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
 - **Short-Term Impact:** Reported by Whispers in the Corridors on 2026-11-19. Market participant positioning reflects recent corporate updates.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+
+---
+
+### Ticker: NSE:INFY - Name: Infosys Limited (LTP: ₹1098)
+
+**A. News Summary:**
+- **Headline:** Infosys Share Price - Live NSE: INFY Stock Price & Chart - Upstox
+- **Date:** 2026-11-20 | **Source:** [Upstox](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BbEJTdmZNbE5BN0ZRWWZpd2tZZnRCZWV0MFdhYW5nQ2NSSTgzUlI4TjVPaU5BV1FxQkpYUnFWa05Fb09uMkxlNDhUWVpvV2JLWGIxUmh3SUFKSzEwUHZpX1IyTVM?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by Upstox on 2026-11-20. Market participant positioning reflects recent corporate updates.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+
+**A. News Summary:**
+- **Headline:** INFY Option Chain: Live NSE Option Chain Data, OI & Price - Kotak Neo
+- **Date:** 2026-11-20 | **Source:** [Kotak Neo](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZE1QYTQzWmkxNUhSTzRvYkc5ajNGM3IzVmRJd0t2RTkybU9VdkdkTmxBLXZrX1FmaElkZXBEMHBqSFFabGNub1NQUjctSWhrSUlZNUdkVHVRR1d4WFJiTF9kTTJZem9IV2xDb19yVUpHQmlFWWI2aVhHTFhpeGxUa3Q0cUltMDBu?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by Kotak Neo on 2026-11-20. Market participant positioning reflects recent corporate updates.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+
+**A. News Summary:**
+- **Headline:** Infosys shares slides 2.5% despite Japan JV buzz; stock near 1 month low - BusinessLine
+- **Date:** 2026-11-19 | **Source:** [BusinessLine](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMmctTnFENGlwOGdmQmZycV8yU2R2UDVwSkNWT2xaN1l6Wi1zWmNXRkxrOTVHTWRzREd6OWJybl9mVjlKUE5GWUROWmYyd1FtY3ZuX0hYbXkyX19admtmMm1TZGVia3p5X29vM1NxX3lKMzBWM1duVUJYbUQxY0RzTFpfU2NvZmVKSGkweVVmN3ZjQXo3Si1JbFNLaVQ5ZGdTR3pQUi1rU2ptRGMwMkphejE2bE9tRGoyRGdUWkpWekIzWE91X3pvZXZTc2lTQmxlNV9DeUUtOFV0ZEhGSnpyeVBGdU9leFHSAe4BQVVfeXFMUGFXR09SYmZ6NjMxMGpBakFBbDkyQUdRdUFUS2ZVaVl4a28yU1VvS016SUFJVnRfS0RjdWtFY3c3VEpITXI2bUZlcGR3bHBlQTlwRHVpdHhSTkx5Z3h3WkRISXJoSHFQblNlWlVhS3JRN3RhV3JNb29UU01RdHJCQU1PU25uZnRnQ2dzVkQ1akNzU0FfNFJtR3FrODZQR1lQRVRuRllSaHhDMXU3bXhnanVSY1pZSUxyNmVtOFlZR1ZDR3ZrMzc3b1ZPeGNfRHl5QWdrT2owX0ZfR2Q4VThyQ3lXTFZabUlGUVlGVzZWUQ?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by BusinessLine on 2026-11-19. Market participant positioning reflects recent corporate updates.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 
 ---
@@ -389,26 +349,7 @@
 
 ### Ticker: NSE:ITC - Name: ITC Ltd (LTP: ₹299.1)
 
-**A. News Summary:**
-- **Headline:** ITC Share Price - Upstox
-- **Date:** 2026-11-20 | **Source:** [Upstox](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IMkRMcVVlTDVzbjFob3JsSlJPSWdHbFpvZjJyLTlwQnY4ejlneWdlUk01d1VMbnE2ejBSeWNvcXZuMnZWbklIeVM4UU5hcmMwendocGU1UmE1UQ?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by Upstox on 2026-11-20. Market participant positioning reflects recent corporate updates.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-
-**A. News Summary:**
-- **Headline:** ITC stock reclaims 200-DMA after a year; is it a rebound or fresh uptrend? - Business Standard
-- **Date:** 2026-11-17 | **Source:** [Business Standard](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTjVhS0pyQlpVdEVTM2xUbmlNS0M5RmNBUXRNSmpPNXI1aWRRTlhQcWZSN2x0NVE2Tzd5c3p1NWxWUXVUZDljUVdfN0g5clNOWG5HR2hOdWlPeGJxcC1Rb2hMbXNEa3B0Z29SanZobnB2cVloTEsxOW96RTV3azd6T0hBQVhUZ3dzcGF3WlNlQUZhTUhvT3dHcGViTFJESkRVSk1uZFczeEpVNVJidlVCMWxxazFEdXV3MEc0MGUtQTFJdlBjZ1lnRFEydFF5QWh5TlZjbjdETHlmaWNaMXJnTXBsU2I2WGxBRmJr0gHwAUFVX3lxTE1PSXFYMjdYdklGR1pPSGtnZ0hwbkdqVW1XRlo4QWpONE0xanlybW50Nm55Tmg5c3A1aFFwRXFwbWdyV1o4eXk4TDJlRlp6amxxYlRuTlBmbUdwMkFLay1WejFZZmhmVFc2STZFODNPdUpkUHNid1RhSV9TNzQ3SlBQSWl1aTRwd0FNbjB5VXB0TnFiVlM2ZzN0cVY4TTVHc3Q1RkNIajktMk5WUEd2aUQ1dVZwbFZDWFh1bFJpb1RycHZzYVJ2bl9RbzgtSENkYXRCU1lzYXVNVTJkS0FsTklEc1ZITEt1d0xPM1MwcU02Rw?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by Business Standard on 2026-11-17. Market participant positioning reflects recent corporate updates.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-
-**A. News Summary:**
-- **Headline:** ITC shares are on course for their best monthly run in over two years; Is the stock now a buy? - CNBC TV18 - LinkedIn
-- **Date:** 2026-11-17 | **Source:** [LinkedIn](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMzJjMHlhOTBjVUo2c2I5U3gwYzZXR05GMkpkZHptNHJZbmZLalhTVWFSTG1Fa09wU0FNcTVvcW9PYVJHTTQzUGsxbTZ3UXlldVNKRnphSXZVejd2eGxJQTR4ZGZSam81TnlvUG1QUGVna0dwWHJzMldjVWFNWHpDYldRTFlBWEJpTG00WmJMWVcxdXpYdWdKNk5QQUQ4Yl9YQXprWEk4YjFzWjN1VjhINVNWNGRBdk0xc0Y0bUlONA?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by LinkedIn on 2026-11-17. Market participant positioning reflects recent corporate updates.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+> **News Status:** No direct company news reported in the last 7 days. Stale developments older than 1 week are automatically archived/purged.
 
 ---
 
@@ -485,21 +426,10 @@
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 
 **A. News Summary:**
-- **Headline:** Olectra Greentech Projects H2 FY27 Revenue Growth and Energy Margin Target - Sahi
-- **Date:** 2026-11-19 | **Source:** [Sahi](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZDBmRlU0eDBqZFNYeWhLYV9iam44R2RrT3hhbDlIdG5rYV9Nd2dfX3BkdTl2djVySm1JMXVMUi1YN201dFhRZl90ZzRwMXJiclplZDVtWGdfdkpmdWF1ZUhzOWZPWmk5TXgtWEdtWm5jMld6dHQ0bnh5OFVWVkYzRS1EZVZMcjhpY19JT19uUGRFLTRaRlU2ZnQ4MnBTTHpYdEE?oc=5)
-- **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by Sahi on 2026-11-19. Market participant positioning reflects recent corporate updates.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-
----
-
-### Ticker: NSE:ORIENTLTD - Name: Oriental Rail Infrastructure Ltd (LTP: ₹117.9)
-
-**A. News Summary:**
-- **Headline:** Oriental Rail Infrastructure Limited (ORIRAIL.NS) stock price, news, quote and history - Yahoo Finance UK
-- **Date:** 2026-11-18 | **Source:** [Yahoo Finance UK](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hamFZb04zYkk0c3o2bmx1cDNRRVB1aFlBWjdRTnhuMXlUR2NscWIxZ3g0R3dBOFFRLTVicTZDOUxVTnBGM1VlSGVzUmUxWExKRURIMGpnbU16TlU0MV9fVnVGUUZhZE0?oc=5)
+- **Headline:** Olectra Greentech (NSE:OLECTRA): Why Has It Released Its Q2 FY27 Earnings Call Transcript? - Kalkine India
+- **Date:** 2026-11-18 | **Source:** [Kalkine India](https://news.google.com/rss/articles/CBMizgFBVV95cUxQb0pWSThabk1nS2hmNl9ZRHpaV19QS1dscXhkUEgzVmpuLVZYTUNlVnNrczRHNTNfM3JEVTJObVhSS3I2WDdhMlhwOEFQaXZUUWJIWDdXUW44eEtQSnlMWXRyRDlnREJicDlnSlNCSExlRloxVHYtVnJmV19nREJWdHVfR1dnakJLTFUzanFOWFlOMkRjSksybEVhNGZob0FIclRDV21uM2dDbU1DdHA3aG85M3dWLUdjY3l3VzlJMlg4UGhIank4SUVLaVRPdw?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by Yahoo Finance UK on 2026-11-18. Market participant positioning reflects recent corporate updates.
+- **Short-Term Impact:** Reported by Kalkine India on 2026-11-18. Market participant positioning reflects recent corporate updates.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 
 ---
@@ -526,6 +456,12 @@
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
 - **Short-Term Impact:** Reported by IndiaIPO on 2026-11-17. Market participant positioning reflects recent corporate updates.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+
+---
+
+### Ticker: NSE:ORIRAIL - Name: Oriental Rail Infrastructure Ltd (LTP: ₹117.98)
+
+> **News Status:** No direct company news reported in the last 7 days. Stale developments older than 1 week are automatically archived/purged.
 
 ---
 
@@ -556,26 +492,7 @@
 
 ### Ticker: NSE:POONAWALLA - Name: Poonawalla Fincorp Limited (LTP: ₹519)
 
-**A. News Summary:**
-- **Headline:** JM Financial hikes target price of Poonawalla Fincorp; sees 24% upside - The Economic Times
-- **Date:** 2026-11-20 | **Source:** [The Economic Times](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZWFDZ1JIMVMxUFRWTXJPQnNWbXdaZi1pZy1oUWs4U21ZQl9UcUJDbXdnVTBlQUlPUWZKbEdxM01ZdW0yVVgtVGZlbWx4YjdJN1BqNnlkanpPZTRsa1RlVWQ4dDh5cXpkMTRVdTFpc1FWYmQ0UkRYb0U1UDBDSVdmazUza1RiVFgwdC1mUXVaN2NnbUVRcHNmRTZxYmdOeXVtaWRRUUlTdWh2TU01UEdfWVVsZ1hzcG9zSjVfbjEwbHNJMS1femJNSE1NN3NUZzRRTTJNVWM0Y0x4T1I0UE9hUDBtRmNQZ9IB3wFBVV95cUxOUXJ3WkhvcDFiYzRIejlTOGNqcXVjMTJRdU5XeVl6VEVmd19neERJbExlRklOX3dETUJKZ0VtOTV2SXI4M2VhVk1VU2xELThLZ2d6SXNlajBUdWhIV0tBZDBIeWdwXzBsNFhpeDZqVnhQVWtBU2pnUjlOclNzZHppNmhKbG1fMkhOcmUtQ0tRWlVHdjBfa2poOXc1SFpGQ2p2T01fZy1aUEZaOGphZzZEdUduSHVud0VBOTlQd2VzdmpDSm9qcE5IRDY2Zkd1eEpuV0RHU18tYlBYR2Z5U25V?oc=5)
-- **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by The Economic Times on 2026-11-20. Market participant positioning reflects recent corporate updates.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-
-**A. News Summary:**
-- **Headline:** Poonawalla Fincorp shareholders approve Kemisha Soni’s second term - scanx.trade
-- **Date:** 2026-11-16 | **Source:** [scanx.trade](https://news.google.com/rss/articles/CBMivwFBVV95cUxQcEVXVWpqTmNGOENfOE9JQWpfWEJyWnlkWlNJRVAxZGNOTndwV0lQY25rc0MxZXdrdGZOT0pQQ3pkNDJhM2NFYzhKN2loNXZ0Q2pMeDJNZ1hSeFZ5bHlPUl9ES0FiYndvZ0dKNW5uSWxFYm1sTTFIaTJWUVJkSW9ITDByQkpvaXd3WTU0UTNzbUdtUU42MkdoSDNLdkstWXAtbm94Z0x4eVpNdHRhQUNSSFJBTWx2OUI2TmRPYmRTYw?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by scanx.trade on 2026-11-16. Market participant positioning reflects recent corporate updates.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-
-**A. News Summary:**
-- **Headline:** Buy Poonawalla Fincorp; target of Rs 600: Motilal Oswal - Moneycontrol.com
-- **Date:** 2026-11-18 | **Source:** [Moneycontrol.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSlhZbmhhQnVZYXp4aUdHckRST2ZjZWlWdkhvTkdTcndFTHQ1bjFvQXRrNEF4Y0RkOXdlbE8xaGpDSXByU0xySU1JWm01Rkd6bDFzRHViVk9wOE96elg4UGpuZ0NWdzEzR3p2VllCWFAtbEQxU2MzSVQxVGxGZlVFNlZVTXZtenpqVnF6bms0TjZ1Z2lJbmJqWXhFQ1JWemxLZlpOVGtINkwyRTIzaVR1d2Fnc1NFc24tNU5Z0gHAAUFVX3lxTFBQdkl6UnJlaTVRMlhkTG9fdXFscWN2VVQxRksyM2RyeWI5VDRzZGswVGU1TVNSeE1FTWhBbWQ5U2lyaks2R21KVFZDb3pjaVRXSVhoNzVpT21ZRC1tVWx4VXVHWUdGQXZ5SGlBWDRWczQ2QzdfVG9GZlVNb0I5ampscGdwNGxXWmlXZzNnWTUwbmRoNmlHUE4ydjR5aWd3VEZ0cWluQVlBV0FMUktrajd2b1g0NUkwdU4taHFNeW1ERg?oc=5)
-- **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by Moneycontrol.com on 2026-11-18. Market participant positioning reflects recent corporate updates.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+> **News Status:** No direct company news reported in the last 7 days. Stale developments older than 1 week are automatically archived/purged.
 
 ---
 
@@ -614,10 +531,10 @@
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 
 **A. News Summary:**
-- **Headline:** RailTel bags ₹27 crore order for AI-powered legal assistant platform in Andhra Pradesh - ET Infra
-- **Date:** 2026-11-22 | **Source:** [ET Infra](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcXg2dWEybnVud3hpTnZJbnJfZjJZVTlOZGt0RjVtNUQyQ3E3b3lCUlVTUVk2TTRibFpJVTd3ZVN3ZEVsU1ZiSUZFQTJqX1pGMjZQa25jdVJQd1VKUktxOV9LbEtzd0JKRUd1bTRJSjBGdFRHQ0xfWEwyM2k5NUcyV0cyWUdtY3RRSFQ2Zmc5UVFaeFQ5YW9hSUZOY202eE5ScjhNcEFabjBCcUk5RkVwR29KdXhNd1hDSXpOb0I2Zk9vSEgtWXV5Z3V0R0ZmX09jOG5tUDBQSFJhSFpYYzQtRXF0dFdCRzJTUXBV0gHrAUFVX3lxTE5xeDZ1YTJudW53eGlOdklucl9mMllVOU5ka3RGNW01RDJDcTdveUJSVVNRWTZNNGJsWklVN3dlU3dkRWxTVmJJRkVBMmpfWkYyNlBrbmN1UlB3VUpSS3E5X0tsS3N3QkpFR3VtNElKMEZ0VEdDTF9YTDIzaTk1RzJXRzJZR21jdFFIVDZmZzlRUVp4VDlhb2FJRk5jbTZ4TlJyOE1wQVpuMEJxSTlGRXBHb0p1eE13WENJek5vQjZmT29ISC1ZdXlndXRHRmZfT2M4bm1QMFBIUmFIWlhjNC1FcXR0V0JHMlNRcFU?oc=5)
-- **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by ET Infra on 2026-11-22. Market participant positioning reflects recent corporate updates.
+- **Headline:** RailTel को Andhra Pradesh सरकार से ₹27 करोड़ का बड़ा AI प्रोजेक्ट - Business Remedies
+- **Date:** 2026-11-22 | **Source:** [Business Remedies](https://news.google.com/rss/articles/CBMihwFBVV95cUxOVVB1SFlsclFXUXRTem9vbGdxNEt0SEJVN1V4amplejdRZnBmRG16ZzQwSWQzVEloeTRPNG5TNHIwTXZrMFdRZVJ4VmFPUjJYSTU1YVB6UzhPWTlwR01fN21qTUtjYVZ4cUJRTFhJOFM3N0t4Z3E5dmx0c0Z0bnVkaUtLTXRQSVk?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by Business Remedies on 2026-11-22. Market participant positioning reflects recent corporate updates.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 
 ---
@@ -643,6 +560,31 @@
 - **Date:** 2026-11-22 | **Source:** [DD News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV0Jtd3Nwem05OWtXZHJkYWRaTWU2Y1p3VVk1eEswR0twTWZIanUxSWRMTXU4Yk9TMzNqOVNfVDBuZXBMWExpQzJoTTZSSWtRQThDcVNkWEpzNDVOQmI2ZF96eGpreUdBNGNQZVJMOU4xM2o3Z0U3OURuVmVOaVRaMUdLZG5fSEppcTU4b1NFZVpMaWNQVEl5R1B6eHFNQ2VkMElwdGFUX00?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
 - **Short-Term Impact:** Reported by DD News on 2026-11-22. Market participant positioning reflects recent corporate updates.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+
+---
+
+### Ticker: NSE:SBIN - Name: State Bank of India (LTP: ₹1165.1)
+
+**A. News Summary:**
+- **Headline:** SBI Share Price - Live NSE: SBIN Stock Price & Chart - Upstox
+- **Date:** 2026-11-20 | **Source:** [Upstox](https://news.google.com/rss/articles/CBMiakFVX3lxTFBPa0lHTFVCTVBxWVRmVXR6cE5FMDhDc25ublZmbVllcFgyMU0wZF9NZmdZQWVjQmJrd0tPSFN2OUdVRnpfVVBWdDFCMmRPSkZFc1R4cFIyOGdMSmdtNThoam1zNGN6WnFKbGc?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by Upstox on 2026-11-20. Market participant positioning reflects recent corporate updates.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+
+**A. News Summary:**
+- **Headline:** SBIN Share Price Today - State Bank of India on NSE/BSE - scanx.trade
+- **Date:** 2026-11-20 | **Source:** [scanx.trade](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aWHZ5LXcwV0pmVF9BUW1zdktZM3FabWptN3l2d0RpdXhfSm85ZGhJTWY1T0dOSnFCVjFFc05OcDNTOWo2YUpOR2tNZmdJYzRkQmVXaWNtWm53bUdvSTlVWA?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by scanx.trade on 2026-11-20. Market participant positioning reflects recent corporate updates.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+
+**A. News Summary:**
+- **Headline:** SBI Option Chain: Live NSE Option Chain Data, OI & Price - Kotak Neo
+- **Date:** 2026-11-20 | **Source:** [Kotak Neo](https://news.google.com/rss/articles/CBMimAFBVV95cUxPaFRKcnQzaXlkc05EVzZSRWlFOUNVYW5nUWo5c1hMNmZQd0U3R1hDa2lqaUVlUHFMbDZzb3dLQlpkUXlLTUxEVEdHWHFoV1BQeTM3alZXWDRRVXloQ1ZET2NnaktKNk9xa0RSQm05ZktWbTRjXzZsREFYd3VYMV94TEp4QWNYMDhIYURVUnhOX3hhVjJyenNWOA?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by Kotak Neo on 2026-11-20. Market participant positioning reflects recent corporate updates.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 
 ---
@@ -693,42 +635,17 @@
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 
 **A. News Summary:**
-- **Headline:** 3 India Renewable Power Stocks Facing Rising Cost Pressure - Simply Wall St
-- **Date:** 2026-11-16 | **Source:** [Simply Wall St](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSWVQbFpBeUJTNXR6MGdyeTRibUJoUEJZcW03M3E5eUcwUkJwZ3VrNXkxb3JPamVBSV9vbks4STIxeVVobXVvQ0dlNTBNNkRteG14eEhMV2wwWDdITEtBRTJCUllWUUVCNVFUc2cyLTBWUlVVcWtSYll4ODZWYjZ3NW9vYmVYckNZNVhPdUtqaVNMQzdnVEx4ZmdsRlFha2twb01vejhkV2c4VFVHckdidHdOMmtVTWJibUVDbnBPc1lmbmJUOXQzSGoxakdJbE4yOE1RV2hvLTBOTFhCNXpJN2pzX29mVVlnQTNFa2daZEpLcVJSbGhhRdIB_gFBVV95cUxNUmhZUlYyMG5WWEJINW10RUd6SG1MM3Z2NUFRb3Q0QXZMaDlhdFRPRnBhMk5tWmZZOEFSMHZyY3lJd1Z2dVlqUDV2WVMwUEtreVpWbFNDdnpyZUdidjI4S3RxWGhPQkJ5QTdpM0loXzhNVDdxSVY1cXJQWnVuUEhyYjRtTHJkcTNZcGJkbmszeWE1MGpaaExmVzNRdmNkWVFEZUtycEZlWTEyMmE0SUxhd2c0Q1BMZWtrc2pCdVZJU1FpejNuRkNpelJQYXhtdjhOaERucXU4SnBidHFxQzNRRWRpY3lId1p2MWxPUGpRaHFkaGxxVFRWM1pFdGlMQQ?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by Simply Wall St on 2026-11-16. Market participant positioning reflects recent corporate updates.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-
-**A. News Summary:**
 - **Headline:** Supreme Court quashes ₹59.14 Cr GST demand against Sterling Wilson subsidiary - scanx.trade
 - **Date:** 2026-11-17 | **Source:** [scanx.trade](https://news.google.com/rss/articles/CBMivwFBVV95cUxQQy1VSFZOckt1cWctMGJSaFNYSGhhNER4WFcyeVR2dUtPMHhBT1hTV3BGaHVkNi1VNXlkR1dwNWVCbDZGNmhROE9FQktlU20yaVdNZFJRODNnZ1JscTZGZl8wdTZaRVlmMnRCY0hYZTZZMXVLd2xaeWdjRnVaUHhuQWxMQ2tHeHpVY24tWkY0bGRxd1lyTXJkdUQyYW5XUzJpakZ5eDJaRURPX1VLOWV1US0ySWFVZjRCOTZfQnVPcw?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
 - **Short-Term Impact:** Reported by scanx.trade on 2026-11-17. Market participant positioning reflects recent corporate updates.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 
----
-
-### Ticker: NSE:TATAMOTORS - Name: Tata Motors Ltd (LTP: ₹266.35)
-
 **A. News Summary:**
-- **Headline:** Tata Motors PV shares plunge 9% after Q2 results; brokerages cut target - Business Standard
-- **Date:** 2026-11-16 | **Source:** [Business Standard](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcEhLZFpmQml1REpCWkJXRUoyVUl4V0d5dWt5ZTg1UGhIUHJtdTFxTEJkZ3QzU1ZTQmEyYjVneGljQXBWZzBHbVRLR0t1ckdyMW81bDRpbVBJRWFnUnlRS3RNR0pIcm5Uei03andMd3AzOTZDaC15VGUwdFZISGRMNzBMUXlTdTdTYzcwclpYVThwQkJ6YmZfUFRaelR6QU5YajBJUEJIbUdqU09CUVFEMHp4eE1qV0NleG1FWkp5dW1LV2FYbS1hRFpnTXIzT1JvRlHSAdcBQVVfeXFMT3ZvWjA2TTgxUVpNNEpKbVNHWk1saUJCaE9CSTRUUldaTFhBVVpJd0FwWlhDZFFsNklod1NUdVJkWWlNQmFzQ1UtMTZVSFBYTGRtSjFlSlpMX1hkbW4xbnFkdEJxRW5hNlRGRkVPeDhua2JDV3N2M0loRUJGZlo2bTl4RzAyX2xsZ0pOdW0wV2doT1NTV3JLODFjVXJzYjcyZXJzTFZsME9MWDhzd1dOSjVVRzB5cFU0c0xMSFZvNTV3YzVXXzZSZ3JERTc5R2hzNWFaNnAyeE0?oc=5)
-- **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by Business Standard on 2026-11-16. Market participant positioning reflects recent corporate updates.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-
-**A. News Summary:**
-- **Headline:** 5 Stocks in Focus Today: Tata Motors, Hindalco, Eicher - HDFC Sky
-- **Date:** 2026-11-16 | **Source:** [HDFC Sky](https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVWF0S04xMXNGQ0VIMXJtcklBbnZhSTlaWDIzUjc3WW9IMEd2aWRIVVBJN3dfM2JGcHlCejRYV0NYeVdfNW9WVkRKWjVOWldyZWNBN1BQd3NwRS1OQ1ZfNlRJNzBzMlhpd1NFdzM0c0tvSEFBYmdrNGxFN1FQS0QwY3lyRjZjOWRqX2RoZmdBUHcxUmpGUlpGM2pYUDRrcmdqTEVQMUtkRllmekpsdXBMbklsakxxSzgtMjdacmN6LWtEeFZMVERHaElSWENaR3B6elk1VHN1cnpXS3pzUlZiUEhINWFraEk5WXV3dE0tRWFfWUNUX3A0Rw?oc=5)
+- **Headline:** 3 India Renewable Power Stocks Facing Rising Cost Pressure - Simply Wall St
+- **Date:** 2026-11-16 | **Source:** [Simply Wall St](https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSWVQbFpBeUJTNXR6MGdyeTRibUJoUEJZcW03M3E5eUcwUkJwZ3VrNXkxb3JPamVBSV9vbks4STIxeVVobXVvQ0dlNTBNNkRteG14eEhMV2wwWDdITEtBRTJCUllWUUVCNVFUc2cyLTBWUlVVcWtSYll4ODZWYjZ3NW9vYmVYckNZNVhPdUtqaVNMQzdnVEx4ZmdsRlFha2twb01vejhkV2c4VFVHckdidHdOMmtVTWJibUVDbnBPc1lmbmJUOXQzSGoxakdJbE4yOE1RV2hvLTBOTFhCNXpJN2pzX29mVVlnQTNFa2daZEpLcVJSbGhhRdIB_gFBVV95cUxNUmhZUlYyMG5WWEJINW10RUd6SG1MM3Z2NUFRb3Q0QXZMaDlhdFRPRnBhMk5tWmZZOEFSMHZyY3lJd1Z2dVlqUDV2WVMwUEtreVpWbFNDdnpyZUdidjI4S3RxWGhPQkJ5QTdpM0loXzhNVDdxSVY1cXJQWnVuUEhyYjRtTHJkcTNZcGJkbmszeWE1MGpaaExmVzNRdmNkWVFEZUtycEZlWTEyMmE0SUxhd2c0Q1BMZWtrc2pCdVZJU1FpejNuRkNpelJQYXhtdjhOaERucXU4SnBidHFxQzNRRWRpY3lId1p2MWxPUGpRaHFkaGxxVFRWM1pFdGlMQQ?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by HDFC Sky on 2026-11-16. Market participant positioning reflects recent corporate updates.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-
-**A. News Summary:**
-- **Headline:** Tata Motors Limited (TMCV.NS) Stock Price, News, Quote & History - Yahoo! Finance Canada
-- **Date:** 2026-11-22 | **Source:** [Yahoo! Finance Canada](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KcXhIWnZZekotYTE4N0dXQXhuNmRndHV2U1duVGtlbEVOR1J0VzFuYnBkeDE5U2VHajRCZHpxT3lNVklDc202VnZwdWFkU0J6dk9mMHV3?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by Yahoo! Finance Canada on 2026-11-22. Market participant positioning reflects recent corporate updates.
+- **Short-Term Impact:** Reported by Simply Wall St on 2026-11-16. Market participant positioning reflects recent corporate updates.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 
 ---
@@ -768,10 +685,10 @@
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 
 **A. News Summary:**
-- **Headline:** Tata Technologies shares rally 9% to hit 1-month high on FY30 growth roadmap; here's what the company... - Moneycontrol.com
-- **Date:** 2026-11-19 | **Source:** [Moneycontrol.com](https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNHp1ZV9ZMnVsSWxMNE1icVNrYjI2N2I1MnZtZWc1eXM1enhSSDEzbWRfeHhwc3NsUVJaQlIyemEwQnU0WExwTGNGZm8zY051UFVfTFNlTnVmQnhtcE5VMk1icWgtaWJQbGNneXdtVlZBN2F0aVppanVlcHlQSVdvMk4taFhITmdDYUctYmdFZkZiaFR6djBLTmRjQXZ4VTBZSFA2S3JpaGhUTTlOOFRzeWdZNDlRajRuV0lmMWloSWd3SzlsZ1FlcVNTRGJoOU16QWdzVVB6LTJjS09TV1VQUkwzZnVpcmV2aHFmTlBUUmc1UzdmUkEzSHFmYUMtOHPSAYQCQVVfeXFMT0ttNkFKei1vazlvYm1QSXpKb0ZabEVqV0F6V1hZVGd6RGNiMENjNXdhSGE0YkRTX1Q5THIzQ1ZTcXdrdXVOcDd0Vm9vUEJRSGR5SUZQdE1UcXlGaGpHZjlDeVhiUE9USHNqRzY4MHJ4cnA4Ync1WFlsUHRxQmZTM1FmMkxqYVV2T3RIRGV1NGl2alRIZ1RXaHpGeUkzWk85Q3gzdzAzRE1URHp6OFBBWHZMSEZ4VnhUOUx5S01RT0N1cjY5R0lCWkpNY1piTmowS2tJaG1Sa1dxMDBpT25nQkJNS05UWnhzbFZWOE4xSnA4TmF1bUY4ZVZJQVlZbTZaTkJjMFg?oc=5)
+- **Headline:** Tata Tech jumps over 9% as FY30 roadmap targets $1.3 billion revenue - Business Standard
+- **Date:** 2026-11-19 | **Source:** [Business Standard](https://news.google.com/rss/articles/CBMizgFBVV95cUxNdmxSWnRNTElNZTNMM016MWlFd3ZIa0xYSGhtVUdQd0NCbGdTRHNvSTk3aEpneXFaRU5XUHhCRHlxd2hHbmhwNHpTRHYyQ3VDQXdOaEYxUjRtVFlyTFFXWXA4ZTdubnA3QmJWbTdzYzM2b21RTGJPeWZKWlBkaEdwRnlFeFBHS0p2UTZaT3YyUFU3c3hfMWlVaFRoWWhVNzdkZFdOeVRKWUhCVEkzU2ZtNU1PSUZVbXZ5NWlreEptUkN1ci0zRWQzbG1rMmRtUdIB0wFBVV95cUxPeUktbDJONmctSTdfN3lMczRlZVM1WEsxQ2tvdS1ZdExJUkp5elZFeW1vRDNYQjVHWHp5VDE4ME90aUNyWXRwVmRRb0N2ck1ucVRHMkdvYmNwYU9uQnpTVnA4YkdDRkFrRWVmVnd4V3E2OWhlVVVKaU1vdGIwWHMzZXNLOE9LeE5RYkJ6NUE3bldJcUJtaDh5S2dtMTJ6Mm81WlN2Zm1ONUhoc044Q3ZnWkVybk9jblFGUW5GVEZFTkhidmktSjltYlhhbTVHLXBQNWNN?oc=5)
 - **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by Moneycontrol.com on 2026-11-19. Market participant positioning reflects recent corporate updates.
+- **Short-Term Impact:** Reported by Business Standard on 2026-11-19. Market participant positioning reflects recent corporate updates.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 
 **A. News Summary:**
@@ -779,6 +696,31 @@
 - **Date:** 2026-11-20 | **Source:** [scanx.trade](https://news.google.com/rss/articles/CBMivAFBVV95cUxPMl9kQl9aa1NyRi1XUTFOYk0yTHBveGt4T1RPWXpXd1N0RWhfRVNvd0puRUhsQlpYVF9xeHNqY2NEWGF0alk0aGc0VzNaa2xWcWdQaEV3bmJGRDVyNjF5d3lDODhTWGkwZDBqMWRFakl1Y2ZUUFdfbHFWRnE5dlJfeDZyaGxRVEYzTVhDYVVhbEFDQ2pnSndfMC1xWnBFczVfSE90RTBNS3p2elhUYlVjOE1vTnR3ajRwOFk5Yw?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
 - **Short-Term Impact:** Reported by scanx.trade on 2026-11-20. Market participant positioning reflects recent corporate updates.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+
+---
+
+### Ticker: NSE:TCS - Name: Tata Consultancy Services Limited (LTP: ₹2376.2)
+
+**A. News Summary:**
+- **Headline:** TCS Share Price Today - Tata Consultancy Services on NSE/BSE - scanx.trade
+- **Date:** 2026-11-22 | **Source:** [scanx.trade](https://news.google.com/rss/articles/CBMibkFVX3lxTE5rZ0MxS29EY3VuVEpqempxSjVncnJhVXpVc2l4V0E0OUxWU2xtRHJRWlB0WmJZMmRuTzJidWdNdWJUY1YwSjRZZlV3R0NxTDgwUnZIYmNzd0dBQlAyT2tQQ05RdmRCeVdZb1NFR1lR?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by scanx.trade on 2026-11-22. Market participant positioning reflects recent corporate updates.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+
+**A. News Summary:**
+- **Headline:** TCS Share Price - Upstox
+- **Date:** 2026-11-20 | **Source:** [Upstox](https://news.google.com/rss/articles/CBMicEFVX3lxTE4xa3lkaFFielNzaEh0c3oxTzdzMzV1MDk5TzFMYnoweVkwWG02cVBRTHZSUmM2Q1JpYVpsN2l2VmZwMFpwUzI5cm5WOUFHSGE1c2ZsRjRTWWl3MmlNOGdQUmdkSlZLUUxqRUctcGVsdDA?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by Upstox on 2026-11-20. Market participant positioning reflects recent corporate updates.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+
+**A. News Summary:**
+- **Headline:** Tata Consultancy Services Limited (TCS.NS) stock price, news, quote and history - Yahoo Finance Singapore
+- **Date:** 2026-11-21 | **Source:** [Yahoo Finance Singapore](https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yZG1MMUJWTjQzeUxZdV9QMF90azdyZlhNOTctMFZTMTYyRVhVWlZKbDFRenlSZXN2aEpLWTRkVHlROVpBNmpZYWZ5V3EwZ2FQU2loLQ?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by Yahoo Finance Singapore on 2026-11-21. Market participant positioning reflects recent corporate updates.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 
 ---
@@ -833,25 +775,63 @@
 
 ---
 
-### Ticker: NSE:VPRPL - Name: Vishnu Prakash R Punglia Ltd (LTP: ₹25.76)
+### Ticker: NSE:TMCV - Name: Tata Motors Commercial Vehicles Ltd (LTP: ₹455.2)
 
 **A. News Summary:**
-- **Headline:** Vishnu Prakash R Punglia (NSE:VPRPL): Did It Publish Q2 FY27 Financial Results in Newspapers? - Kalkine India
-- **Date:** 2026-11-16 | **Source:** [Kalkine India](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPamc5eEFfX2tBSko4S0VCTlVnbGhzaTFzaS1VbEZjNkZDeVp5R1MyTFRGX0FhRGR0WWczOFVFOXBDWmEwcGlKNEdaYmY0eF9TQXBaS3h0TEVfc2M5Ym5jMkpEU28xZVY4TVBiMXFMXzZ2VnByMjZVZ2ZSREpjbVlKV1Rva0pMSnJwcVl1UXh6c0QtTDc2d1pKbkstaWd6V0FkVVFDeGVhZTdzX0dVZGN6TExhd3NweW12dmpUWHd0S255V1ZnZjRCSVJndzlmWkJRaHc?oc=5)
+- **Headline:** Tata Motors Limited (TMCV.NS) stock price, news, quote and history - Yahoo Finance UK
+- **Date:** 2026-11-18 | **Source:** [Yahoo Finance UK](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwQjIxT0pYRzk1X0N2N3FiMkM2NEI0ZGR5eFA1MEpyZy15Zm92T0pWQTFoQUU3WkkxYUNQYlc5NFQta2hLMHJSSElBRndidFRGVHphX1VR?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by Kalkine India on 2026-11-16. Market participant positioning reflects recent corporate updates.
+- **Short-Term Impact:** Reported by Yahoo Finance UK on 2026-11-18. Market participant positioning reflects recent corporate updates.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 
 **A. News Summary:**
-- **Headline:** Vishnu Prakash R Punglia Limited (NSE:VPRPL) Publishes Q2 FY27 Financial Results in Leading Newspapers - Kalkine Media
-- **Date:** 2026-11-16 | **Source:** [Kalkine Media](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZ2V0NmY2WmFBeHNxVmtVVVduS1dnX1p3REpTclJmTWFvRTNkbDlpYXhvOWJyR3V4cU1LbVUtbEh2YkU0c3J1MVpQdm5mNFFzei1acU03dG9xaGJNZjZGdnpDdVByQmxZbVFqOWVvRElVX0N2NVpzYmRUNG5SZVU3WFNCVVVIOEdVakRSVWMtQ1dxVDhWanhhZWYtZmtjdk0zbzI0UnJqLU90VlZKN0pWME9sUC15d290Y0k3MGNyY2w5LU84VHdhNGc1UDhCNDZPSWdaRU55bXRNTm40YU13?oc=5)
+- **Headline:** Tata Motors (NSEI:TMCV) Stock Forecast & Analyst Predictions - Simply Wall St
+- **Date:** 2026-11-19 | **Source:** [Simply Wall St](https://news.google.com/rss/articles/CBMihwFBVV95cUxNQnNkTGM3cHVZYnM4cGdDWDBtcHhDWlM0bE1xX3BYTThYSmZoYkY1cUszMmxoNXh5TVFUSlNDQ2ZuRkE2WjQweUpDMzl3U1BjYm5TNUFRT0pEbjFsczZMaUxSTThCcWJqa1JEUHdrbmlMandKRWs4ZmpwbkpVamN3RUVWaVF1OUU?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by Kalkine Media on 2026-11-16. Market participant positioning reflects recent corporate updates.
+- **Short-Term Impact:** Reported by Simply Wall St on 2026-11-19. Market participant positioning reflects recent corporate updates.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+
+**A. News Summary:**
+- **Headline:** Tata Motors Limited (TMCV.NS) Stock Price, News, Quote & History - Yahoo! Finance Canada
+- **Date:** 2026-11-22 | **Source:** [Yahoo! Finance Canada](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KcXhIWnZZekotYTE4N0dXQXhuNmRndHV2U1duVGtlbEVOR1J0VzFuYnBkeDE5U2VHajRCZHpxT3lNVklDc202VnZwdWFkU0J6dk9mMHV3?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by Yahoo! Finance Canada on 2026-11-22. Market participant positioning reflects recent corporate updates.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 
 ---
 
-### Ticker: NSE:WAAREERTL - Name: Waaree Renewable Technologies Ltd (LTP: ₹693.4)
+### Ticker: NSE:TMPV - Name: Tata Motors Passenger Vehicles Ltd (LTP: ₹266.35)
+
+**A. News Summary:**
+- **Headline:** Tata Motors PV shares plunge 9% after Q2 results; brokerages cut target - Business Standard
+- **Date:** 2026-11-16 | **Source:** [Business Standard](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcEhLZFpmQml1REpCWkJXRUoyVUl4V0d5dWt5ZTg1UGhIUHJtdTFxTEJkZ3QzU1ZTQmEyYjVneGljQXBWZzBHbVRLR0t1ckdyMW81bDRpbVBJRWFnUnlRS3RNR0pIcm5Uei03andMd3AzOTZDaC15VGUwdFZISGRMNzBMUXlTdTdTYzcwclpYVThwQkJ6YmZfUFRaelR6QU5YajBJUEJIbUdqU09CUVFEMHp4eE1qV0NleG1FWkp5dW1LV2FYbS1hRFpnTXIzT1JvRlHSAdcBQVVfeXFMT3ZvWjA2TTgxUVpNNEpKbVNHWk1saUJCaE9CSTRUUldaTFhBVVpJd0FwWlhDZFFsNklod1NUdVJkWWlNQmFzQ1UtMTZVSFBYTGRtSjFlSlpMX1hkbW4xbnFkdEJxRW5hNlRGRkVPeDhua2JDV3N2M0loRUJGZlo2bTl4RzAyX2xsZ0pOdW0wV2doT1NTV3JLODFjVXJzYjcyZXJzTFZsME9MWDhzd1dOSjVVRzB5cFU0c0xMSFZvNTV3YzVXXzZSZ3JERTc5R2hzNWFaNnAyeE0?oc=5)
+- **Importance Score:** **7/10** | **Sentiment:** Bullish
+- **Short-Term Impact:** Reported by Business Standard on 2026-11-16. Market participant positioning reflects recent corporate updates.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+
+**A. News Summary:**
+- **Headline:** TMPV shares slide 8% as JLR guidance cut rattles investors - BusinessLine
+- **Date:** 2026-11-16 | **Source:** [BusinessLine](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNm1wZXRMLUVkN01KZzhKTlZaaUllRWZnSU1SbDVnQ1dfMEhiWDNfY1B3QzhQY3dQZTUxR3F6bXVFZVdxRlR4NUtfc25GVnp5SU5iYldmUmdyTlVTczQyc1VtMEh1TnR2eVFkU0JDYV9oVHE4dDBxR2xwZGpQQUNmYUstSHYyWHZQR2JxM0Q3ZllIWlRhYV94Z0tSZHdxVnpSemVaQjBjUDhxVXpvNjI0ZVRHM2YyZFRWQWtYaWJGbWlrbnp1MmZHWTQ5VFlveXRZREHSAdgBQVVfeXFMTngzMHdEcjR6MDNqQ240WGZJS1FMbmszNTl3Tll3WDhBZVRJY2RrMUJQRkV6T0Z1NzRxYTNlYWNJNGFrNGRmdmZ4QVI5VUJaaUx6SkJhWlppbGc5THhObWpMNFp3aUFNVjhMX1ZVY2p2UVVIR3YyMjNNLUZPcGVEZ1ItR1NfNC1aSkdyZ0hOMGlfVV8yX3NSZmR6ZnRvQVY2ZF82dEhiT1REQzBVRXhUenZDNUhZdlByeFRSaUVkdTJRbk9Fb0FFSjI2LWVXRmR5WXdYS3Q5a2Y3?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by BusinessLine on 2026-11-16. Market participant positioning reflects recent corporate updates.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+
+**A. News Summary:**
+- **Headline:** Tata Motors Share Price - Live NSE: TMPV Stock Price & Chart - Upstox
+- **Date:** 2026-11-20 | **Source:** [Upstox](https://news.google.com/rss/articles/CBMicEFVX3lxTE4tRUNlRENKdi05NTFRNHg0VEZ1TURMZzlEWGg1Y2M2QnM0ZThZdHdRVzRpbG8yR0Z4NFV1dzNTdzJOZkFOUEZtaWFQMEJ5MFlMcmNiWkpWRFFmNVpoblVkMk1Qckx3TDcxX250eGdxMTY?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by Upstox on 2026-11-20. Market participant positioning reflects recent corporate updates.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+
+---
+
+### Ticker: NSE:VPRPL - Name: Vishnu Prakash R Punglia Ltd (LTP: ₹25.76)
+
+> **News Status:** No direct company news reported in the last 7 days. Stale developments older than 1 week are automatically archived/purged.
+
+---
+
+### Ticker: NSE:WAAREERTL - Name: Waaree Renewable Technologies Ltd (LTP: ₹693)
 
 **A. News Summary:**
 - **Headline:** Waaree Renewable Technologies Profit Falls 30% Despite Sales Gain - Multibagg AI

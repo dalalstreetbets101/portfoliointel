@@ -2,7 +2,7 @@
   "ticker": "NSE:BSE",
   "company_name": "BSE Limited",
   "sector": "Financials",
-  "news_found": true,
+  "news_found": false,
   "ltp": 3781,
   "change": 16,
   "change_percent": 0.42,
@@ -11,7 +11,7 @@
   "fifty_two_week_low": 2377.4,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "(2026-11-20) BSE Limited (BSE.NS) Stock Price, News, Quote & History - Yahoo! Finance Canada [Yahoo! Finance Canada] | (2026-11-19) BSE Share Price - Live NSE: BSE Stock Price & Chart - Upstox [Upstox] | (2026-11-16) BSE Gets US Regulatory Clearance for BANKEX Futures, Allowing American Investors Access to Indian Banking Index - Kotak Neo [Kotak Neo]",
+    "direct_company_news": "No material corporate developments reported in the last 7 days.",
     "sector_news": "Sector developments monitored across Financials.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
@@ -22,51 +22,5 @@
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
-  "developments": [
-    {
-      "date": "2026-11-20",
-      "headline": "BSE Limited (BSE.NS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "source_name": "Yahoo! Finance Canada",
-      "source_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LdFRtM1NDSmZkcXlWeS1IaENDSjE5d1JSNGZWRzk5aG56LTM5YlpLME9sbEVydVJ4YTNJUTllM01HOFRON3Zkc3VQakg0clNfU0IzYQ?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by Yahoo! Finance Canada on 2026-11-20. Market participant positioning reflects recent corporate updates.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Macro interest rate and broad market swings.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from Yahoo! Finance Canada publication."
-    },
-    {
-      "date": "2026-11-19",
-      "headline": "BSE Share Price - Live NSE: BSE Stock Price & Chart - Upstox",
-      "source_name": "Upstox",
-      "source_link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pTnN6TVlhQ29TZ05VSFcxRWpEeUY5TWpBNUhXTm1OYldOWGZqOUNlOWdpSDhJMFdISmdPQjcyV1FIalhzdHRYSzhMZGpVZDlGb3RjSVJPRDg3Tnhadm5r?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by Upstox on 2026-11-19. Market participant positioning reflects recent corporate updates.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Macro interest rate and broad market swings.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from Upstox publication."
-    },
-    {
-      "date": "2026-11-16",
-      "headline": "BSE Gets US Regulatory Clearance for BANKEX Futures, Allowing American Investors Access to Indian Banking Index - Kotak Neo",
-      "source_name": "Kotak Neo",
-      "source_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOW9tN1U4ZEZaSjl1Q0dOdnlZR3h0TWNPR0ZvWUY2dWVsNW05VlZJSzRuR2dRaC1tMTY5ZDNLWHQ4Z3hRMVc0bHJFNGNZbjdkZzlZbW9HSmtWRXIyVkRBZlFpMWFaNlNXRjRkRzZhZUZjY3lSa2ItY1A5YTZMcDhWUzROYnJua1VKeVhIOHFDUE8ybHY2cV85eFVQU1N0bjdveF9TTEh4OFU0QQ?oc=5",
-      "sentiment": "Bullish",
-      "importance_score": 7,
-      "short_term_impact": "Reported by Kotak Neo on 2026-11-16. Market participant positioning reflects recent corporate updates.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Bullish",
-      "opportunities": "Positive operational and institutional sentiment momentum.",
-      "risks": "Macro interest rate and broad market swings.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from Kotak Neo publication."
-    }
-  ]
+  "developments": []
 }

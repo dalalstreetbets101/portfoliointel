@@ -2,7 +2,7 @@
   "ticker": "NSE:POONAWALLA",
   "company_name": "Poonawalla Fincorp Limited",
   "sector": "Financials",
-  "news_found": true,
+  "news_found": false,
   "ltp": 519,
   "change": 14.25,
   "change_percent": 2.82,
@@ -11,7 +11,7 @@
   "fifty_two_week_low": 361.2,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "(2026-11-20) JM Financial hikes target price of Poonawalla Fincorp; sees 24% upside - The Economic Times [The Economic Times] | (2026-11-16) Poonawalla Fincorp shareholders approve Kemisha Soni’s second term - scanx.trade [scanx.trade] | (2026-11-18) Buy Poonawalla Fincorp; target of Rs 600: Motilal Oswal - Moneycontrol.com [Moneycontrol.com]",
+    "direct_company_news": "No material corporate developments reported in the last 7 days.",
     "sector_news": "Sector developments monitored across Financials.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
@@ -22,51 +22,5 @@
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
-  "developments": [
-    {
-      "date": "2026-11-20",
-      "headline": "JM Financial hikes target price of Poonawalla Fincorp; sees 24% upside - The Economic Times",
-      "source_name": "The Economic Times",
-      "source_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZWFDZ1JIMVMxUFRWTXJPQnNWbXdaZi1pZy1oUWs4U21ZQl9UcUJDbXdnVTBlQUlPUWZKbEdxM01ZdW0yVVgtVGZlbWx4YjdJN1BqNnlkanpPZTRsa1RlVWQ4dDh5cXpkMTRVdTFpc1FWYmQ0UkRYb0U1UDBDSVdmazUza1RiVFgwdC1mUXVaN2NnbUVRcHNmRTZxYmdOeXVtaWRRUUlTdWh2TU01UEdfWVVsZ1hzcG9zSjVfbjEwbHNJMS1femJNSE1NN3NUZzRRTTJNVWM0Y0x4T1I0UE9hUDBtRmNQZ9IB3wFBVV95cUxOUXJ3WkhvcDFiYzRIejlTOGNqcXVjMTJRdU5XeVl6VEVmd19neERJbExlRklOX3dETUJKZ0VtOTV2SXI4M2VhVk1VU2xELThLZ2d6SXNlajBUdWhIV0tBZDBIeWdwXzBsNFhpeDZqVnhQVWtBU2pnUjlOclNzZHppNmhKbG1fMkhOcmUtQ0tRWlVHdjBfa2poOXc1SFpGQ2p2T01fZy1aUEZaOGphZzZEdUduSHVud0VBOTlQd2VzdmpDSm9qcE5IRDY2Zkd1eEpuV0RHU18tYlBYR2Z5U25V?oc=5",
-      "sentiment": "Bullish",
-      "importance_score": 7,
-      "short_term_impact": "Reported by The Economic Times on 2026-11-20. Market participant positioning reflects recent corporate updates.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Bullish",
-      "opportunities": "Positive operational and institutional sentiment momentum.",
-      "risks": "Macro interest rate and broad market swings.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from The Economic Times publication."
-    },
-    {
-      "date": "2026-11-16",
-      "headline": "Poonawalla Fincorp shareholders approve Kemisha Soni’s second term - scanx.trade",
-      "source_name": "scanx.trade",
-      "source_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcEVXVWpqTmNGOENfOE9JQWpfWEJyWnlkWlNJRVAxZGNOTndwV0lQY25rc0MxZXdrdGZOT0pQQ3pkNDJhM2NFYzhKN2loNXZ0Q2pMeDJNZ1hSeFZ5bHlPUl9ES0FiYndvZ0dKNW5uSWxFYm1sTTFIaTJWUVJkSW9ITDByQkpvaXd3WTU0UTNzbUdtUU42MkdoSDNLdkstWXAtbm94Z0x4eVpNdHRhQUNSSFJBTWx2OUI2TmRPYmRTYw?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by scanx.trade on 2026-11-16. Market participant positioning reflects recent corporate updates.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Macro interest rate and broad market swings.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from scanx.trade publication."
-    },
-    {
-      "date": "2026-11-18",
-      "headline": "Buy Poonawalla Fincorp; target of Rs 600: Motilal Oswal - Moneycontrol.com",
-      "source_name": "Moneycontrol.com",
-      "source_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSlhZbmhhQnVZYXp4aUdHckRST2ZjZWlWdkhvTkdTcndFTHQ1bjFvQXRrNEF4Y0RkOXdlbE8xaGpDSXByU0xySU1JWm01Rkd6bDFzRHViVk9wOE96elg4UGpuZ0NWdzEzR3p2VllCWFAtbEQxU2MzSVQxVGxGZlVFNlZVTXZtenpqVnF6bms0TjZ1Z2lJbmJqWXhFQ1JWemxLZlpOVGtINkwyRTIzaVR1d2Fnc1NFc24tNU5Z0gHAAUFVX3lxTFBQdkl6UnJlaTVRMlhkTG9fdXFscWN2VVQxRksyM2RyeWI5VDRzZGswVGU1TVNSeE1FTWhBbWQ5U2lyaks2R21KVFZDb3pjaVRXSVhoNzVpT21ZRC1tVWx4VXVHWUdGQXZ5SGlBWDRWczQ2QzdfVG9GZlVNb0I5ampscGdwNGxXWmlXZzNnWTUwbmRoNmlHUE4ydjR5aWd3VEZ0cWluQVlBV0FMUktrajd2b1g0NUkwdU4taHFNeW1ERg?oc=5",
-      "sentiment": "Bullish",
-      "importance_score": 7,
-      "short_term_impact": "Reported by Moneycontrol.com on 2026-11-18. Market participant positioning reflects recent corporate updates.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Bullish",
-      "opportunities": "Positive operational and institutional sentiment momentum.",
-      "risks": "Macro interest rate and broad market swings.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from Moneycontrol.com publication."
-    }
-  ]
+  "developments": []
 }

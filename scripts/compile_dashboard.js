@@ -5,7 +5,7 @@ const ROOT_DIR = path.join(__dirname, '..');
 const RAW_DIR = path.join(ROOT_DIR, 'raw_data');
 
 function compile() {
-  const excludeFiles = ['EMS.json', 'ORIENTALRAIL.json', 'EMBASSY.json'];
+  const excludeFiles = ['EMS.json', 'ORIENTALRAIL.json', 'EMBASSY.json', 'ORIENTLTD.json', 'TATAMOTORS.json'];
   const files = fs.readdirSync(RAW_DIR).filter(f => f.endsWith('.json') && !excludeFiles.includes(f));
 
   const now = new Date();

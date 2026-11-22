@@ -1,0 +1,26 @@
+{
+  "ticker": "NSE:HDFCBANK",
+  "company_name": "HDFC Bank Limited",
+  "sector": "Financials",
+  "news_found": false,
+  "ltp": 846,
+  "change": 24.2,
+  "change_percent": 2.94,
+  "prev_close": 821.8,
+  "fifty_two_week_high": 1017.5,
+  "fifty_two_week_low": 669.2,
+  "currency": "INR",
+  "canvas_categories": {
+    "direct_company_news": "No material corporate developments reported in the last 7 days.",
+    "sector_news": "Sector developments monitored across Financials.",
+    "competitor_news": "Peer performance and market share movements.",
+    "government_policy_changes": "Policy environment remains supportive for domestic industry.",
+    "raw_material_changes": "Input cost trends monitored against operating margins.",
+    "order_inflow_changes": "Commercial order book and revenue visibility.",
+    "demand_cycle_changes": "Demand trends across institutional and retail segments.",
+    "management_commentary": "Quarterly guidance and management strategic updates.",
+    "institutional_activity": "FII/DII holding changes and block trading trends.",
+    "promoter_activity": "Promoter shareholding stability and pledge tracking."
+  },
+  "developments": []
+}

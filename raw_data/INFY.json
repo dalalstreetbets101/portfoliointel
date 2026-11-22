@@ -1,0 +1,72 @@
+{
+  "ticker": "NSE:INFY",
+  "company_name": "Infosys Limited",
+  "sector": "IT & Telecom",
+  "news_found": true,
+  "ltp": 1098,
+  "change": 6.1,
+  "change_percent": 0.56,
+  "prev_close": 1091.9,
+  "fifty_two_week_high": 1728,
+  "fifty_two_week_low": 980.4,
+  "currency": "INR",
+  "canvas_categories": {
+    "direct_company_news": "(2026-11-20) Infosys Share Price - Live NSE: INFY Stock Price & Chart - Upstox [Upstox] | (2026-11-20) INFY Option Chain: Live NSE Option Chain Data, OI & Price - Kotak Neo [Kotak Neo] | (2026-11-19) Infosys shares slides 2.5% despite Japan JV buzz; stock near 1 month low - BusinessLine [BusinessLine]",
+    "sector_news": "Sector developments monitored across IT & Telecom.",
+    "competitor_news": "Peer performance and market share movements.",
+    "government_policy_changes": "Policy environment remains supportive for domestic industry.",
+    "raw_material_changes": "Input cost trends monitored against operating margins.",
+    "order_inflow_changes": "Commercial order book and revenue visibility.",
+    "demand_cycle_changes": "Demand trends across institutional and retail segments.",
+    "management_commentary": "Quarterly guidance and management strategic updates.",
+    "institutional_activity": "FII/DII holding changes and block trading trends.",
+    "promoter_activity": "Promoter shareholding stability and pledge tracking."
+  },
+  "developments": [
+    {
+      "date": "2026-11-20",
+      "headline": "Infosys Share Price - Live NSE: INFY Stock Price & Chart - Upstox",
+      "source_name": "Upstox",
+      "source_link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BbEJTdmZNbE5BN0ZRWWZpd2tZZnRCZWV0MFdhYW5nQ2NSSTgzUlI4TjVPaU5BV1FxQkpYUnFWa05Fb09uMkxlNDhUWVpvV2JLWGIxUmh3SUFKSzEwUHZpX1IyTVM?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Upstox on 2026-11-20. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Upstox publication."
+    },
+    {
+      "date": "2026-11-20",
+      "headline": "INFY Option Chain: Live NSE Option Chain Data, OI & Price - Kotak Neo",
+      "source_name": "Kotak Neo",
+      "source_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZE1QYTQzWmkxNUhSTzRvYkc5ajNGM3IzVmRJd0t2RTkybU9VdkdkTmxBLXZrX1FmaElkZXBEMHBqSFFabGNub1NQUjctSWhrSUlZNUdkVHVRR1d4WFJiTF9kTTJZem9IV2xDb19yVUpHQmlFWWI2aVhHTFhpeGxUa3Q0cUltMDBu?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Kotak Neo on 2026-11-20. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Kotak Neo publication."
+    },
+    {
+      "date": "2026-11-19",
+      "headline": "Infosys shares slides 2.5% despite Japan JV buzz; stock near 1 month low - BusinessLine",
+      "source_name": "BusinessLine",
+      "source_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMmctTnFENGlwOGdmQmZycV8yU2R2UDVwSkNWT2xaN1l6Wi1zWmNXRkxrOTVHTWRzREd6OWJybl9mVjlKUE5GWUROWmYyd1FtY3ZuX0hYbXkyX19admtmMm1TZGVia3p5X29vM1NxX3lKMzBWM1duVUJYbUQxY0RzTFpfU2NvZmVKSGkweVVmN3ZjQXo3Si1JbFNLaVQ5ZGdTR3pQUi1rU2ptRGMwMkphejE2bE9tRGoyRGdUWkpWekIzWE91X3pvZXZTc2lTQmxlNV9DeUUtOFV0ZEhGSnpyeVBGdU9leFHSAe4BQVVfeXFMUGFXR09SYmZ6NjMxMGpBakFBbDkyQUdRdUFUS2ZVaVl4a28yU1VvS016SUFJVnRfS0RjdWtFY3c3VEpITXI2bUZlcGR3bHBlQTlwRHVpdHhSTkx5Z3h3WkRISXJoSHFQblNlWlVhS3JRN3RhV3JNb29UU01RdHJCQU1PU25uZnRnQ2dzVkQ1akNzU0FfNFJtR3FrODZQR1lQRVRuRllSaHhDMXU3bXhnanVSY1pZSUxyNmVtOFlZR1ZDR3ZrMzc3b1ZPeGNfRHl5QWdrT2owX0ZfR2Q4VThyQ3lXTFZabUlGUVlGVzZWUQ?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by BusinessLine on 2026-11-19. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from BusinessLine publication."
+    }
+  ]
+}

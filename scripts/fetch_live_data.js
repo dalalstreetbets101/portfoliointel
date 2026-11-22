@@ -10,10 +10,12 @@ const STOCKS = [
   // 1. IT & Telecom
   { ticker: "NSE:BBOX", name: "Black Box Limited", code: "BBOX", sym: "BBOX.NS", sector: "IT & Telecom", query: '"Black Box Limited" OR "Black Box" stock' },
   { ticker: "NSE:BSOFT", name: "Birlasoft Limited", code: "BSOFT", sym: "BSOFT.NS", sector: "IT & Telecom", query: '"Birlasoft" share OR stock' },
-  { ticker: "NSE:DCI", name: "Datamatics Global Services Limited", code: "DCI", sym: "DATAMATICS.NS", sector: "IT & Telecom", query: '"Datamatics" share OR stock' },
+  { ticker: "NSE:DCI", name: "DC Infotech and Communication Limited", code: "DCI", sym: "DCI.NS", sector: "IT & Telecom", query: '"DC Infotech" OR "DC Infotech and Communication" share OR stock' },
   { ticker: "NSE:ORIENTTECH", name: "Orient Technologies Limited", code: "ORIENTTECH", sym: "ORIENTTECH.NS", sector: "IT & Telecom", query: '"Orient Technologies" share OR stock' },
-  { ticker: "NSE:ADCINDIA", name: "ADC India Communications Ltd", code: "ADCINDIA", sym: "ADCINDIA.BO", sector: "IT & Telecom", query: '"ADC India Communications" share OR stock' },
   { ticker: "NSE:RAILTEL", name: "RailTel Corporation of India Ltd", code: "RAILTEL", sym: "RAILTEL.NS", sector: "IT & Telecom", query: '"RailTel" share OR stock' },
+  { ticker: "NSE:INFY", name: "Infosys Limited", code: "INFY", sym: "INFY.NS", sector: "IT & Telecom", query: '"Infosys" share OR stock' },
+  { ticker: "NSE:TCS", name: "Tata Consultancy Services Limited", code: "TCS", sym: "TCS.NS", sector: "IT & Telecom", query: '"Tata Consultancy Services" OR "TCS" share' },
+  { ticker: "NSE:ADCINDIA", name: "ADC India Communications Ltd", code: "ADCINDIA", sym: "ADCINDIA.BO", sector: "IT & Telecom", query: '"ADC India Communications" share OR stock' },
   { ticker: "NSE:TATATECH", name: "Tata Technologies Ltd", code: "TATATECH", sym: "TATATECH.NS", sector: "IT & Telecom", query: '"Tata Technologies" share OR stock' },
 
   // 2. Financials
@@ -22,6 +24,8 @@ const STOCKS = [
   { ticker: "NSE:HUDCO", name: "Housing and Urban Development Corporation Limited", code: "HUDCO", sym: "HUDCO.NS", sector: "Financials", query: '"HUDCO" share OR stock' },
   { ticker: "NSE:CDSL", name: "Central Depository Services (India) Limited", code: "CDSL", sym: "CDSL.NS", sector: "Financials", query: '"CDSL" share OR stock' },
   { ticker: "NSE:BSE", name: "BSE Limited", code: "BSE", sym: "BSE.NS", sector: "Financials", query: '"BSE Limited" OR "BSE share" stock' },
+  { ticker: "NSE:HDFCBANK", name: "HDFC Bank Limited", code: "HDFCBANK", sym: "HDFCBANK.NS", sector: "Financials", query: '"HDFC Bank" share OR stock' },
+  { ticker: "NSE:SBIN", name: "State Bank of India", code: "SBIN", sym: "SBIN.NS", sector: "Financials", query: '"State Bank of India" OR "SBIN" share' },
 
   // 3. Infra & Railways (including Real Estate)
   { ticker: "NSE:BCPL", name: "BCPL Railway Infrastructure Ltd", code: "BCPL", sym: "BCPL.NS", sector: "Infra & Railways", query: '"BCPL Railway" share OR stock' },
@@ -29,7 +33,7 @@ const STOCKS = [
   { ticker: "NSE:EMSLIMITED", name: "EMS Ltd", code: "EMSLIMITED", sym: "EMSLIMITED.NS", sector: "Infra & Railways", query: '"EMS Limited" OR "EMS Ltd" share' },
   { ticker: "NSE:IRCON", name: "Ircon International Ltd", code: "IRCON", sym: "IRCON.NS", sector: "Infra & Railways", query: '"Ircon International" OR "IRCON" share' },
   { ticker: "NSE:LIKHITHA", name: "Likhitha Infrastructure Ltd", code: "LIKHITHA", sym: "LIKHITHA.NS", sector: "Infra & Railways", query: '"Likhitha Infrastructure" share' },
-  { ticker: "NSE:ORIENTLTD", name: "Oriental Rail Infrastructure Ltd", code: "ORIENTLTD", sym: "ORIRAIL.BO", sector: "Infra & Railways", query: '"Oriental Rail Infrastructure" share' },
+  { ticker: "NSE:ORIRAIL", name: "Oriental Rail Infrastructure Ltd", code: "ORIRAIL", sym: "ORIRAIL.NS", sector: "Infra & Railways", query: '"Oriental Rail Infrastructure" OR "ORIRAIL" share' },
   { ticker: "NSE:TITAGARH", name: "Titagarh Rail Systems Ltd", code: "TITAGARH", sym: "TITAGARH.NS", sector: "Infra & Railways", query: '"Titagarh Rail" OR "Titagarh" share' },
   { ticker: "NSE:CONART", name: "Conart Engineers Ltd", code: "CONART", sym: "CONART.BO", sector: "Infra & Railways", query: '"Conart Engineers" share OR stock' },
   { ticker: "NSE:VPRPL", name: "Vishnu Prakash R Punglia Ltd", code: "VPRPL", sym: "VPRPL.NS", sector: "Infra & Railways", query: '"Vishnu Prakash R Punglia" OR "VPRPL" share' },
@@ -40,20 +44,21 @@ const STOCKS = [
   { ticker: "NSE:SKIPPER", name: "Skipper Ltd", code: "SKIPPER", sym: "SKIPPER.NS", sector: "Power & Renewables", query: '"Skipper Limited" OR "Skipper Ltd" share' },
   { ticker: "NSE:TATAPOWER", name: "Tata Power Company Ltd", code: "TATAPOWER", sym: "TATAPOWER.NS", sector: "Power & Renewables", query: '"Tata Power" share OR stock' },
   { ticker: "NSE:TEMBO", name: "Tembo Global Industries Ltd", code: "TEMBO", sym: "TEMBO.NS", sector: "Power & Renewables", query: '"Tembo Global" share OR stock' },
-  { ticker: "NSE:WAAREERTL", name: "Waaree Renewable Technologies Ltd", code: "WAAREERTL", sym: "WAAREERTL.BO", sector: "Power & Renewables", query: '"Waaree Renewable" share OR stock' },
+  { ticker: "NSE:WAAREERTL", name: "Waaree Renewable Technologies Ltd", code: "WAAREERTL", sym: "WAAREERTL.NS", sector: "Power & Renewables", query: '"Waaree Renewable" share OR stock' },
   { ticker: "NSE:OLECTRA", name: "Olectra Greentech Ltd", code: "OLECTRA", sym: "OLECTRA.NS", sector: "Power & Renewables", query: '"Olectra Greentech" share OR stock' },
   { ticker: "NSE:NHPC", name: "NHPC Ltd", code: "NHPC", sym: "NHPC.NS", sector: "Power & Renewables", query: '"NHPC" share OR stock' },
   { ticker: "NSE:SWSOLAR", name: "Sterling and Wilson Renewable Energy Ltd", code: "SWSOLAR", sym: "SWSOLAR.NS", sector: "Power & Renewables", query: '"Sterling and Wilson" OR "SWSOLAR" share' },
   { ticker: "NSE:SJVN", name: "SJVN Ltd", code: "SJVN", sym: "SJVN.NS", sector: "Power & Renewables", query: '"SJVN" share OR stock' },
 
   // 5. Auto, FMCG & Energy
-  { ticker: "NSE:TATAMOTORS", name: "Tata Motors Ltd", code: "TATAMOTORS", sym: "TMPV.NS", sector: "Auto, FMCG & Energy", query: '"Tata Motors" share OR stock' },
+  { ticker: "NSE:TMPV", name: "Tata Motors Passenger Vehicles Ltd", code: "TMPV", sym: "TMPV.NS", sector: "Auto, FMCG & Energy", query: '"Tata Motors Passenger Vehicles" OR "TMPV" share OR stock' },
+  { ticker: "NSE:TMCV", name: "Tata Motors Commercial Vehicles Ltd", code: "TMCV", sym: "TMCV.NS", sector: "Auto, FMCG & Energy", query: '"Tata Motors Commercial Vehicles" OR "TMCV" share OR stock' },
   { ticker: "NSE:RELIANCE", name: "Reliance Industries Ltd", code: "RELIANCE", sym: "RELIANCE.NS", sector: "Auto, FMCG & Energy", query: '"Reliance Industries" share OR stock' },
-  { ticker: "NSE:IOC", name: "Indian Oil Corporation Ltd", code: "IOC", sym: "IOC.NS", sector: "Auto, FMCG & Energy", query: '"Indian Oil" OR "IOCL" share' },
   { ticker: "NSE:ITC", name: "ITC Ltd", code: "ITC", sym: "ITC.NS", sector: "Auto, FMCG & Energy", query: '"ITC Limited" OR "ITC share" stock' },
-  { ticker: "NSE:WELSPUNLIV", name: "Welspun Living Ltd", code: "WELSPUNLIV", sym: "WELSPUNLIV.NS", sector: "Auto, FMCG & Energy", query: '"Welspun Living" share OR stock' },
   { ticker: "NSE:PNGJL", name: "P N Gadgil Jewellers Ltd", code: "PNGJL", sym: "PNGJL.NS", sector: "Auto, FMCG & Energy", query: '"P N Gadgil Jewellers" OR "PNGJL" share' },
-  { ticker: "NSE:PPL", name: "Prakash Pipes Ltd", code: "PPL", sym: "PPL.NS", sector: "Auto, FMCG & Energy", query: '"Prakash Pipes" share OR stock' }
+  { ticker: "NSE:PPL", name: "Prakash Pipes Ltd", code: "PPL", sym: "PPL.NS", sector: "Auto, FMCG & Energy", query: '"Prakash Pipes" share OR stock' },
+  { ticker: "NSE:IOC", name: "Indian Oil Corporation Ltd", code: "IOC", sym: "IOC.NS", sector: "Auto, FMCG & Energy", query: '"Indian Oil" OR "IOCL" share' },
+  { ticker: "NSE:WELSPUNLIV", name: "Welspun Living Ltd", code: "WELSPUNLIV", sym: "WELSPUNLIV.NS", sector: "Auto, FMCG & Energy", query: '"Welspun Living" share OR stock' }
 ];
 
 async function fetchQuote(sym) {

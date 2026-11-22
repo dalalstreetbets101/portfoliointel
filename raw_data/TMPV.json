@@ -1,0 +1,72 @@
+{
+  "ticker": "NSE:TMPV",
+  "company_name": "Tata Motors Passenger Vehicles Ltd",
+  "sector": "Auto, FMCG & Energy",
+  "news_found": true,
+  "ltp": 266.35,
+  "change": 2.85,
+  "change_percent": 1.08,
+  "prev_close": 263.5,
+  "fifty_two_week_high": 408,
+  "fifty_two_week_low": 251.5,
+  "currency": "INR",
+  "canvas_categories": {
+    "direct_company_news": "(2026-11-16) Tata Motors PV shares plunge 9% after Q2 results; brokerages cut target - Business Standard [Business Standard] | (2026-11-16) TMPV shares slide 8% as JLR guidance cut rattles investors - BusinessLine [BusinessLine] | (2026-11-20) Tata Motors Share Price - Live NSE: TMPV Stock Price & Chart - Upstox [Upstox]",
+    "sector_news": "Sector developments monitored across Auto, FMCG & Energy.",
+    "competitor_news": "Peer performance and market share movements.",
+    "government_policy_changes": "Policy environment remains supportive for domestic industry.",
+    "raw_material_changes": "Input cost trends monitored against operating margins.",
+    "order_inflow_changes": "Commercial order book and revenue visibility.",
+    "demand_cycle_changes": "Demand trends across institutional and retail segments.",
+    "management_commentary": "Quarterly guidance and management strategic updates.",
+    "institutional_activity": "FII/DII holding changes and block trading trends.",
+    "promoter_activity": "Promoter shareholding stability and pledge tracking."
+  },
+  "developments": [
+    {
+      "date": "2026-11-16",
+      "headline": "Tata Motors PV shares plunge 9% after Q2 results; brokerages cut target - Business Standard",
+      "source_name": "Business Standard",
+      "source_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcEhLZFpmQml1REpCWkJXRUoyVUl4V0d5dWt5ZTg1UGhIUHJtdTFxTEJkZ3QzU1ZTQmEyYjVneGljQXBWZzBHbVRLR0t1ckdyMW81bDRpbVBJRWFnUnlRS3RNR0pIcm5Uei03andMd3AzOTZDaC15VGUwdFZISGRMNzBMUXlTdTdTYzcwclpYVThwQkJ6YmZfUFRaelR6QU5YajBJUEJIbUdqU09CUVFEMHp4eE1qV0NleG1FWkp5dW1LV2FYbS1hRFpnTXIzT1JvRlHSAdcBQVVfeXFMT3ZvWjA2TTgxUVpNNEpKbVNHWk1saUJCaE9CSTRUUldaTFhBVVpJd0FwWlhDZFFsNklod1NUdVJkWWlNQmFzQ1UtMTZVSFBYTGRtSjFlSlpMX1hkbW4xbnFkdEJxRW5hNlRGRkVPeDhua2JDV3N2M0loRUJGZlo2bTl4RzAyX2xsZ0pOdW0wV2doT1NTV3JLODFjVXJzYjcyZXJzTFZsME9MWDhzd1dOSjVVRzB5cFU0c0xMSFZvNTV3YzVXXzZSZ3JERTc5R2hzNWFaNnAyeE0?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by Business Standard on 2026-11-16. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Business Standard publication."
+    },
+    {
+      "date": "2026-11-16",
+      "headline": "TMPV shares slide 8% as JLR guidance cut rattles investors - BusinessLine",
+      "source_name": "BusinessLine",
+      "source_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNm1wZXRMLUVkN01KZzhKTlZaaUllRWZnSU1SbDVnQ1dfMEhiWDNfY1B3QzhQY3dQZTUxR3F6bXVFZVdxRlR4NUtfc25GVnp5SU5iYldmUmdyTlVTczQyc1VtMEh1TnR2eVFkU0JDYV9oVHE4dDBxR2xwZGpQQUNmYUstSHYyWHZQR2JxM0Q3ZllIWlRhYV94Z0tSZHdxVnpSemVaQjBjUDhxVXpvNjI0ZVRHM2YyZFRWQWtYaWJGbWlrbnp1MmZHWTQ5VFlveXRZREHSAdgBQVVfeXFMTngzMHdEcjR6MDNqQ240WGZJS1FMbmszNTl3Tll3WDhBZVRJY2RrMUJQRkV6T0Z1NzRxYTNlYWNJNGFrNGRmdmZ4QVI5VUJaaUx6SkJhWlppbGc5THhObWpMNFp3aUFNVjhMX1ZVY2p2UVVIR3YyMjNNLUZPcGVEZ1ItR1NfNC1aSkdyZ0hOMGlfVV8yX3NSZmR6ZnRvQVY2ZF82dEhiT1REQzBVRXhUenZDNUhZdlByeFRSaUVkdTJRbk9Fb0FFSjI2LWVXRmR5WXdYS3Q5a2Y3?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by BusinessLine on 2026-11-16. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from BusinessLine publication."
+    },
+    {
+      "date": "2026-11-20",
+      "headline": "Tata Motors Share Price - Live NSE: TMPV Stock Price & Chart - Upstox",
+      "source_name": "Upstox",
+      "source_link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tRUNlRENKdi05NTFRNHg0VEZ1TURMZzlEWGg1Y2M2QnM0ZThZdHdRVzRpbG8yR0Z4NFV1dzNTdzJOZkFOUEZtaWFQMEJ5MFlMcmNiWkpWRFFmNVpoblVkMk1Qckx3TDcxX250eGdxMTY?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Upstox on 2026-11-20. Market participant positioning reflects recent corporate updates.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Macro interest rate and broad market swings.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Upstox publication."
+    }
+  ]
+}

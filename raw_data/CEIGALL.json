@@ -2,7 +2,7 @@
   "ticker": "NSE:CEIGALL",
   "company_name": "Ceigall India Ltd",
   "sector": "Infra & Railways",
-  "news_found": true,
+  "news_found": false,
   "ltp": 379,
   "change": -2.95,
   "change_percent": -0.77,
@@ -11,7 +11,7 @@
   "fifty_two_week_low": 222.61,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "(2026-11-16) Ceigall India wins Rs 684 crore work order from NHAI for Haryana highway - scanx.trade [scanx.trade] | (2026-11-20) Koninklijke Bam Groep NV (BGPA.HA) stock price, news, quote and history - Yahoo Finance UK [Yahoo Finance UK] | (2026-11-21) Ceigall India Investor Analysis | StockIQ - The Economic Times [The Economic Times]",
+    "direct_company_news": "No material corporate developments reported in the last 7 days.",
     "sector_news": "Sector developments monitored across Infra & Railways.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
@@ -22,51 +22,5 @@
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
-  "developments": [
-    {
-      "date": "2026-11-16",
-      "headline": "Ceigall India wins Rs 684 crore work order from NHAI for Haryana highway - scanx.trade",
-      "source_name": "scanx.trade",
-      "source_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSDRIUDlaeFJqNm16azNkTjUyWWhnTHA4X2hsTDB1Z2xXY3lvTmRWcXEyYVp5S2R0RnppTTNMTUwyNE9sVzhwLXVkal8tb3BlLVFYbnVGZWM3Uzg4bHBBbE5CNHN3WENkalNoTmdjUnpITmN2MURLWS15cmNKbWJGbm00bDE2Nmt0X1FFN2QtQWpzUV9iWHJuQ3Y0OE1NdkFra0VmNTZMbFV4X0kwQkVQYWFYdVM4R0gxMHVzMg?oc=5",
-      "sentiment": "Bullish",
-      "importance_score": 7,
-      "short_term_impact": "Reported by scanx.trade on 2026-11-16. Market participant positioning reflects recent corporate updates.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Bullish",
-      "opportunities": "Positive operational and institutional sentiment momentum.",
-      "risks": "Macro interest rate and broad market swings.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from scanx.trade publication."
-    },
-    {
-      "date": "2026-11-20",
-      "headline": "Koninklijke Bam Groep NV (BGPA.HA) stock price, news, quote and history - Yahoo Finance UK",
-      "source_name": "Yahoo Finance UK",
-      "source_link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUSVg3WjRGaDNuWXFBR2VWM0c0TEJGWXlKaWZsTWotcWdFZ1BGNFc3eWFydTFtNDhSUTBiYWRQUzVsWUFHQ1lrTVRKcDFRWmdmVzFFNDNR?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by Yahoo Finance UK on 2026-11-20. Market participant positioning reflects recent corporate updates.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Macro interest rate and broad market swings.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from Yahoo Finance UK publication."
-    },
-    {
-      "date": "2026-11-21",
-      "headline": "Ceigall India Investor Analysis | StockIQ - The Economic Times",
-      "source_name": "The Economic Times",
-      "source_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMFpOX2t2UHhGZHpOaFBTMk1tMWxoaGxXRjFSNVI1c2VqT0RSMm1OejBkXzQ2ZExXZ1BienhmVDBqVWZlYUgyNlQtdlV2ZVNrSHVtWWlfMzVyTjdiZXg3cmktcDBTN3h4c3JtS2Q3OGM1TnNxdnZ5SUdWaVVmUkZmUDZ5ZGp1NHFnQjhEMnlobkI?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by The Economic Times on 2026-11-21. Market participant positioning reflects recent corporate updates.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Macro interest rate and broad market swings.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from The Economic Times publication."
-    }
-  ]
+  "developments": []
 }

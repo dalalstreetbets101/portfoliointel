@@ -2,7 +2,7 @@
   "ticker": "NSE:BSOFT",
   "company_name": "Birlasoft Limited",
   "sector": "IT & Telecom",
-  "news_found": true,
+  "news_found": false,
   "ltp": 303.7,
   "change": 4.85,
   "change_percent": 1.62,
@@ -11,7 +11,7 @@
   "fifty_two_week_low": 267.05,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "(2026-11-17) Birlasoft wants to measure skills by deployment, not learning hours - HR Katha [HR Katha] | (2026-11-20) Zee Business. . Stock In Action BirlaSoft और Coforge में शानदार तेजी, आगे क्या? NSE में जारी है मजबूती, क्या करें? Maruti और Hyundai ने कैसे किया कमाल? HDFC Bank क्यों बना रॉकेट? Union Bank में अभी भी खरीदार - Facebook [Facebook] | (2026-11-18) Did Birlasoft's Fall Catch You Out? What Investors Missed - Yahoo Finance [Yahoo Finance]",
+    "direct_company_news": "No material corporate developments reported in the last 7 days.",
     "sector_news": "Sector developments monitored across IT & Telecom.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
@@ -22,51 +22,5 @@
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
-  "developments": [
-    {
-      "date": "2026-11-17",
-      "headline": "Birlasoft wants to measure skills by deployment, not learning hours - HR Katha",
-      "source_name": "HR Katha",
-      "source_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONEozX0F0d1NKNW9DTHVkSXpYR2lLZmFRTkpmdmNzZEV3bVozY1E0VUZuVEpYSXpncEdRUFlqUnNLbTJoODRNOHg4YmF0RG42Q0JKOGstek9PQ2ZCWUpUYTJ2clhsYXJHSHBSU2tWOE9iNDNPaXV1NEJiT1FZank4YlRKMW5tRjY4TWtaN1ZCZ015Z0xERER4T0dfb0NJbmh4Nmc?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by HR Katha on 2026-11-17. Market participant positioning reflects recent corporate updates.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Macro interest rate and broad market swings.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from HR Katha publication."
-    },
-    {
-      "date": "2026-11-20",
-      "headline": "Zee Business. . Stock In Action BirlaSoft और Coforge में शानदार तेजी, आगे क्या? NSE में जारी है मजबूती, क्या करें? Maruti और Hyundai ने कैसे किया कमाल? HDFC Bank क्यों बना रॉकेट? Union Bank में अभी भी खरीदार - Facebook",
-      "source_name": "Facebook",
-      "source_link": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxQYk8wb2czVVFXMmRfeFV1cjR6anVHV25BMGlyc2NIbHVnNTUwbDdRNzltYkU1RGlZWDdVRDI0U3IzQllsQmxSallqYTZmazJ1MjVYS3VpZkN4RG1FejA0eVpPUEJMRUVHRHltd2k2ZFlxWDZvWHJIZk84ODUxNXM3Wkk0cnUtNVZRN1hUX2pObUxqVGZPdkdVbHgtN25DRTNzN0ZsbGVfc0c3bElPWks2dDk1aW1OQnhYMHljellIbHBiWEh2ZUxNT3dlVE5vQTRmMnBLODlrN1ktRjNSajVQd2lxLXROVGdMVm5ld3ZadU1MQzB0MnRwcDJQM3Mxa3dodlcxamhDZHpvNFlZRld1UW9YVk1yaFVDVDJrNHVMekttSlJzMVBpQlRHVW1MdzNjOHk4RFNOR1c2QVF0b1FackFOSXhTbVQ2Uk43YkVSUkxSblNWX3g3STRSVnRralBsM1dSOGJlX0ZDam9UQ2dwSk1rVkxfTnpsd2FoR1p1SXBVVllYM1VsVDNtZkhONjNRTy1Ja2xPVmpxN0E4S3Y0R01qVzBOTFpfNlV0YUszU2Rxa1p6ZFZSRHNuN25DS1k3NlktR3VoV0FLOHozb09UYW9taGlwUm43NlF1eGNrZjNyaE9ucXdzRDBZOGVoaTdmeF94N004NTJxWkZ3bVhzaDlaaHVWUDVJd29IZGpqaWd4RUZTNGk3eXZLTXZyZ3pmalJPRl93UHRXRnFWb09qSk1xVkdLTVJPdWZlN1ZSZHZ5X0VQbzE0TmI4WDN3SjJCSVROc2s3aw?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by Facebook on 2026-11-20. Market participant positioning reflects recent corporate updates.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Macro interest rate and broad market swings.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from Facebook publication."
-    },
-    {
-      "date": "2026-11-18",
-      "headline": "Did Birlasoft's Fall Catch You Out? What Investors Missed - Yahoo Finance",
-      "source_name": "Yahoo Finance",
-      "source_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTl9LanRndGE0SzM3c1RuX2tEemZYVU10NDlDUnVZVzF3bFZXRG9nNFFaZjhUaVYtdndfT3hJWlR4WTJ4OE1vZEtYUk1ZUUQtRWJ0SERldUtTZS1NaWlmZ3plNVg4czFuMW9BeGU0SkNWVFp0b1FhLTVGVjZoQkZ5dXYxNXFSc2ltMFRpa1hCU1N3bDBBWXJiV0Q0X0QwRzl3ZUE?oc=5",
-      "sentiment": "Bearish",
-      "importance_score": 7,
-      "short_term_impact": "Reported by Yahoo Finance on 2026-11-18. Market participant positioning reflects recent corporate updates.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Bearish",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Near-term market volatility or regulatory/earnings headwind.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from Yahoo Finance publication."
-    }
-  ]
+  "developments": []
 }

@@ -1,0 +1,26 @@
+{
+  "ticker": "NSE:ORIRAIL",
+  "company_name": "Oriental Rail Infrastructure Ltd",
+  "sector": "Infra & Railways",
+  "news_found": false,
+  "ltp": 117.98,
+  "change": 2.45,
+  "change_percent": 2.12,
+  "prev_close": 115.53,
+  "fifty_two_week_high": 142,
+  "fifty_two_week_low": 102.8,
+  "currency": "INR",
+  "canvas_categories": {
+    "direct_company_news": "No material corporate developments reported in the last 7 days.",
+    "sector_news": "Sector developments monitored across Infra & Railways.",
+    "competitor_news": "Peer performance and market share movements.",
+    "government_policy_changes": "Policy environment remains supportive for domestic industry.",
+    "raw_material_changes": "Input cost trends monitored against operating margins.",
+    "order_inflow_changes": "Commercial order book and revenue visibility.",
+    "demand_cycle_changes": "Demand trends across institutional and retail segments.",
+    "management_commentary": "Quarterly guidance and management strategic updates.",
+    "institutional_activity": "FII/DII holding changes and block trading trends.",
+    "promoter_activity": "Promoter shareholding stability and pledge tracking."
+  },
+  "developments": []
+}
