@@ -3,10 +3,10 @@
   "company_name": "Infosys Limited",
   "sector": "IT & Telecom",
   "news_found": true,
-  "ltp": 1098,
-  "change": 6.1,
-  "change_percent": 0.56,
-  "prev_close": 1091.9,
+  "ltp": 1103.4,
+  "change": 5.4,
+  "change_percent": 0.49,
+  "prev_close": 1098,
   "fifty_two_week_high": 1728,
   "fifty_two_week_low": 980.4,
   "currency": "INR",
@@ -18,7 +18,7 @@
     "raw_material_changes": "Input cost trends monitored against operating margins.",
     "order_inflow_changes": "Commercial order book and revenue visibility.",
     "demand_cycle_changes": "Demand trends across institutional and retail segments.",
-    "management_commentary": "(2026-11-17) 'AI can leave a backdoor': Infosys co-founder warns against blindly trusting AI-written code - Storyboard18 [Storyboard18]",
+    "management_commentary": "Quarterly guidance and management strategic updates.",
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
@@ -41,6 +41,22 @@
     },
     {
       "date": "2026-11-19",
+      "headline": "Infosys Expands AI Footprint in Japan With Telecom JV - Analytics India Magazine",
+      "category": "Corporate Action & M&A",
+      "source_name": "Analytics India Magazine",
+      "source_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNXp3aUJiUmFILUZfZ3ROeGRRejY3d1BOWDdLaVhDMlFZOTk2U3FVdGwtdG9xcmU0ZGczVlZoZE9EZUNwS1VjR2h4WUlJYTZURV9pZ0J3aDBnbHpZZmtzcWFzOWxMdzFQclVjUW5aekJIdzRvM0tZZ21ZZFEwM1lneUFXYnJWa0VPUEFBMXNLRXVpUEdfS3o1am1B?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Analytics India Magazine on 2026-11-19. Corporate development in Corporate Action & M&A.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Analytics India Magazine publication."
+    },
+    {
+      "date": "2026-11-19",
       "headline": "Infosys shares slides 2.5% despite Japan JV buzz; stock near 1 month low - BusinessLine",
       "category": "Corporate Action & M&A",
       "source_name": "BusinessLine",
@@ -54,22 +70,6 @@
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
       "hidden_implications": "Information verified directly from BusinessLine publication."
-    },
-    {
-      "date": "2026-11-17",
-      "headline": "'AI can leave a backdoor': Infosys co-founder warns against blindly trusting AI-written code - Storyboard18",
-      "category": "Management & Strategy",
-      "source_name": "Storyboard18",
-      "source_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbXRYQUNPQ0JDVmFJNmZFQWNMR09jRlpaN2Y5bFZKVEZQMTd1TGlnZ0lhU1hORWJlXzBLZ1p4MnVsdk9KdkNoSHRReC1xQXVUaUxSMDJDM0ZmVDd6MlRlcUg5RTFhOE5LTmItWVQwNGl2NEtRSnBwQjNUTDN3Q1Jvb1pQSGItcTdLREZna2toRkthZFNwdzdLNnp4SG9YQ0lJRllFeFF6eE9PVVp5dzJvekRMd3lZNk9vYVNIVlBCY3A2RG9DRVE0RlBtcE04SmJNQ3BpS19vTHYzZ9IB3wFBVV95cUxQbWdGdnBTMjh2MlhmOTVFVWtxVThKQVdsZ1lBQkhaX2kyczExblE0MEdRb08tMGxYbW5kUXJlNkh4UTRMTGZ5V3UtTUJTVlhYR1MxY25nbzdob3gtWkk5UjBoUXRnaXhHaW1CUWtzOEFxZFBfOVV3ZFVjZEY5TnpybFU4NjJPZk5ZZzd6bG1GWWtUVTQ2bWs0MWowS3k4SXFCUkZhdGlYNHZRUVpQcXhhNml5Mk9UUTZFWW40dmQ2YzZ1VFN5QUJWUTVpcEVtLUc0a0tidml0Z1BxY1BFTjBJ?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by Storyboard18 on 2026-11-17. Corporate development in Management & Strategy.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from Storyboard18 publication."
     }
   ]
 }

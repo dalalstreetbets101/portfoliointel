@@ -3,15 +3,15 @@
   "company_name": "Jio Financial Services Limited",
   "sector": "Financials",
   "news_found": true,
-  "ltp": 224.97,
-  "change": -1.83,
-  "change_percent": -0.81,
-  "prev_close": 226.8,
+  "ltp": 219.7,
+  "change": -5.27,
+  "change_percent": -2.34,
+  "prev_close": 224.97,
   "fifty_two_week_high": 309.8,
   "fifty_two_week_low": 202.51,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "(2026-11-19) Jio Financial Services invests Rs 1.23 billion in Jio BlackRock Asset Management JV - tele.net [tele.net]",
+    "direct_company_news": "(2026-11-22) Jio Financial Services Releases Q4 FY26 Earnings Call Transcript with Business Updates - scanx.trade [scanx.trade]",
     "sector_news": "Sector developments monitored across Financials.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
@@ -23,22 +23,6 @@
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
   "developments": [
-    {
-      "date": "2026-11-19",
-      "headline": "Jio Financial Services and BlackRock Invest ₹246 Crore in Their Mutual Fund JV Through Rights Issue - Kotak Neo",
-      "category": "Corporate Action & M&A",
-      "source_name": "Kotak Neo",
-      "source_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcDNYRUZfcV9mbjJXSTVXZXRoWWE3WDd0bVZZem1lVnVYSWVKVkpxS1g2QnFiRnQ1Z09iYUZ5TWZrNUxQb3dYYjk3QVVrNExXYXZGUngzV0szdjR1VzRQWHMxb0V5bEVLWW5RM1lTcjVFRUJ0cGp1NExzLTdnNXhKMGJzV015b3RkVEFBOHZHYmJZQlI1aFN6cVFSSTlhNVNmZGFoeUFpZ3I2Qzl0NV9XaE9Kbjd3VWNvVEN5Q2ZMaU9xUGsyOGNWSFdR?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by Kotak Neo on 2026-11-19. Corporate development in Corporate Action & M&A.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from Kotak Neo publication."
-    },
     {
       "date": "2026-11-19",
       "headline": "Jio Financial Services invests Rs 1.23 billion in Jio BlackRock Asset Management JV - tele.net",
@@ -54,6 +38,22 @@
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
       "hidden_implications": "Information verified directly from tele.net publication."
+    },
+    {
+      "date": "2026-11-22",
+      "headline": "Jio Financial Services Releases Q4 FY26 Earnings Call Transcript with Business Updates - scanx.trade",
+      "category": "Financial Performance & Results",
+      "source_name": "scanx.trade",
+      "source_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZHp0MUNzZkdDZUhWcXE0Y0R4UzJabFozMDBPa01yWDNuRW8yUXFPOHVzZHVDcEFJblhvMFdHUUpXWDl3ZTVKV2c3el9WMjl4TlBVOFhBb0pEUHZ3Nk4xQjNNcWhlcXVkNURhR0V5OEtnY3FONXVYV2ZwY1NKT1pYbWZfMzhPSU5Ed2ZHR25wQ1pnblJJVGdWN0xpR1ZaaEFZbHQxY2ZfMUJKOWhiLWR3N3VKZnFvRTRvZmdpZTNEb1FlUnBjcWQxdWNrMmMzRm9fZTVOVVJSRkljWkd4LVpHag?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by scanx.trade on 2026-11-22. Corporate development in Financial Performance & Results.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from scanx.trade publication."
     },
     {
       "date": "2026-11-18",

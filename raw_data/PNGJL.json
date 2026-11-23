@@ -3,18 +3,18 @@
   "company_name": "P N Gadgil Jewellers Ltd",
   "sector": "Auto, FMCG & Energy",
   "news_found": true,
-  "ltp": 572.2,
-  "change": -4.5,
-  "change_percent": -0.78,
-  "prev_close": 576.7,
+  "ltp": 557.35,
+  "change": -12.95,
+  "change_percent": -2.27,
+  "prev_close": 570.3,
   "fifty_two_week_high": 736.4,
   "fifty_two_week_low": 503,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "(2026-11-16) P N Gadgil Jewellers approves ₹10 crore subsidiary for diamond mfg - scanx.trade [scanx.trade]",
+    "direct_company_news": "(2026-11-16) P N Gadgil Jewellers Approves Incorporation Of Subsidiary In India - TradingView [TradingView]",
     "sector_news": "Sector developments monitored across Auto, FMCG & Energy.",
     "competitor_news": "Peer performance and market share movements.",
-    "government_policy_changes": "Policy environment remains supportive for domestic industry.",
+    "government_policy_changes": "(2026-11-22) P N Gadgil Jewellers completes ₹700 crore QIP allotment at ₹609 per share - scanx.trade [scanx.trade]",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
     "order_inflow_changes": "Commercial order book and revenue visibility.",
     "demand_cycle_changes": "Demand trends across institutional and retail segments.",
@@ -23,6 +23,22 @@
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
   "developments": [
+    {
+      "date": "2026-11-22",
+      "headline": "P N Gadgil Jewellers completes ₹700 crore QIP allotment at ₹609 per share - scanx.trade",
+      "category": "Government Policy & Regulatory",
+      "source_name": "scanx.trade",
+      "source_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSC0xVS1MaGJoalFLWkZSWlRPdGIzb25qVmtVQkVfamtHQWRaejR3blNJZTN1TkNYdGVLNHAzN1Q1NXJGbUI2c1B2NDluOFVxbVdidkk2YXh3R01leS1LdHpfNWhwcjFvZE1ZeDJYU2RodXJOZDVjLUxfU0JQZXNPWjhiVG5Ba3BrLVpLUlNzbVRHY2l0SGdjYXY2U2xCaXBnQ2NraEs4dnVvRXFES2xPeHhSOTRzb214eVE?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by scanx.trade on 2026-11-22. Corporate development in Government Policy & Regulatory.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from scanx.trade publication."
+    },
     {
       "date": "2026-11-16",
       "headline": "P N Gadgil Jewellers Approves Incorporation Of Subsidiary In India - TradingView",
@@ -54,22 +70,6 @@
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
       "hidden_implications": "Information verified directly from Multibagg AI publication."
-    },
-    {
-      "date": "2026-11-16",
-      "headline": "P N Gadgil Jewellers approves ₹10 crore subsidiary for diamond mfg - scanx.trade",
-      "category": "Corporate Action & M&A",
-      "source_name": "scanx.trade",
-      "source_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdlpUQzlYcTVmdzBxbnYxQXA2SlktU0JaVEtiWlVFNjNiWlR5S0ZtWk9wdmtvOGhCbzlwbU9vcC1qYjhSSjhuVUd0SVppdTZLM1lrUjROOUJQb3Q5S3dFUmd3VXZLa3dFRmRMbVFwcW5VRFdNWktuU0cxelRXUWFpQ2hWaUhSbHdBVWJWdi1fQVZwd29za21Wc0dmVXdfV2UtQ0h1S2FjeHk4Q0FIcl9Td1h1RnVYX05iT3c?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by scanx.trade on 2026-11-16. Corporate development in Corporate Action & M&A.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from scanx.trade publication."
     }
   ]
 }

@@ -3,15 +3,15 @@
   "company_name": "Indian Renewable Energy Development Agency Ltd",
   "sector": "Power & Renewables",
   "news_found": true,
-  "ltp": 131.7,
-  "change": 1.9,
-  "change_percent": 1.46,
-  "prev_close": 129.8,
+  "ltp": 132.2,
+  "change": 0.5,
+  "change_percent": 0.38,
+  "prev_close": 131.7,
   "fifty_two_week_high": 149.48,
   "fifty_two_week_low": 98.78,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "(2026-11-19) IREDA shares rally 7%, head for best month since July 2024 after six-month losing streak - CNBC TV18 - LinkedIn [LinkedIn]",
+    "direct_company_news": "(2026-11-22) IREDA schedules 39th AGM for September 29 to approve FY26 final dividend - scanx.trade [scanx.trade]",
     "sector_news": "Sector developments monitored across Power & Renewables.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
@@ -56,20 +56,20 @@
       "hidden_implications": "Information verified directly from Kotak Neo publication."
     },
     {
-      "date": "2026-11-19",
-      "headline": "IREDA shares rally 7%, head for best month since July 2024 after six-month losing streak - CNBC TV18 - LinkedIn",
-      "category": "Strategic Corporate News",
-      "source_name": "LinkedIn",
-      "source_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMGZFT1ZmZlUwaUxMcEl4eW1kLTZ2SExrNTdCTjNtZzJ5NFFSQlNOQWlGbFA1c1RSQldEelNOWENpUjZzRld2TU4zc2s1VDdrSktLOXZuZ3gzSm9OWEVjVWdVOUFuR1U4dkoxclZqaWN3SXR5SGE3TW9xblh3RTRYM2NOaUVqcE1yeFViN1J4ckRWd1RIeXU4QUUtNXdyWEpmUFNSQlRMQkJQS3hiQkduc2JjUXhKZw?oc=5",
+      "date": "2026-11-22",
+      "headline": "IREDA schedules 39th AGM for September 29 to approve FY26 final dividend - scanx.trade",
+      "category": "Corporate Action & M&A",
+      "source_name": "scanx.trade",
+      "source_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZWcwN3ZJUW9xdndHZ0lGZmpvTDBaUTZWQVJnWTZBcERnZDRKZ1RBWkZNaUp3OXFlYmNjXy1MTDM1aW00Zkp4b3FINmhhT1NLVmhVOWRJUlBTY2lMYTZqZmtNbUhuaDNpclZNc2JuVy11bU5LenBvdXFUYnJEak5FMHBkNFYzNkRtdlpwTTcycllHUTlzekNWeE5EWlpxWVZUeDB5LWtZMTdyRUJzU3ZReFFTd01Yd1dXTXNtS2ctQQ?oc=5",
       "sentiment": "Bullish",
       "importance_score": 7,
-      "short_term_impact": "Reported by LinkedIn on 2026-11-19. Corporate development in Strategic Corporate News.",
+      "short_term_impact": "Reported by scanx.trade on 2026-11-22. Corporate development in Corporate Action & M&A.",
       "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
       "thesis_impact": "Bullish",
       "opportunities": "Positive operational and institutional sentiment momentum.",
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
-      "hidden_implications": "Information verified directly from LinkedIn publication."
+      "hidden_implications": "Information verified directly from scanx.trade publication."
     }
   ]
 }

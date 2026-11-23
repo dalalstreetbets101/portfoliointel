@@ -3,10 +3,10 @@
   "company_name": "Central Depository Services (India) Limited",
   "sector": "Financials",
   "news_found": true,
-  "ltp": 1430,
-  "change": 6.6,
-  "change_percent": 0.46,
-  "prev_close": 1423.4,
+  "ltp": 1395,
+  "change": -35,
+  "change_percent": -2.45,
+  "prev_close": 1430,
   "fifty_two_week_high": 1638.9,
   "fifty_two_week_low": 1116.3,
   "currency": "INR",
@@ -14,10 +14,10 @@
     "direct_company_news": "(2026-11-17) CDSL’s Consol Income, Net Profit Grow 15% YoY - https://www.fintechbiznews.com/ [https://www.fintechbiznews.com/]",
     "sector_news": "Sector developments monitored across Financials.",
     "competitor_news": "Peer performance and market share movements.",
-    "government_policy_changes": "(2026-11-18) SEBI's Proposed MTF Curbs May Have Limited Impact on Brokers, Exchanges, Says Jefferies; Here's Why - Kotak Neo [Kotak Neo]",
+    "government_policy_changes": "Policy environment remains supportive for domestic industry.",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
     "order_inflow_changes": "Commercial order book and revenue visibility.",
-    "demand_cycle_changes": "(2026-11-20) CDSL Data Breach Exposes Sensitive Details of 44 Mn Indian Investors - CISO Mag [CISO Mag]",
+    "demand_cycle_changes": "(2026-11-22) CDSL approved to invest ₹20 Cr in India International Bullion Holding IFSC - scanx.trade [scanx.trade]",
     "management_commentary": "Quarterly guidance and management strategic updates.",
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
@@ -56,20 +56,20 @@
       "hidden_implications": "Information verified directly from CISO Mag publication."
     },
     {
-      "date": "2026-11-18",
-      "headline": "SEBI's Proposed MTF Curbs May Have Limited Impact on Brokers, Exchanges, Says Jefferies; Here's Why - Kotak Neo",
-      "category": "Government Policy & Regulatory",
-      "source_name": "Kotak Neo",
-      "source_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ1dpbFowWEtEbjJLOVZJWS1iam14X1BZWUJEMnBPS3VxLWgtLThBYzl1dnJZOFo3QnBzZHZiNEpVZ0tPRkdWQTg4N1E3ZEhSVDVncjhkTUpEaVhid25GbWVrUXRSZzJrMVpIclBqZEd3MnVrRXc3YXBlZWRGazQ1TVdxb2tNTzhwNzY5c1oyWVRreUdxQ1ZuM3JR?oc=5",
+      "date": "2026-11-22",
+      "headline": "CDSL approved to invest ₹20 Cr in India International Bullion Holding IFSC - scanx.trade",
+      "category": "Capex & Expansion",
+      "source_name": "scanx.trade",
+      "source_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQW1YX3EtSUlId0d1dVhfU0hDUXJhTWRxYzV6V0laQjBvY2ZTX2pwX3BuUVoweDdMMTJlUExGZllOV3g5NzZrX21RXzIzQkhLNjdqSDhvWklGX2dUaHVJNW5VV1pvN0EwZWxsdnpmdC1kZGlvS285dzlQNHdBeUNGUFIzTDk1ak1JQlpTWXJ4T3RVMUMxd2dHeldJclBLMXpYWWtBVXVvWFN5ZFduRmRZTXpIV3pjX3JUV0J4VDY2ZkRoS1hPWnR0TWJhUFUtTTFEUmVSR0xB?oc=5",
       "sentiment": "Neutral",
       "importance_score": 6,
-      "short_term_impact": "Reported by Kotak Neo on 2026-11-18. Corporate development in Government Policy & Regulatory.",
+      "short_term_impact": "Reported by scanx.trade on 2026-11-22. Corporate development in Capex & Expansion.",
       "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
       "thesis_impact": "Neutral",
       "opportunities": "Monitoring risk factors and entry levels.",
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
-      "hidden_implications": "Information verified directly from Kotak Neo publication."
+      "hidden_implications": "Information verified directly from scanx.trade publication."
     }
   ]
 }

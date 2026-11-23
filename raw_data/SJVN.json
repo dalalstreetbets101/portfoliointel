@@ -3,15 +3,15 @@
   "company_name": "SJVN Ltd",
   "sector": "Power & Renewables",
   "news_found": true,
-  "ltp": 55.69,
-  "change": -0.51,
-  "change_percent": -0.91,
-  "prev_close": 56.2,
+  "ltp": 54.96,
+  "change": -0.82,
+  "change_percent": -1.47,
+  "prev_close": 55.78,
   "fifty_two_week_high": 88.8,
   "fifty_two_week_low": 46.08,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "(2026-11-22) PM Modi dedicates second 660 MW unit of SJVN’s Buxar Thermal Power Project to nation - The News Himachal [The News Himachal]",
+    "direct_company_news": "(2026-11-21) SJVN Limited Brings Buxar Plant to Full 1,320 MW Operation - Multibagg AI [Multibagg AI]",
     "sector_news": "Sector developments monitored across Power & Renewables.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
@@ -23,6 +23,38 @@
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
   "developments": [
+    {
+      "date": "2026-11-23",
+      "headline": "SJVN Green Energy Commissions 45 MW Of 50 MW Solar Project In Assam - Saur Energy",
+      "category": "Corporate Action & M&A",
+      "source_name": "Saur Energy",
+      "source_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUzhiVC1DVUV3RnVVVEFxY1MtSUY1aHpBQU1CdDJPZXMwMGZRaUVtNzM4bzhWVGgyaV84YXZjb3RnR3lDc3Q4RmxEVzFGV21HdVpNajFDSXdGd2lqaExOLVhGLTdDdERrQlhOQ2ozZmVBbS0tdEZIZ2pqUkp0elMzb29ZNjNYazhRUVRrNTg0ZmticXhqVEU2NDc2MHd2a2JacTZWU1lnYm1OajhXN0c3OWZLSnNnRWRZbG1aQzdBM21JM3pVYTNYRg?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Saur Energy on 2026-11-23. Corporate development in Corporate Action & M&A.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Saur Energy publication."
+    },
+    {
+      "date": "2026-11-23",
+      "headline": "Prime Minister Narendra Modi Dedicates SJVN’s 1,320 MW Buxar Thermal Power Project to the Nation - Machine Maker",
+      "category": "Corporate Action & M&A",
+      "source_name": "Machine Maker",
+      "source_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUFByaHRTamRDRThKb2JhdFhnTkpqUUVHdmFVbUYwZDQ4QURWS2F5djNjVmxENDBiRHlKSVozRml6SVJyelZtLTZxbkdoeU91azZsczNhNEFZaUhKUW5TVUgtazYzQzd3TnYwWTJLNmExVzhZT3JXaTVkVnlpbW5Lc05EOFJ6V2RoNzVlVTUwU1k2NlFJS1FudjVVQy1ZZUpjbmtxYjMxYThUS2xsc3BRYkFwMnMyRHVDY3llLUNiVjVrSlIyLWZZ?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Machine Maker on 2026-11-23. Corporate development in Corporate Action & M&A.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Machine Maker publication."
+    },
     {
       "date": "2026-11-21",
       "headline": "SJVN Limited Brings Buxar Plant to Full 1,320 MW Operation - Multibagg AI",
@@ -38,38 +70,6 @@
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
       "hidden_implications": "Information verified directly from Multibagg AI publication."
-    },
-    {
-      "date": "2026-11-21",
-      "headline": "SJVN subsidiary commissions 45 MW solar project in Assam - scanx.trade",
-      "category": "Corporate Action & M&A",
-      "source_name": "scanx.trade",
-      "source_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOF93b2ZMNnlza1ExQlFDOWxhc0NpZVU0c0V6RjUwbmEwM1lDTXQ0RS10eURjc0hxZmNCMHVWbm5Zck1pSEZLMHQ0MUpkNVUtblUxdk5RNnZGOFZBTHB3TEV0Z2k5Q2w0aGN3d1VOTWtQYS1DbEFUcXpkOHV4dnV6WFJ3OWFiY01Fb3hXOEtLbTg2UnZPNGlzbmRvLV9RSkd0c0FIdDhnVVFINWtlMlBJ?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by scanx.trade on 2026-11-21. Corporate development in Corporate Action & M&A.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from scanx.trade publication."
-    },
-    {
-      "date": "2026-11-22",
-      "headline": "PM Modi dedicates second 660 MW unit of SJVN’s Buxar Thermal Power Project to nation - The News Himachal",
-      "category": "Corporate Action & M&A",
-      "source_name": "The News Himachal",
-      "source_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSGZYR0s0VE5tdWdfUlFRSnQ3R2FmbFJweUQwZWJVZnl5Y201bXRaM3lmbFROUVFSbkEyQzhIdzBPNl9EZW5VMjFFcWVwX09VdHVMU2FVcWQwODY5aGVDa1FCRGJjdHVqOU1ZT2tjaFNDN3RJSTc1Nld5UkdRUTJVcURfSDg4SmNCY1ZfakFGQXp2LWtOSTFkTmgxMXJrR0EzdXJHNmNpRHpFcUV2eV9xQTZvUHFSVVVUbk1OSg?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by The News Himachal on 2026-11-22. Corporate development in Corporate Action & M&A.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from The News Himachal publication."
     }
   ]
 }
