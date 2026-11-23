@@ -2,7 +2,7 @@
   "ticker": "NSE:BCPL",
   "company_name": "BCPL Railway Infrastructure Ltd",
   "sector": "Infra & Railways",
-  "news_found": true,
+  "news_found": false,
   "ltp": 62.4,
   "change": -1.53,
   "change_percent": -2.39,
@@ -16,28 +16,11 @@
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
-    "order_inflow_changes": "(2026-11-16) Bcpl Railway Infrastructure wins Rs 18.63 crore work order from Eastern Railway for Kalyani-Ranaghat line - scanx.trade [scanx.trade]",
+    "order_inflow_changes": "Commercial order book and revenue visibility.",
     "demand_cycle_changes": "Demand trends across institutional and retail segments.",
     "management_commentary": "Quarterly guidance and management strategic updates.",
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
-  "developments": [
-    {
-      "date": "2026-11-16",
-      "headline": "Bcpl Railway Infrastructure wins Rs 18.63 crore work order from Eastern Railway for Kalyani-Ranaghat line - scanx.trade",
-      "category": "Order Inflows & Contracts",
-      "source_name": "scanx.trade",
-      "source_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTmVzbFlZbVN3dTJmNHBPY3U2a0gtY0dkbUx6QXRQZUFBMHVHN0tnaXJfbEoxWHJBRlJubDhnbmR3aFpCQzM2ZFQtOG1hNnNZcUwwQ0NJOEo0MzcyVl9Fb2JBeU5kaXNHMEc5QVYzdlRnWHNqRGFteWs1Q3JKTmlKeWU3a0V3cXpQY2FuMnZkYWlnX1pNNkZ2ajd1RHZTUU1IMEV3MnZ2YVliak4zdWRtTU83YlFDRUZzY0NwZ19HTXo?oc=5",
-      "sentiment": "Bullish",
-      "importance_score": 7,
-      "short_term_impact": "Reported by scanx.trade on 2026-11-16. Corporate development in Order Inflows & Contracts.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Bullish",
-      "opportunities": "Positive operational and institutional sentiment momentum.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from scanx.trade publication."
-    }
-  ]
+  "developments": []
 }

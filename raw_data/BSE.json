@@ -11,18 +11,50 @@
   "fifty_two_week_low": 2377.4,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "(2026-11-21) Zelio E-Mobility gets BSE nod for ₹168 crore fundraise - Manufacturing Today India [Manufacturing Today India]",
+    "direct_company_news": "(2026-11-20) Zelio E-Mobility Gets BSE Approval for ₹168 Crore Fundraise - Machine Maker [Machine Maker]",
     "sector_news": "Sector developments monitored across Financials.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
-    "order_inflow_changes": "(2026-11-17) BSE Limited Receives US Commodity Futures Trading Commission Approval for BANKEX Index Futures Contract - www.marketscreener.com [www.marketscreener.com]",
+    "order_inflow_changes": "Commercial order book and revenue visibility.",
     "demand_cycle_changes": "Demand trends across institutional and retail segments.",
     "management_commentary": "Quarterly guidance and management strategic updates.",
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
   "developments": [
+    {
+      "date": "2026-11-19",
+      "headline": "VMS TMT can file Aditya Ultra Steel merger with NCLT - Multibagg AI",
+      "category": "Corporate Action & M&A",
+      "source_name": "Multibagg AI",
+      "source_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSmZVdjhxUV85dloycTNXN3kwUV9WVFYtcXkxWVBoUVZtOGVvSmVsUlZsQXhTcHp6SGxIWEJDa0gtYWtZSXd0ajZES042RGhKNGs5bXpRQzJ3NUo0R29vMlRTOFNrYkp5R0ozSXZHWE43TTRzdnNyclotLTVTa0FGcUFjZTNQa0xpNHdWR1ZjMi0tV3M2MHhCblBFUVQtNUJhNGJMWEwwM1J0RV9yS2c?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Multibagg AI on 2026-11-19. Corporate development in Corporate Action & M&A.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Multibagg AI publication."
+    },
+    {
+      "date": "2026-11-20",
+      "headline": "SEIL receives BSE certificate for proposed merger with Grew Energy, SLIPL - ET EnergyWorld",
+      "category": "Corporate Action & M&A",
+      "source_name": "ET EnergyWorld",
+      "source_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMFVZd2xBSWhnNmd4OUZVQXdLNVhzcEhYY3VHVWFlNThfLXA3UDh6cy1OZHgxM0w0MXR4ZlNjN0hEMnQ4TGJORHFzYUw5ci1OV0JrclIyekJXRHBvaFpUZkVDVHpaQ3N5X1U5SlRlLXBROW9vbWhGaTV5Z3M3a0hRUWpqTEZKUThjUzZ5QVA4VGNudEk1T1Bpd3NCb2NVM1NZZWtFNTNIam5kU0sxaEpNU0RYUTlCQnozNDR3X0QyNENjSVNSdVhrNUE0SnNDQ3FaU1FUWF93dHPSAd4BQVVfeXFMUGt1MnZkNVVLdnFySmFwTUR2eGdOTmduMjU4Qmg2dkZERExjaXNhclRieVJwN0hQUXRKVlBDTEJCQXY5ZERRWTY2RDY5QmtoZENEX25lSFY4Z003Mlo0dzNaVzQ4TnBzT3Rtc25CSjluRlF6UHhBQVJ0eDZReTA3Z0VyQWVGN3FydkxBTmw1bGcwZ0laNF94V0ZKSjR1RjlHenRBcmRoYzZUdXBtYVZIdXZTZnFaWEt4aXNIRVp6V2JGQ182LXRZOThwMEVSakV6U2FrMUN6cGVFSEIySGFR?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by ET EnergyWorld on 2026-11-20. Corporate development in Corporate Action & M&A.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from ET EnergyWorld publication."
+    },
     {
       "date": "2026-11-20",
       "headline": "Zelio E-Mobility Gets BSE Approval for ₹168 Crore Fundraise - Machine Maker",
@@ -38,38 +70,6 @@
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
       "hidden_implications": "Information verified directly from Machine Maker publication."
-    },
-    {
-      "date": "2026-11-17",
-      "headline": "BSE Limited Receives US Commodity Futures Trading Commission Approval for BANKEX Index Futures Contract - www.marketscreener.com",
-      "category": "Order Inflows & Contracts",
-      "source_name": "www.marketscreener.com",
-      "source_link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeTlmdUNycHl5ckVPWHY5UmNyUi0xOUhocWw0SHUtQmdRZHdTMzcyVzB5ZlZlZy1vVWh1Z01SZVg2RDdwUmFwcWFrTHBzZlNSelJkUUZlNm5XRm84RDBDZDVmOUxhNjBsQTJEWlFieFZvbWUyQmZnQ1V4VEhCUlNZdEhwRXBSWHB4bjh4MDlBeGd3TkYtRUpCRkpmZ2JJSHpKam13Mmx2Y1dEUkJxeHo5RTJsM2VZSW54cURVQmNXa0s1WUxybFBhNzhSRERrNlptUWlhNXNFMkZEbTFMZWQ1UU03RXdtUHFL?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by www.marketscreener.com on 2026-11-17. Corporate development in Order Inflows & Contracts.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from www.marketscreener.com publication."
-    },
-    {
-      "date": "2026-11-21",
-      "headline": "Zelio E-Mobility gets BSE nod for ₹168 crore fundraise - Manufacturing Today India",
-      "category": "Strategic Corporate News",
-      "source_name": "Manufacturing Today India",
-      "source_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMHk0RTRsa3RnMVNMU0U3WUEyVTJob3VVMG1kMV9nN2x1dmFyb1JEWURkOVUzUmhIZURaREl1S3RvYk8tNlEzcjc1aGw2Zl83N0s1aXU5SXdGVWJnNW10UlFrc1VibUlGY3pmRThtWk54MXpEcHg2ekVOMkI5c0xtTlFzdEVQRUdOYzl6clRYd3ZzWExJNDBHYkt5dVo3WWpPUmJhMg?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by Manufacturing Today India on 2026-11-21. Corporate development in Strategic Corporate News.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from Manufacturing Today India publication."
     }
   ]
 }

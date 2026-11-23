@@ -11,7 +11,7 @@
   "fifty_two_week_low": 46.08,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "(2026-11-21) SJVN Limited Brings Buxar Plant to Full 1,320 MW Operation - Multibagg AI [Multibagg AI]",
+    "direct_company_news": "(2026-11-23) Prime Minister Narendra Modi Dedicates SJVN\u2019s 1,320 MW Buxar Thermal Power Project to the Nation - Machine Maker [Machine Maker]",
     "sector_news": "Sector developments monitored across Power & Renewables.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
@@ -23,6 +23,37 @@
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
   "developments": [
+    {
+      "date": "2026-11-23",
+      "headline": "SJVN Ltd - 533206 - Announcement under Regulation 30 (LODR)-Press Release / Media Release",
+      "source_name": "BSE Official Filing (PDF)",
+      "source_link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/28aee9e2-b6fd-4582-a564-0f8b74de6665.pdf",
+      "sentiment": "Neutral",
+      "importance_score": 9,
+      "short_term_impact": "Official regulatory disclosure filed with BSE under Scrip Code 533206.",
+      "long_term_impact": "Direct regulatory compliance event filed on official exchange repository.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Verified exchange-level corporate action/announcement.",
+      "risks": "Subject to operational execution.",
+      "red_flags": "None",
+      "hidden_implications": "Original signed filing document available at official BSE repository."
+    },
+    {
+      "date": "2026-11-23",
+      "headline": "SJVN commissions 45 MW solar in Assam - pv magazine India",
+      "category": "Corporate Action & M&A",
+      "source_name": "pv magazine India",
+      "source_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbFdWRjJhby1hbnJZT2xCRmZ4akJHVFF0NjR0Y0N1QWd5b1FiSmhySVVPSDRvSE1XLUFTODNZcFA3ZEo4QUFibURXeDRHbkNScWpxSkF2QlVJVVNDeEVDRFB5TklQVnZVUktPREdkOUNpWVlKb01SdkFOWVRZcHZ6THo2TndJd18yaEJV?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by pv magazine India on 2026-11-23. Corporate development in Corporate Action & M&A.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from pv magazine India publication."
+    },
     {
       "date": "2026-11-23",
       "headline": "SJVN Green Energy Commissions 45 MW Of 50 MW Solar Project In Assam - Saur Energy",
@@ -41,7 +72,7 @@
     },
     {
       "date": "2026-11-23",
-      "headline": "Prime Minister Narendra Modi Dedicates SJVN’s 1,320 MW Buxar Thermal Power Project to the Nation - Machine Maker",
+      "headline": "Prime Minister Narendra Modi Dedicates SJVN\u2019s 1,320 MW Buxar Thermal Power Project to the Nation - Machine Maker",
       "category": "Corporate Action & M&A",
       "source_name": "Machine Maker",
       "source_link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUFByaHRTamRDRThKb2JhdFhnTkpqUUVHdmFVbUYwZDQ4QURWS2F5djNjVmxENDBiRHlKSVozRml6SVJyelZtLTZxbkdoeU91azZsczNhNEFZaUhKUW5TVUgtazYzQzd3TnYwWTJLNmExVzhZT3JXaTVkVnlpbW5Lc05EOFJ6V2RoNzVlVTUwU1k2NlFJS1FudjVVQy1ZZUpjbmtxYjMxYThUS2xsc3BRYkFwMnMyRHVDY3llLUNiVjVrSlIyLWZZ?oc=5",
@@ -54,22 +85,6 @@
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
       "hidden_implications": "Information verified directly from Machine Maker publication."
-    },
-    {
-      "date": "2026-11-21",
-      "headline": "SJVN Limited Brings Buxar Plant to Full 1,320 MW Operation - Multibagg AI",
-      "category": "Corporate Action & M&A",
-      "source_name": "Multibagg AI",
-      "source_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQVRWV1BabmZNQXdSMmlyYzhod21TbXBHS0o4NkZmWE9EbkpxOURpMy1mYnUwTXdocFpVcllzYkx5UTZmazJHZUItSVZ0OUUzNllqX2lHYjlmZjh1LWNiUUdnNDRaX1JLaTRER3d3dGZmb1ZKcEJtdVEybnp3cXplN1hUaWFBeERmSDVZd29xanMyUmo2VTYzS1Z0WUhjajBKbFFtLTdFLW0tcF84X2RMaw?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by Multibagg AI on 2026-11-21. Corporate development in Corporate Action & M&A.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from Multibagg AI publication."
     }
   ]
 }

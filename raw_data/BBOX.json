@@ -40,22 +40,6 @@
       "hidden_implications": "Information verified directly from Multibagg AI publication."
     },
     {
-      "date": "2026-11-19",
-      "headline": "Insurance’s AI ‘black box’: Can auditors trust the results? - InsuranceNewsNet",
-      "category": "Financial Performance & Results",
-      "source_name": "InsuranceNewsNet",
-      "source_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVHBURXA2U3M3SkF6T1NENjlPOXZpY3JpTUhTcjNWLWJnZXM0QXRwaUs0Vi1ISzRxRXVDTHZuS0p1cHFOUWhiSDdsaWNxZlRyRDBrVTZBYzByNWxkOFN6QWctMjZrV3V2cFNUemdxN01KVEFreUdvSzVOeURaOHpCTDZXQ1pNVUYyYk1RNjZoQlg3TDlVeXhxMlpR?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by InsuranceNewsNet on 2026-11-19. Corporate development in Financial Performance & Results.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from InsuranceNewsNet publication."
-    },
-    {
       "date": "2026-11-23",
       "headline": "Black Box Ltd pays ₹1.26 crore RBI penalty for FEMA violations - scanx.trade",
       "category": "Government Policy & Regulatory",
@@ -70,6 +54,22 @@
       "risks": "Near-term market volatility or earnings/regulatory headwind.",
       "red_flags": "None",
       "hidden_implications": "Information verified directly from scanx.trade publication."
+    },
+    {
+      "date": "2026-11-19",
+      "headline": "Insurance’s AI ‘black box’: Can auditors trust the results? - InsuranceNewsNet",
+      "category": "Financial Performance & Results",
+      "source_name": "InsuranceNewsNet",
+      "source_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVHBURXA2U3M3SkF6T1NENjlPOXZpY3JpTUhTcjNWLWJnZXM0QXRwaUs0Vi1ISzRxRXVDTHZuS0p1cHFOUWhiSDdsaWNxZlRyRDBrVTZBYzByNWxkOFN6QWctMjZrV3V2cFNUemdxN01KVEFreUdvSzVOeURaOHpCTDZXQ1pNVUYyYk1RNjZoQlg3TDlVeXhxMlpR?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by InsuranceNewsNet on 2026-11-19. Corporate development in Financial Performance & Results.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from InsuranceNewsNet publication."
     }
   ]
 }

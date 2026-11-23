@@ -11,12 +11,12 @@
   "fifty_two_week_low": 1976.8,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "No material corporate earnings/results reported in the last 7 days.",
+    "direct_company_news": "(2026-11-23) TCS Share Price Jumps Nearly 5% to ₹2,493 Today as Indian IT Stocks Defy Nvidia-Led Global Tech Sell-Off - Kotak Neo [Kotak Neo]",
     "sector_news": "Sector developments monitored across IT & Telecom.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "(2026-11-18) TCS in talks to acquire Bosch's India tech operations, potentially absorbing 3,000 employees - HR Katha [HR Katha]",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
-    "order_inflow_changes": "(2026-11-18) Bunnings to cut 230 technology jobs, end 120 contractor roles under TCS partnership - HR Katha [HR Katha]",
+    "order_inflow_changes": "(2026-11-17) Australia's Bunnings to slash 230 jobs, end 120 contractor roles under TCS partnership - Reuters [Reuters]",
     "demand_cycle_changes": "Demand trends across institutional and retail segments.",
     "management_commentary": "Quarterly guidance and management strategic updates.",
     "institutional_activity": "FII/DII holding changes and block trading trends.",
@@ -56,20 +56,20 @@
       "hidden_implications": "Information verified directly from Reuters publication."
     },
     {
-      "date": "2026-11-18",
-      "headline": "Bunnings to cut 230 technology jobs, end 120 contractor roles under TCS partnership - HR Katha",
-      "category": "Order Inflows & Contracts",
-      "source_name": "HR Katha",
-      "source_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEI0U01mTnJFZDVKcTk0TXRoaEhGVk84OTgwUGNUQ2N6QlByb2FlUkNZS2E3dkJOc1lUYXNaaWxZb2xKZmZUb3JEMldaSW5CZ3NlVExJVW5CY2lzSEF3QlZBby13MXE0c0VfSlNTUTBMdWlzMjhtd3RwX0ZZb2ZLV2FlX3c0aXpqVzlmMnR4Y2dpTFRTejRQM2RTWFltOWdacHZ5dDVYZjY3SnhwUFYxUHdR?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by HR Katha on 2026-11-18. Corporate development in Order Inflows & Contracts.",
+      "date": "2026-11-23",
+      "headline": "TCS Share Price Jumps Nearly 5% to ₹2,493 Today as Indian IT Stocks Defy Nvidia-Led Global Tech Sell-Off - Kotak Neo",
+      "category": "Strategic Corporate News",
+      "source_name": "Kotak Neo",
+      "source_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZTdaLTdQZW9XN1JYeTBpalZwbHpXMVpvLWhsdmIwa0FDUF9mVUdFdExHTy1ic241ODNyandPRzRabVQwSlRQanBJWldpbzFuam5NOWRjanViaEtJcEpJbDRTZlFDbmEyWkdZZHAxcGluakJBSjlnR1lPNnpnSjlmTlFpTWlISmo2ME01d1pDb2JjZVpQRTZfTTF1THA0cW4wdTRtY2FlUWhHNlFrU3ZZX1FtamRxWXp0eXdndg?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by Kotak Neo on 2026-11-23. Corporate development in Strategic Corporate News.",
       "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
-      "hidden_implications": "Information verified directly from HR Katha publication."
+      "hidden_implications": "Information verified directly from Kotak Neo publication."
     }
   ]
 }

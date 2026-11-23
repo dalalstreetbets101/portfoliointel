@@ -11,18 +11,33 @@
   "fifty_two_week_low": 933.9,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "No material corporate earnings/results reported in the last 7 days.",
+    "direct_company_news": "(2026-11-17) Bank Nifty Hits Record High of 61,875.05 Today as ICICI Bank, SBI and PNB Gain; 5 Reasons Behind the Rally - Kotak Neo [Kotak Neo]",
     "sector_news": "Sector developments monitored across Financials.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "(2026-11-21) Bank holiday today: Are SBI, HDFC, ICICI branches open or closed on Saturday, 21 November? Check RBI calendar - Livemint [Livemint]",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
-    "order_inflow_changes": "(2026-11-18) SBI Clerk Prelims Result 2026 (OUT): Download Score Card PDF at sbi.bank.in - Jagran Josh [Jagran Josh]",
+    "order_inflow_changes": "(2026-11-23) UP man takes SBI home loan in 1997, repays it in 2019; bank fails to return original deed for 7 years, co - The Times of India [The Times of India]",
     "demand_cycle_changes": "Demand trends across institutional and retail segments.",
     "management_commentary": "Quarterly guidance and management strategic updates.",
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
   "developments": [
+    {
+      "date": "2026-11-23",
+      "headline": "State Bank of India - 500112 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+      "source_name": "BSE Official Filing (PDF)",
+      "source_link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/3169fed4-07a6-49ea-a64b-30219f2c6ab9.pdf",
+      "sentiment": "Neutral",
+      "importance_score": 9,
+      "short_term_impact": "Official regulatory disclosure filed with BSE under Scrip Code 500112.",
+      "long_term_impact": "Direct regulatory compliance event filed on official exchange repository.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Verified exchange-level corporate action/announcement.",
+      "risks": "Subject to operational execution.",
+      "red_flags": "None",
+      "hidden_implications": "Original signed filing document available at official BSE repository."
+    },
     {
       "date": "2026-11-23",
       "headline": "UP man takes SBI home loan in 1997, repays it in 2019; bank fails to return original deed for 7 years, co - The Times of India",
@@ -56,20 +71,20 @@
       "hidden_implications": "Information verified directly from Livemint publication."
     },
     {
-      "date": "2026-11-18",
-      "headline": "SBI Clerk Prelims Result 2026 (OUT): Download Score Card PDF at sbi.bank.in - Jagran Josh",
-      "category": "Order Inflows & Contracts",
-      "source_name": "Jagran Josh",
-      "source_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUFM5S0VKblVZOXdLTG1oOGdJeVB4OVFQSVp0emJTQzJtdVJEcDBUdlhQQnhrMDJjR3ZsbHQtNXo0bGNweWdnMjV6dDFzM3doOFhEcTNYUzQyLXBPUWlXQUF1VlhCWm5ZX2xnSFZZUlpjaUhpd3p3UU9Da3F4RmRCVldWTTlFSW12NGFvWlIzd1dQVVRNalRUMUZlRkVGR2N0X2x3T2E5R1MzRzUwVVlYODR4UlU2emVDQll6T0xpN0gyeDlNU21PV0JvUGZoVjB3d0HSAdgBQVVfeXFMTnJERzBQdmxEYmJkUUttS2dDYUtESzNEMUVWd1Z3WEIwNXZ0UWRrZ0xRSFdYcTR0Nm9aTG81bU9IUDJPdWpHODRxTnNLZVo0a2ZXUHdKOVZBOUt3d250WHpab0x4ZjFUMkJkTnZFU2dTbTBXenVYLTVmbWpoZmlMbDJiYzkyRHlBaEpEdk44a0NCTjRqSnRhV1dYWGtteHdIQXJFZ1RXdzVESGdxSmJfTXk1OVJjdTJDMDFrUlE2elZaT1dFRWRMY0tUbDM2Y0szWmhSaUc1SVA1?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by Jagran Josh on 2026-11-18. Corporate development in Order Inflows & Contracts.",
+      "date": "2026-11-17",
+      "headline": "Bank Nifty Hits Record High of 61,875.05 Today as ICICI Bank, SBI and PNB Gain; 5 Reasons Behind the Rally - Kotak Neo",
+      "category": "Strategic Corporate News",
+      "source_name": "Kotak Neo",
+      "source_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN010UkxMVnJzV3JLSnNja1NnWUpJbklteWdpVnJTMl94ME9rSEwtTEZweThFYzJmbnRYQTZRR0FyVVlQUkZlUG9TcTBkQmpvNGpPcS01WDgyOWwxWXhPa0NUZmx5d1JucU8ycXdvbGxtNUU5VENFMjZfMVRYLWw3d1Zpc1dHWlhqelVYcGRzZ1N3TmhqOXRhMG9MdEtzRXc?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by Kotak Neo on 2026-11-17. Corporate development in Strategic Corporate News.",
       "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
-      "hidden_implications": "Information verified directly from Jagran Josh publication."
+      "hidden_implications": "Information verified directly from Kotak Neo publication."
     }
   ]
 }
