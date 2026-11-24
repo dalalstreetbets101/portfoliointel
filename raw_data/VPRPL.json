@@ -2,7 +2,7 @@
   "ticker": "NSE:VPRPL",
   "company_name": "Vishnu Prakash R Punglia Ltd",
   "sector": "Infra & Railways",
-  "news_found": false,
+  "news_found": true,
   "ltp": 25.67,
   "change": -0.09,
   "change_percent": -0.35,
@@ -11,7 +11,7 @@
   "fifty_two_week_low": 23.4,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "No material corporate earnings/results reported in the last 7 days.",
+    "direct_company_news": "(2026-11-24) Stocks To Watch Today: IIFL Finance, Piramal Enterprises, Dalmia Bharat, NCC, Indian Overseas Bank - NDTV Profit [NDTV Profit]",
     "sector_news": "Sector developments monitored across Infra & Railways.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
@@ -22,5 +22,37 @@
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
-  "developments": []
+  "developments": [
+    {
+      "date": "2026-11-24",
+      "headline": "Vishnu Prakash R Punglia Ltd - 543974 - Announcement under Regulation 30 (LODR)-Credit Rating",
+      "source_name": "BSE Official Filing (PDF)",
+      "source_link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/9b8cef9d-ed1e-4855-b092-39cb2bae9780.pdf",
+      "sentiment": "Neutral",
+      "importance_score": 9,
+      "short_term_impact": "Official regulatory disclosure filed with BSE under Scrip Code 543974.",
+      "long_term_impact": "Direct regulatory compliance event filed on official exchange repository.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Verified exchange-level corporate action/announcement.",
+      "risks": "Subject to operational execution.",
+      "red_flags": "None",
+      "hidden_implications": "Original signed filing document available at official BSE repository."
+    },
+    {
+      "date": "2026-11-24",
+      "headline": "Stocks To Watch Today: IIFL Finance, Piramal Enterprises, Dalmia Bharat, NCC, Indian Overseas Bank - NDTV Profit",
+      "category": "Financial Performance & Results",
+      "source_name": "NDTV Profit",
+      "source_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeldrN3NzTGVOa2pJWmlPX3ZvNjFaLWp1NUJWZWNTQTVVWUxBTC0wQ3B5LWtMbXk5YnVLTUVfclRBWWFpdURMbFBrMFVjem11c2JSWUpRR2Y5WEh6bkN4OTVDTXY4QWx2cHdLRjNJYkppVk5rT3pXaXdwdDNyeGFnaTBYLTllUGY4TmpJc0dYbzVMZV9XdnJjV1hrUnRlaWlTUl9uYnBxekFUbVlMWVVBZzNJbUo1Z2t4SkxRVndyWGtFN3ZsR2dseWJnVEtRUlI1VFHSAdoBQVVfeXFMTWJGU0ZwMGJTYndMREpBQU5ZYmR5OFFKTThOYzZFTG9nc0Jmc0wzM0VOeEJNbDV3YWJZczRsdlhLblBDZXJEdlJjVUZMZDJZdnpGcTI5bkF6S3o5dmhRM2RaX3hJVW9sMkF2aWJ0UldkUVNSdlZoa2J2SWNQUmhiM0JtcXJ0bzNidHVkNVF1MWpYVS1pc01STUZUQmZ2Tk15bUh0TjE2bDhEQ0xDdXR5VDV0MUdwNmxQWm9OTktXa3hESGJESENQem5nY3VuWVFGVnd3NjNlRkVXV1E?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by NDTV Profit on 2026-11-24. Corporate development in Financial Performance & Results.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from NDTV Profit publication."
+    }
+  ]
 }

@@ -2,7 +2,7 @@
   "ticker": "NSE:TMCV",
   "company_name": "Tata Motors Commercial Vehicles Ltd",
   "sector": "Auto, FMCG & Energy",
-  "news_found": false,
+  "news_found": true,
   "ltp": 453.8,
   "change": -2.95,
   "change_percent": -0.65,
@@ -18,9 +18,26 @@
     "raw_material_changes": "Input cost trends monitored against operating margins.",
     "order_inflow_changes": "Commercial order book and revenue visibility.",
     "demand_cycle_changes": "Demand trends across institutional and retail segments.",
-    "management_commentary": "Quarterly guidance and management strategic updates.",
+    "management_commentary": "(2026-11-19) Tata Motors appoints GAMCO as commercial vehicle distributor in Syria - Construction World [Construction World]",
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
-  "developments": []
+  "developments": [
+    {
+      "date": "2026-11-19",
+      "headline": "Tata Motors appoints GAMCO as commercial vehicle distributor in Syria - Construction World",
+      "category": "Management & Strategy",
+      "source_name": "Construction World",
+      "source_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPakFobUJZdG9xUlMtazdNcmR6SFdOWUpVd2diRXprdHhfbjFrR2ZnU2ZkSEw1ckYtakR4MlRIclR1ckdtZ1Y2UU5nOFNJVWcxdXVfMUV2WG1MeF8yRGpnQm9ZRlVaOWZrNEplbzlwenFUM241aUJ0c0hMTEQ2Yno4RDJNZDFlQVlOdHFMU0tiOEhrVzN5NWc1SHkwOGljRlg1QmJJUkhRcUxmaGszQ2xLT3JTZ1hIaVZFZko1SzJKZ0syR25TX1Frd2hCX0dNYkRhaWtoOUptaExzQQ?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Construction World on 2026-11-19. Corporate development in Management & Strategy.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Construction World publication."
+    }
+  ]
 }
