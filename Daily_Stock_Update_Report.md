@@ -1,6 +1,6 @@
 ﻿# UMAR'S PORTFOLIO INTELLIGENCE REPORT: 7-DAY ROLLING UPDATE
-**Date:** November 23, 2026  
-**Baseline Period:** Last 7 Days (November 16 – November 23, 2026)  
+**Date:** November 24, 2026  
+**Baseline Period:** Last 7 Days (November 17 – November 24, 2026)  
 **Retention Policy:** Rolling 7-day active window. Stale developments older than 1 week are automatically purged.  
 **Analyst:** Buy-Side Equity Research Unit (JETRO CANVAS Style Format)
 
@@ -11,48 +11,48 @@
 | Stock | News Count | Sentiment | Risk Level | Most Important Development |
 | :--- | :---: | :---: | :---: | :--- |
 | **NSE:BBOX**<br>Black Box Limited | 3 | Bearish | Medium | Black Box Ltd pays ₹1.26 crore RBI penalty for FEMA violations - scanx.trade |
-| **NSE:BSOFT**<br>Birlasoft Limited | 3 | Bearish | Medium | Did Birlasoft's Fall Catch You Out? What Investors Missed - Yahoo Finance |
-| **NSE:ITC**<br>ITC Ltd | 3 | Bearish | Medium | Weekly Recap: Quarterly profit falls 20.1% and cigarette prices rise - TradingView |
-| **NSE:CEIGALL**<br>Ceigall India Ltd | 3 | Bullish | Low | Ceigall India wins Rs 684 crore work order from NHAI for Haryana highway - scanx.trade |
-| **NSE:EMSLIMITED**<br>EMS Ltd | 3 | Bullish | Low | EMS secures Rs 13.96 crore order from NHAI for fee plaza operations in Assam - Business Upturn |
+| **NSE:BSOFT**<br>Birlasoft Limited | 3 | Bearish | Medium | Why Is Birlasoft Share Price Falling: Investor Analysis 2026 - Univest |
+| **NSE:SJVN**<br>SJVN Ltd | 3 | Bearish | Medium | SJVN Limited Shares Fall 1.47% Despite New Hydro PPAs - Multibagg AI |
+| **NSE:CEIGALL**<br>Ceigall India Ltd | 3 | Bullish | Low | Ceigall India Share Price Target 2026 Analyst Forecast - Univest |
 | **NSE:INFY**<br>Infosys Limited | 3 | Bullish | Low | Indian IT Stocks Rally 1.96% as TCS, Infosys and Tech Mahindra Gain Despite Global Tech Selloff - Kotak Neo |
 | **NSE:IOC**<br>Indian Oil Corporation Ltd | 3 | Bullish | Low | Annu Projects wins Rs 3.82 crore work order from Indian Oil Corporation Limited - scanx.trade |
-| **NSE:IRCON**<br>Ircon International Ltd | 3 | Bullish | Low | Ashoka Buildcon shares rally 8% on bagging ₹1,465 crore order from NHAI; check details - Upstox |
-| **NSE:IREDA**<br>Indian Renewable Energy Development Agency Ltd | 3 | Bullish | Low | IREDA schedules 39th AGM for September 29 to approve FY26 final dividend - scanx.trade |
+| **NSE:IRCON**<br>Ircon International Ltd | 3 | Bullish | Low | IRCON International Share Price Target 2026 Forecast - Univest |
+| **NSE:IREDA**<br>Indian Renewable Energy Development Agency Ltd | 3 | Bullish | Low | IREDA Share Price Jumps 30% in November After Six-Month Losing Streak; PSU Stock Rebounds From ₹98.78 Low - Kotak Neo |
+| **NSE:ITC**<br>ITC Ltd | 3 | Bullish | Low | ITC Hotels Share Price Target 2027, 2028 and 2030 - Univest |
 | **NSE:NHPC**<br>NHPC Ltd | 3 | Bullish | Low | NHPC Limited Celebrates 52nd Raising Day, Targets 23,000 MW by 2032 - Sarkaritel.com |
 | **NSE:OLECTRA**<br>Olectra Greentech Ltd | 3 | Bullish | Low | Olectra targets fivefold revenue growth, plans ₹1,000-crore investment - BusinessLine |
-| **NSE:PNGJL**<br>P N Gadgil Jewellers Ltd | 3 | Bullish | Low | P N Gadgil Jewellers Limited Targets 4x Diamond Output - Multibagg AI |
 | **NSE:POONAWALLA**<br>Poonawalla Fincorp Limited | 3 | Bullish | Low | Buy Poonawalla Fincorp; target of Rs 600: Motilal Oswal - Moneycontrol.com |
-| **NSE:RAILTEL**<br>RailTel Corporation of India Ltd | 3 | Bullish | Low | RailTel bags ₹27 crore order for Andhra Pradesh Legal AI platform - ETLegalWorld.com |
+| **NSE:RAILTEL**<br>RailTel Corporation of India Ltd | 3 | Bullish | Low | RailTel wins ₹27 crore order to develop Legal AI platform for Andhra Pradesh government - CNBC TV18 |
 | **NSE:SWSOLAR**<br>Sterling and Wilson Renewable Energy Ltd | 3 | Bullish | Low | Sterling and Wilson shares gain 7% on winning orders worth ₹2,050 crore - Business Standard |
-| **NSE:TATAPOWER**<br>Tata Power Company Ltd | 3 | Bullish | Low | Tata Power Renewables Commissions 100.8 MW Wind Project in Ausa, Maharashtra - Tata Power |
-| **NSE:TATATECH**<br>Tata Technologies Ltd | 3 | Bullish | Low | Tata Technologies shares jump 9% as firm targets doubling software business in three years; key takeaways - Upstox |
-| **NSE:TITAGARH**<br>Titagarh Rail Systems Ltd | 3 | Bullish | Low | Buy Titagarh Rail Systems: target of Rs 966: ICICI Securities - TradingView |
-| **NSE:TMPV**<br>Tata Motors Passenger Vehicles Ltd | 3 | Bullish | Low | Tata Motors PV shares crash 9% following Q2 results, cuts JLR guidance - The New Indian Express |
-| **NSE:WAAREERTL**<br>Waaree Renewable Technologies Ltd | 3 | Bullish | Low | Indian Renewable Energy Development Agency Ltd loan growth slows to 19% - Multibagg AI |
-| **NSE:WELSPUNLIV**<br>Welspun Living Ltd | 3 | Bullish | Low | Welspun Living targets 30% towel capacity rise with ₹3,200 crore - Multibagg AI |
+| **NSE:TATAPOWER**<br>Tata Power Company Ltd | 3 | Bullish | Low | Tata Power 'going big' on energy storage; targeting 6.8 GW pumped hydro pipeline, says CEO- Moneycontrol.com - LinkedIn |
+| **NSE:TATATECH**<br>Tata Technologies Ltd | 3 | Bullish | Low | Tata Technologies Jumps 10% As FY30 Revenue Target Of $1.3 Bn, Margin Ambitions Lift Sentiment - TradingView |
+| **NSE:TITAGARH**<br>Titagarh Rail Systems Ltd | 3 | Bullish | Low | Titagarh Rail Bags Rs 65 Cr Traction Motor Order From CLW - Equitypandit |
+| **NSE:WELSPUNLIV**<br>Welspun Living Ltd | 3 | Bullish | Low | Welspun Living Plans Rs 3,200 Crore Capex for 30% Towel Growth - Multibagg AI |
 | **NSE:ADCINDIA**<br>ADC India Communications Ltd | 3 | Neutral | Low | ADC India Investor Analysis | StockIQ - The Economic Times |
-| **NSE:BSE**<br>BSE Limited | 3 | Neutral | Low | Zelio E-Mobility gets BSE nod for ₹168 crore fundraise - Manufacturing Today India |
+| **NSE:BSE**<br>BSE Limited | 3 | Neutral | Low | Zelio E-Mobility Gets BSE Approval for ₹168 Crore Fundraise - Machine Maker |
 | **NSE:CDSL**<br>Central Depository Services (India) Limited | 3 | Neutral | Low | CDSL approved to invest ₹20 Cr in India International Bullion Holding IFSC - scanx.trade |
 | **NSE:EMBDL**<br>Embassy Developments Ltd | 3 | Neutral | Low | Embassy Developments to Buy 50% Stake for ₹32.65 Crore - Multibagg AI |
-| **NSE:HDFCBANK**<br>HDFC Bank Limited | 3 | Neutral | Low | HDFC Bank inches up as Board locks in senior leadership - BusinessLine |
+| **NSE:HDFCBANK**<br>HDFC Bank Limited | 3 | Neutral | Low | HDFC Bank Market Capitalisation Reclaims ₹13 Lakh Crore After ₹2.38 Lakh Crore Addition in 15 Sessions - Kotak Neo |
 | **NSE:HUDCO**<br>Housing and Urban Development Corporation Limited | 3 | Neutral | Low | HUDCO 52 Week Low Streak: Fundamentals and peers - Univest |
 | **NSE:JIOFIN**<br>Jio Financial Services Limited | 3 | Neutral | Low | Jio Financial Services, BlackRock invest ₹123 crore each in Jio BlackRock Asset Management - CNBC TV18 |
+| **NSE:PNGJL**<br>P N Gadgil Jewellers Ltd | 3 | Neutral | Low | P N Gadgil Jewellers Investor Analysis | StockIQ - The Economic Times |
 | **NSE:RELIANCE**<br>Reliance Industries Ltd | 3 | Neutral | Low | Five Companies Account For Nearly a Quarter of India Incs Record Q2 Profit, Reliance Industries on Top of List - TheWire.in |
 | **NSE:SBIN**<br>State Bank of India | 3 | Neutral | Low | SBI Clerk Prelims Result 2026 (OUT): Download Score Card PDF at sbi.bank.in - Jagran Josh |
-| **NSE:SJVN**<br>SJVN Ltd | 3 | Neutral | Low | SJVN Limited Brings Buxar Plant to Full 1,320 MW Operation - Multibagg AI |
-| **NSE:TCS**<br>Tata Consultancy Services Limited | 3 | Neutral | Low | Bunnings to cut 230 technology jobs, end 120 contractor roles under TCS partnership - HR Katha |
-| **NSE:TEMBO**<br>Tembo Global Industries Ltd | 3 | Neutral | Low | Tembo Global Q2 PAT rises 18.3 per cent to ₹26 crore - ET Manufacturing |
-| **NSE:ORIENTTECH**<br>Orient Technologies Limited | 2 | Bullish | Low | Orient Technologies wins Rs 30.81 crore work order from The New India Assurance Company Limited - scanx.trade |
+| **NSE:TEMBO**<br>Tembo Global Industries Ltd | 3 | Neutral | Low | Tembo Global Industries TEMBO H1FY27 Results Investor Presentation - Kalkine India |
+| **NSE:EMSLIMITED**<br>EMS Ltd | 2 | Bullish | Low | EMS secures Rs 13.96 crore order from NHAI for fee plaza operations in Assam - Business Upturn |
 | **NSE:SKIPPER**<br>Skipper Ltd | 2 | Bullish | Low | ‘Expecting 35% growth in order inflows this year’: Sharan Bansal, Executive Director, Skipper - The Financial Express |
-| **NSE:BCPL**<br>BCPL Railway Infrastructure Ltd | 1 | Bullish | Low | Bcpl Railway Infrastructure wins Rs 18.63 crore work order from Eastern Railway for Kalyani-Ranaghat line - scanx.trade |
 | **NSE:DCI**<br>DC Infotech and Communication Limited | 1 | Neutral | Low | DC Infotech Investor Analysis | StockIQ - The Economic Times |
 | **NSE:LIKHITHA**<br>Likhitha Infrastructure Ltd | 1 | Neutral | Low | Likhitha Infra Investor Analysis | StockIQ - The Economic Times |
+| **NSE:ORIENTTECH**<br>Orient Technologies Limited | 1 | Neutral | Low | Orient Technologies Investor Analysis | StockIQ - The Economic Times |
 | **NSE:PPL**<br>Prakash Pipes Ltd | 1 | Neutral | Low | Solid Earnings May Not Tell The Whole Story For Prakash Pipes (NSE:PPL) - Simply Wall St |
-| **NSE:TMCV**<br>Tata Motors Commercial Vehicles Ltd | 1 | Neutral | Low | Tata Motors appoints GAMCO as commercial vehicle distributor in Syria - Construction World |
+| **NSE:BCPL**<br>BCPL Railway Infrastructure Ltd | 0 | Neutral | Low | No major developments in the last 7 days. |
 | **NSE:CONART**<br>Conart Engineers Ltd | 0 | Neutral | High | No major developments in the last 7 days. |
 | **NSE:ORIRAIL**<br>Oriental Rail Infrastructure Ltd | 0 | Neutral | Low | No major developments in the last 7 days. |
+| **NSE:TCS**<br>Tata Consultancy Services Limited | 0 | Neutral | Low | No major developments in the last 7 days. |
+| **NSE:TMCV**<br>Tata Motors Commercial Vehicles Ltd | 0 | Neutral | Low | No major developments in the last 7 days. |
+| **NSE:TMPV**<br>Tata Motors Passenger Vehicles Ltd | 0 | Neutral | Low | No major developments in the last 7 days. |
 | **NSE:VPRPL**<br>Vishnu Prakash R Punglia Ltd | 0 | Neutral | High | No major developments in the last 7 days. |
+| **NSE:WAAREERTL**<br>Waaree Renewable Technologies Ltd | 0 | Neutral | Low | No major developments in the last 7 days. |
 
 ---
 
@@ -73,87 +73,87 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 ## 3. PORTFOLIO-LEVEL ANALYSIS
 
 ### A. Top Positive Developments (Last 7 Days)
-1. **NSE:SWSOLAR**: Sterling and Wilson Renewable Energy Bags Orders and L1 Bid Worth Over INR 2,050 Crore - Asia Pacific - Energetica India Magazine (Importance: **7/10**)
-   - *Hedge Fund Perspective:* Reported by Energetica India Magazine on 2026-11-23. Corporate development in Order Inflows & Contracts. / Operational and fundamental impact tracked against long-term sector trends.
-   - *Hidden Implications:* Information verified directly from Energetica India Magazine publication.
+1. **NSE:SWSOLAR**: Sterling and Wilson Renewable secures ₹2,050 crore-plus project wins - ET EnergyWorld (Importance: **7/10**)
+   - *Hedge Fund Perspective:* Reported by ET EnergyWorld on 2026-11-23. Corporate development in Order Inflows & Contracts. / Operational and fundamental impact tracked against long-term sector trends.
+   - *Hidden Implications:* Information verified directly from ET EnergyWorld publication.
 
-2. **NSE:TATAPOWER**: Tata Power Renewable Energy Commissions 100.8 MW Wind Project in Maharashtra - Machine Maker (Importance: **7/10**)
-   - *Hedge Fund Perspective:* Reported by Machine Maker on 2026-11-18. Corporate development in Capex & Expansion. / Operational and fundamental impact tracked against long-term sector trends.
-   - *Hidden Implications:* Information verified directly from Machine Maker publication.
-
-3. **NSE:SKIPPER**: ‘Expecting 35% growth in order inflows this year’: Sharan Bansal, Executive Director, Skipper - The Financial Express (Importance: **7/10**)
+2. **NSE:SKIPPER**: ‘Expecting 35% growth in order inflows this year’: Sharan Bansal, Executive Director, Skipper - The Financial Express (Importance: **7/10**)
    - *Hedge Fund Perspective:* Reported by The Financial Express on 2026-11-19. Corporate development in Order Inflows & Contracts. / Operational and fundamental impact tracked against long-term sector trends.
    - *Hidden Implications:* Information verified directly from The Financial Express publication.
 
-4. **NSE:RAILTEL**: RailTel Corporation Secures ₹4,44,44,44,444 KSWAN 3.0 Order from Centre For E-Governance - scanx.trade (Importance: **7/10**)
+3. **NSE:RAILTEL**: RailTel Corporation Secures ₹4,44,44,44,444 KSWAN 3.0 Order from Centre For E-Governance - scanx.trade (Importance: **7/10**)
    - *Hedge Fund Perspective:* Reported by scanx.trade on 2026-11-18. Corporate development in Order Inflows & Contracts. / Operational and fundamental impact tracked against long-term sector trends.
    - *Hidden Implications:* Information verified directly from scanx.trade publication.
 
-5. **NSE:POONAWALLA**: Buy Poonawalla Fincorp; target of Rs 600: Motilal Oswal - Moneycontrol.com (Importance: **7/10**)
-   - *Hedge Fund Perspective:* Reported by Moneycontrol.com on 2026-11-18. Corporate development in Management & Strategy. / Operational and fundamental impact tracked against long-term sector trends.
-   - *Hidden Implications:* Information verified directly from Moneycontrol.com publication.
+4. **NSE:TATAPOWER**: Tata Power Renewable Energy Commissions 100.8 MW Wind Project in Maharashtra - Machine Maker (Importance: **7/10**)
+   - *Hedge Fund Perspective:* Reported by Machine Maker on 2026-11-18. Corporate development in Capex & Expansion. / Operational and fundamental impact tracked against long-term sector trends.
+   - *Hidden Implications:* Information verified directly from Machine Maker publication.
 
-6. **NSE:WAAREERTL**: Waaree Energies Wins 700 MW SECI Solar Storage Project - Multibagg AI (Importance: **7/10**)
-   - *Hedge Fund Perspective:* Reported by Multibagg AI on 2026-11-20. Corporate development in Order Inflows & Contracts. / Operational and fundamental impact tracked against long-term sector trends.
-   - *Hidden Implications:* Information verified directly from Multibagg AI publication.
+5. **NSE:TITAGARH**: Titagarh Rail Systems Secures ₹65.38 Crore Order from Chittaranjan Locomotive Works for New Traction Motors - Kotak Neo (Importance: **7/10**)
+   - *Hedge Fund Perspective:* Reported by Kotak Neo on 2026-11-18. Corporate development in Order Inflows & Contracts. / Operational and fundamental impact tracked against long-term sector trends.
+   - *Hidden Implications:* Information verified directly from Kotak Neo publication.
 
-7. **NSE:TMPV**: Tata Motors PV shares crash 9% following Q2 results, cuts JLR guidance - The New Indian Express (Importance: **7/10**)
-   - *Hedge Fund Perspective:* Reported by The New Indian Express on 2026-11-16. Corporate development in Financial Performance & Results. / Operational and fundamental impact tracked against long-term sector trends.
-   - *Hidden Implications:* Information verified directly from The New Indian Express publication.
-
-8. **NSE:WELSPUNLIV**: Welspun Living targets 30% towel capacity rise with ₹3,200 crore - Multibagg AI (Importance: **7/10**)
+6. **NSE:WELSPUNLIV**: Welspun Living Plans Rs 3,200 Crore Capex for 30% Towel Growth - Multibagg AI (Importance: **7/10**)
    - *Hedge Fund Perspective:* Reported by Multibagg AI on 2026-11-23. Corporate development in Capex & Expansion. / Operational and fundamental impact tracked against long-term sector trends.
    - *Hidden Implications:* Information verified directly from Multibagg AI publication.
 
-9. **NSE:TITAGARH**: Buy Titagarh Rail Systems: target of Rs 966: ICICI Securities - TradingView (Importance: **7/10**)
-   - *Hedge Fund Perspective:* Reported by TradingView on 2026-11-17. Corporate development in Management & Strategy. / Operational and fundamental impact tracked against long-term sector trends.
-   - *Hidden Implications:* Information verified directly from TradingView publication.
+7. **NSE:TATATECH**: Tata Technologies Targets $1.3 Billion Revenue By 2030 - Autocar Professional (Importance: **7/10**)
+   - *Hedge Fund Perspective:* Reported by Autocar Professional on 2026-11-19. Corporate development in Financial Performance & Results. / Operational and fundamental impact tracked against long-term sector trends.
+   - *Hidden Implications:* Information verified directly from Autocar Professional publication.
 
-10. **NSE:TATATECH**: Tata Technologies shares jump 9% as firm targets doubling software business in three years; key takeaways - Upstox (Importance: **7/10**)
-   - *Hedge Fund Perspective:* Reported by Upstox on 2026-11-19. Corporate development in Management & Strategy. / Operational and fundamental impact tracked against long-term sector trends.
-   - *Hidden Implications:* Information verified directly from Upstox publication.
+8. **NSE:POONAWALLA**: Buy Poonawalla Fincorp; target of Rs 600: Motilal Oswal - Moneycontrol.com (Importance: **7/10**)
+   - *Hedge Fund Perspective:* Reported by Moneycontrol.com on 2026-11-18. Corporate development in Management & Strategy. / Operational and fundamental impact tracked against long-term sector trends.
+   - *Hidden Implications:* Information verified directly from Moneycontrol.com publication.
+
+9. **NSE:IOC**: East India Drums Wins Rs 33.99 Crore IOCL Order for Mathura Plant - Dalal Street Investment Journal (Importance: **7/10**)
+   - *Hedge Fund Perspective:* Reported by Dalal Street Investment Journal on 2026-11-19. Corporate development in Order Inflows & Contracts. / Operational and fundamental impact tracked against long-term sector trends.
+   - *Hidden Implications:* Information verified directly from Dalal Street Investment Journal publication.
+
+10. **NSE:IRCON**: IRCON International Stock Prediction 2026: Analyst Targets - Univest (Importance: **7/10**)
+   - *Hedge Fund Perspective:* Reported by Univest on 2026-11-24. Corporate development in Management & Strategy. / Operational and fundamental impact tracked against long-term sector trends.
+   - *Hidden Implications:* Information verified directly from Univest publication.
 
 
 ### B. Top Negative Developments / Risks (Last 7 Days)
-1. **NSE:BSOFT**: Did Birlasoft's Fall Catch You Out? What Investors Missed - Yahoo Finance (Importance: **7/10**)
-   - *Hedge Fund Perspective:* Reported by Yahoo Finance on 2026-11-18. Corporate development in Capex & Expansion. / Operational and fundamental impact tracked against long-term sector trends.
-   - *Hidden Implications:* Information verified directly from Yahoo Finance publication.
-
-2. **NSE:ITC**: Weekly Recap: Quarterly profit falls 20.1% and cigarette prices rise - TradingView (Importance: **7/10**)
-   - *Hedge Fund Perspective:* Reported by TradingView on 2026-11-23. Corporate development in Financial Performance & Results. / Operational and fundamental impact tracked against long-term sector trends.
-   - *Hidden Implications:* Information verified directly from TradingView publication.
-
-3. **NSE:WAAREERTL**: Waaree Renewable Technologies Profit Falls 30% Despite Sales Gain - Multibagg AI (Importance: **7/10**)
-   - *Hedge Fund Perspective:* Reported by Multibagg AI on 2026-11-16. Corporate development in Financial Performance & Results. / Operational and fundamental impact tracked against long-term sector trends.
-   - *Hidden Implications:* Information verified directly from Multibagg AI publication.
-
-4. **NSE:BBOX**: Black Box Ltd pays ₹1.26 crore RBI penalty for FEMA violations - scanx.trade (Importance: **7/10**)
+1. **NSE:BBOX**: Black Box Ltd pays ₹1.26 crore RBI penalty for FEMA violations - scanx.trade (Importance: **7/10**)
    - *Hedge Fund Perspective:* Reported by scanx.trade on 2026-11-23. Corporate development in Government Policy & Regulatory. / Operational and fundamental impact tracked against long-term sector trends.
    - *Hidden Implications:* Information verified directly from scanx.trade publication.
+
+2. **NSE:SJVN**: SJVN Limited Shares Fall 1.47% Despite New Hydro PPAs - Multibagg AI (Importance: **7/10**)
+   - *Hedge Fund Perspective:* Reported by Multibagg AI on 2026-11-23. Corporate development in Corporate Action & M&A. / Operational and fundamental impact tracked against long-term sector trends.
+   - *Hidden Implications:* Information verified directly from Multibagg AI publication.
+
+3. **NSE:BSOFT**: Why Is Birlasoft Share Price Falling: Investor Analysis 2026 - Univest (Importance: **7/10**)
+   - *Hedge Fund Perspective:* Reported by Univest on 2026-11-22. Corporate development in Capex & Expansion. / Operational and fundamental impact tracked against long-term sector trends.
+   - *Hidden Implications:* Information verified directly from Univest publication.
+
+4. **NSE:ITC**: Weekly Recap: Quarterly profit falls 20.1% and cigarette prices rise - TradingView (Importance: **7/10**)
+   - *Hedge Fund Perspective:* Reported by TradingView on 2026-11-23. Corporate development in Financial Performance & Results. / Operational and fundamental impact tracked against long-term sector trends.
+   - *Hidden Implications:* Information verified directly from TradingView publication.
 
 5. **NSE:RELIANCE**: Reliance Industries Promoters Buy 4.26 Lakh Shares as Stock Rebounds Nearly 14% in a Month - Kotak Neo (Importance: **6/10**)
    - *Hedge Fund Perspective:* Reported by Kotak Neo on 2026-11-20. Corporate development in Institutional & Promoter Activity. / Operational and fundamental impact tracked against long-term sector trends.
    - *Hidden Implications:* Information verified directly from Kotak Neo publication.
 
-6. **NSE:PPL**: Solid Earnings May Not Tell The Whole Story For Prakash Pipes (NSE:PPL) - Simply Wall St (Importance: **6/10**)
+6. **NSE:PNGJL**: P N Gadgil Jewellers Share Price Outlook - Univest (Importance: **6/10**)
+   - *Hedge Fund Perspective:* Reported by Univest on 2026-11-21. Corporate development in Strategic Corporate News. / Operational and fundamental impact tracked against long-term sector trends.
+   - *Hidden Implications:* Information verified directly from Univest publication.
+
+7. **NSE:POONAWALLA**: Poonawalla Fincorp accepts bids for bond issue, bankers say - TradingView (Importance: **6/10**)
+   - *Hedge Fund Perspective:* Reported by TradingView on 2026-11-18. Corporate development in Capex & Expansion. / Operational and fundamental impact tracked against long-term sector trends.
+   - *Hidden Implications:* Information verified directly from TradingView publication.
+
+8. **NSE:PPL**: Solid Earnings May Not Tell The Whole Story For Prakash Pipes (NSE:PPL) - Simply Wall St (Importance: **6/10**)
    - *Hedge Fund Perspective:* Reported by Simply Wall St on 2026-11-20. Corporate development in Financial Performance & Results. / Operational and fundamental impact tracked against long-term sector trends.
    - *Hidden Implications:* Information verified directly from Simply Wall St publication.
 
-7. **NSE:SBIN**: SBI Clerk Prelims Result 2026 (OUT): Download Score Card PDF at sbi.bank.in - Jagran Josh (Importance: **6/10**)
-   - *Hedge Fund Perspective:* Reported by Jagran Josh on 2026-11-18. Corporate development in Order Inflows & Contracts. / Operational and fundamental impact tracked against long-term sector trends.
-   - *Hidden Implications:* Information verified directly from Jagran Josh publication.
-
-8. **NSE:POONAWALLA**: Can Piramal Finance, Aditya Birla Capital and Poonawalla Fincorp replicate Bajaj Finance's success? - bfsi.economictimes.indiatimes.com (Importance: **6/10**)
-   - *Hedge Fund Perspective:* Reported by bfsi.economictimes.indiatimes.com on 2026-11-19. Corporate development in Strategic Corporate News. / Operational and fundamental impact tracked against long-term sector trends.
-   - *Hidden Implications:* Information verified directly from bfsi.economictimes.indiatimes.com publication.
-
-9. **NSE:NHPC**: NHPC Invites Bids for Battery Storage Projects in Uttar Pradesh - Mercomindia.com (Importance: **6/10**)
-   - *Hedge Fund Perspective:* Reported by Mercomindia.com on 2026-11-19. Corporate development in Capex & Expansion. / Operational and fundamental impact tracked against long-term sector trends.
-   - *Hidden Implications:* Information verified directly from Mercomindia.com publication.
-
-10. **NSE:LIKHITHA**: Likhitha Infra Investor Analysis | StockIQ - The Economic Times (Importance: **6/10**)
-   - *Hedge Fund Perspective:* Reported by The Economic Times on 2026-11-19. Corporate development in Capex & Expansion. / Operational and fundamental impact tracked against long-term sector trends.
+9. **NSE:LIKHITHA**: Likhitha Infra Investor Analysis | StockIQ - The Economic Times (Importance: **6/10**)
+   - *Hedge Fund Perspective:* Reported by The Economic Times on 2026-11-23. Corporate development in Capex & Expansion. / Operational and fundamental impact tracked against long-term sector trends.
    - *Hidden Implications:* Information verified directly from The Economic Times publication.
+
+10. **NSE:NHPC**: NBCC & NHPC Sign MoU - https://www.fintechbiznews.com/ (Importance: **6/10**)
+   - *Hedge Fund Perspective:* Reported by https://www.fintechbiznews.com/ on 2026-11-21. Corporate development in Strategic Corporate News. / Operational and fundamental impact tracked against long-term sector trends.
+   - *Hidden Implications:* Information verified directly from https://www.fintechbiznews.com/ publication.
 
 ### C. Emerging Risks Summary
 1. **Working Capital & Debt Discipline:** Small and mid-cap EPC contractors require vigilant monitoring of cash flow conversion and pledge ratios.
@@ -238,17 +238,6 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 - **Opportunities:** Monitoring risk factors and entry levels.
 
 **A. News Summary:**
-- **Headline:** Insurance’s AI ‘black box’: Can auditors trust the results? - InsuranceNewsNet
-- **Date:** 2026-11-19 | **Source:** [InsuranceNewsNet](https://news.google.com/rss/articles/CBMimgFBVV95cUxPVHBURXA2U3M3SkF6T1NENjlPOXZpY3JpTUhTcjNWLWJnZXM0QXRwaUs0Vi1ISzRxRXVDTHZuS0p1cHFOUWhiSDdsaWNxZlRyRDBrVTZBYzByNWxkOFN6QWctMjZrV3V2cFNUemdxN01KVEFreUdvSzVOeURaOHpCTDZXQ1pNVUYyYk1RNjZoQlg3TDlVeXhxMlpR?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by InsuranceNewsNet on 2026-11-19. Corporate development in Financial Performance & Results.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Neutral**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from InsuranceNewsNet publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Monitoring risk factors and entry levels.
-
-**A. News Summary:**
 - **Headline:** Black Box Ltd pays ₹1.26 crore RBI penalty for FEMA violations - scanx.trade
 - **Date:** 2026-11-23 | **Source:** [scanx.trade](https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWd6YnpSbVY1d19MRWZYNTVKM3ZiNWsyV25XcUJBMG05UExVcEQ5U285YUgxeG5zM1RzbzdrQm40S19BdXdnUVQ1RUkwT0VlR0pRbFVFeUxyOGt0WnVUbFBnSGliWndiTVkwdkNEWGpwR0JVR1ByS1dvQ1MtQ2ZMTTF6TnV0NU5UX25tZ2Y4dURTZlhEVERaQWg2QTlBaHc0MlVzQ3ZaZGM4MXB1Z0MxbHphVnk?oc=5)
 - **Importance Score:** **7/10** | **Sentiment:** Bearish
@@ -257,6 +246,17 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 - **Thesis Impact:** **Bearish**
 - **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from scanx.trade publication.
 - **Risks:** Near-term market volatility or earnings/regulatory headwind.
+- **Opportunities:** Monitoring risk factors and entry levels.
+
+**A. News Summary:**
+- **Headline:** Insurance’s AI ‘black box’: Can auditors trust the results? - InsuranceNewsNet
+- **Date:** 2026-11-19 | **Source:** [InsuranceNewsNet](https://news.google.com/rss/articles/CBMimgFBVV95cUxPVHBURXA2U3M3SkF6T1NENjlPOXZpY3JpTUhTcjNWLWJnZXM0QXRwaUs0Vi1ISzRxRXVDTHZuS0p1cHFOUWhiSDdsaWNxZlRyRDBrVTZBYzByNWxkOFN6QWctMjZrV3V2cFNUemdxN01KVEFreUdvSzVOeURaOHpCTDZXQ1pNVUYyYk1RNjZoQlg3TDlVeXhxMlpR?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by InsuranceNewsNet on 2026-11-19. Corporate development in Financial Performance & Results.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+- **Thesis Impact:** **Neutral**
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from InsuranceNewsNet publication.
+- **Risks:** Broad market swings and execution risk.
 - **Opportunities:** Monitoring risk factors and entry levels.
 
 **B. Red Flags:**
@@ -281,16 +281,7 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 
 ### Ticker: NSE:BCPL - Name: BCPL Railway Infrastructure Ltd
 
-**A. News Summary:**
-- **Headline:** Bcpl Railway Infrastructure wins Rs 18.63 crore work order from Eastern Railway for Kalyani-Ranaghat line - scanx.trade
-- **Date:** 2026-11-16 | **Source:** [scanx.trade](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTmVzbFlZbVN3dTJmNHBPY3U2a0gtY0dkbUx6QXRQZUFBMHVHN0tnaXJfbEoxWHJBRlJubDhnbmR3aFpCQzM2ZFQtOG1hNnNZcUwwQ0NJOEo0MzcyVl9Fb2JBeU5kaXNHMEc5QVYzdlRnWHNqRGFteWs1Q3JKTmlKeWU3a0V3cXpQY2FuMnZkYWlnX1pNNkZ2ajd1RHZTUU1IMEV3MnZ2YVliak4zdWRtTU83YlFDRUZzY0NwZ19HTXo?oc=5)
-- **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by scanx.trade on 2026-11-16. Corporate development in Order Inflows & Contracts.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Bullish**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from scanx.trade publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Positive operational and institutional sentiment momentum.
+> **News Status:** No direct company news reported in the last 7 days. Stale developments older than 1 week are automatically archived/purged.
 
 **B. Red Flags:**
 > Red Flags: None identified in the last 7 days. Capital allocation and liquidity are stable.
@@ -304,7 +295,7 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 | **3. Competitor News** | Peer performance and market share movements. |
 | **4. Government Policy Changes** | Policy environment remains supportive for domestic industry. |
 | **5. Raw Material Changes** | Input cost trends monitored against operating margins. |
-| **6. Order Inflow Changes** | (2026-11-16) Bcpl Railway Infrastructure wins Rs 18.63 crore work order from Eastern Railway for Kalyani-Ranaghat line - scanx.trade [scanx.trade] |
+| **6. Order Inflow Changes** | Commercial order book and revenue visibility. |
 | **7. Demand Cycle Changes** | Demand trends across institutional and retail segments. |
 | **8. Management Commentary** | Quarterly guidance and management strategic updates. |
 | **9. Institutional Activity** | FII/DII holding changes and block trading trends. |
@@ -313,6 +304,28 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 ---
 
 ### Ticker: NSE:BSE - Name: BSE Limited
+
+**A. News Summary:**
+- **Headline:** VMS TMT can file Aditya Ultra Steel merger with NCLT - Multibagg AI
+- **Date:** 2026-11-19 | **Source:** [Multibagg AI](https://news.google.com/rss/articles/CBMirgFBVV95cUxOSmZVdjhxUV85dloycTNXN3kwUV9WVFYtcXkxWVBoUVZtOGVvSmVsUlZsQXhTcHp6SGxIWEJDa0gtYWtZSXd0ajZES042RGhKNGs5bXpRQzJ3NUo0R29vMlRTOFNrYkp5R0ozSXZHWE43TTRzdnNyclotLTVTa0FGcUFjZTNQa0xpNHdWR1ZjMi0tV3M2MHhCblBFUVQtNUJhNGJMWEwwM1J0RV9yS2c?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by Multibagg AI on 2026-11-19. Corporate development in Corporate Action & M&A.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+- **Thesis Impact:** **Neutral**
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Multibagg AI publication.
+- **Risks:** Broad market swings and execution risk.
+- **Opportunities:** Monitoring risk factors and entry levels.
+
+**A. News Summary:**
+- **Headline:** SEIL receives BSE certificate for proposed merger with Grew Energy, SLIPL - ET EnergyWorld
+- **Date:** 2026-11-20 | **Source:** [ET EnergyWorld](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMFVZd2xBSWhnNmd4OUZVQXdLNVhzcEhYY3VHVWFlNThfLXA3UDh6cy1OZHgxM0w0MXR4ZlNjN0hEMnQ4TGJORHFzYUw5ci1OV0JrclIyekJXRHBvaFpUZkVDVHpaQ3N5X1U5SlRlLXBROW9vbWhGaTV5Z3M3a0hRUWpqTEZKUThjUzZ5QVA4VGNudEk1T1Bpd3NCb2NVM1NZZWtFNTNIam5kU0sxaEpNU0RYUTlCQnozNDR3X0QyNENjSVNSdVhrNUE0SnNDQ3FaU1FUWF93dHPSAd4BQVVfeXFMUGt1MnZkNVVLdnFySmFwTUR2eGdOTmduMjU4Qmg2dkZERExjaXNhclRieVJwN0hQUXRKVlBDTEJCQXY5ZERRWTY2RDY5QmtoZENEX25lSFY4Z003Mlo0dzNaVzQ4TnBzT3Rtc25CSjluRlF6UHhBQVJ0eDZReTA3Z0VyQWVGN3FydkxBTmw1bGcwZ0laNF94V0ZKSjR1RjlHenRBcmRoYzZUdXBtYVZIdXZTZnFaWEt4aXNIRVp6V2JGQ182LXRZOThwMEVSakV6U2FrMUN6cGVFSEIySGFR?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by ET EnergyWorld on 2026-11-20. Corporate development in Corporate Action & M&A.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+- **Thesis Impact:** **Neutral**
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from ET EnergyWorld publication.
+- **Risks:** Broad market swings and execution risk.
+- **Opportunities:** Monitoring risk factors and entry levels.
 
 **A. News Summary:**
 - **Headline:** Zelio E-Mobility Gets BSE Approval for ₹168 Crore Fundraise - Machine Maker
@@ -325,28 +338,6 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 - **Risks:** Broad market swings and execution risk.
 - **Opportunities:** Monitoring risk factors and entry levels.
 
-**A. News Summary:**
-- **Headline:** BSE Limited Receives US Commodity Futures Trading Commission Approval for BANKEX Index Futures Contract - www.marketscreener.com
-- **Date:** 2026-11-17 | **Source:** [www.marketscreener.com](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeTlmdUNycHl5ckVPWHY5UmNyUi0xOUhocWw0SHUtQmdRZHdTMzcyVzB5ZlZlZy1vVWh1Z01SZVg2RDdwUmFwcWFrTHBzZlNSelJkUUZlNm5XRm84RDBDZDVmOUxhNjBsQTJEWlFieFZvbWUyQmZnQ1V4VEhCUlNZdEhwRXBSWHB4bjh4MDlBeGd3TkYtRUpCRkpmZ2JJSHpKam13Mmx2Y1dEUkJxeHo5RTJsM2VZSW54cURVQmNXa0s1WUxybFBhNzhSRERrNlptUWlhNXNFMkZEbTFMZWQ1UU03RXdtUHFL?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by www.marketscreener.com on 2026-11-17. Corporate development in Order Inflows & Contracts.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Neutral**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from www.marketscreener.com publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Monitoring risk factors and entry levels.
-
-**A. News Summary:**
-- **Headline:** Zelio E-Mobility gets BSE nod for ₹168 crore fundraise - Manufacturing Today India
-- **Date:** 2026-11-21 | **Source:** [Manufacturing Today India](https://news.google.com/rss/articles/CBMipAFBVV95cUxNMHk0RTRsa3RnMVNMU0U3WUEyVTJob3VVMG1kMV9nN2x1dmFyb1JEWURkOVUzUmhIZURaREl1S3RvYk8tNlEzcjc1aGw2Zl83N0s1aXU5SXdGVWJnNW10UlFrc1VibUlGY3pmRThtWk54MXpEcHg2ekVOMkI5c0xtTlFzdEVQRUdOYzl6clRYd3ZzWExJNDBHYkt5dVo3WWpPUmJhMg?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by Manufacturing Today India on 2026-11-21. Corporate development in Strategic Corporate News.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Neutral**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Manufacturing Today India publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Monitoring risk factors and entry levels.
-
 **B. Red Flags:**
 > Red Flags: None identified in the last 7 days. Capital allocation and liquidity are stable.
 
@@ -354,12 +345,12 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 
 | Canvas Dimension | Development Details & Impact Assessment |
 | :--- | :--- |
-| **1. Direct Company News** | (2026-11-21) Zelio E-Mobility gets BSE nod for ₹168 crore fundraise - Manufacturing Today India [Manufacturing Today India] |
+| **1. Direct Company News** | (2026-11-20) Zelio E-Mobility Gets BSE Approval for ₹168 Crore Fundraise - Machine Maker [Machine Maker] |
 | **2. Sector News** | Sector developments monitored across Financials. |
 | **3. Competitor News** | Peer performance and market share movements. |
 | **4. Government Policy Changes** | Policy environment remains supportive for domestic industry. |
 | **5. Raw Material Changes** | Input cost trends monitored against operating margins. |
-| **6. Order Inflow Changes** | (2026-11-17) BSE Limited Receives US Commodity Futures Trading Commission Approval for BANKEX Index Futures Contract - www.marketscreener.com [www.marketscreener.com] |
+| **6. Order Inflow Changes** | Commercial order book and revenue visibility. |
 | **7. Demand Cycle Changes** | Demand trends across institutional and retail segments. |
 | **8. Management Commentary** | Quarterly guidance and management strategic updates. |
 | **9. Institutional Activity** | FII/DII holding changes and block trading trends. |
@@ -370,10 +361,21 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 ### Ticker: NSE:BSOFT - Name: Birlasoft Limited
 
 **A. News Summary:**
-- **Headline:** Birlasoft Elevates Usha Sri Addepalli as CFO – Markets and Senior Vice President, Finance - https://hrtoday.in/
-- **Date:** 2026-11-22 | **Source:** [https://hrtoday.in/](https://news.google.com/rss/articles/CBMiqgFBVV95cUxObmRvNzVSX1RPS1ctc3VLbkZzLUFxRFU3YldEaVlIcFByaGRLS1FpTm9DcEJZWi1jZkotQ0ZpYWgtNHo3SGo5cTlCeUhsZzRVdmxJajM3NUJfdlFRalFZY09zT01qYld5MUgwWVpHUzE0ZDEzN2Nla2N4UV92WW5Ca3FtR3VqRDJ2RHdfbzBqckVIX0V6Y1lPTllBbVM5QjdfMGxoTjJkZnNodw?oc=5)
+- **Headline:** BSOFT Outlook for the Week - Equitypandit
+- **Date:** 2026-11-20 | **Source:** [Equitypandit](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DZ1Q1ZEFQWnNhS2d3T19ZQTUwVkZVbG9KVDlBbXVSd0d1TzR6bGlGNS0wUHlCeFpGbElVRG83S015QnZTcHN4YVFQdS12azFBR1VnWXgzLVZJcVQ0elFuNE1ETWZ6LWc?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by https://hrtoday.in/ on 2026-11-22. Corporate development in Management & Strategy.
+- **Short-Term Impact:** Reported by Equitypandit on 2026-11-20. Corporate development in Strategic Corporate News.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+- **Thesis Impact:** **Neutral**
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Equitypandit publication.
+- **Risks:** Broad market swings and execution risk.
+- **Opportunities:** Monitoring risk factors and entry levels.
+
+**A. News Summary:**
+- **Headline:** Birlasoft Appoints Madhavan Hariharan as Chief Executive Officer and Managing Director - https://hrtoday.in/
+- **Date:** 2026-11-24 | **Source:** [https://hrtoday.in/](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU3RTTEpwNlBvVTJ1bEdvbGw3N1ZqOWNlNlN4MHZxcGFEcGRIekpKMXI3SXQtM0U1ZTJpQnpHQkRQVm1keTZtTjBvNlBYcUtYWHRIUVphMWdOSk1TSlZaanpheVpxZFhHbjJKTmlxSG1BUExyWThGSlY3S3NTM3RDNWVWS1lzUUxOZVRSWjdMZ1pkNU5WVEtDbEh3ZzZta1JRY2JwdzQtRXRKQQ?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by https://hrtoday.in/ on 2026-11-24. Corporate development in Management & Strategy.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 - **Thesis Impact:** **Neutral**
 - **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from https://hrtoday.in/ publication.
@@ -381,25 +383,14 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 - **Opportunities:** Monitoring risk factors and entry levels.
 
 **A. News Summary:**
-- **Headline:** Did Birlasoft's Fall Catch You Out? What Investors Missed - Yahoo Finance
-- **Date:** 2026-11-18 | **Source:** [Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxPTl9LanRndGE0SzM3c1RuX2tEemZYVU10NDlDUnVZVzF3bFZXRG9nNFFaZjhUaVYtdndfT3hJWlR4WTJ4OE1vZEtYUk1ZUUQtRWJ0SERldUtTZS1NaWlmZ3plNVg4czFuMW9BeGU0SkNWVFp0b1FhLTVGVjZoQkZ5dXYxNXFSc2ltMFRpa1hCU1N3bDBBWXJiV0Q0X0QwRzl3ZUE?oc=5)
+- **Headline:** Why Is Birlasoft Share Price Falling: Investor Analysis 2026 - Univest
+- **Date:** 2026-11-22 | **Source:** [Univest](https://news.google.com/rss/articles/CBMibkFVX3lxTFB6RjM4cmhSVTNQT0pTMmR4dWJmTjNaTDJGTVF3RlE1bVh5N1ZyVGR4VEw5NThiNmgxZ3ZLeVVtUlJMeEp0X2FvUEE4Z3R3SlBCLTZXcXFtU2RUMmZaUmJVVlFCR1AwaXdOdDZGRmt3?oc=5)
 - **Importance Score:** **7/10** | **Sentiment:** Bearish
-- **Short-Term Impact:** Reported by Yahoo Finance on 2026-11-18. Corporate development in Capex & Expansion.
+- **Short-Term Impact:** Reported by Univest on 2026-11-22. Corporate development in Capex & Expansion.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 - **Thesis Impact:** **Bearish**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Yahoo Finance publication.
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Univest publication.
 - **Risks:** Near-term market volatility or earnings/regulatory headwind.
-- **Opportunities:** Monitoring risk factors and entry levels.
-
-**A. News Summary:**
-- **Headline:** Birlasoft Investor Analysis | StockIQ - The Economic Times
-- **Date:** 2026-11-20 | **Source:** [The Economic Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUl0aHR6MDNiQVNHSFJ4c0Z0VTFyLTJVZUlhVHE5aW94RjhQeVJyblJtMmpiQkFNR0ZQMjY1b2F6VWh2N2VYRndHbU9BUGFJUWxlaFRldDdyZWRuSTBRRktTSngzZE5mMFFNRXE3QWZQbzduSlk1TXpQclFGWS1xc1Z6TWltREE?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by The Economic Times on 2026-11-20. Corporate development in Capex & Expansion.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Neutral**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from The Economic Times publication.
-- **Risks:** Broad market swings and execution risk.
 - **Opportunities:** Monitoring risk factors and entry levels.
 
 **B. Red Flags:**
@@ -409,14 +400,14 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 
 | Canvas Dimension | Development Details & Impact Assessment |
 | :--- | :--- |
-| **1. Direct Company News** | No material corporate earnings/results reported in the last 7 days. |
+| **1. Direct Company News** | (2026-11-20) BSOFT Outlook for the Week - Equitypandit [Equitypandit] |
 | **2. Sector News** | Sector developments monitored across IT & Telecom. |
 | **3. Competitor News** | Peer performance and market share movements. |
 | **4. Government Policy Changes** | Policy environment remains supportive for domestic industry. |
 | **5. Raw Material Changes** | Input cost trends monitored against operating margins. |
 | **6. Order Inflow Changes** | Commercial order book and revenue visibility. |
-| **7. Demand Cycle Changes** | (2026-11-20) Birlasoft Investor Analysis | StockIQ - The Economic Times [The Economic Times] |
-| **8. Management Commentary** | (2026-11-22) Birlasoft Elevates Usha Sri Addepalli as CFO – Markets and Senior Vice President, Finance - https://hrtoday.in/ [https://hrtoday.in/] |
+| **7. Demand Cycle Changes** | (2026-11-22) Why Is Birlasoft Share Price Falling: Investor Analysis 2026 - Univest [Univest] |
+| **8. Management Commentary** | (2026-11-24) Birlasoft Appoints Madhavan Hariharan as Chief Executive Officer and Managing Director - https://hrtoday.in/ [https://hrtoday.in/] |
 | **9. Institutional Activity** | FII/DII holding changes and block trading trends. |
 | **10. Promoter Activity** | Promoter shareholding stability and pledge tracking. |
 
@@ -480,26 +471,15 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 ### Ticker: NSE:CEIGALL - Name: Ceigall India Ltd
 
 **A. News Summary:**
-- **Headline:** Ceigall India wins Rs 684 crore work order from NHAI for Haryana highway - scanx.trade
-- **Date:** 2026-11-16 | **Source:** [scanx.trade](https://news.google.com/rss/articles/CBMivAFBVV95cUxOSDRIUDlaeFJqNm16azNkTjUyWWhnTHA4X2hsTDB1Z2xXY3lvTmRWcXEyYVp5S2R0RnppTTNMTUwyNE9sVzhwLXVkal8tb3BlLVFYbnVGZWM3Uzg4bHBBbE5CNHN3WENkalNoTmdjUnpITmN2MURLWS15cmNKbWJGbm00bDE2Nmt0X1FFN2QtQWpzUV9iWHJuQ3Y0OE1NdkFra0VmNTZMbFV4X0kwQkVQYWFYdVM4R0gxMHVzMg?oc=5)
+- **Headline:** Ceigall India Share Price Target 2026 Analyst Forecast - Univest
+- **Date:** 2026-11-23 | **Source:** [Univest](https://news.google.com/rss/articles/CBMib0FVX3lxTE5nOXdSQ3YzM3YyanlwQlhGTE9nejZFc1YwQWpJVWp2UXQ3WC1PeElUQjhST2RJdkxEYmFvNFQ4VTFxb2MxQWQ3bE5fYnlwWFdiRldBMEhLQ25vUmNLcWlsZWlNNGZpNWxuTEdnWThqRQ?oc=5)
 - **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by scanx.trade on 2026-11-16. Corporate development in Order Inflows & Contracts.
+- **Short-Term Impact:** Reported by Univest on 2026-11-23. Corporate development in Management & Strategy.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 - **Thesis Impact:** **Bullish**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from scanx.trade publication.
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Univest publication.
 - **Risks:** Broad market swings and execution risk.
 - **Opportunities:** Positive operational and institutional sentiment momentum.
-
-**A. News Summary:**
-- **Headline:** The Strong Earnings Posted By B.L. Kashyap and Sons (NSE:BLKASHYAP) Are A Good Indication Of The Strength Of The Business - Simply Wall St
-- **Date:** 2026-11-20 | **Source:** [Simply Wall St](https://news.google.com/rss/articles/CBMi5wFBVV95cUxONFFNU1JMQUhHVUxUS3RmaklrQkF2OXk0blhTYVlUcGt3SG81aVVrSVk1bGRILWhMRmN6allBcWJfM014T1NkZ2p3bTFzX1ZvdERTNW9WTHk3Y1VodE16T1I0NjVLQVA1LXRsNE5KTkhjaHcySk1xUl9FMy1RNkx0ZjQ5bkNDYk5hUktwNk9LeTFCdlNvbl9rRmswbnI4al80TUpZRzAteko3ZEgyUHZlQkpCUFNCUzdERHlSNVV3cVFOUFAzdTBMWHZLUTVCamFRcmR3UWxrV0dMbk56RURTMHhZNV9vTDjSAewBQVVfeXFMTk43UmVZWEMwNEI4Smd2T00xN2VVWWIyaEprTzNyX2VCci1xMGpmQU9maTRqUm9JT0tadzNNRENEYmxNdTdkRVVoSjZDVE9tLU0yMTNONmFnMkhNUU84czhBSnJ4Z18wcV8tcF9DZWlHZFpvbDJLc1RxbGFSNXk2dkh4ZDRPaUNPU21pa2oxUndxcFFFalZNUnZWRE9wN1pac0wxenpCSGEzQmswUzJndmdvRWtSeTMybUV2OUpnd1VhSVJEVjByOWZBblJ2UnRxS2dMUUY0MWlhNjBLRHFjb19oc2ZMbkNOU3hjbVI?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by Simply Wall St on 2026-11-20. Corporate development in Financial Performance & Results.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Neutral**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Simply Wall St publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Monitoring risk factors and entry levels.
 
 **A. News Summary:**
 - **Headline:** Ceigall India Investor Analysis | StockIQ - The Economic Times
@@ -512,6 +492,17 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 - **Risks:** Broad market swings and execution risk.
 - **Opportunities:** Monitoring risk factors and entry levels.
 
+**A. News Summary:**
+- **Headline:** Seven Bidders Qualify for Elevated Viaduct and 12 Stations Contract of Jaipur Metro Phase 2 - Metro Rail Today
+- **Date:** 2026-11-23 | **Source:** [Metro Rail Today](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUXgzODgyd0xrUUd2Und0VmNNUGppQ1J2UVliR2tEU0pGQm9xQTBfMkplUGhGejNBR0lGRWNoVElsbWZuUU5EcUJmTGU4dUdHYWFVYi12UWo3dWUwUV92RTBGZkk2Y2VtdHlIWGxPNF9PS0dZY05neW1YQ3hTZ0JvY3hvb3JQOXJuYVJvT0dHVFRGdEFWeTJfeGdDNGFqUG1ha0oydXJyN1NRTXRfaVF0V0NXRWpmWGJnVm9pb3hlbVY?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by Metro Rail Today on 2026-11-23. Corporate development in Order Inflows & Contracts.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+- **Thesis Impact:** **Neutral**
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Metro Rail Today publication.
+- **Risks:** Broad market swings and execution risk.
+- **Opportunities:** Monitoring risk factors and entry levels.
+
 **B. Red Flags:**
 > Red Flags: None identified in the last 7 days. Capital allocation and liquidity are stable.
 
@@ -519,14 +510,14 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 
 | Canvas Dimension | Development Details & Impact Assessment |
 | :--- | :--- |
-| **1. Direct Company News** | (2026-11-20) The Strong Earnings Posted By B.L. Kashyap and Sons (NSE:BLKASHYAP) Are A Good Indication Of The Strength Of The Business - Simply Wall St [Simply Wall St] |
+| **1. Direct Company News** | No material corporate earnings/results reported in the last 7 days. |
 | **2. Sector News** | Sector developments monitored across Infra & Railways. |
 | **3. Competitor News** | Peer performance and market share movements. |
 | **4. Government Policy Changes** | Policy environment remains supportive for domestic industry. |
 | **5. Raw Material Changes** | Input cost trends monitored against operating margins. |
-| **6. Order Inflow Changes** | (2026-11-16) Ceigall India wins Rs 684 crore work order from NHAI for Haryana highway - scanx.trade [scanx.trade] |
+| **6. Order Inflow Changes** | (2026-11-23) Seven Bidders Qualify for Elevated Viaduct and 12 Stations Contract of Jaipur Metro Phase 2 - Metro Rail Today [Metro Rail Today] |
 | **7. Demand Cycle Changes** | (2026-11-20) Ceigall India Investor Analysis | StockIQ - The Economic Times [The Economic Times] |
-| **8. Management Commentary** | Quarterly guidance and management strategic updates. |
+| **8. Management Commentary** | (2026-11-23) Ceigall India Share Price Target 2026 Analyst Forecast - Univest [Univest] |
 | **9. Institutional Activity** | FII/DII holding changes and block trading trends. |
 | **10. Promoter Activity** | Promoter shareholding stability and pledge tracking. |
 
@@ -560,9 +551,9 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 
 **A. News Summary:**
 - **Headline:** DC Infotech Investor Analysis | StockIQ - The Economic Times
-- **Date:** 2026-11-20 | **Source:** [The Economic Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxPLVRaU0I1Rm4wQTdTd3ZXdXFwRnJ2YVRVZGQ5Z0RtTmVHOFV1a1JYZHZocWp2M3p6dEN5dnpqdUlTSWxFanh4LTRiVzl2Q21wNUxNXzhRSk9mNVVVYzg2ajBwa01NWUJHdXF1NVdZTFg4QkE3cm1yZFhoZlJvbU9lUGZEbEk5VkV6TlJzZG9WcGotWlBPU0JHV0NPX2hOSElqR0NRX1RB?oc=5)
+- **Date:** 2026-11-17 | **Source:** [The Economic Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxPLVRaU0I1Rm4wQTdTd3ZXdXFwRnJ2YVRVZGQ5Z0RtTmVHOFV1a1JYZHZocWp2M3p6dEN5dnpqdUlTSWxFanh4LTRiVzl2Q21wNUxNXzhRSk9mNVVVYzg2ajBwa01NWUJHdXF1NVdZTFg4QkE3cm1yZFhoZlJvbU9lUGZEbEk5VkV6TlJzZG9WcGotWlBPU0JHV0NPX2hOSElqR0NRX1RB?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by The Economic Times on 2026-11-20. Corporate development in Capex & Expansion.
+- **Short-Term Impact:** Reported by The Economic Times on 2026-11-17. Corporate development in Capex & Expansion.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 - **Thesis Impact:** **Neutral**
 - **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from The Economic Times publication.
@@ -582,7 +573,7 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 | **4. Government Policy Changes** | Policy environment remains supportive for domestic industry. |
 | **5. Raw Material Changes** | Input cost trends monitored against operating margins. |
 | **6. Order Inflow Changes** | Commercial order book and revenue visibility. |
-| **7. Demand Cycle Changes** | (2026-11-20) DC Infotech Investor Analysis | StockIQ - The Economic Times [The Economic Times] |
+| **7. Demand Cycle Changes** | (2026-11-17) DC Infotech Investor Analysis | StockIQ - The Economic Times [The Economic Times] |
 | **8. Management Commentary** | Quarterly guidance and management strategic updates. |
 | **9. Institutional Activity** | FII/DII holding changes and block trading trends. |
 | **10. Promoter Activity** | Promoter shareholding stability and pledge tracking. |
@@ -647,28 +638,6 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 ### Ticker: NSE:EMSLIMITED - Name: EMS Ltd
 
 **A. News Summary:**
-- **Headline:** ETFs Investing in EMS Ltd. Stocks - TradingView
-- **Date:** 2026-11-17 | **Source:** [TradingView](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ub3hMTk1GMmVHOWRKVkFMZlZfT2tFZ3lDRzZXZFZZamQ0SGJKS2MtSVdZMkRKZ2lJd3I2a0EtX0tXeDlyeEZUWFV6S1RfZFlJTkZRTjNQbl9fTmJ0YU5fUGtNUEZvZk0?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by TradingView on 2026-11-17. Corporate development in Capex & Expansion.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Neutral**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from TradingView publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Monitoring risk factors and entry levels.
-
-**A. News Summary:**
-- **Headline:** EMS Limited Reports Q2 Margin Recovery and ₹900 Crore Orders - Multibagg AI
-- **Date:** 2026-11-17 | **Source:** [Multibagg AI](https://news.google.com/rss/articles/CBMiowFBVV95cUxPeUpjRTVGVGF5Y3lUel83ZDdsYnA2bUlKNTdRdlNSaGdrcGttMFowdDEtcU9VbFBrTi1BR2Z3Ul91T2F3ckFOcEFLSFVQU0FTZDJPdXUxRWhNZGpOVmZiOTAzbTZreGNISFA0Nm9pdm5jVzhlczB5M242VTlaSlhfWmJuM0l2UTBwZU13YmJUZFhscFFOZDBERTJaMnlpT0loMDBR?oc=5)
-- **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by Multibagg AI on 2026-11-17. Corporate development in Order Inflows & Contracts.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Bullish**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Multibagg AI publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Positive operational and institutional sentiment momentum.
-
-**A. News Summary:**
 - **Headline:** EMS secures Rs 13.96 crore order from NHAI for fee plaza operations in Assam - Business Upturn
 - **Date:** 2026-11-20 | **Source:** [Business Upturn](https://news.google.com/rss/articles/CBMixgFBVV95cUxOZmtwazhBY1RGSksxZDdpeVRqTkM5d2oyWl9VNkpXMjVjcG8xenVGTkJtVC1Rb0V4cUp6OHBnQ05IakhCWjE4OVQ5ZjVEbDI0ZThFamNRY3hUSDRfbTJWRnU2MzJRUXdoejA3VzBwNGJsb0E1Q1E2Z2NQRHdPTzBRYlFBZWJaZXAtR3RwSERQTFYwOXFWdXpEVVJpMlI1R0hXMTVMaUpFMjFYWnFoUFhJU1ZfVWUwM0QtUHdsVEh1TVVyXzctZEE?oc=5)
 - **Importance Score:** **7/10** | **Sentiment:** Bullish
@@ -678,6 +647,17 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 - **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Business Upturn publication.
 - **Risks:** Broad market swings and execution risk.
 - **Opportunities:** Positive operational and institutional sentiment momentum.
+
+**A. News Summary:**
+- **Headline:** EMS Investor Analysis | StockIQ - The Economic Times
+- **Date:** 2026-11-20 | **Source:** [The Economic Times](https://news.google.com/rss/articles/CBMigAFBVV95cUxNS1VKWTdYOXJfdnMzd0pKWDd0US1pMHI2Q0lPNHdLNmY1OTNmZkp3VFNZTEdES0lBVmxpTUJJLWk5a25yY1ZsR0VTMnl2S0U2QzFTSkVHLTAwYngxODUydWp1QzY3eXB3Wk1KQk0teWJLa0djM2lRYk4tU0lmc0k3NA?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by The Economic Times on 2026-11-20. Corporate development in Capex & Expansion.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+- **Thesis Impact:** **Neutral**
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from The Economic Times publication.
+- **Risks:** Broad market swings and execution risk.
+- **Opportunities:** Monitoring risk factors and entry levels.
 
 **B. Red Flags:**
 > Red Flags: None identified in the last 7 days. Capital allocation and liquidity are stable.
@@ -692,7 +672,7 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 | **4. Government Policy Changes** | Policy environment remains supportive for domestic industry. |
 | **5. Raw Material Changes** | Input cost trends monitored against operating margins. |
 | **6. Order Inflow Changes** | (2026-11-20) EMS secures Rs 13.96 crore order from NHAI for fee plaza operations in Assam - Business Upturn [Business Upturn] |
-| **7. Demand Cycle Changes** | (2026-11-17) ETFs Investing in EMS Ltd. Stocks - TradingView [TradingView] |
+| **7. Demand Cycle Changes** | (2026-11-20) EMS Investor Analysis | StockIQ - The Economic Times [The Economic Times] |
 | **8. Management Commentary** | Quarterly guidance and management strategic updates. |
 | **9. Institutional Activity** | FII/DII holding changes and block trading trends. |
 | **10. Promoter Activity** | Promoter shareholding stability and pledge tracking. |
@@ -702,6 +682,28 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 ### Ticker: NSE:HDFCBANK - Name: HDFC Bank Limited
 
 **A. News Summary:**
+- **Headline:** SBI, HDFC Bank, ICICI Bank retain D-SIB status; RBI maintains capital requirements - The Hindu
+- **Date:** 2026-11-23 | **Source:** [The Hindu](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSTdEbDlpRlRTUVpxand0RWhqN01UMDB0eE90ZWtOaDlxZlhBYlZvZXc2c0ZkRU9ReU9oRm1qMGxndjg4VnV4YkxHSjFicVppR1I2X3lCV2E0ZmNPd3ZXeVJwZjhjMWhuRFUzQk9wNVZVc0xXYzFhZVdmQXB5cnhmbldrZFU3cDdEVkVaMk1EdXlieG5WNWtONXdKOWNiRlY3MmxiOHVFTUNUc19hS2FuV1ZEWlZOWGIySjZhSFVEOU9NRUxvbHkyaFVNQ29Oei01cVJNMTQyU0PSAd8BQVVfeXFMUFQtVUd2c3hxRmJMMzBYdVlONElXcUh5Tml4NGozZUdJRlk3ZElqMWVuR25LbzYtXzEzb29CNVBSUXVVU2J2Nk5GeVluWEo0RXpRSVI0NFVRaWtFWERKRTRfYngwUnhoRTYxa2lSMm9hOHYwMC1CVUNxQVFGLS1yZ0dhWmI4dDhYUU5CV2xiZTFtVzFxMmFFbEFKWS1QR25hYWJrczRRem1iVWtEcXpsTHhoblNTQy1nNERLZmxtYXl6blh4cUdaQWF4eWRkOENUUkN6eXFuMVd6dDh1UXd6SQ?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by The Hindu on 2026-11-23. Corporate development in Government Policy & Regulatory.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+- **Thesis Impact:** **Neutral**
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from The Hindu publication.
+- **Risks:** Broad market swings and execution risk.
+- **Opportunities:** Monitoring risk factors and entry levels.
+
+**A. News Summary:**
+- **Headline:** RBI, Kohima holds Special Meeting with Stakeholders for Financial Inclusion of Noklak District - www.pib.gov.in
+- **Date:** 2026-11-19 | **Source:** [www.pib.gov.in](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zek5rY0U1ZWR0cXI2OXhmdHFYbGNZZGh1VDFpUmFzZWQyZm1MQ0xUazRIQnlWZWU1aDQycDhhb194blcwRU1FX2gzQVYxeXRKQk9OLTRQanJfZkVpN2otd1Znb0dPRjFB?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by www.pib.gov.in on 2026-11-19. Corporate development in Institutional & Promoter Activity.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+- **Thesis Impact:** **Neutral**
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from www.pib.gov.in publication.
+- **Risks:** Broad market swings and execution risk.
+- **Opportunities:** Monitoring risk factors and entry levels.
+
+**A. News Summary:**
 - **Headline:** HDFC Bank Market Capitalisation Reclaims ₹13 Lakh Crore After ₹2.38 Lakh Crore Addition in 15 Sessions - Kotak Neo
 - **Date:** 2026-11-20 | **Source:** [Kotak Neo](https://news.google.com/rss/articles/CBMijgFBVV95cUxNUTVPN19SYjAybFp6UU9NVldPeEtER05YME9haVJvUGpaLWZmYy1IeHVDeTZ5WmlaYkJzSmVxdDF0ZVJDTDNHVzdPVG1udWtrbDg0SXJYVG4tNXRQWU9faE9aSENRRjdEY09IYnFROVpWT0tlbG5LY054YmVKcmZjSi1haDE4NE9pQTkzamZR?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
@@ -709,28 +711,6 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 - **Thesis Impact:** **Neutral**
 - **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Kotak Neo publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Monitoring risk factors and entry levels.
-
-**A. News Summary:**
-- **Headline:** HDFC Bank inches up as Board locks in senior leadership - TradingView
-- **Date:** 2026-11-17 | **Source:** [TradingView](https://news.google.com/rss/articles/CBMisgFBVV95cUxQdmZvS3JHQWtEU19WLVlQWjJ3dUU2ZU5Kd21uNFg5dnFIazZWdi1icmRBcldYNlY4azA0RGttOGdXeDRzUDZMSjZLdWFMbmFkWEh0Y2Z1akF4eXBvWVUtV0R3ckhJZkc1QVhaRk4wQmxnd1R1YmxTWnRLZ2NmQ0VLQno0LWlmRVViMmZNeThGb3RvbEpJRzVyVU43cElCb1JKd0NuZ2ZocmE3SnVvVzhqbnpn?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by TradingView on 2026-11-17. Corporate development in Management & Strategy.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Neutral**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from TradingView publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Monitoring risk factors and entry levels.
-
-**A. News Summary:**
-- **Headline:** HDFC Bank inches up as Board locks in senior leadership - BusinessLine
-- **Date:** 2026-11-17 | **Source:** [BusinessLine](https://news.google.com/rss/articles/CBMizwFBVV95cUxPSHlvcThzd2xaNHpQeWFkRDVrYlBuN1czUFEtNnpyMFhrSnBIaWlSSkZxUFhQVHNZVTgycUpZazV0UlpLck9DZW51WXIxRHJFemM5UldzNll0R3MxejdwSzVjVTE2ZWl5WWtJbjRHYU04bWNraUdsS0UxSnltQ04yZkx5T2FTT1YzSnpjWnItd1RzT096enF1dWpWbjlvX0pvemNDWkhQSEh3cDBBM0dUelhLTGZFbW9TdVk5VmZlUDJkb2YxS2lodHYwWno0TFHSAdYBQVVfeXFMTnkyRGlvMnh6dEZHdVJOUDFodmJpUkgxYklXMElraG1kWDVmaEdCR1dWelg4OGttdl83c1N1dk1OZHAzZFVIcWxuZE5Ld00tbFFSTlMybnFyWlMwZ0JPUGNGWW5VWVM0RUxjNkhsNU82NTBBUWZXMl9ZVHpQNFV2TEhJZWEwNzJwQ3o4RHpZX3dnUUdDRE13M19rRXVDQlBvdVhDeE9sQ3JzNlhsc0dxSjN1QVJmamx1TG1pRFNCY1JPZEFuQ1g0RFBEcUNwTHhCM0lSOWI4QQ?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by BusinessLine on 2026-11-17. Corporate development in Management & Strategy.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Neutral**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from BusinessLine publication.
 - **Risks:** Broad market swings and execution risk.
 - **Opportunities:** Monitoring risk factors and entry levels.
 
@@ -748,9 +728,9 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 | **5. Raw Material Changes** | Input cost trends monitored against operating margins. |
 | **6. Order Inflow Changes** | Commercial order book and revenue visibility. |
 | **7. Demand Cycle Changes** | Demand trends across institutional and retail segments. |
-| **8. Management Commentary** | (2026-11-17) HDFC Bank inches up as Board locks in senior leadership - BusinessLine [BusinessLine] |
-| **9. Institutional Activity** | FII/DII holding changes and block trading trends. |
-| **10. Promoter Activity** | Promoter shareholding stability and pledge tracking. |
+| **8. Management Commentary** | Quarterly guidance and management strategic updates. |
+| **9. Institutional Activity** | (2026-11-19) RBI, Kohima holds Special Meeting with Stakeholders for Financial Inclusion of Noklak District - www.pib.gov.in [www.pib.gov.in] |
+| **10. Promoter Activity** | (2026-11-19) RBI, Kohima holds Special Meeting with Stakeholders for Financial Inclusion of Noklak District - www.pib.gov.in [www.pib.gov.in] |
 
 ---
 
@@ -812,17 +792,6 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 ### Ticker: NSE:INFY - Name: Infosys Limited
 
 **A. News Summary:**
-- **Headline:** Indian IT Stocks Rally 1.96% as TCS, Infosys and Tech Mahindra Gain Despite Global Tech Selloff - Kotak Neo
-- **Date:** 2026-11-20 | **Source:** [Kotak Neo](https://news.google.com/rss/articles/CBMixgFBVV95cUxPaDRqMm9KUnNXRi1pUXRYN0VhQl9XbFgwMDRmLXltc3RWZ0xKZHZpYjAyZlhmYnlNYzJORmdUZS14UmtIdWFNS0lUOGRYaHptWG01S21ncWFLZXBxakhlNS1LQlp4VTNxdnNnMk9ZVGxOSkVUcHkyZXJpNzViU3QtUzlUNzdiQmdnVTFNZGFCQVlSQ0IzaHI4UDJDYWVSZjZId0J6ZEhVbUR6OFJUUW1MeWVBUlVlU1NzT0ZsY25GZTc4MWpCZXc?oc=5)
-- **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by Kotak Neo on 2026-11-20. Corporate development in Strategic Corporate News.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Bullish**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Kotak Neo publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Positive operational and institutional sentiment momentum.
-
-**A. News Summary:**
 - **Headline:** Infosys Expands AI Footprint in Japan With Telecom JV - Analytics India Magazine
 - **Date:** 2026-11-19 | **Source:** [Analytics India Magazine](https://news.google.com/rss/articles/CBMimgFBVV95cUxPNXp3aUJiUmFILUZfZ3ROeGRRejY3d1BOWDdLaVhDMlFZOTk2U3FVdGwtdG9xcmU0ZGczVlZoZE9EZUNwS1VjR2h4WUlJYTZURV9pZ0J3aDBnbHpZZmtzcWFzOWxMdzFQclVjUW5aekJIdzRvM0tZZ21ZZFEwM1lneUFXYnJWa0VPUEFBMXNLRXVpUEdfS3o1am1B?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
@@ -834,13 +803,24 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 - **Opportunities:** Monitoring risk factors and entry levels.
 
 **A. News Summary:**
-- **Headline:** Infosys shares slides 2.5% despite Japan JV buzz; stock near 1 month low - BusinessLine
-- **Date:** 2026-11-19 | **Source:** [BusinessLine](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMmctTnFENGlwOGdmQmZycV8yU2R2UDVwSkNWT2xaN1l6Wi1zWmNXRkxrOTVHTWRzREd6OWJybl9mVjlKUE5GWUROWmYyd1FtY3ZuX0hYbXkyX19admtmMm1TZGVia3p5X29vM1NxX3lKMzBWM1duVUJYbUQxY0RzTFpfU2NvZmVKSGkweVVmN3ZjQXo3Si1JbFNLaVQ5ZGdTR3pQUi1rU2ptRGMwMkphejE2bE9tRGoyRGdUWkpWekIzWE91X3pvZXZTc2lTQmxlNV9DeUUtOFV0ZEhGSnpyeVBGdU9leFHSAe4BQVVfeXFMUGFXR09SYmZ6NjMxMGpBakFBbDkyQUdRdUFUS2ZVaVl4a28yU1VvS016SUFJVnRfS0RjdWtFY3c3VEpITXI2bUZlcGR3bHBlQTlwRHVpdHhSTkx5Z3h3WkRISXJoSHFQblNlWlVhS3JRN3RhV3JNb29UU01RdHJCQU1PU25uZnRnQ2dzVkQ1akNzU0FfNFJtR3FrODZQR1lQRVRuRllSaHhDMXU3bXhnanVSY1pZSUxyNmVtOFlZR1ZDR3ZrMzc3b1ZPeGNfRHl5QWdrT2owX0ZfR2Q4VThyQ3lXTFZabUlGUVlGVzZWUQ?oc=5)
+- **Headline:** Indian IT Stocks Rally 1.96% as TCS, Infosys and Tech Mahindra Gain Despite Global Tech Selloff - Kotak Neo
+- **Date:** 2026-11-20 | **Source:** [Kotak Neo](https://news.google.com/rss/articles/CBMixgFBVV95cUxPaDRqMm9KUnNXRi1pUXRYN0VhQl9XbFgwMDRmLXltc3RWZ0xKZHZpYjAyZlhmYnlNYzJORmdUZS14UmtIdWFNS0lUOGRYaHptWG01S21ncWFLZXBxakhlNS1LQlp4VTNxdnNnMk9ZVGxOSkVUcHkyZXJpNzViU3QtUzlUNzdiQmdnVTFNZGFCQVlSQ0IzaHI4UDJDYWVSZjZId0J6ZEhVbUR6OFJUUW1MeWVBUlVlU1NzT0ZsY25GZTc4MWpCZXc?oc=5)
+- **Importance Score:** **7/10** | **Sentiment:** Bullish
+- **Short-Term Impact:** Reported by Kotak Neo on 2026-11-20. Corporate development in Strategic Corporate News.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+- **Thesis Impact:** **Bullish**
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Kotak Neo publication.
+- **Risks:** Broad market swings and execution risk.
+- **Opportunities:** Positive operational and institutional sentiment momentum.
+
+**A. News Summary:**
+- **Headline:** Infosys’ Mitrankur Majumdar on UK Grid Balancing Solutions - Energy Digital Magazine
+- **Date:** 2026-11-23 | **Source:** [Energy Digital Magazine](https://news.google.com/rss/articles/CBMikgFBVV95cUxOZExRRUIycEVkUnQyTFdoTm9DMVItY2hUWERqN2dNdUFSTXVsUmJULTRPRDk4VDZsWlF3LWlFbmNURU1YbGJ1SkozQmd5VTVaa3BncVdQbW5Pc0dfamNzRk4tYmxyREF0WnpHMHg5bHZuU0poUk1taHVHeHBTSTJOWE9ueVJFRnlZLUdUZ3pLS0pMUQ?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by BusinessLine on 2026-11-19. Corporate development in Corporate Action & M&A.
+- **Short-Term Impact:** Reported by Energy Digital Magazine on 2026-11-23. Corporate development in Management & Strategy.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 - **Thesis Impact:** **Neutral**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from BusinessLine publication.
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Energy Digital Magazine publication.
 - **Risks:** Broad market swings and execution risk.
 - **Opportunities:** Monitoring risk factors and entry levels.
 
@@ -851,14 +831,14 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 
 | Canvas Dimension | Development Details & Impact Assessment |
 | :--- | :--- |
-| **1. Direct Company News** | (2026-11-19) Infosys shares slides 2.5% despite Japan JV buzz; stock near 1 month low - BusinessLine [BusinessLine] |
+| **1. Direct Company News** | (2026-11-20) Indian IT Stocks Rally 1.96% as TCS, Infosys and Tech Mahindra Gain Despite Global Tech Selloff - Kotak Neo [Kotak Neo] |
 | **2. Sector News** | Sector developments monitored across IT & Telecom. |
 | **3. Competitor News** | Peer performance and market share movements. |
 | **4. Government Policy Changes** | Policy environment remains supportive for domestic industry. |
 | **5. Raw Material Changes** | Input cost trends monitored against operating margins. |
 | **6. Order Inflow Changes** | Commercial order book and revenue visibility. |
 | **7. Demand Cycle Changes** | Demand trends across institutional and retail segments. |
-| **8. Management Commentary** | Quarterly guidance and management strategic updates. |
+| **8. Management Commentary** | (2026-11-23) Infosys’ Mitrankur Majumdar on UK Grid Balancing Solutions - Energy Digital Magazine [Energy Digital Magazine] |
 | **9. Institutional Activity** | FII/DII holding changes and block trading trends. |
 | **10. Promoter Activity** | Promoter shareholding stability and pledge tracking. |
 
@@ -867,24 +847,24 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 ### Ticker: NSE:IOC - Name: Indian Oil Corporation Ltd
 
 **A. News Summary:**
-- **Headline:** Indian Oil Corporation Gets Government Approvals to Commercially Supply Sustainable Aviation Fuel from Panipat Refinery - Avi-Go
-- **Date:** 2026-11-17 | **Source:** [Avi-Go](https://news.google.com/rss/articles/CBMic0FVX3lxTE5aNkRpQW4yVW03cEtTYTBUa0JqRXRzcThBdkRkaGhqWnFYWVF4NUZsNlpISjdHS3RtM2xXdnhNdFd4aFJseDF6eXFGbldEZ1Q1TERFS1Q3eHFKOGlMVGJrSEl0MFhoR2FVUi13SEE1aGpselE?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by Avi-Go on 2026-11-17. Corporate development in Financial Performance & Results.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Neutral**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Avi-Go publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Monitoring risk factors and entry levels.
-
-**A. News Summary:**
-- **Headline:** Qualitek Labs wins Rs 10.19 crore work order from Indian Oil Corporation Limited - scanx.trade
-- **Date:** 2026-11-16 | **Source:** [scanx.trade](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ1RyUjIyUHpHcFM0NDZ2aENMZ3ZOenl2Rk9EV0JPanhJQ1FLN1Z5dmVfbmxxZXdMYzhYV1VjVXNnUzNCNWhYQW94aWIxbkg3UVl4V0pHMV9FeVdEQ19HbXd3bkREQjRKbFE2VkJpQUFkX1JMSGdkSUpJc2taeEcwOWVQakFqVUJoaFJTVlN2cjI5QTdRYmlzYm9pcHJxVUV0MDdsLTVIaFRmYmVuTGQ0bXhEaVVTR25CN3dqSjZUNGpVUQ?oc=5)
+- **Headline:** Indian Oil Corporation outlines TDS norms for Rs 1.25 dividend - scanx.trade
+- **Date:** 2026-11-22 | **Source:** [scanx.trade](https://news.google.com/rss/articles/CBMiugFBVV95cUxNNGFuVGI0a0tCeE0wcFJLU0V5TllHeUl5WFdST3A2bVdidm9XeXRNMDNHaEdwWTZ0aDdaN2xVY2E0NmN5d19yTVpkR2owdGFKc1RLSUhaWHJJYklvS2hKcXJybUlPMUZrTGxyRGRGUFhjbGt3WFpVbVIwYWZobWhFTjVZc1U0SU9RQ0piYmduNnRnQU9FYnlqSDA4ZlhIUWZIcmdpVEZPVjBfTFRoeFNBVE14V0xnNDFfeFE?oc=5)
 - **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by scanx.trade on 2026-11-16. Corporate development in Order Inflows & Contracts.
+- **Short-Term Impact:** Reported by scanx.trade on 2026-11-22. Corporate development in Corporate Action & M&A.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 - **Thesis Impact:** **Bullish**
 - **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from scanx.trade publication.
+- **Risks:** Broad market swings and execution risk.
+- **Opportunities:** Positive operational and institutional sentiment momentum.
+
+**A. News Summary:**
+- **Headline:** East India Drums Wins Rs 33.99 Crore IOCL Order for Mathura Plant - Dalal Street Investment Journal
+- **Date:** 2026-11-19 | **Source:** [Dalal Street Investment Journal](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTmJjaXIwMnhpYnpNQTAtUFV6Sy1yNnNLVEU4RWxfajRiYW5MaHZCTGwtU2VvYWo4N3RCVmRBVzQ5eUVIV0FBMTlzNzdRYV82RmlqYXczbzduY1UwenRRdkpycVBFOHJORGUzTHJ6eVIzbDh3cmFQZV9oNEJGX0pFWkZkc2pRS3RxSGtfeDk1WGE4S0V5WmREUnlfUXlOLUgtS2Z4M2hiVXh3dDQ?oc=5)
+- **Importance Score:** **7/10** | **Sentiment:** Bullish
+- **Short-Term Impact:** Reported by Dalal Street Investment Journal on 2026-11-19. Corporate development in Order Inflows & Contracts.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+- **Thesis Impact:** **Bullish**
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Dalal Street Investment Journal publication.
 - **Risks:** Broad market swings and execution risk.
 - **Opportunities:** Positive operational and institutional sentiment momentum.
 
@@ -906,7 +886,7 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 
 | Canvas Dimension | Development Details & Impact Assessment |
 | :--- | :--- |
-| **1. Direct Company News** | (2026-11-17) Indian Oil Corporation Gets Government Approvals to Commercially Supply Sustainable Aviation Fuel from Panipat Refinery - Avi-Go [Avi-Go] |
+| **1. Direct Company News** | (2026-11-22) Indian Oil Corporation outlines TDS norms for Rs 1.25 dividend - scanx.trade [scanx.trade] |
 | **2. Sector News** | Sector developments monitored across Auto, FMCG & Energy. |
 | **3. Competitor News** | Peer performance and market share movements. |
 | **4. Government Policy Changes** | Policy environment remains supportive for domestic industry. |
@@ -922,15 +902,26 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 ### Ticker: NSE:IRCON - Name: Ircon International Ltd
 
 **A. News Summary:**
-- **Headline:** Ircon International wins Rs 862.45 crore EPC order from East Central Railway - scanx.trade
-- **Date:** 2026-11-16 | **Source:** [scanx.trade](https://news.google.com/rss/articles/CBMivAFBVV95cUxPTlBEMXdUZ21IaENlRlFLY01fQmZKYlJMMXRBM2REWF9SbkUzNldueFBKLXZoTHhkQzV0RGlzcF9wUEduQWw5cjRUVWFmeUM4cFpDT2pxUnRUZ0lvS09NWFlVcjUwTzRYSXc3NGt6dXlvV1lTY3ZQUnVxbUdGaWJ2QWN3cllhRG92UVZ6RWRTTnJIcV9HT1hDcFdEbGRBUnZvVHBVVVF0eHBtZU9MRlItME5oX2VSZGU0R2pLMQ?oc=5)
+- **Headline:** IRCON International Stock Prediction 2026: Analyst Targets - Univest
+- **Date:** 2026-11-24 | **Source:** [Univest](https://news.google.com/rss/articles/CBMidEFVX3lxTE9WMDljamVXLThUakthYVhwQ1l0c01PVzdHYTFHMWRGWUF2bjVtNDlRVTB1RGVZdjl3QzdRdGNrZ2d1TlBueEJicDBIaHV5NVViTkdINVNBZGRkUFF2QXZOWVFtb2E4STlwak5jNE9jR0psLUJ1?oc=5)
 - **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by scanx.trade on 2026-11-16. Corporate development in Order Inflows & Contracts.
+- **Short-Term Impact:** Reported by Univest on 2026-11-24. Corporate development in Management & Strategy.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 - **Thesis Impact:** **Bullish**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from scanx.trade publication.
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Univest publication.
 - **Risks:** Broad market swings and execution risk.
 - **Opportunities:** Positive operational and institutional sentiment momentum.
+
+**A. News Summary:**
+- **Headline:** Ircon International Stock Price Forecast. Should You Buy IRCON.NS? - StockInvest.us
+- **Date:** 2026-11-20 | **Source:** [StockInvest.us](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CVEZsR1YxX3QtZWxGa0ZlNVVpdVNmdzZ5RnVidWlGdTZDbkNfNlJOc0lhRS1WalpYeGJMZGpBN2RNYlY4aFpHblNtamVqUQ?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by StockInvest.us on 2026-11-20. Corporate development in Capex & Expansion.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+- **Thesis Impact:** **Neutral**
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from StockInvest.us publication.
+- **Risks:** Broad market swings and execution risk.
+- **Opportunities:** Monitoring risk factors and entry levels.
 
 **A. News Summary:**
 - **Headline:** IRCON International Share Price Target 2026 Forecast - Univest
@@ -940,17 +931,6 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 - **Thesis Impact:** **Bullish**
 - **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Univest publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Positive operational and institutional sentiment momentum.
-
-**A. News Summary:**
-- **Headline:** Ashoka Buildcon shares rally 8% on bagging ₹1,465 crore order from NHAI; check details - Upstox
-- **Date:** 2026-11-23 | **Source:** [Upstox](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWVpYR1NwVl9hMjFsRlh3d0lrdGM1UTNEVXpEaEYtbGhVX1FObU5HMEpsT1hXR0ozSk5FQnpBTUo4V29SODRlVENxVFdYNWxrdnFwYk1YQmtrWTFtVncyUFp3NGQyUVBIbzFaXzdYUDJrQnE1SDdhYm5PTHF3OE1vSHJGZjZKbHd3Sm11OW9MbUZrazZNNmQwczhoRHFxcVpVS3Z2WWhDUzlzSTAtclpDZ3F5ak54a3YtVXBnbk9kWTdsSmlNUTYtOGxHeUNLNUpwUTBHb0pJUWQzdw?oc=5)
-- **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by Upstox on 2026-11-23. Corporate development in Order Inflows & Contracts.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Bullish**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Upstox publication.
 - **Risks:** Broad market swings and execution risk.
 - **Opportunities:** Positive operational and institutional sentiment momentum.
 
@@ -966,8 +946,8 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 | **3. Competitor News** | Peer performance and market share movements. |
 | **4. Government Policy Changes** | Policy environment remains supportive for domestic industry. |
 | **5. Raw Material Changes** | Input cost trends monitored against operating margins. |
-| **6. Order Inflow Changes** | (2026-11-23) Ashoka Buildcon shares rally 8% on bagging ₹1,465 crore order from NHAI; check details - Upstox [Upstox] |
-| **7. Demand Cycle Changes** | Demand trends across institutional and retail segments. |
+| **6. Order Inflow Changes** | Commercial order book and revenue visibility. |
+| **7. Demand Cycle Changes** | (2026-11-20) Ircon International Stock Price Forecast. Should You Buy IRCON.NS? - StockInvest.us [StockInvest.us] |
 | **8. Management Commentary** | (2026-11-22) IRCON International Share Price Target 2026 Forecast - Univest [Univest] |
 | **9. Institutional Activity** | FII/DII holding changes and block trading trends. |
 | **10. Promoter Activity** | Promoter shareholding stability and pledge tracking. |
@@ -988,24 +968,24 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 - **Opportunities:** Positive operational and institutional sentiment momentum.
 
 **A. News Summary:**
+- **Headline:** IREDA shares rally 7%, head for best month since July 2024 after six-month losing streak - CNBC TV18
+- **Date:** 2026-11-19 | **Source:** [CNBC TV18](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTmcyaEFBYlVGQ19BWnBQTXpRdlF3MEdQbF9kRkhkeXlLTC10MGUzeDRpTDBBWGU4eHlqWGJOc3V2X0pQVDVwZkJjbGJYUVRwdVJJYXozcl9MNjBDZkVUMjE2RVZ0MGo2U2RjR09PbmNxcVlpclllUmZvRXM2bVRXUGJGM09qWVJycmZXRlR4T1VqTi1paVlEQUlOV0dTUWNiakNLWnNuTUNfSWY2cFNFeTFudUNrUkpRaFZFWjFJU050WWN5c01vWdIBzgFBVV95cUxOeWdFdVFRRGxQU0huRzBpVVlESUxkTGhnOUY1ck5YSUN5Q3FXeEV1bzZLb2xhRGxNaGVuTmVLeTh0Rm5RX083QVVSYVN0aWdsMGhuYTZ3UXMtd0NiWjVadC1IRnFBemdiaFZsZ0tSRkVYT3FNUHAxN3QzclZtWFVDX1lhSmo4RnNtMWJEYmFiaTJMRjhEaThPOGxoYlNQZ2VSTlVzNkVDemtIYUdiNGxkNUNYVHdFWkdYR1FMMS1jUWttR3NSOGE5UnRLN3hCUQ?oc=5)
+- **Importance Score:** **7/10** | **Sentiment:** Bullish
+- **Short-Term Impact:** Reported by CNBC TV18 on 2026-11-19. Corporate development in Strategic Corporate News.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+- **Thesis Impact:** **Bullish**
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from CNBC TV18 publication.
+- **Risks:** Broad market swings and execution risk.
+- **Opportunities:** Positive operational and institutional sentiment momentum.
+
+**A. News Summary:**
 - **Headline:** IREDA Share Price Jumps 30% in November After Six-Month Losing Streak; PSU Stock Rebounds From ₹98.78 Low - Kotak Neo
-- **Date:** 2026-11-20 | **Source:** [Kotak Neo](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcDRxQjhobHRJaEV5bE96R3NpbW1CcVJybmtrWEV1UnNFU3FJWS03REllekxjTnAtTGRKQy1OcHpJd1BFc2ZfUkZsUzBvRGlpaEJDaGpMTUFGaUtBa3hDTzBNR2tuTkxydk9GZnFoOWZ6LUFCUHlCTXhocHNqM244b290ZzhPcmJTQjF3SmdpWnlJTm1GT3Iwck1CNnhBTUJjMTVBXzdTcHhvRHVCcjJhTXZ5Y1hFSjlHNUVFdWpSMTA3LUxfQzZBU0hpTXlKOUhQQVd2VQ?oc=5)
+- **Date:** 2026-11-20 | **Source:** [Kotak Neo](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTzdtX1FsMUNXUWVLTTRsbUgycjZjaVdzeUZRX1R3QjdPa1JqSU9hYURacU9ITWVXYmxoTzJyN0daRmtWeEo3T0xnTnQ4Ml8yWHJpaGNEVDFSX0wwclFKX0JrWmdmeVYtV21YVmdXUWlEUVd1WGhPdVk4WC1ZWW5ZOHV4eEFYankyU0dsQWsxdWZJQ3JVcWhkV2V3Wm9tek9zWmhnektMMGdEaERuUjhYTHA3T18zUV9nV0xpYS1ITFFlU1Njc19KVk5wTmpOSHZKT05J?oc=5)
 - **Importance Score:** **7/10** | **Sentiment:** Bullish
 - **Short-Term Impact:** Reported by Kotak Neo on 2026-11-20. Corporate development in Strategic Corporate News.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 - **Thesis Impact:** **Bullish**
 - **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Kotak Neo publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Positive operational and institutional sentiment momentum.
-
-**A. News Summary:**
-- **Headline:** IREDA schedules 39th AGM for September 29 to approve FY26 final dividend - scanx.trade
-- **Date:** 2026-11-22 | **Source:** [scanx.trade](https://news.google.com/rss/articles/CBMivwFBVV95cUxQZWcwN3ZJUW9xdndHZ0lGZmpvTDBaUTZWQVJnWTZBcERnZDRKZ1RBWkZNaUp3OXFlYmNjXy1MTDM1aW00Zkp4b3FINmhhT1NLVmhVOWRJUlBTY2lMYTZqZmtNbUhuaDNpclZNc2JuVy11bU5LenBvdXFUYnJEak5FMHBkNFYzNkRtdlpwTTcycllHUTlzekNWeE5EWlpxWVZUeDB5LWtZMTdyRUJzU3ZReFFTd01Yd1dXTXNtS2ctQQ?oc=5)
-- **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by scanx.trade on 2026-11-22. Corporate development in Corporate Action & M&A.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Bullish**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from scanx.trade publication.
 - **Risks:** Broad market swings and execution risk.
 - **Opportunities:** Positive operational and institutional sentiment momentum.
 
@@ -1016,7 +996,7 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 
 | Canvas Dimension | Development Details & Impact Assessment |
 | :--- | :--- |
-| **1. Direct Company News** | (2026-11-22) IREDA schedules 39th AGM for September 29 to approve FY26 final dividend - scanx.trade [scanx.trade] |
+| **1. Direct Company News** | (2026-11-20) IREDA Share Price Jumps 30% in November After Six-Month Losing Streak; PSU Stock Rebounds From ₹98.78 Low - Kotak Neo [Kotak Neo] |
 | **2. Sector News** | Sector developments monitored across Power & Renewables. |
 | **3. Competitor News** | Peer performance and market share movements. |
 | **4. Government Policy Changes** | Policy environment remains supportive for domestic industry. |
@@ -1043,17 +1023,6 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 - **Opportunities:** Monitoring risk factors and entry levels.
 
 **A. News Summary:**
-- **Headline:** ITC Maratha Appoints New Head Chef - https://safariindia.com/
-- **Date:** 2026-11-20 | **Source:** [https://safariindia.com/](https://news.google.com/rss/articles/CBMia0FVX3lxTE9WTW1NYXF5cFlkd0VBMGlXYm01Z2g1OVNTbUZKaGszLU0wemFuVjN4N25BNmM2R09rMFJzYUpwTmc0SWpNcmVlTFFsMHE2RHphN19YWEp3WkwxNDctUVRrWmdwWlVYTVRmYzcw?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by https://safariindia.com/ on 2026-11-20. Corporate development in Management & Strategy.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Neutral**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from https://safariindia.com/ publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Monitoring risk factors and entry levels.
-
-**A. News Summary:**
 - **Headline:** Fortune Lakeview Bhimtal Appoints New General Manager - https://safariindia.com/
 - **Date:** 2026-11-19 | **Source:** [https://safariindia.com/](https://news.google.com/rss/articles/CBMic0FVX3lxTFAwR196Sjk1aTMwYTFVQm9sRzRtVGI1bWJrRVQ0REVTWGU1WVhIMjZZQW04SkZKX1hQLURPWWltNXhsa2pRYnNJTXZMRXJfVXlhNVhYNC1vU2dMQW43SUJ5SHhPOFF5Y3N6Yl9NdjU4cWdyYXc?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
@@ -1063,6 +1032,17 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 - **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from https://safariindia.com/ publication.
 - **Risks:** Broad market swings and execution risk.
 - **Opportunities:** Monitoring risk factors and entry levels.
+
+**A. News Summary:**
+- **Headline:** ITC Hotels Share Price Target 2027, 2028 and 2030 - Univest
+- **Date:** 2026-11-21 | **Source:** [Univest](https://news.google.com/rss/articles/CBMieEFVX3lxTE4xY3dhSmkwbUhRYUI2ZGp3V3hZR3BqeTUxZm92SU9QZUFQN2FJbkU2NllCTlZaajZ5RUdGN21QU3FaOWFKWGphSzJfNTNHOXh1Q3U3bUR2bzZlVk4xU2JmZXkyOGJxSl8xVjBlOHM3bGhnQXRaTDVDcw?oc=5)
+- **Importance Score:** **7/10** | **Sentiment:** Bullish
+- **Short-Term Impact:** Reported by Univest on 2026-11-21. Corporate development in Management & Strategy.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+- **Thesis Impact:** **Bullish**
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Univest publication.
+- **Risks:** Broad market swings and execution risk.
+- **Opportunities:** Positive operational and institutional sentiment momentum.
 
 **B. Red Flags:**
 > Red Flags: None identified in the last 7 days. Capital allocation and liquidity are stable.
@@ -1078,7 +1058,7 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 | **5. Raw Material Changes** | Input cost trends monitored against operating margins. |
 | **6. Order Inflow Changes** | Commercial order book and revenue visibility. |
 | **7. Demand Cycle Changes** | Demand trends across institutional and retail segments. |
-| **8. Management Commentary** | (2026-11-19) Fortune Lakeview Bhimtal Appoints New General Manager - https://safariindia.com/ [https://safariindia.com/] |
+| **8. Management Commentary** | (2026-11-21) ITC Hotels Share Price Target 2027, 2028 and 2030 - Univest [Univest] |
 | **9. Institutional Activity** | FII/DII holding changes and block trading trends. |
 | **10. Promoter Activity** | Promoter shareholding stability and pledge tracking. |
 
@@ -1143,9 +1123,9 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 
 **A. News Summary:**
 - **Headline:** Likhitha Infra Investor Analysis | StockIQ - The Economic Times
-- **Date:** 2026-11-19 | **Source:** [The Economic Times](https://news.google.com/rss/articles/CBMingFBVV95cUxPNTE5TzV6aEJ4dU42SlNoemJlX25ZMFRRalR0dXhGVEN2Tk9BbGNBOHloZmxYajF1d1dkQ1BQSzdwX0s5cWk3VjhabTBNUjRsUmw2NXg0Rk8teDRtcm5YN1dDZkwtLTJ3QmZtcjJmMkYwX0xrOGthUTNvSlVLVzNKdUVMSmRDcU5jTzhNQlg3RUU5aUMzOS1VS1pFNExYZw?oc=5)
+- **Date:** 2026-11-23 | **Source:** [The Economic Times](https://news.google.com/rss/articles/CBMingFBVV95cUxPNTE5TzV6aEJ4dU42SlNoemJlX25ZMFRRalR0dXhGVEN2Tk9BbGNBOHloZmxYajF1d1dkQ1BQSzdwX0s5cWk3VjhabTBNUjRsUmw2NXg0Rk8teDRtcm5YN1dDZkwtLTJ3QmZtcjJmMkYwX0xrOGthUTNvSlVLVzNKdUVMSmRDcU5jTzhNQlg3RUU5aUMzOS1VS1pFNExYZw?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by The Economic Times on 2026-11-19. Corporate development in Capex & Expansion.
+- **Short-Term Impact:** Reported by The Economic Times on 2026-11-23. Corporate development in Capex & Expansion.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 - **Thesis Impact:** **Neutral**
 - **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from The Economic Times publication.
@@ -1165,7 +1145,7 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 | **4. Government Policy Changes** | Policy environment remains supportive for domestic industry. |
 | **5. Raw Material Changes** | Input cost trends monitored against operating margins. |
 | **6. Order Inflow Changes** | Commercial order book and revenue visibility. |
-| **7. Demand Cycle Changes** | (2026-11-19) Likhitha Infra Investor Analysis | StockIQ - The Economic Times [The Economic Times] |
+| **7. Demand Cycle Changes** | (2026-11-23) Likhitha Infra Investor Analysis | StockIQ - The Economic Times [The Economic Times] |
 | **8. Management Commentary** | Quarterly guidance and management strategic updates. |
 | **9. Institutional Activity** | FII/DII holding changes and block trading trends. |
 | **10. Promoter Activity** | Promoter shareholding stability and pledge tracking. |
@@ -1285,17 +1265,6 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 ### Ticker: NSE:ORIENTTECH - Name: Orient Technologies Limited
 
 **A. News Summary:**
-- **Headline:** Orient Technologies wins Rs 30.81 crore work order from The New India Assurance Company Limited - scanx.trade
-- **Date:** 2026-11-17 | **Source:** [scanx.trade](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYlMySmlFUE40UktwTlM3eUU3REpNQzZXMGxIZzhjLTRzOEtVV1FsNVkxM3dYdlFvNDNGeFNoNi1pMjBvQjBnbEluVDFaZzBCWXkxbTAtem5KYnNUQ2dWZUhKeDBablhSRzRNOXR0RXdVV24wVHRORkItOUc1Y0czaFBhTUp5S0FjVkgwQlA1b2o3a1NmVjR2RjFwNktrY3pCeXZVNmh1TUsxSFZhODJHR0QyWGU2S0Nj?oc=5)
-- **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by scanx.trade on 2026-11-17. Corporate development in Order Inflows & Contracts.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Bullish**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from scanx.trade publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Positive operational and institutional sentiment momentum.
-
-**A. News Summary:**
 - **Headline:** Orient Technologies Investor Analysis | StockIQ - The Economic Times
 - **Date:** 2026-11-20 | **Source:** [The Economic Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMzdxRHRlUXQ4SlIxZHd3djdEQzNZVlR5YUIyVlByLTB4Vm9sT0p5UHlrckY4UXRXcWowVjFXbUhwUTFhUU5MT0ZVZ2xvdUJMUGstTFNBUTV4YXE1REJ4RHluS1g5RkYyRGJ2VUtueWJocVNjbXRac2x6b2V2ZndLcHVrTmQ4NDN0bi04M3VQMndFWUJKVWs5Rg?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
@@ -1318,7 +1287,7 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 | **3. Competitor News** | Peer performance and market share movements. |
 | **4. Government Policy Changes** | Policy environment remains supportive for domestic industry. |
 | **5. Raw Material Changes** | Input cost trends monitored against operating margins. |
-| **6. Order Inflow Changes** | (2026-11-17) Orient Technologies wins Rs 30.81 crore work order from The New India Assurance Company Limited - scanx.trade [scanx.trade] |
+| **6. Order Inflow Changes** | Commercial order book and revenue visibility. |
 | **7. Demand Cycle Changes** | (2026-11-20) Orient Technologies Investor Analysis | StockIQ - The Economic Times [The Economic Times] |
 | **8. Management Commentary** | Quarterly guidance and management strategic updates. |
 | **9. Institutional Activity** | FII/DII holding changes and block trading trends. |
@@ -1364,26 +1333,26 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 - **Opportunities:** Monitoring risk factors and entry levels.
 
 **A. News Summary:**
-- **Headline:** P N Gadgil Jewellers Approves Incorporation Of Subsidiary In India - TradingView
-- **Date:** 2026-11-16 | **Source:** [TradingView](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUG5Fa2k4V1JFcTh4b2M5dFp2RkI0Ri00SEw4TTFfaWNtc3NJU0FUbTYwY1M3dHNPbDhpQldRR1JQM05rdDhTbUZsVGpHVXl2RFlFVVRLZWt0REdnRkVMeGl6RF85VXd1cHVuckJWeWtlWlQycG5GZjk4QjVvZ080TDNfVVYxWG0xaWJyU2ZzLWJvRi01R1Vnc2ZCRERyX2xFSWI1b09WcHJEVFFabExkQkF6aEg4Zy04OGNTNHFQTF92QzNGcXhKRWNhRi10aXkwSFE?oc=5)
+- **Headline:** P N Gadgil Jewellers Share Price Outlook - Univest
+- **Date:** 2026-11-21 | **Source:** [Univest](https://news.google.com/rss/articles/CBMihgFBVV95cUxQUHhManpMaEFsamJCYXNDMTUwV2EwNEhVX2JHV0hZendlX1JlTVo5T0V2Zy1CM3luT0ZsMEVQT0h5RUVIRDk0TUdTWHJGX1hadDNmQW5hdFBteGtsOUp0LU1qWVdSSWN1dEhQR2xIc2ZuTWxWOWdrX2dXUERuamlZdXZ3M0N6UQ?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by TradingView on 2026-11-16. Corporate development in Corporate Action & M&A.
+- **Short-Term Impact:** Reported by Univest on 2026-11-21. Corporate development in Strategic Corporate News.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 - **Thesis Impact:** **Neutral**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from TradingView publication.
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Univest publication.
 - **Risks:** Broad market swings and execution risk.
 - **Opportunities:** Monitoring risk factors and entry levels.
 
 **A. News Summary:**
-- **Headline:** P N Gadgil Jewellers Limited Targets 4x Diamond Output - Multibagg AI
-- **Date:** 2026-11-16 | **Source:** [Multibagg AI](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOUxyWXlSYnFVbVEzZG5heTRyNUN6LXQ1ODZnYUJodWlqM0c5YUR6RWpaUl9LNjZCWm1TOFRoTERKeEtKcV9xUUpMWFlBbVc2NHBuM1dXalhOalA3M0tvUHFtYl85NVd1UWVIMFlCSWM0VGc1REEtZVktMW8yVnRubEJhQXRIdFpWdmdCcko1QUtIdEVCbnctSE9pUFd0RDE2QkhUUEs1Sk8zeTQ?oc=5)
-- **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by Multibagg AI on 2026-11-16. Corporate development in Management & Strategy.
+- **Headline:** P N Gadgil Jewellers Investor Analysis | StockIQ - The Economic Times
+- **Date:** 2026-11-17 | **Source:** [The Economic Times](https://news.google.com/rss/articles/CBMimgFBVV95cUxQYW1PelhraEg0bWo5SGlJZURGRDVwdy0wb3VvSVMwTU9qd3NJODYxZW1tOHJyQmpfa1FrcHFnNnJkc1NFbnpPNnlKSlpuOExTX04tQUVhX1BBNVQ5N2xVZWM3SmVxUW5DbUg5UW93QnFkeG05N2dLRk41M1ZmYno3YWtEWm9ZSURWWVdPV1NncW9aa1NtdWJ3a1dn?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by The Economic Times on 2026-11-17. Corporate development in Capex & Expansion.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Bullish**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Multibagg AI publication.
+- **Thesis Impact:** **Neutral**
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from The Economic Times publication.
 - **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Positive operational and institutional sentiment momentum.
+- **Opportunities:** Monitoring risk factors and entry levels.
 
 **B. Red Flags:**
 > Red Flags: None identified in the last 7 days. Capital allocation and liquidity are stable.
@@ -1392,14 +1361,14 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 
 | Canvas Dimension | Development Details & Impact Assessment |
 | :--- | :--- |
-| **1. Direct Company News** | (2026-11-16) P N Gadgil Jewellers Approves Incorporation Of Subsidiary In India - TradingView [TradingView] |
+| **1. Direct Company News** | (2026-11-21) P N Gadgil Jewellers Share Price Outlook - Univest [Univest] |
 | **2. Sector News** | Sector developments monitored across Auto, FMCG & Energy. |
 | **3. Competitor News** | Peer performance and market share movements. |
 | **4. Government Policy Changes** | (2026-11-22) P N Gadgil Jewellers completes ₹700 crore QIP allotment at ₹609 per share - scanx.trade [scanx.trade] |
 | **5. Raw Material Changes** | Input cost trends monitored against operating margins. |
 | **6. Order Inflow Changes** | Commercial order book and revenue visibility. |
-| **7. Demand Cycle Changes** | Demand trends across institutional and retail segments. |
-| **8. Management Commentary** | (2026-11-16) P N Gadgil Jewellers Limited Targets 4x Diamond Output - Multibagg AI [Multibagg AI] |
+| **7. Demand Cycle Changes** | (2026-11-17) P N Gadgil Jewellers Investor Analysis | StockIQ - The Economic Times [The Economic Times] |
+| **8. Management Commentary** | Quarterly guidance and management strategic updates. |
 | **9. Institutional Activity** | FII/DII holding changes and block trading trends. |
 | **10. Promoter Activity** | Promoter shareholding stability and pledge tracking. |
 
@@ -1408,10 +1377,10 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 ### Ticker: NSE:POONAWALLA - Name: Poonawalla Fincorp Limited
 
 **A. News Summary:**
-- **Headline:** Can Piramal Finance, Aditya Birla Capital and Poonawalla Fincorp replicate Bajaj Finance's success? - bfsi.economictimes.indiatimes.com
-- **Date:** 2026-11-19 | **Source:** [bfsi.economictimes.indiatimes.com](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNU3dQMm92eVp0NHVOUWJLMFppNGdjRTlPNE5hT0JwMVQ0dGpyQ2t2enhoY2dSVHpMc3JoeHdiRS1BTTBIcnRuNXJLX3M1d3dFd2lvTDJzTHRKdThOb1JRMmVsR0k3TUdfdHlrc3pKNGh6Zkp3VmN2TkNnX1VkRkpNQUNrVWZDR3FlQUdCT2dhOEVSUVppdmVZS1RvLTlGQnhuQW40Vm5EQWM3ekxyNy1sTEd0ZC1jRlExd1VKR3JHOTFucHoxMFZhN1gyc0FhWTlyY3VRMDl6UExDLXloNEh1MmdFTmNYVHByQ0JtTEVR0gHzAUFVX3lxTE1ZTjQtbXFBR29zYk9zQ2hwLWM2cWNHdWszMnBBYVV6RGg4dXJGcFlqbnI5NFhEaUo5YjNjb084M2NSSkxvQ0YwX19qRDc3ZzcxVk9NUEtlV3R0Nl9iZlVQTTc2WjBVcEk4aFFSOUNuTzRDeGdidmdLV0F6TFV3bTI2dmIzTWxSMlBrQi15Y3M0azlMa2VNTGh1WVctbWhDTFAybEZ6QXRtcmFWb2NqY3ZRSEMyTlFfLTNhdU83UDkzSGJJRWthWjNqal81Q0lPb3RJMUwyX3psbGhVOGtGdlpXdjhlUmpQMGQ5dWFRMjBtZGRRRQ?oc=5)
+- **Headline:** Poonawalla Fincorp bets on EMI-based gold loans as NBFCs face repayment risks - bfsi.economictimes.indiatimes.com
+- **Date:** 2026-11-21 | **Source:** [bfsi.economictimes.indiatimes.com](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWm9sX3FCalVyOFRPSUhqUG8tOWVqeHY3b1YxTkItaXFpZ21FeDU5R3Mzcm9pbnAtSHRBUVpWNF9ZZ1ZiU2tnVGZfZlBfd3hacGJtckk3YUFCeUIzdXpzR3ByakJzTmVqNTRKU2RJNGRqY3NWMjVxOGRyRXNjbHBTVDNSUjNndnJJTkU1V2FUa3JxQUp4dFJ3Q2FacUpxamFqVHRQRnZ6bW92dlFVWmg4OVM0alYxZ2pVcDhGdG1Tc3JVeTJfZGdBd0xZNEtlOWNjU0xjatIB2gFBVV95cUxQVkdVUU5EOGJlUGRYWUNMSkdRcXJic2pTYUd6ZXBTbTh6ZEdZbThOamVQc1gyckY2aUFuQnhIcWh5V2hkY0xwTnZSdGhXZDZsR0M5anJKM2NEdUZHSnZ0ZTM3bWtIRmQ1LVM5a3lNanUtRTFLbnB1TER0cS1iMS1vNDdsbmZxMjRhcHF2dUpSZ1YyNDBhbkhzTTU5NktiZkpMN2hVNUJEUm1ZZUUzZXBlc1J1dHoza1N2OUhfVnVlSGdKR1NSaVQ3Vk11QU1UZWpFNVJkMjQ2Z1FXdw?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by bfsi.economictimes.indiatimes.com on 2026-11-19. Corporate development in Strategic Corporate News.
+- **Short-Term Impact:** Reported by bfsi.economictimes.indiatimes.com on 2026-11-21. Corporate development in Order Inflows & Contracts.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 - **Thesis Impact:** **Neutral**
 - **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from bfsi.economictimes.indiatimes.com publication.
@@ -1419,15 +1388,15 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 - **Opportunities:** Monitoring risk factors and entry levels.
 
 **A. News Summary:**
-- **Headline:** Buy Poonawalla Fincorp; target of Rs 600: Motilal Oswal - TradingView
-- **Date:** 2026-11-18 | **Source:** [TradingView](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdDdNSDdaUkZTZWU5NTJVeG9BakxhZzVpT19IdF9GZVFBRnlFWEI4Rm03bHhENExrdWRKcEJLbWw1OGZJQjNHOUhBdDZwa09xa0hwUU1HdEx4WF9meG51ci1EVm5rYmZkTi1Eb1I3YzU4S21hTDMzbTNBM05nbGlLZWJFTjYtVDF4cjhwR2tuNEVnMkZ4UHlVWGdrTUxlaTNxd2p6QVA3VkczOEVHTkd1eldjdEpjNTg?oc=5)
-- **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by TradingView on 2026-11-18. Corporate development in Management & Strategy.
+- **Headline:** Poonawalla Fincorp accepts bids for bond issue, bankers say - TradingView
+- **Date:** 2026-11-18 | **Source:** [TradingView](https://news.google.com/rss/articles/CBMixwFBVV95cUxPTWhBNFZ3Z2dnVDF1M0liT2JHd051dUptUEstcUw0NUVqV0lURTlsZTg5aVZrb0lZWU9pWWl5VFBFV3ZzZjdWSVV6R3pEV0RmNHhGdXJoVHdMOFBLalBHX3p0WkhlTXUwRTVORlBHLUJNeVN6UFZQbU92OWNjb2U5ak9RSmx2STdZOGJXOXJOcy00ck4tV04xeHFNNHdJQVd3LTF5dkNMeGZycHVaQXBMdnNURmwwR1ZfLWhxa3hqSlQyYVB5ZzRr?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by TradingView on 2026-11-18. Corporate development in Capex & Expansion.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Bullish**
+- **Thesis Impact:** **Neutral**
 - **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from TradingView publication.
 - **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Positive operational and institutional sentiment momentum.
+- **Opportunities:** Monitoring risk factors and entry levels.
 
 **A. News Summary:**
 - **Headline:** Buy Poonawalla Fincorp; target of Rs 600: Motilal Oswal - Moneycontrol.com
@@ -1447,13 +1416,13 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 
 | Canvas Dimension | Development Details & Impact Assessment |
 | :--- | :--- |
-| **1. Direct Company News** | (2026-11-19) Can Piramal Finance, Aditya Birla Capital and Poonawalla Fincorp replicate Bajaj Finance's success? - bfsi.economictimes.indiatimes.com [bfsi.economictimes.indiatimes.com] |
+| **1. Direct Company News** | No material corporate earnings/results reported in the last 7 days. |
 | **2. Sector News** | Sector developments monitored across Financials. |
 | **3. Competitor News** | Peer performance and market share movements. |
 | **4. Government Policy Changes** | Policy environment remains supportive for domestic industry. |
 | **5. Raw Material Changes** | Input cost trends monitored against operating margins. |
-| **6. Order Inflow Changes** | Commercial order book and revenue visibility. |
-| **7. Demand Cycle Changes** | Demand trends across institutional and retail segments. |
+| **6. Order Inflow Changes** | (2026-11-21) Poonawalla Fincorp bets on EMI-based gold loans as NBFCs face repayment risks - bfsi.economictimes.indiatimes.com [bfsi.economictimes.indiatimes.com] |
+| **7. Demand Cycle Changes** | (2026-11-18) Poonawalla Fincorp accepts bids for bond issue, bankers say - TradingView [TradingView] |
 | **8. Management Commentary** | (2026-11-18) Buy Poonawalla Fincorp; target of Rs 600: Motilal Oswal - Moneycontrol.com [Moneycontrol.com] |
 | **9. Institutional Activity** | FII/DII holding changes and block trading trends. |
 | **10. Promoter Activity** | Promoter shareholding stability and pledge tracking. |
@@ -1507,6 +1476,17 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 - **Opportunities:** Positive operational and institutional sentiment momentum.
 
 **A. News Summary:**
+- **Headline:** RailTel bags ₹27 crore order for AI-powered legal assistant platform in Andhra Pradesh - ET Infra
+- **Date:** 2026-11-22 | **Source:** [ET Infra](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSWFOSnlJOHJFTlFUamVob1ZDaE1hSDVSN1o2a1ZHZUtMNTdsbnlURkxYYTJMTXUyTXE4c0NGYUszczJlZlg5WWIzTUZNVnVkZWdtTUhlU0RmeEpjcHFPRFhjcHVFZXJWQ3ppMFYxenlQOXplYjQwUE84MXhDZGowX0lMMDgwSEl2S0tjMnowY1A4U2NrUGNYZVNUM0NxTVdCdGNyek1vczBQWkR0WkNaM09sSV9OWHZNRFlRd2VMX2c3U3hyX0tDZlJNT0RfVVdxNXJBV0VUNW96RVhOM0xnVlZfZlJTcUHSAesBQVVfeXFMTnF4NnVhMm51bnd4aU52SW5yX2YyWVU5TmRrdEY1bTVEMkNxN295QlJVU1FZNk00YmxaSVU3d2VTd2RFbFNWYklGRUEyal9aRjI2UGtuY3VSUHdVSlJLcTlfS2xLc3dCSkVHdW00SUowRnRUR0NMX1hMMjNpOTVHMldHMllHbWN0UUhUNmZnOVFRWnhUOWFvYUlGTmNtNnhOUnI4TXBBWm4wQnFJOUZFcEdvSnV4TXdYQ0l6Tm9CNmZPb0hILVl1eWd1dEdGZl9PYzhubVAwUEhSYUhaWGM0LUVxdHRXQkcyU1FwVQ?oc=5)
+- **Importance Score:** **7/10** | **Sentiment:** Bullish
+- **Short-Term Impact:** Reported by ET Infra on 2026-11-22. Corporate development in Order Inflows & Contracts.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+- **Thesis Impact:** **Bullish**
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from ET Infra publication.
+- **Risks:** Broad market swings and execution risk.
+- **Opportunities:** Positive operational and institutional sentiment momentum.
+
+**A. News Summary:**
 - **Headline:** RailTel wins ₹27 crore order to develop Legal AI platform for Andhra Pradesh government - CNBC TV18
 - **Date:** 2026-11-22 | **Source:** [CNBC TV18](https://news.google.com/rss/articles/CBMizwFBVV95cUxQVVlhSjZaOW9nMlZCTFJGcUl1aklhekUyaUR2SmJFX3YtS2ladXZqZUl0MERHcWhVWFkyVjZ3X21UbWNMVzNON0sxUjZKV2ZPV2p0UkRVVzBoV0c0VDhKZGlodmdCRjlCcERER2Vubk9TMVlQNnI4b2FsZzhZRTVsaG1XaWtFTjd2MHFqdkZ6a2U1b2o4WUl4RkZDR0xkV19KcFQtZ2dvR2lITm52NFA3Q1VCMnVENmRWRGlkUHJMVlNUMDhuU0RDVU9MVGQ3blnSAdQBQVVfeXFMUGs2V3JjSWFQS0NNY1pwZVJsTzhEakdDdWx1OHdQRlVVaEFoNUdoMUlTVnNNWkg1N2pwQnpBYU1NNGNJWFNoU1RPY2JENUFSUTNyaldYaUxYd2Vmei1fdC1nbnFFTVJuTHVfZUNrMnFJYlFfSDRucVVRTFVWX2gyejc4elgwaHZsdEhxdXhISnYtNDhKUWI4MmtweE1wX04ya3plMTJnUWNmMUs0LVZkTVQyclU0X2RkUVAtOEJoZ2c4bkNSYTNwcFhSUkFPSnhSZFVZTWU?oc=5)
 - **Importance Score:** **7/10** | **Sentiment:** Bullish
@@ -1514,17 +1494,6 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 - **Thesis Impact:** **Bullish**
 - **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from CNBC TV18 publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Positive operational and institutional sentiment momentum.
-
-**A. News Summary:**
-- **Headline:** RailTel bags ₹27 crore order for Andhra Pradesh Legal AI platform - ETLegalWorld.com
-- **Date:** 2026-11-23 | **Source:** [ETLegalWorld.com](https://news.google.com/rss/articles/CBMilAJBVV95cUxOWDZCa0t6aUNWQ0U0NnZvYXpmUTVxREsxbUVPYlB5MmVGbTI2U1N6MGtRdDFRSVAxWndVbmdMaHptUVZNdFk4Sm1Ud21GYk9LYVl5MWZZcjA5aWtfVHBZc18wdjU5Qmw0a0UtQjlsOEl0V1JSanZpS00yU2lkUzJRaTlaTzFrSmR6Wl9WeHAwSTBNeEVjX3lKM2ZTYTU5bEF0MGljd1dzUFBISEM0Zm1CckQ3RXB2OTAyZVRHTHhHM281US1lRWtwZnp1Y01ONDd1TnZMc1FQaU14cnk5WlNkOUtzSkt1QUJKNThCSEJSRDhBZHh1RDJKczdGZXpyS092em9vMUpreHEwM1VDN2NDY2JZZXfSAdwBQVVfeXFMUFdpYWJzdzVEanJYaHhLMTB0RXcyYXdxSElfY1lYcEJUbmNyQVBFWVRjME5zVXo2d3NFUU1WTDJPejNiSlpJZVBBZXRBZE9FWktVX2RoUENCczZXN213ZnBPQUxzZW43VlQySHR3d3daVEZRUldnVzlpXzhhaFdrMGhYMDZWaHoyTlpYNjRjOFY2ZWZqSGVlVmE5QXdsRE81RER5MWRaZ0ktVWF3VUZydllfVWJfZlVHOEM0dmFUdG9JRXJOTEJFeHZiaW43S2hjRXZLLWtoTUdkOGJzTg?oc=5)
-- **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by ETLegalWorld.com on 2026-11-23. Corporate development in Order Inflows & Contracts.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Bullish**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from ETLegalWorld.com publication.
 - **Risks:** Broad market swings and execution risk.
 - **Opportunities:** Positive operational and institutional sentiment momentum.
 
@@ -1540,7 +1509,7 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 | **3. Competitor News** | Peer performance and market share movements. |
 | **4. Government Policy Changes** | Policy environment remains supportive for domestic industry. |
 | **5. Raw Material Changes** | Input cost trends monitored against operating margins. |
-| **6. Order Inflow Changes** | (2026-11-23) RailTel bags ₹27 crore order for Andhra Pradesh Legal AI platform - ETLegalWorld.com [ETLegalWorld.com] |
+| **6. Order Inflow Changes** | (2026-11-22) RailTel wins ₹27 crore order to develop Legal AI platform for Andhra Pradesh government - CNBC TV18 [CNBC TV18] |
 | **7. Demand Cycle Changes** | Demand trends across institutional and retail segments. |
 | **8. Management Commentary** | Quarterly guidance and management strategic updates. |
 | **9. Institutional Activity** | FII/DII holding changes and block trading trends. |
@@ -1617,13 +1586,13 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 - **Opportunities:** Monitoring risk factors and entry levels.
 
 **A. News Summary:**
-- **Headline:** Bank holiday today: Are SBI, HDFC, ICICI branches open or closed on Saturday, 21 November? Check RBI calendar - Livemint
-- **Date:** 2026-11-21 | **Source:** [Livemint](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbWJJUk5ZdmlCeUhkVnhoVGRWOUJ1dDlxUTJKeE5HeDFheUFrbjNrX2tSeTNCeGcxczdZc0lFZ19YTDNlUDhzZzFBLTZRTUN6cURBRlNyeHpqODljd2FTbkVscGc0d3hZTFVtUWstVnRLT0hIUzJFTFZGWDhhSDZmZ2pjdzhmcWRyUDNzYjRwZzVCUk9fdTg3VmowZTBrUHlreXhDYV9oSkk5VmY1VFNjd2NSSnNKVUVzOWxkdHpwU2FoYjY1TlpZSVgwQ2l3VWtSTi16MkhEd1BrZElxNkZyX2dFUmRsSUs3SmNqeUlLRTNaMUVFLTlIQWlsOUVIUUXSAYQCQVVfeXFMUGptUWlmVjJULWV2VU5rMjFTc1U3dUE3WnUwWXJ6a1hqOUhKNUJuanFFR1VVRHV0Uy1BZ2NkaklnSWlMRjlaTEo4cm9xT2hWdkMzcjR2R3V4bDJ3aDRVdHYxM3ZWZUJKWkhpU3Z2dHZRSlZqYWducEVVVEJERFdyZDNncW1QVEx2cXlrSWhjbmVkUGY3dDNrYVE3WHNmUTVGSFZkMGJVNW1hUFlkdU5UQmN2Z1BKWFpTWHBRVnlWOElLVzAtSHNEeFdqZTcyM045UTlHNUJDU29aOUo1cHNMZTZuaHdVQ3BPUFhxSHlrclNqNnRSQkxyQ2F1eHZ0SkpKd1Y1WVA?oc=5)
+- **Headline:** SBI, HDFC Bank, ICICI Bank retain D-SIB status; RBI maintains capital requirements - The Hindu
+- **Date:** 2026-11-23 | **Source:** [The Hindu](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSTdEbDlpRlRTUVpxand0RWhqN01UMDB0eE90ZWtOaDlxZlhBYlZvZXc2c0ZkRU9ReU9oRm1qMGxndjg4VnV4YkxHSjFicVppR1I2X3lCV2E0ZmNPd3ZXeVJwZjhjMWhuRFUzQk9wNVZVc0xXYzFhZVdmQXB5cnhmbldrZFU3cDdEVkVaMk1EdXlieG5WNWtONXdKOWNiRlY3MmxiOHVFTUNUc19hS2FuV1ZEWlZOWGIySjZhSFVEOU9NRUxvbHkyaFVNQ29Oei01cVJNMTQyU0PSAd8BQVVfeXFMUFQtVUd2c3hxRmJMMzBYdVlONElXcUh5Tml4NGozZUdJRlk3ZElqMWVuR25LbzYtXzEzb29CNVBSUXVVU2J2Nk5GeVluWEo0RXpRSVI0NFVRaWtFWERKRTRfYngwUnhoRTYxa2lSMm9hOHYwMC1CVUNxQVFGLS1yZ0dhWmI4dDhYUU5CV2xiZTFtVzFxMmFFbEFKWS1QR25hYWJrczRRem1iVWtEcXpsTHhoblNTQy1nNERLZmxtYXl6blh4cUdaQWF4eWRkOENUUkN6eXFuMVd6dDh1UXd6SQ?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by Livemint on 2026-11-21. Corporate development in Government Policy & Regulatory.
+- **Short-Term Impact:** Reported by The Hindu on 2026-11-23. Corporate development in Government Policy & Regulatory.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 - **Thesis Impact:** **Neutral**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Livemint publication.
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from The Hindu publication.
 - **Risks:** Broad market swings and execution risk.
 - **Opportunities:** Monitoring risk factors and entry levels.
 
@@ -1648,7 +1617,7 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 | **1. Direct Company News** | No material corporate earnings/results reported in the last 7 days. |
 | **2. Sector News** | Sector developments monitored across Financials. |
 | **3. Competitor News** | Peer performance and market share movements. |
-| **4. Government Policy Changes** | (2026-11-21) Bank holiday today: Are SBI, HDFC, ICICI branches open or closed on Saturday, 21 November? Check RBI calendar - Livemint [Livemint] |
+| **4. Government Policy Changes** | (2026-11-23) SBI, HDFC Bank, ICICI Bank retain D-SIB status; RBI maintains capital requirements - The Hindu [The Hindu] |
 | **5. Raw Material Changes** | Input cost trends monitored against operating margins. |
 | **6. Order Inflow Changes** | (2026-11-18) SBI Clerk Prelims Result 2026 (OUT): Download Score Card PDF at sbi.bank.in - Jagran Josh [Jagran Josh] |
 | **7. Demand Cycle Changes** | Demand trends across institutional and retail segments. |
@@ -1661,6 +1630,28 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 ### Ticker: NSE:SJVN - Name: SJVN Ltd
 
 **A. News Summary:**
+- **Headline:** SJVN commissions 45 MW solar in Assam - pv magazine India
+- **Date:** 2026-11-23 | **Source:** [pv magazine India](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbFdWRjJhby1hbnJZT2xCRmZ4akJHVFF0NjR0Y0N1QWd5b1FiSmhySVVPSDRvSE1XLUFTODNZcFA3ZEo4QUFibURXeDRHbkNScWpxSkF2QlVJVVNDeEVDRFB5TklQVnZVUktPREdkOUNpWVlKb01SdkFOWVRZcHZ6THo2TndJd18yaEJV?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by pv magazine India on 2026-11-23. Corporate development in Corporate Action & M&A.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+- **Thesis Impact:** **Neutral**
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from pv magazine India publication.
+- **Risks:** Broad market swings and execution risk.
+- **Opportunities:** Monitoring risk factors and entry levels.
+
+**A. News Summary:**
+- **Headline:** SJVN Limited Shares Fall 1.47% Despite New Hydro PPAs - Multibagg AI
+- **Date:** 2026-11-23 | **Source:** [Multibagg AI](https://news.google.com/rss/articles/CBMiogFBVV95cUxOT1ZkQXJrYTgyWC1DdTIwRTNXZG8yM0hSMlRGTHVvMnBXY1VWYWkwV3k1Znpfa0o2OWlGSDd0SllDdDVHZ05mSHZONVZyWXdSbEt3UkxSZmtiZS1Xc2o3dnktX0ZfaWV0UXQ5UTEzMXYwSnR6U1A5WTZuOHRQeURpaEtKX3JiUVBTVnJZUnpEaU9yVFRkNXFpQklTazN0RDVKaUE?oc=5)
+- **Importance Score:** **7/10** | **Sentiment:** Bearish
+- **Short-Term Impact:** Reported by Multibagg AI on 2026-11-23. Corporate development in Corporate Action & M&A.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+- **Thesis Impact:** **Bearish**
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Multibagg AI publication.
+- **Risks:** Near-term market volatility or earnings/regulatory headwind.
+- **Opportunities:** Monitoring risk factors and entry levels.
+
+**A. News Summary:**
 - **Headline:** SJVN Green Energy Commissions 45 MW Of 50 MW Solar Project In Assam - Saur Energy
 - **Date:** 2026-11-23 | **Source:** [Saur Energy](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUzhiVC1DVUV3RnVVVEFxY1MtSUY1aHpBQU1CdDJPZXMwMGZRaUVtNzM4bzhWVGgyaV84YXZjb3RnR3lDc3Q4RmxEVzFGV21HdVpNajFDSXdGd2lqaExOLVhGLTdDdERrQlhOQ2ozZmVBbS0tdEZIZ2pqUkp0elMzb29ZNjNYazhRUVRrNTg0ZmticXhqVEU2NDc2MHd2a2JacTZWU1lnYm1OajhXN0c3OWZLSnNnRWRZbG1aQzdBM21JM3pVYTNYRg?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
@@ -1671,28 +1662,6 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 - **Risks:** Broad market swings and execution risk.
 - **Opportunities:** Monitoring risk factors and entry levels.
 
-**A. News Summary:**
-- **Headline:** Prime Minister Narendra Modi Dedicates SJVN’s 1,320 MW Buxar Thermal Power Project to the Nation - Machine Maker
-- **Date:** 2026-11-23 | **Source:** [Machine Maker](https://news.google.com/rss/articles/CBMixwFBVV95cUxOUFByaHRTamRDRThKb2JhdFhnTkpqUUVHdmFVbUYwZDQ4QURWS2F5djNjVmxENDBiRHlKSVozRml6SVJyelZtLTZxbkdoeU91azZsczNhNEFZaUhKUW5TVUgtazYzQzd3TnYwWTJLNmExVzhZT3JXaTVkVnlpbW5Lc05EOFJ6V2RoNzVlVTUwU1k2NlFJS1FudjVVQy1ZZUpjbmtxYjMxYThUS2xsc3BRYkFwMnMyRHVDY3llLUNiVjVrSlIyLWZZ?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by Machine Maker on 2026-11-23. Corporate development in Corporate Action & M&A.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Neutral**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Machine Maker publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Monitoring risk factors and entry levels.
-
-**A. News Summary:**
-- **Headline:** SJVN Limited Brings Buxar Plant to Full 1,320 MW Operation - Multibagg AI
-- **Date:** 2026-11-21 | **Source:** [Multibagg AI](https://news.google.com/rss/articles/CBMisAFBVV95cUxQQVRWV1BabmZNQXdSMmlyYzhod21TbXBHS0o4NkZmWE9EbkpxOURpMy1mYnUwTXdocFpVcllzYkx5UTZmazJHZUItSVZ0OUUzNllqX2lHYjlmZjh1LWNiUUdnNDRaX1JLaTRER3d3dGZmb1ZKcEJtdVEybnp3cXplN1hUaWFBeERmSDVZd29xanMyUmo2VTYzS1Z0WUhjajBKbFFtLTdFLW0tcF84X2RMaw?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by Multibagg AI on 2026-11-21. Corporate development in Corporate Action & M&A.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Neutral**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Multibagg AI publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Monitoring risk factors and entry levels.
-
 **B. Red Flags:**
 > Red Flags: None identified in the last 7 days. Capital allocation and liquidity are stable.
 
@@ -1700,7 +1669,7 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 
 | Canvas Dimension | Development Details & Impact Assessment |
 | :--- | :--- |
-| **1. Direct Company News** | (2026-11-21) SJVN Limited Brings Buxar Plant to Full 1,320 MW Operation - Multibagg AI [Multibagg AI] |
+| **1. Direct Company News** | (2026-11-23) SJVN Green Energy Commissions 45 MW Of 50 MW Solar Project In Assam - Saur Energy [Saur Energy] |
 | **2. Sector News** | Sector developments monitored across Power & Renewables. |
 | **3. Competitor News** | Peer performance and market share movements. |
 | **4. Government Policy Changes** | Policy environment remains supportive for domestic industry. |
@@ -1826,17 +1795,6 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 - **Opportunities:** Positive operational and institutional sentiment momentum.
 
 **A. News Summary:**
-- **Headline:** Tata Power Renewables Commissions 100.8 MW Wind Project in Ausa, Maharashtra - Tata Power
-- **Date:** 2026-11-16 | **Source:** [Tata Power](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX1JkWnJXMU9EaFRWWDM1ME1PSXlKekpvUUZSYTRZQlA4bEItQUZXMEE0WUUwMll2ZzhpRHg5NUVvQUg2bTl5eThjMWlmcE9xcEVmc0xoOTRNYU5uVjlPaEJXTUxKa2NuOEJXTnMxX0lsSU1mc3JFYy1ZN0hBSlJkMDQ2Z0RlYjhVaHFFSHJPVzBSeXowX1FqSFhIOEdQLU44X3Y0elA4dlRtb0c5azlTUmFsRUtvUDhJRXBEdVpzYUFvVzU0elVRN1AyMnFMUHJEZmY2aWhWdTZWQQ?oc=5)
-- **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by Tata Power on 2026-11-16. Corporate development in Capex & Expansion.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Bullish**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Tata Power publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Positive operational and institutional sentiment momentum.
-
-**A. News Summary:**
 - **Headline:** Tata Power Names Sanjay Banga As Next CEO And MD - TradingView
 - **Date:** 2026-11-18 | **Source:** [TradingView](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYW1Dd21UN1VUb1RmQVh2WE5wUC1ZWDU4UEJLVmtoNUo2VXZTRDBEdkhCUEd3T1ZQcWJ6YzNvZXE1eTU3Z2tYMDNMR0x3UGJ5SF9aNmZ0VUFxNnFHajZJVGttaENwVVhWd2NJZ1Z6MjRldHJ6dFlaNzVJSnlNNy1jM2dia1ZXYUs3YTJCZzRIOVFvQ0dXNGNYelZ1WVAxejAwSEw1c2pKMko?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
@@ -1846,6 +1804,17 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 - **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from TradingView publication.
 - **Risks:** Broad market swings and execution risk.
 - **Opportunities:** Monitoring risk factors and entry levels.
+
+**A. News Summary:**
+- **Headline:** Tata Power 'going big' on energy storage; targeting 6.8 GW pumped hydro pipeline, says CEO- Moneycontrol.com - LinkedIn
+- **Date:** 2026-11-19 | **Source:** [LinkedIn](https://news.google.com/rss/articles/CBMitwFBVV95cUxOazk1WEdJSnp3X1V4c1VFMkdsejJzam5jbE9LSEtXWnhxQmtYdWRDUjRhY0x3Z0djWVJ6RmV6SDBrd3QyZU9nY1Y1Q3pVQWhDc0w4Yzl5OUdfcnAzR3dxRzFmbDVLbDRxN2pvb1k1TFVHX05uT3ZFckNBdHl6emhMZlcwMjhHY1YzZmlpNk9MTEkzY1ppMmRDRWVyc196OWtWbDV0Q2xiTUNLa09yLUlTNHYwQ1pPQlU?oc=5)
+- **Importance Score:** **7/10** | **Sentiment:** Bullish
+- **Short-Term Impact:** Reported by LinkedIn on 2026-11-19. Corporate development in Management & Strategy.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+- **Thesis Impact:** **Bullish**
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from LinkedIn publication.
+- **Risks:** Broad market swings and execution risk.
+- **Opportunities:** Positive operational and institutional sentiment momentum.
 
 **B. Red Flags:**
 > Red Flags: None identified in the last 7 days. Capital allocation and liquidity are stable.
@@ -1860,8 +1829,8 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 | **4. Government Policy Changes** | Policy environment remains supportive for domestic industry. |
 | **5. Raw Material Changes** | Input cost trends monitored against operating margins. |
 | **6. Order Inflow Changes** | Commercial order book and revenue visibility. |
-| **7. Demand Cycle Changes** | (2026-11-16) Tata Power Renewables Commissions 100.8 MW Wind Project in Ausa, Maharashtra - Tata Power [Tata Power] |
-| **8. Management Commentary** | (2026-11-18) Tata Power Names Sanjay Banga As Next CEO And MD - TradingView [TradingView] |
+| **7. Demand Cycle Changes** | (2026-11-18) Tata Power Renewable Energy Commissions 100.8 MW Wind Project in Maharashtra - Machine Maker [Machine Maker] |
+| **8. Management Commentary** | (2026-11-19) Tata Power 'going big' on energy storage; targeting 6.8 GW pumped hydro pipeline, says CEO- Moneycontrol.com - LinkedIn [LinkedIn] |
 | **9. Institutional Activity** | FII/DII holding changes and block trading trends. |
 | **10. Promoter Activity** | Promoter shareholding stability and pledge tracking. |
 
@@ -1892,13 +1861,13 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 - **Opportunities:** Monitoring risk factors and entry levels.
 
 **A. News Summary:**
-- **Headline:** Tata Technologies shares jump 9% as firm targets doubling software business in three years; key takeaways - Upstox
-- **Date:** 2026-11-19 | **Source:** [Upstox](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeU1yRGdmbjAyLVIzTVFKbWs5YzIzREh6blVjN2V1anR4cG1PU2ZSR0dnVEFqbVRwamNLNUYzYTY1c1VSNUJxamJzdkw2d3czN0Z0ZVBvRXpGcVFRaEFPUGRQVG92Z2kyRUNLNmcxVE9FOGJwMm93SmZqYk5pc2NJb2ZkQ3hlemh1U1lKY0tHTXRhNzJPbEoySnNtUjRidzdsNUQ2NkRsTTZEOE1TS2xUN0ZCbDFOSXZyT1BnS1pHdzFRSm5sMThfTjVqNGloaGxZajl1OXRSLXliRUhibWM5MzQ2RGhnRWNIT2paUVM4REJyemYx?oc=5)
+- **Headline:** Tata Technologies Jumps 10% As FY30 Revenue Target Of $1.3 Bn, Margin Ambitions Lift Sentiment - TradingView
+- **Date:** 2026-11-19 | **Source:** [TradingView](https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZVJmRDdYNnI3ZVlnNWtYVC1LNGdXdUw2cWt5S1lzM1g0V2NRVlFZYlJkTlp5VWhfQzIwYUNiazlkZHpxWlhBWmtGRHlSTG5mdXFIcFE2X2xtaU52ZF9KQzdkOXlDbkc2elpMMnF3LVBmNDFGZHlTeHRDWTNtVjEwa3JBMHpXdk9mbWpxRnM3RnRBZmZwRW5oRTgyLW5tUWNXQjhTOGhqNWNWMGcxTTdNZk1qem55a3ZLX0ZBWDhwNjdwZzFPbkZaQ0t4aFkzNWxEb25EMG1RVzN4WUhaTGNKVE9n?oc=5)
 - **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by Upstox on 2026-11-19. Corporate development in Management & Strategy.
+- **Short-Term Impact:** Reported by TradingView on 2026-11-19. Corporate development in Financial Performance & Results.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 - **Thesis Impact:** **Bullish**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Upstox publication.
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from TradingView publication.
 - **Risks:** Broad market swings and execution risk.
 - **Opportunities:** Positive operational and institutional sentiment momentum.
 
@@ -1909,14 +1878,14 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 
 | Canvas Dimension | Development Details & Impact Assessment |
 | :--- | :--- |
-| **1. Direct Company News** | (2026-11-19) Tata Technologies aims to double its revenue by $1.3 billion by 2030 - Business Standard [Business Standard] |
+| **1. Direct Company News** | (2026-11-19) Tata Technologies Jumps 10% As FY30 Revenue Target Of $1.3 Bn, Margin Ambitions Lift Sentiment - TradingView [TradingView] |
 | **2. Sector News** | Sector developments monitored across IT & Telecom. |
 | **3. Competitor News** | Peer performance and market share movements. |
 | **4. Government Policy Changes** | Policy environment remains supportive for domestic industry. |
 | **5. Raw Material Changes** | Input cost trends monitored against operating margins. |
 | **6. Order Inflow Changes** | Commercial order book and revenue visibility. |
 | **7. Demand Cycle Changes** | Demand trends across institutional and retail segments. |
-| **8. Management Commentary** | (2026-11-19) Tata Technologies shares jump 9% as firm targets doubling software business in three years; key takeaways - Upstox [Upstox] |
+| **8. Management Commentary** | Quarterly guidance and management strategic updates. |
 | **9. Institutional Activity** | FII/DII holding changes and block trading trends. |
 | **10. Promoter Activity** | Promoter shareholding stability and pledge tracking. |
 
@@ -1924,38 +1893,7 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 
 ### Ticker: NSE:TCS - Name: Tata Consultancy Services Limited
 
-**A. News Summary:**
-- **Headline:** TCS in talks to acquire Bosch's India tech operations, potentially absorbing 3,000 employees - HR Katha
-- **Date:** 2026-11-18 | **Source:** [HR Katha](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUlMWmplaDRXMk9oTThZTWdsUzFaX092dy1heTlFbkRINjBmMDBUc2RsZkJTQ0JCQ05FWmMxcWRBQW9yQ1NoSFRZWWhVOWxEWmFOUVhvYnhwaWF2YnhfcU1ucng0M09fbGZhVVE1S0stcTNGZ0xMVEpDRFhaMjZlYTRMdktKRkJQOFI4ME9LbzRpUVY0MFFaZGhWeUp1NjBYaEpYSERvQk1wMG5lNUtOYmY3ZGhHRW43ZXZr?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by HR Katha on 2026-11-18. Corporate development in Government Policy & Regulatory.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Neutral**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from HR Katha publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Monitoring risk factors and entry levels.
-
-**A. News Summary:**
-- **Headline:** Australia's Bunnings to slash 230 jobs, end 120 contractor roles under TCS partnership - Reuters
-- **Date:** 2026-11-17 | **Source:** [Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxOUm1wLUZUaGRVVkxBVUxyZW91cmFHRzM0MHVja1pzWWE5TE83VGo2S1RmMDlHUlJkdnpzWUQwODhDNzZTRGJ5RUJyYmFaUkkxOGNEbDB3RGZHUExVNkk5Z2s3TkY3aDI4dTNzOUltMUZrdzQyRUlDdDcxb3dMTTFQZ1hKdGhXS3dEUy15QnV6bnhhSUlpRE04VUZPUDd6U3BfZzdsbGN2VmYtUnh3dUZEcDVPNHVrT1FyV0ZrNjBKOXRMQ1Q4LVpz?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by Reuters on 2026-11-17. Corporate development in Order Inflows & Contracts.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Neutral**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Reuters publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Monitoring risk factors and entry levels.
-
-**A. News Summary:**
-- **Headline:** Bunnings to cut 230 technology jobs, end 120 contractor roles under TCS partnership - HR Katha
-- **Date:** 2026-11-18 | **Source:** [HR Katha](https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEI0U01mTnJFZDVKcTk0TXRoaEhGVk84OTgwUGNUQ2N6QlByb2FlUkNZS2E3dkJOc1lUYXNaaWxZb2xKZmZUb3JEMldaSW5CZ3NlVExJVW5CY2lzSEF3QlZBby13MXE0c0VfSlNTUTBMdWlzMjhtd3RwX0ZZb2ZLV2FlX3c0aXpqVzlmMnR4Y2dpTFRTejRQM2RTWFltOWdacHZ5dDVYZjY3SnhwUFYxUHdR?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by HR Katha on 2026-11-18. Corporate development in Order Inflows & Contracts.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Neutral**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from HR Katha publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Monitoring risk factors and entry levels.
+> **News Status:** No direct company news reported in the last 7 days. Stale developments older than 1 week are automatically archived/purged.
 
 **B. Red Flags:**
 > Red Flags: None identified in the last 7 days. Capital allocation and liquidity are stable.
@@ -1967,9 +1905,9 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 | **1. Direct Company News** | No material corporate earnings/results reported in the last 7 days. |
 | **2. Sector News** | Sector developments monitored across IT & Telecom. |
 | **3. Competitor News** | Peer performance and market share movements. |
-| **4. Government Policy Changes** | (2026-11-18) TCS in talks to acquire Bosch's India tech operations, potentially absorbing 3,000 employees - HR Katha [HR Katha] |
+| **4. Government Policy Changes** | Policy environment remains supportive for domestic industry. |
 | **5. Raw Material Changes** | Input cost trends monitored against operating margins. |
-| **6. Order Inflow Changes** | (2026-11-18) Bunnings to cut 230 technology jobs, end 120 contractor roles under TCS partnership - HR Katha [HR Katha] |
+| **6. Order Inflow Changes** | Commercial order book and revenue visibility. |
 | **7. Demand Cycle Changes** | Demand trends across institutional and retail segments. |
 | **8. Management Commentary** | Quarterly guidance and management strategic updates. |
 | **9. Institutional Activity** | FII/DII holding changes and block trading trends. |
@@ -1991,24 +1929,24 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 - **Opportunities:** Monitoring risk factors and entry levels.
 
 **A. News Summary:**
-- **Headline:** Tembo Global Industries Reports Record H1 FY27 Revenue of ₹534 Crore - Machine Maker
-- **Date:** 2026-11-16 | **Source:** [Machine Maker](https://news.google.com/rss/articles/CBMirwFBVV95cUxOd2Q5eXB3YWdJa0dJenNxeFN0MXRvZEFMU3VJWF9TM2cxc0twQ0VLSUVKS1NyRm5pWW5GMmZRajRucDBMQk5DWE41UVJEanhfWk9VYjFDamFDRlFJa3Y5c2VMSDFzNGdpeUUyTFMyOUl5UjNaUi1qb2ZfZWFQX3k2UWptLXNFVmdodUxoTEVsRHVCcmQtQVRPRks2aWE4c1ZHc19jSVhqWUlUdnNHVU0w?oc=5)
+- **Headline:** Tembo Global Industries Limited H1 FY27 PAT Rises 36.2% to ₹57 Crore - Multibagg AI
+- **Date:** 2026-11-21 | **Source:** [Multibagg AI](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUDRHMHhRaE5ZclVnS05aOEdVekd6SF8tbnAzOHZBQlUtcjJ0cWdxd0NKeVZHUllFeFhxRFlpX2pWRWpzQmpuZDlhNmdxRzFZNndnb25ZNW44ZnVGNHViVlN2WXJvSjA1YndYMFU0MmFoS3J0OFhjY1JDOG5UUU1HT2RkckxJY2JpZWdnQ1ZVZnRacW1CNF9fOWVnX3Y4SnlHa0h1Yl9NZUxYZw?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by Machine Maker on 2026-11-16. Corporate development in Financial Performance & Results.
+- **Short-Term Impact:** Reported by Multibagg AI on 2026-11-21. Corporate development in Financial Performance & Results.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 - **Thesis Impact:** **Neutral**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Machine Maker publication.
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Multibagg AI publication.
 - **Risks:** Broad market swings and execution risk.
 - **Opportunities:** Monitoring risk factors and entry levels.
 
 **A. News Summary:**
-- **Headline:** Tembo Global Q2 PAT rises 18.3 per cent to ₹26 crore - ET Manufacturing
-- **Date:** 2026-11-17 | **Source:** [ET Manufacturing](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU3NmdHcwcDU1aGdfWWZBZll4dGFYNmZrczVwVTFoNEtuMTBFLS1obTNha05CZVZwcGxaOTZXMTNfR056N011MlNObHZBSXNid2thSTc5UDFQaUhJQ19TSjIyMllvVFdVbDV0eTZYQ0h5WXZkMVRpbGMwdFVZNnpVZEw3RHA3TGVKOXVjRE9MREpESFNmaktwQm9yLW5qamNMcGduZWdCc2Z5VTRibzEycVhHWTltVjZJWHRoU0l0bU5wNHfSAcgBQVVfeXFMTmN2UElOZkU0TjlyTS1vejBkTFhjc0NYU2E5S282WFY3Wm16c0pfNWF6M3BRWEVyVldCaUVwRmNMcDFaTDJ0U3I0dlUtWURkSTlkeGh2VzUwYVVnZjR1aXpNa093ZklDYmIxUTdSWmF5YUh6d21sU1dvLThZaUpGTGNvemdIRU42d3lzbkw0Mk8ycEJjMnVnZlVrbW1JZzlOOFdzQkxYZWJUMzh4Z3BlN3M1WWJieVBpS29MZlFYUlBmV0k4S3hKU0E?oc=5)
+- **Headline:** Tembo Global Industries TEMBO H1FY27 Results Investor Presentation - Kalkine India
+- **Date:** 2026-11-21 | **Source:** [Kalkine India](https://news.google.com/rss/articles/CBMirwFBVV95cUxObExvaVlpeEI4aktmNUJfcTh2UGRmQTNKNGNxZmVrM3g2U0w2cV9OWkQ5OGVWM3hid1Vua3Q0X05pMzA2dS1FekdJZGxSWl9jQl81QmxqOVpsVlE5M2M1SVA1S1FaNkpkclRiSGFvMEJFbjBybkozM2JfTXBfRUpaZE5taFRiYnVmTVNiSi1GYlpBRDBrMXZ0RWNwSkx5ZEZzTmVrUVBqM00tcnhfQlFz?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by ET Manufacturing on 2026-11-17. Corporate development in Financial Performance & Results.
+- **Short-Term Impact:** Reported by Kalkine India on 2026-11-21. Corporate development in Financial Performance & Results.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 - **Thesis Impact:** **Neutral**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from ET Manufacturing publication.
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Kalkine India publication.
 - **Risks:** Broad market swings and execution risk.
 - **Opportunities:** Monitoring risk factors and entry levels.
 
@@ -2019,7 +1957,7 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 
 | Canvas Dimension | Development Details & Impact Assessment |
 | :--- | :--- |
-| **1. Direct Company News** | (2026-11-17) Tembo Global Q2 PAT rises 18.3 per cent to ₹26 crore - ET Manufacturing [ET Manufacturing] |
+| **1. Direct Company News** | (2026-11-21) Tembo Global Industries TEMBO H1FY27 Results Investor Presentation - Kalkine India [Kalkine India] |
 | **2. Sector News** | Sector developments monitored across Power & Renewables. |
 | **3. Competitor News** | Peer performance and market share movements. |
 | **4. Government Policy Changes** | Policy environment remains supportive for domestic industry. |
@@ -2057,13 +1995,13 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 - **Opportunities:** Positive operational and institutional sentiment momentum.
 
 **A. News Summary:**
-- **Headline:** Buy Titagarh Rail Systems: target of Rs 966: ICICI Securities - TradingView
-- **Date:** 2026-11-17 | **Source:** [TradingView](https://news.google.com/rss/articles/CBMivwFBVV95cUxQbUtFb2hYRjBWTWlLMUV5aDZxRGduYjhsQ0RGZ3laV290OFRpNmcxT2ozd1VjQy1UWG9US0dRTkJ6bFZnSWoyaXhzY1Y3b1VvcUdFMzh2dEd5RUczOVpob01hNUtMcDhabmhleGxibWNXc0haMjVfS3FVNWhianlzOGRaa3ViWm9QdGgxRjdTOVNMZk56VkJSdlpCSTFWa0JOek5TNTZiZ2pXUjF6XzNkRC1BUDFOdi05MVhVTDJXdw?oc=5)
+- **Headline:** Titagarh Rail Bags Rs 65 Cr Traction Motor Order From CLW - Equitypandit
+- **Date:** 2026-11-18 | **Source:** [Equitypandit](https://news.google.com/rss/articles/CBMikAFBVV95cUxNN3Zpd3Jpb21GUVhmYVIxVE9lMmhBQ1RnbkZZT2NNTXgxS09sbmV5dnlYYk5tWVM3U2RfWUhyUGctdDNkOWNOOHRVWWpVekU3anZEbTVqOUpCb1R5aElVa2tBdzY5c2pnTm5ldUk4aDYxQzZTSmc3RU5lc0xVQmhpdTdscTg1bUl4UmVJdEQ2cTk?oc=5)
 - **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by TradingView on 2026-11-17. Corporate development in Management & Strategy.
+- **Short-Term Impact:** Reported by Equitypandit on 2026-11-18. Corporate development in Order Inflows & Contracts.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 - **Thesis Impact:** **Bullish**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from TradingView publication.
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Equitypandit publication.
 - **Risks:** Broad market swings and execution risk.
 - **Opportunities:** Positive operational and institutional sentiment momentum.
 
@@ -2079,9 +2017,9 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 | **3. Competitor News** | Peer performance and market share movements. |
 | **4. Government Policy Changes** | Policy environment remains supportive for domestic industry. |
 | **5. Raw Material Changes** | Input cost trends monitored against operating margins. |
-| **6. Order Inflow Changes** | (2026-11-18) Titagarh Rail Systems Secures ₹65.38 Crore Order from Chittaranjan Locomotive Works for New Traction Motors - Kotak Neo [Kotak Neo] |
+| **6. Order Inflow Changes** | (2026-11-18) Titagarh Rail Bags Rs 65 Cr Traction Motor Order From CLW - Equitypandit [Equitypandit] |
 | **7. Demand Cycle Changes** | Demand trends across institutional and retail segments. |
-| **8. Management Commentary** | (2026-11-17) Buy Titagarh Rail Systems: target of Rs 966: ICICI Securities - TradingView [TradingView] |
+| **8. Management Commentary** | Quarterly guidance and management strategic updates. |
 | **9. Institutional Activity** | FII/DII holding changes and block trading trends. |
 | **10. Promoter Activity** | Promoter shareholding stability and pledge tracking. |
 
@@ -2089,16 +2027,7 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 
 ### Ticker: NSE:TMCV - Name: Tata Motors Commercial Vehicles Ltd
 
-**A. News Summary:**
-- **Headline:** Tata Motors appoints GAMCO as commercial vehicle distributor in Syria - Construction World
-- **Date:** 2026-11-19 | **Source:** [Construction World](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPakFobUJZdG9xUlMtazdNcmR6SFdOWUpVd2diRXprdHhfbjFrR2ZnU2ZkSEw1ckYtakR4MlRIclR1ckdtZ1Y2UU5nOFNJVWcxdXVfMUV2WG1MeF8yRGpnQm9ZRlVaOWZrNEplbzlwenFUM241aUJ0c0hMTEQ2Yno4RDJNZDFlQVlOdHFMU0tiOEhrVzN5NWc1SHkwOGljRlg1QmJJUkhRcUxmaGszQ2xLT3JTZ1hIaVZFZko1SzJKZ0syR25TX1Frd2hCX0dNYkRhaWtoOUptaExzQQ?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by Construction World on 2026-11-19. Corporate development in Management & Strategy.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Neutral**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Construction World publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Monitoring risk factors and entry levels.
+> **News Status:** No direct company news reported in the last 7 days. Stale developments older than 1 week are automatically archived/purged.
 
 **B. Red Flags:**
 > Red Flags: None identified in the last 7 days. Capital allocation and liquidity are stable.
@@ -2114,7 +2043,7 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 | **5. Raw Material Changes** | Input cost trends monitored against operating margins. |
 | **6. Order Inflow Changes** | Commercial order book and revenue visibility. |
 | **7. Demand Cycle Changes** | Demand trends across institutional and retail segments. |
-| **8. Management Commentary** | (2026-11-19) Tata Motors appoints GAMCO as commercial vehicle distributor in Syria - Construction World [Construction World] |
+| **8. Management Commentary** | Quarterly guidance and management strategic updates. |
 | **9. Institutional Activity** | FII/DII holding changes and block trading trends. |
 | **10. Promoter Activity** | Promoter shareholding stability and pledge tracking. |
 
@@ -2122,38 +2051,7 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 
 ### Ticker: NSE:TMPV - Name: Tata Motors Passenger Vehicles Ltd
 
-**A. News Summary:**
-- **Headline:** Tata Motors PV shares crash 9% following Q2 results, cuts JLR guidance - The New Indian Express
-- **Date:** 2026-11-16 | **Source:** [The New Indian Express](https://news.google.com/rss/articles/CBMivwFBVV95cUxPSXRyU292QnR5OU9GX1NoMVJwZzlON0swNHRDVTNpWGxrT0NKRnU2Y1Y2V3p2ZUd1YmVQbjljVkdDa0xQXzlwSG9DREd0cGM2TE5mQ2w5bkoteHdfeldNWUxHVEo0aFRuR0U5djJhd3B6VFg3YnBQYV9jMDRUeFQzQV9zM2FGd3lfMVVSblVwRm5KbVVTc1R6d3p3QUhjQWtjVVFLMjR1U3BaeHJmZDh1NTA1cjR6NS02LTBVNHB5b9IBzAFBVV95cUxNM19fS0h3YXczRzV2MF8wZjBDYjhWLXp5b1ZVaUc1VVktMm9tRlB3aTlxeDFvYV9UZUhWcXV2Nzc4S3kyZC1GRFJadWpydXI1TE1UTEh0NGZNOFJ4aW1SMmJUMHZXLVlBeFBVOUpaSFZwSGdCZEpWWjNEczZmUXctamRuY21VMTdIdXJrQndERmVaUmRKb1VqY1dRTjFlLVBUS3M3Y0g3dDhjaGxZZDRVNXRsLWFZWUZmenNlLU9waTN0R2hZR2F4SmJfV0M?oc=5)
-- **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by The New Indian Express on 2026-11-16. Corporate development in Financial Performance & Results.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Bullish**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from The New Indian Express publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Positive operational and institutional sentiment momentum.
-
-**A. News Summary:**
-- **Headline:** What Should Investors Do About The Stock of Tata Motors Passenger Vehicles? - BusinessLine
-- **Date:** 2026-11-21 | **Source:** [BusinessLine](https://news.google.com/rss/articles/CBMihAJBVV95cUxQLXI5b010b2xzLWVYdEEzZzVqWnJ1OVRnWlV2QldiZWw1czgydFhGUnBnUW5veHY5ZEMwRWozNGlkYkNOVGszNkk0UGpnUEFWcTJwVEJvcmdkT1NEbmlOSndYMzI5OGx3QU9pNDFHQWF1SkhDc1V0d0hVZVNUT1RWdkhBbXhjNTFHV3JjLXZtc0NQclM5dkEtZk03Zjdjb3k3OU5OeFBmeUpuYkpTRzV3aTlGZ09jbzZxQnBQSUFrd0VueFF5YlJsckdXamxSRTlvZHFCN3BVdU10QWZOWGJzOFU0WmJsekFoYThTVEFMWmpJeS1ZNlJHb2Fnek10ZlRMYk5TVtIBiwJBVV95cUxNS2tuRGUxTDdFTF83aGlxTXgxdWxpSkxFWjBSWVdsT1ZvMEIxazFodnFuaUpqcUd3WVBQWnFDeHBuRUNnaW1IRzl0bW1YTWJESjlNSkNEZUFoVUoxb1hkR3BSZERtSFFwczdXdTA0WXlLRUh0SDRmU3dxaFR1YXhLakRiMG1BbGtyNHFkaTgxRHJqd1ptVjl1MnVrSkI5cktTVDVtbHZCRTd2a09QTXctb3l0b3RCTm9QeGpzTmJtN0JQaHIwRG1ueXVpSWI0V3RMWFU3MkpFWjUydWxmSlVEejFSaDdldjZqWEN3aXdtbXZfV1VVYUJDdjgyb3h4WEdsU2s3Rl9XN2NDUkE?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by BusinessLine on 2026-11-21. Corporate development in Capex & Expansion.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Neutral**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from BusinessLine publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Monitoring risk factors and entry levels.
-
-**A. News Summary:**
-- **Headline:** Tata Motors PV Earmarks 6–7% of Revenue for FY27 Capex to Fund Next Phase of Capacity Expansion - Autocar Professional
-- **Date:** 2026-11-20 | **Source:** [Autocar Professional](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWjBBQU9DWHRaYzRfVWVzakpWbFZjYXA4cFBseWsybVQ3cldCMS12cWlVMVgyMUsta3N3ZzJ4aW9xcEQ2cklJRG5hRnh4LUN2d2JmNmVmbXJsRThrUTlILUxBRlllQk15NVZpVWlkNUZUNlRNdVlPWm9jTXUzNHRITVY1Mi1STkw3ZWVleHFNS2xhbThHdnNsNXRfRnlEX2dwcXlUWTF3WlZOY2stY244ZEJPaW5BSUlWRDZPS0FzaTRGVzFVWGI1UlduY3JTaGU4YjlfR05B0gHeAUFVX3lxTE1zazl4TzNiRmNHd3FJeU1LZ0lzN2RVWVljUGtmNkNqZWIyS0J4Wm04Sjh2NFdaRWMzdDdqcEZJSG1pcnExVmI0NkNYU3ZPdXV0SmI3ZXd2QkN0STZ6YkdNOUN5Q21pSWZRZ2JvZlNLSm9lYTBEZDMyTnhQVkxrUTRLbW5BX0V1OHA3T2pESVFiMjRqaGZBcldKc1NsMGJQYUpQSm5LWE9SX1ZtUDJVMjBfZzRmZ0x1SUgwbWtQRDdOUkV6QjItNl9LRkhxZ1VKVmVnaktSMUREQzdSeUJfUQ?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by Autocar Professional on 2026-11-20. Corporate development in Financial Performance & Results.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Neutral**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Autocar Professional publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Monitoring risk factors and entry levels.
+> **News Status:** No direct company news reported in the last 7 days. Stale developments older than 1 week are automatically archived/purged.
 
 **B. Red Flags:**
 > Red Flags: None identified in the last 7 days. Capital allocation and liquidity are stable.
@@ -2162,13 +2060,13 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 
 | Canvas Dimension | Development Details & Impact Assessment |
 | :--- | :--- |
-| **1. Direct Company News** | (2026-11-20) Tata Motors PV Earmarks 6–7% of Revenue for FY27 Capex to Fund Next Phase of Capacity Expansion - Autocar Professional [Autocar Professional] |
+| **1. Direct Company News** | No material corporate earnings/results reported in the last 7 days. |
 | **2. Sector News** | Sector developments monitored across Auto, FMCG & Energy. |
 | **3. Competitor News** | Peer performance and market share movements. |
 | **4. Government Policy Changes** | Policy environment remains supportive for domestic industry. |
 | **5. Raw Material Changes** | Input cost trends monitored against operating margins. |
 | **6. Order Inflow Changes** | Commercial order book and revenue visibility. |
-| **7. Demand Cycle Changes** | (2026-11-21) What Should Investors Do About The Stock of Tata Motors Passenger Vehicles? - BusinessLine [BusinessLine] |
+| **7. Demand Cycle Changes** | Demand trends across institutional and retail segments. |
 | **8. Management Commentary** | Quarterly guidance and management strategic updates. |
 | **9. Institutional Activity** | FII/DII holding changes and block trading trends. |
 | **10. Promoter Activity** | Promoter shareholding stability and pledge tracking. |
@@ -2201,38 +2099,7 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 
 ### Ticker: NSE:WAAREERTL - Name: Waaree Renewable Technologies Ltd
 
-**A. News Summary:**
-- **Headline:** Waaree Renewable Technologies Profit Falls 30% Despite Sales Gain - Multibagg AI
-- **Date:** 2026-11-16 | **Source:** [Multibagg AI](https://news.google.com/rss/articles/CBMisgFBVV95cUxQMERtQ05DbXZ2QzRyeEhJLUxiRVM1SWRqN2dWb3F1b0VsanU4ZV9IOUNwOUpSdEF5eFhoX2g5N2c1eTdCYWhwYVlfTGZEYjdvcUxDckZsS0kwNWFya3NjWFJLT0w2LTZ0Y1RxVDlKWDdPM2szeFhXOG1ya0RiSHp5a3ZrdjNWcnd2MUEtODlUOTA0TXF4ZUpsNDMtOVNFUWVzTXNSSUZ3Y1lGdmtFOHFIa2dB?oc=5)
-- **Importance Score:** **7/10** | **Sentiment:** Bearish
-- **Short-Term Impact:** Reported by Multibagg AI on 2026-11-16. Corporate development in Financial Performance & Results.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Bearish**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Multibagg AI publication.
-- **Risks:** Near-term market volatility or earnings/regulatory headwind.
-- **Opportunities:** Monitoring risk factors and entry levels.
-
-**A. News Summary:**
-- **Headline:** Waaree Energies Wins 700 MW SECI Solar Storage Project - Multibagg AI
-- **Date:** 2026-11-20 | **Source:** [Multibagg AI](https://news.google.com/rss/articles/CBMipwFBVV95cUxPdEw4U1k4YTlLZDVxSFoyQnZWYkZfNUJDR21Xa2Rwemw1Z0NGbXNZYUhHRGZCcDZjY19PNDUyZ2J0dUxfS2ZMeEpVTUktLXZlX015NGFyRWROUXlPcHQ2TjFqRDNMSUJMNnNsWXdiZDVJckhvdG9zR1JGQWRXRTR2N09sdkhGM0tVcGh1ZG1TNGFaREtIUnQ5M1RCd3BNaVpFV0hqaUYxRQ?oc=5)
-- **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by Multibagg AI on 2026-11-20. Corporate development in Order Inflows & Contracts.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Bullish**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Multibagg AI publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Positive operational and institutional sentiment momentum.
-
-**A. News Summary:**
-- **Headline:** Indian Renewable Energy Development Agency Ltd loan growth slows to 19% - Multibagg AI
-- **Date:** 2026-11-17 | **Source:** [Multibagg AI](https://news.google.com/rss/articles/CBMinwFBVV95cUxNNmhBN0VBNG5IQldDdTNtd3R0TXk5ZUk4b3ZhZDQzdE5qZGh4ZjBWemxFX1hwdUJaQllnR3NIYktOc3FwOGdxU3oyUTNkQ2tIR2g2NXdFNUJ3bGtWVlBZaGdqdlQwSjV0WExhSlhKZGVzYy1IUHNZbkx3VEhNUlY5amlLc2hkVktmb20xY01KQXpEdTlnd25aeU9iYTdJQVU?oc=5)
-- **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by Multibagg AI on 2026-11-17. Corporate development in Order Inflows & Contracts.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Bullish**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Multibagg AI publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Positive operational and institutional sentiment momentum.
+> **News Status:** No direct company news reported in the last 7 days. Stale developments older than 1 week are automatically archived/purged.
 
 **B. Red Flags:**
 > Red Flags: None identified in the last 7 days. Capital allocation and liquidity are stable.
@@ -2241,12 +2108,12 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 
 | Canvas Dimension | Development Details & Impact Assessment |
 | :--- | :--- |
-| **1. Direct Company News** | (2026-11-16) Waaree Renewable Technologies Profit Falls 30% Despite Sales Gain - Multibagg AI [Multibagg AI] |
+| **1. Direct Company News** | No material corporate earnings/results reported in the last 7 days. |
 | **2. Sector News** | Sector developments monitored across Power & Renewables. |
 | **3. Competitor News** | Peer performance and market share movements. |
 | **4. Government Policy Changes** | Policy environment remains supportive for domestic industry. |
 | **5. Raw Material Changes** | Input cost trends monitored against operating margins. |
-| **6. Order Inflow Changes** | (2026-11-17) Indian Renewable Energy Development Agency Ltd loan growth slows to 19% - Multibagg AI [Multibagg AI] |
+| **6. Order Inflow Changes** | Commercial order book and revenue visibility. |
 | **7. Demand Cycle Changes** | Demand trends across institutional and retail segments. |
 | **8. Management Commentary** | Quarterly guidance and management strategic updates. |
 | **9. Institutional Activity** | FII/DII holding changes and block trading trends. |
@@ -2268,6 +2135,17 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 - **Opportunities:** Monitoring risk factors and entry levels.
 
 **A. News Summary:**
+- **Headline:** Welspun Living Plans Rs 3,200 Crore Capex for 30% Towel Growth - Multibagg AI
+- **Date:** 2026-11-23 | **Source:** [Multibagg AI](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUW54WmlEVHhxaDFOWjh4bjdmekdxSkt2eFY3Wm9qQklHRFdlekdjS2h1R3czSTIzakozbUpOejJtQVZCdGljMHE4cGZwYVNaczRod1dNMHA1UV9QcDhNY2ZDR3dCMWRCVGxoNC1TeTR4c2pVb1RjRmlfSmtyeENQSzNlRHJLbXZDTXdHREVmNzJlWjZoXzhSbWQteEpnY2VuSXRHVVQzOC1FcDA?oc=5)
+- **Importance Score:** **7/10** | **Sentiment:** Bullish
+- **Short-Term Impact:** Reported by Multibagg AI on 2026-11-23. Corporate development in Capex & Expansion.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+- **Thesis Impact:** **Bullish**
+- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Multibagg AI publication.
+- **Risks:** Broad market swings and execution risk.
+- **Opportunities:** Positive operational and institutional sentiment momentum.
+
+**A. News Summary:**
 - **Headline:** Welspun Living plans ₹3,200 crore investment in capacity expansion by December 2028 - CNBC TV18
 - **Date:** 2026-11-22 | **Source:** [CNBC TV18](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTzRCdm9GZ2I4YmJRU1E0dWJYVkw0N2M3SHdteUdzVW1DQlc3a2xHNFhXRTJjSUtHYjZtRy1IemFSMUR5clEwdVhPaGpubkFNUGJyZTAwQS1ERnZSc0ZrU2N6MzVENF83bnlZRkJXOERzeWlWM3psbHIyb045bERiS19PbDMtMFlISG9PWDB0dVIxSFZiUFZDSXpkdDFZdFNZOGtFRGZHQzN0aWtjZkxwZnQtdEFfNzFhWEhGTXZ0VFR1amk1MDFDU09LbHJTR1Zr0gHWAUFVX3lxTE84TmRFZTFrWEZhOUxpNWNzVFpObEJFYmhoeGtfU1FPa2hqTURoRVJ5RzF6WDREdWhjbi1XSVZUYUd2aWV2aUw1NHBwSW1fQkhtUHJrVm02Nk1hRGQ5S1FmLWdLMC1zSEo5aUEzckhEbUJlYk4xa19CZHY0eUhxU2ZVSUNtaUR4UjJNeGF5cGk5QWZlakRqXzd4SVpLdGVKS2dBejIyUFhSTXFjSElsSW9jQjQ3M0dDVTRKVzRqSDh1bF9JLWhlRUhpWTRHMUJRSnZkU0hDZmc?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
@@ -2277,17 +2155,6 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 - **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from CNBC TV18 publication.
 - **Risks:** Broad market swings and execution risk.
 - **Opportunities:** Monitoring risk factors and entry levels.
-
-**A. News Summary:**
-- **Headline:** Welspun Living targets 30% towel capacity rise with ₹3,200 crore - Multibagg AI
-- **Date:** 2026-11-23 | **Source:** [Multibagg AI](https://news.google.com/rss/articles/CBMisgFBVV95cUxQcTVGM3h0ZGdsa0hrSmVoS1libl95YTRBVzZOUTl4MW9yc0h5LTBoV0pfX2gzeEVDdEtiWnk2ZVlGX1oteFhoU01ZZEZZNFZKS1Qwb3EwbmNLSHdpMXE3MVFmbk5vM18zWjRSQXpUQWxzX1NhaXJWS2J4MUt2SVBVRmFMbVVMOW93QTVxTU54M2RiMjFKYmtEYXc2WTNoRDlkbzB4dVlVR1IyMkhxZHdCT2F3?oc=5)
-- **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by Multibagg AI on 2026-11-23. Corporate development in Capex & Expansion.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-- **Thesis Impact:** **Bullish**
-- **What Investors Might Be Missing (Second-Order Effects):** Information verified directly from Multibagg AI publication.
-- **Risks:** Broad market swings and execution risk.
-- **Opportunities:** Positive operational and institutional sentiment momentum.
 
 **B. Red Flags:**
 > Red Flags: None identified in the last 7 days. Capital allocation and liquidity are stable.
@@ -2302,7 +2169,7 @@ Track the sectors represented in the portfolio to identify structural tailwinds,
 | **4. Government Policy Changes** | Policy environment remains supportive for domestic industry. |
 | **5. Raw Material Changes** | Input cost trends monitored against operating margins. |
 | **6. Order Inflow Changes** | Commercial order book and revenue visibility. |
-| **7. Demand Cycle Changes** | (2026-11-23) Welspun Living targets 30% towel capacity rise with ₹3,200 crore - Multibagg AI [Multibagg AI] |
+| **7. Demand Cycle Changes** | (2026-11-22) Welspun Living plans ₹3,200 crore investment in capacity expansion by December 2028 - CNBC TV18 [CNBC TV18] |
 | **8. Management Commentary** | Quarterly guidance and management strategic updates. |
 | **9. Institutional Activity** | FII/DII holding changes and block trading trends. |
 | **10. Promoter Activity** | Promoter shareholding stability and pledge tracking. |

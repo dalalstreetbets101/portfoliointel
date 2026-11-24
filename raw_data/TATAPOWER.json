@@ -17,8 +17,8 @@
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
     "order_inflow_changes": "Commercial order book and revenue visibility.",
-    "demand_cycle_changes": "(2026-11-16) Tata Power Renewables Commissions 100.8 MW Wind Project in Ausa, Maharashtra - Tata Power [Tata Power]",
-    "management_commentary": "(2026-11-18) Tata Power Names Sanjay Banga As Next CEO And MD - TradingView [TradingView]",
+    "demand_cycle_changes": "(2026-11-18) Tata Power Renewable Energy Commissions 100.8 MW Wind Project in Maharashtra - Machine Maker [Machine Maker]",
+    "management_commentary": "(2026-11-19) Tata Power 'going big' on energy storage; targeting 6.8 GW pumped hydro pipeline, says CEO- Moneycontrol.com - LinkedIn [LinkedIn]",
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
@@ -40,22 +40,6 @@
       "hidden_implications": "Information verified directly from Machine Maker publication."
     },
     {
-      "date": "2026-11-16",
-      "headline": "Tata Power Renewables Commissions 100.8 MW Wind Project in Ausa, Maharashtra - Tata Power",
-      "category": "Capex & Expansion",
-      "source_name": "Tata Power",
-      "source_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX1JkWnJXMU9EaFRWWDM1ME1PSXlKekpvUUZSYTRZQlA4bEItQUZXMEE0WUUwMll2ZzhpRHg5NUVvQUg2bTl5eThjMWlmcE9xcEVmc0xoOTRNYU5uVjlPaEJXTUxKa2NuOEJXTnMxX0lsSU1mc3JFYy1ZN0hBSlJkMDQ2Z0RlYjhVaHFFSHJPVzBSeXowX1FqSFhIOEdQLU44X3Y0elA4dlRtb0c5azlTUmFsRUtvUDhJRXBEdVpzYUFvVzU0elVRN1AyMnFMUHJEZmY2aWhWdTZWQQ?oc=5",
-      "sentiment": "Bullish",
-      "importance_score": 7,
-      "short_term_impact": "Reported by Tata Power on 2026-11-16. Corporate development in Capex & Expansion.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Bullish",
-      "opportunities": "Positive operational and institutional sentiment momentum.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from Tata Power publication."
-    },
-    {
       "date": "2026-11-18",
       "headline": "Tata Power Names Sanjay Banga As Next CEO And MD - TradingView",
       "category": "Management & Strategy",
@@ -70,6 +54,22 @@
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
       "hidden_implications": "Information verified directly from TradingView publication."
+    },
+    {
+      "date": "2026-11-19",
+      "headline": "Tata Power 'going big' on energy storage; targeting 6.8 GW pumped hydro pipeline, says CEO- Moneycontrol.com - LinkedIn",
+      "category": "Management & Strategy",
+      "source_name": "LinkedIn",
+      "source_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOazk1WEdJSnp3X1V4c1VFMkdsejJzam5jbE9LSEtXWnhxQmtYdWRDUjRhY0x3Z0djWVJ6RmV6SDBrd3QyZU9nY1Y1Q3pVQWhDc0w4Yzl5OUdfcnAzR3dxRzFmbDVLbDRxN2pvb1k1TFVHX05uT3ZFckNBdHl6emhMZlcwMjhHY1YzZmlpNk9MTEkzY1ppMmRDRWVyc196OWtWbDV0Q2xiTUNLa09yLUlTNHYwQ1pPQlU?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by LinkedIn on 2026-11-19. Corporate development in Management & Strategy.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from LinkedIn publication."
     }
   ]
 }

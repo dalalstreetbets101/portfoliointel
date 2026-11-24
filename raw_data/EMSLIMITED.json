@@ -17,44 +17,12 @@
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
     "order_inflow_changes": "(2026-11-20) EMS secures Rs 13.96 crore order from NHAI for fee plaza operations in Assam - Business Upturn [Business Upturn]",
-    "demand_cycle_changes": "(2026-11-17) ETFs Investing in EMS Ltd. Stocks - TradingView [TradingView]",
+    "demand_cycle_changes": "(2026-11-20) EMS Investor Analysis | StockIQ - The Economic Times [The Economic Times]",
     "management_commentary": "Quarterly guidance and management strategic updates.",
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
   "developments": [
-    {
-      "date": "2026-11-17",
-      "headline": "ETFs Investing in EMS Ltd. Stocks - TradingView",
-      "category": "Capex & Expansion",
-      "source_name": "TradingView",
-      "source_link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ub3hMTk1GMmVHOWRKVkFMZlZfT2tFZ3lDRzZXZFZZamQ0SGJKS2MtSVdZMkRKZ2lJd3I2a0EtX0tXeDlyeEZUWFV6S1RfZFlJTkZRTjNQbl9fTmJ0YU5fUGtNUEZvZk0?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by TradingView on 2026-11-17. Corporate development in Capex & Expansion.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from TradingView publication."
-    },
-    {
-      "date": "2026-11-17",
-      "headline": "EMS Limited Reports Q2 Margin Recovery and ₹900 Crore Orders - Multibagg AI",
-      "category": "Order Inflows & Contracts",
-      "source_name": "Multibagg AI",
-      "source_link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeUpjRTVGVGF5Y3lUel83ZDdsYnA2bUlKNTdRdlNSaGdrcGttMFowdDEtcU9VbFBrTi1BR2Z3Ul91T2F3ckFOcEFLSFVQU0FTZDJPdXUxRWhNZGpOVmZiOTAzbTZreGNISFA0Nm9pdm5jVzhlczB5M242VTlaSlhfWmJuM0l2UTBwZU13YmJUZFhscFFOZDBERTJaMnlpT0loMDBR?oc=5",
-      "sentiment": "Bullish",
-      "importance_score": 7,
-      "short_term_impact": "Reported by Multibagg AI on 2026-11-17. Corporate development in Order Inflows & Contracts.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Bullish",
-      "opportunities": "Positive operational and institutional sentiment momentum.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from Multibagg AI publication."
-    },
     {
       "date": "2026-11-20",
       "headline": "EMS secures Rs 13.96 crore order from NHAI for fee plaza operations in Assam - Business Upturn",
@@ -70,6 +38,22 @@
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
       "hidden_implications": "Information verified directly from Business Upturn publication."
+    },
+    {
+      "date": "2026-11-20",
+      "headline": "EMS Investor Analysis | StockIQ - The Economic Times",
+      "category": "Capex & Expansion",
+      "source_name": "The Economic Times",
+      "source_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS1VKWTdYOXJfdnMzd0pKWDd0US1pMHI2Q0lPNHdLNmY1OTNmZkp3VFNZTEdES0lBVmxpTUJJLWk5a25yY1ZsR0VTMnl2S0U2QzFTSkVHLTAwYngxODUydWp1QzY3eXB3Wk1KQk0teWJLa0djM2lRYk4tU0lmc0k3NA?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by The Economic Times on 2026-11-20. Corporate development in Capex & Expansion.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from The Economic Times publication."
     }
   ]
 }
