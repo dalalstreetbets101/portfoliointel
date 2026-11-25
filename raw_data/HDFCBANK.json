@@ -3,10 +3,10 @@
   "company_name": "HDFC Bank Limited",
   "sector": "Financials",
   "news_found": true,
-  "ltp": 817.8,
-  "change": -28.2,
-  "change_percent": -3.33,
-  "prev_close": 846,
+  "ltp": 846.2,
+  "change": 28.4,
+  "change_percent": 3.47,
+  "prev_close": 817.8,
   "fifty_two_week_high": 1017.5,
   "fifty_two_week_low": 669.2,
   "currency": "INR",
@@ -19,10 +19,26 @@
     "order_inflow_changes": "Commercial order book and revenue visibility.",
     "demand_cycle_changes": "Demand trends across institutional and retail segments.",
     "management_commentary": "Quarterly guidance and management strategic updates.",
-    "institutional_activity": "(2026-11-19) RBI, Kohima holds Special Meeting with Stakeholders for Financial Inclusion of Noklak District - www.pib.gov.in [www.pib.gov.in]",
-    "promoter_activity": "(2026-11-19) RBI, Kohima holds Special Meeting with Stakeholders for Financial Inclusion of Noklak District - www.pib.gov.in [www.pib.gov.in]"
+    "institutional_activity": "(2026-11-19) RBI, Kohima holds Special Meeting with Stakeholders for Financial Inclusion of Noklak District - पीआईबी [पीआईबी]",
+    "promoter_activity": "(2026-11-19) RBI, Kohima holds Special Meeting with Stakeholders for Financial Inclusion of Noklak District - पीआईबी [पीआईबी]"
   },
   "developments": [
+    {
+      "date": "2026-11-20",
+      "headline": "HDFC Bank Market Capitalisation Reclaims ₹13 Lakh Crore After ₹2.38 Lakh Crore Addition in 15 Sessions - Kotak Neo",
+      "category": "Government Policy & Regulatory",
+      "source_name": "Kotak Neo",
+      "source_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUTVPN19SYjAybFp6UU9NVldPeEtER05YME9haVJvUGpaLWZmYy1IeHVDeTZ5WmlaYkJzSmVxdDF0ZVJDTDNHVzdPVG1udWtrbDg0SXJYVG4tNXRQWU9faE9aSENRRjdEY09IYnFROVpWT0tlbG5LY054YmVKcmZjSi1haDE4NE9pQTkzamZR?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Kotak Neo on 2026-11-20. Corporate development in Government Policy & Regulatory.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Kotak Neo publication."
+    },
     {
       "date": "2026-11-23",
       "headline": "SBI, HDFC Bank, ICICI Bank retain D-SIB status; RBI maintains capital requirements - The Hindu",
@@ -41,35 +57,19 @@
     },
     {
       "date": "2026-11-19",
-      "headline": "RBI, Kohima holds Special Meeting with Stakeholders for Financial Inclusion of Noklak District - www.pib.gov.in",
+      "headline": "RBI, Kohima holds Special Meeting with Stakeholders for Financial Inclusion of Noklak District - पीआईबी",
       "category": "Institutional & Promoter Activity",
-      "source_name": "www.pib.gov.in",
+      "source_name": "पीआईबी",
       "source_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zek5rY0U1ZWR0cXI2OXhmdHFYbGNZZGh1VDFpUmFzZWQyZm1MQ0xUazRIQnlWZWU1aDQycDhhb194blcwRU1FX2gzQVYxeXRKQk9OLTRQanJfZkVpN2otd1Znb0dPRjFB?oc=5",
       "sentiment": "Neutral",
       "importance_score": 6,
-      "short_term_impact": "Reported by www.pib.gov.in on 2026-11-19. Corporate development in Institutional & Promoter Activity.",
+      "short_term_impact": "Reported by पीआईबी on 2026-11-19. Corporate development in Institutional & Promoter Activity.",
       "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
       "thesis_impact": "Neutral",
       "opportunities": "Monitoring risk factors and entry levels.",
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
-      "hidden_implications": "Information verified directly from www.pib.gov.in publication."
-    },
-    {
-      "date": "2026-11-20",
-      "headline": "HDFC Bank Market Capitalisation Reclaims ₹13 Lakh Crore After ₹2.38 Lakh Crore Addition in 15 Sessions - Kotak Neo",
-      "category": "Government Policy & Regulatory",
-      "source_name": "Kotak Neo",
-      "source_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUTVPN19SYjAybFp6UU9NVldPeEtER05YME9haVJvUGpaLWZmYy1IeHVDeTZ5WmlaYkJzSmVxdDF0ZVJDTDNHVzdPVG1udWtrbDg0SXJYVG4tNXRQWU9faE9aSENRRjdEY09IYnFROVpWT0tlbG5LY054YmVKcmZjSi1haDE4NE9pQTkzamZR?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by Kotak Neo on 2026-11-20. Corporate development in Government Policy & Regulatory.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from Kotak Neo publication."
+      "hidden_implications": "Information verified directly from पीआईबी publication."
     }
   ]
 }

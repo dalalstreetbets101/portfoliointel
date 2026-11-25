@@ -3,10 +3,10 @@
   "company_name": "EMS Ltd",
   "sector": "Infra & Railways",
   "news_found": true,
-  "ltp": 295.05,
-  "change": -7.1,
-  "change_percent": -2.35,
-  "prev_close": 302.15,
+  "ltp": 289.5,
+  "change": -5.55,
+  "change_percent": -1.88,
+  "prev_close": 295.05,
   "fifty_two_week_high": 464.7,
   "fifty_two_week_low": 256.05,
   "currency": "INR",
@@ -17,7 +17,7 @@
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
     "order_inflow_changes": "(2026-11-20) EMS secures Rs 13.96 crore order from NHAI for fee plaza operations in Assam - Business Upturn [Business Upturn]",
-    "demand_cycle_changes": "(2026-11-20) EMS Investor Analysis | StockIQ - The Economic Times [The Economic Times]",
+    "demand_cycle_changes": "Demand trends across institutional and retail segments.",
     "management_commentary": "Quarterly guidance and management strategic updates.",
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
@@ -38,22 +38,6 @@
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
       "hidden_implications": "Information verified directly from Business Upturn publication."
-    },
-    {
-      "date": "2026-11-20",
-      "headline": "EMS Investor Analysis | StockIQ - The Economic Times",
-      "category": "Capex & Expansion",
-      "source_name": "The Economic Times",
-      "source_link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS1VKWTdYOXJfdnMzd0pKWDd0US1pMHI2Q0lPNHdLNmY1OTNmZkp3VFNZTEdES0lBVmxpTUJJLWk5a25yY1ZsR0VTMnl2S0U2QzFTSkVHLTAwYngxODUydWp1QzY3eXB3Wk1KQk0teWJLa0djM2lRYk4tU0lmc0k3NA?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by The Economic Times on 2026-11-20. Corporate development in Capex & Expansion.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from The Economic Times publication."
     }
   ]
 }

@@ -3,10 +3,10 @@
   "company_name": "Jio Financial Services Limited",
   "sector": "Financials",
   "news_found": true,
-  "ltp": 219.7,
-  "change": -5.27,
-  "change_percent": -2.34,
-  "prev_close": 224.97,
+  "ltp": 222.85,
+  "change": 3.15,
+  "change_percent": 1.43,
+  "prev_close": 219.7,
   "fifty_two_week_high": 309.8,
   "fifty_two_week_low": 202.51,
   "currency": "INR",
@@ -17,7 +17,7 @@
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
     "order_inflow_changes": "Commercial order book and revenue visibility.",
-    "demand_cycle_changes": "Demand trends across institutional and retail segments.",
+    "demand_cycle_changes": "(2026-11-18) Jio Financial Services, BlackRock invest ₹123 crore each in Jio BlackRock Asset Management - CNBC TV18 [CNBC TV18]",
     "management_commentary": "Quarterly guidance and management strategic updates.",
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
@@ -40,22 +40,6 @@
       "hidden_implications": "Information verified directly from tele.net publication."
     },
     {
-      "date": "2026-11-18",
-      "headline": "IEPFA and SEBI Organise \"Niveshak Shivir\" in New Delhi to Resolve Investor Grievances and Unclaimed Dividend Claims - www.pib.gov.in",
-      "category": "Corporate Action & M&A",
-      "source_name": "www.pib.gov.in",
-      "source_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Rc1oyY2xLSklMSGhsV1VHUjNTWjBHYklMU1JiLTNJZndhU0I3azBwM1hhdTVOaEljVUVydm1kVmNfUWRXTV9IcHNtQ0lOVFlxcHdtS0Y2b3c4Y1VfQ18zWmd0Q2VraGh0?oc=5",
-      "sentiment": "Bullish",
-      "importance_score": 7,
-      "short_term_impact": "Reported by www.pib.gov.in on 2026-11-18. Corporate development in Corporate Action & M&A.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Bullish",
-      "opportunities": "Positive operational and institutional sentiment momentum.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from www.pib.gov.in publication."
-    },
-    {
       "date": "2026-11-22",
       "headline": "Jio Financial Services Releases Q4 FY26 Earnings Call Transcript with Business Updates - scanx.trade",
       "category": "Financial Performance & Results",
@@ -70,6 +54,22 @@
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
       "hidden_implications": "Information verified directly from scanx.trade publication."
+    },
+    {
+      "date": "2026-11-18",
+      "headline": "Jio Financial Services, BlackRock invest ₹123 crore each in Jio BlackRock Asset Management - CNBC TV18",
+      "category": "Capex & Expansion",
+      "source_name": "CNBC TV18",
+      "source_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSVpfWVNrQ1RPdWJJYVBhbWg3WU1pUEZqRHhPN1hWekFNZFRYWERMSlV1Vy1nUWZ2Tld3NDRGWUJ6Z0R5UkdranlYVDhaenZPQlB0WjczRlhmdEQ3UWFyMmNYSklVd3dhMHp3RGp4dGlydERramZ1MEtuSWg3aFZnQVVNSHRVdEZ2QkZnekpQYmoyZXJPWkZYbXA3OWJNOEtqSGVXdG12WDlRaTh1clB6cVdwbGNLUWRXZzUxZzVpNUY5aUpWUEpIbHU0c3BXLXFLMHQ0TllINkJLRklaVVc0elc4eUJqbTlzQ0F30gHwAUFVX3lxTE5YMzhKQkxLZzZaYkZ0R3d4THlxX0xkcTMwS1FMWGJBZEVsMmd3Nm82QmM3WTRkRnctc0s0cl9yYWVqVHhyT1NUR2NTTEZvTzg1TXRISndWRXM2SnRTcGRZd2pWTkpOcS1rYTJBYmplYnZ1LXF3RzJiaEVrSG83a00xSTJSNGVNT2lsZXRLSUszSGNLZW4zLXRDUlNwN0E0RUNJYnRZSXJjTDJOVnAyMWV2b1FuQ21PQ0otNDBMU2RxdUlpdEhBQzBjMFB4c254d3BIUU5aQ0RVTlI3TTJLZktObHNiWExPa1VIU0ZlLU9Mbg?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by CNBC TV18 on 2026-11-18. Corporate development in Capex & Expansion.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from CNBC TV18 publication."
     }
   ]
 }

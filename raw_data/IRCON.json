@@ -3,22 +3,22 @@
   "company_name": "Ircon International Ltd",
   "sector": "Infra & Railways",
   "news_found": true,
-  "ltp": 107.83,
-  "change": -1.12,
-  "change_percent": -1.03,
-  "prev_close": 108.95,
+  "ltp": 107.36,
+  "change": -0.47,
+  "change_percent": -0.44,
+  "prev_close": 107.83,
   "fifty_two_week_high": 186.44,
   "fifty_two_week_low": 95.76,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "(2026-11-23) Mahindra Last Mile Mobility eyes IPO in 1.5 years: Here's how it plans to use issue proceeds - Upstox [Upstox]",
+    "direct_company_news": "No material corporate earnings/results reported in the last 7 days.",
     "sector_news": "Sector developments monitored across Infra & Railways.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
-    "order_inflow_changes": "Commercial order book and revenue visibility.",
+    "order_inflow_changes": "(2026-11-23) Ashoka Buildcon shares rally 8% on bagging ₹1,465 crore order from NHAI; check details - Upstox [Upstox]",
     "demand_cycle_changes": "(2026-11-20) Ircon International Stock Price Forecast. Should You Buy IRCON.NS? - StockInvest.us [StockInvest.us]",
-    "management_commentary": "(2026-11-22) IRCON International Share Price Target 2026 Forecast - Univest [Univest]",
+    "management_commentary": "(2026-11-24) IRCON International Stock Prediction 2026: Analyst Targets - Univest [Univest]",
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
@@ -56,20 +56,20 @@
       "hidden_implications": "Information verified directly from StockInvest.us publication."
     },
     {
-      "date": "2026-11-22",
-      "headline": "IRCON International Share Price Target 2026 Forecast - Univest",
-      "category": "Management & Strategy",
-      "source_name": "Univest",
-      "source_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UMUliM2Q5SHFaTVIzazJfLWNocXR1ZE14TTZDa0ItUXEtX2thdTAwRmVHdDlGTGFPMzROWnJ3dFZIQWFqVWVoc0ZKWDZybVRWOXlObHB3QTRJSVItcGpOdUVudmJyT203OGdzczdHekVwWmVzd0hB?oc=5",
+      "date": "2026-11-23",
+      "headline": "Ashoka Buildcon shares rally 8% on bagging ₹1,465 crore order from NHAI; check details - Upstox",
+      "category": "Order Inflows & Contracts",
+      "source_name": "Upstox",
+      "source_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWVpYR1NwVl9hMjFsRlh3d0lrdGM1UTNEVXpEaEYtbGhVX1FObU5HMEpsT1hXR0ozSk5FQnpBTUo4V29SODRlVENxVFdYNWxrdnFwYk1YQmtrWTFtVncyUFp3NGQyUVBIbzFaXzdYUDJrQnE1SDdhYm5PTHF3OE1vSHJGZjZKbHd3Sm11OW9MbUZrazZNNmQwczhoRHFxcVpVS3Z2WWhDUzlzSTAtclpDZ3F5ak54a3YtVXBnbk9kWTdsSmlNUTYtOGxHeUNLNUpwUTBHb0pJUWQzdw?oc=5",
       "sentiment": "Bullish",
       "importance_score": 7,
-      "short_term_impact": "Reported by Univest on 2026-11-22. Corporate development in Management & Strategy.",
+      "short_term_impact": "Reported by Upstox on 2026-11-23. Corporate development in Order Inflows & Contracts.",
       "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
       "thesis_impact": "Bullish",
       "opportunities": "Positive operational and institutional sentiment momentum.",
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
-      "hidden_implications": "Information verified directly from Univest publication."
+      "hidden_implications": "Information verified directly from Upstox publication."
     }
   ]
 }
