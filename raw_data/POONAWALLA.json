@@ -16,11 +16,11 @@
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
-    "order_inflow_changes": "(2026-11-21) Poonawalla Fincorp bets on EMI-based gold loans as NBFCs face repayment risks - bfsi.economictimes.indiatimes.com [bfsi.economictimes.indiatimes.com]",
+    "order_inflow_changes": "(2026-11-25) Which Are the Best NBFCs for Personal Loans in India? - India CSR [India CSR]",
     "demand_cycle_changes": "Demand trends across institutional and retail segments.",
     "management_commentary": "Quarterly guidance and management strategic updates.",
-    "institutional_activity": "(2026-11-24) Kronox promoter Indo Borax pledges 100% of its 64.26% stake - scanx.trade [scanx.trade]",
-    "promoter_activity": "(2026-11-24) Kronox promoter Indo Borax pledges 100% of its 64.26% stake - scanx.trade [scanx.trade]"
+    "institutional_activity": "FII/DII holding changes and block trading trends.",
+    "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
   "developments": [
     {
@@ -56,20 +56,20 @@
       "hidden_implications": "Information verified directly from bfsi.economictimes.indiatimes.com publication."
     },
     {
-      "date": "2026-11-24",
-      "headline": "Kronox promoter Indo Borax pledges 100% of its 64.26% stake - scanx.trade",
-      "category": "Institutional & Promoter Activity",
-      "source_name": "scanx.trade",
-      "source_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU2p0WERXUFlmb25iandqU1R4dlEweWwtUGpBV0pEUncxMnpUN0M3WWw4QUtyTUs4eHByaTlVUG5rYVVYOHRIY0w4Q1FJdElJaVUwOWhBNHZOSlhHMVlnX2QyMWZUWXZMY0MwcXJwYzRFd3pvMDVuZ0tyTEEyTFdFaTJtODlhSlZFaTdXVElwVlNKX0U1MVg0RnRmMjFDeUlvZ1duT3FwY3cwa1ROTVhhLWtZTzlkVC1qVzFmTmlXd3U?oc=5",
+      "date": "2026-11-25",
+      "headline": "Which Are the Best NBFCs for Personal Loans in India? - India CSR",
+      "category": "Order Inflows & Contracts",
+      "source_name": "India CSR",
+      "source_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZdjBRZ01lc2FQVDZjUFhDT0hMUjJxQVdCVmtHa251SnpDOV80N3hsSFlJUTB5eUJDUmJ0aGJNUDV0QmlRSEJjdmFaUW8xZllEY2FUMDZSb1NEQWFIUlFveVlpOFJ5UWhHVVV3?oc=5",
       "sentiment": "Neutral",
       "importance_score": 6,
-      "short_term_impact": "Reported by scanx.trade on 2026-11-24. Corporate development in Institutional & Promoter Activity.",
+      "short_term_impact": "Reported by India CSR on 2026-11-25. Corporate development in Order Inflows & Contracts.",
       "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
       "thesis_impact": "Neutral",
       "opportunities": "Monitoring risk factors and entry levels.",
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
-      "hidden_implications": "Information verified directly from scanx.trade publication."
+      "hidden_implications": "Information verified directly from India CSR publication."
     }
   ]
 }

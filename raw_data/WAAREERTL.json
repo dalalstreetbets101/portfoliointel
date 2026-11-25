@@ -11,7 +11,7 @@
   "fifty_two_week_low": 653.75,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "(2026-11-23) Green Stocks Nov 23- Green Stocks Weather A Tough Day With Limited Losses - Saur Energy [Saur Energy]",
+    "direct_company_news": "(2026-11-25) Waaree Renewable Technologies (NSE:WAAREERTL) Subsidiary Novates Solar Project Rights - Kalkine India [Kalkine India]",
     "sector_news": "Sector developments monitored across Power & Renewables.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
@@ -24,8 +24,23 @@
   },
   "developments": [
     {
+      "date": "2026-11-25",
+      "headline": "Waaree Renewable Technologies Ltd - 534618 - Announcement under Regulation 30 (LODR)-Credit Rating",
+      "source_name": "BSE Official Filing (PDF)",
+      "source_link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/89a1cb8f-0bd4-4e02-998d-4b13573aa21c.pdf",
+      "sentiment": "Neutral",
+      "importance_score": 9,
+      "short_term_impact": "Official regulatory disclosure filed with BSE under Scrip Code 534618.",
+      "long_term_impact": "Direct regulatory compliance event filed on official exchange repository.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Verified exchange-level corporate action/announcement.",
+      "risks": "Subject to operational execution.",
+      "red_flags": "None",
+      "hidden_implications": "Original signed filing document available at official BSE repository."
+    },
+    {
       "date": "2026-11-24",
-      "headline": "Waaree Renewable subsidiary novates solar project rights for ₹79 Cr - scanx.trade",
+      "headline": "Waaree Renewable subsidiary novates solar project rights for \u20b979 Cr - scanx.trade",
       "category": "Corporate Action & M&A",
       "source_name": "scanx.trade",
       "source_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaU4ybE8yOURGWnVYQ2NoclhMY3ZkWVh2MWZRZFd0SzdudXFGVEpDWnpnUDJCbDRySHJhQVVCSU55c1dpMWRUdE1zMmVkUzJubl8wUkhuWDBnVnlTVmRCZGhHNFNFemNlLVQ3UlNpeHcwMi1TZklkWnl5SDJ1VDlyZGFmT1lQLWNsZXhSdEs2bzBCamUwMno3b05URmI0SG1Gd0lqY0xUclVYNG9fbDBtMi1WeDVOUTVPNS1B?oc=5",
@@ -40,20 +55,20 @@
       "hidden_implications": "Information verified directly from scanx.trade publication."
     },
     {
-      "date": "2026-11-23",
-      "headline": "Green Stocks Nov 23- Green Stocks Weather A Tough Day With Limited Losses - Saur Energy",
-      "category": "Strategic Corporate News",
-      "source_name": "Saur Energy",
-      "source_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONWR2SlBVSE5Cb213Z1RTYldPb3ZVWWNUNmNMYkdTNGNoSmNnX3lMSGRvSjN0YjJzNjNGRDdFNXNtaXpKdXVtbmJmOF9WU1JEMHNrbnJlTTN3RXI3OEh5YWxTbzJBMkp5SGxRM1gxWUgzT1pxZzVleDdhOHltbERDTFZEc2hRM3JDa3lPNjBEdml2eFZjSE9CX2NwSzJENUJvV0hoVWs1cmNYbXJZREUyZEduZy1KcEY4a3owSmM1MWJTQXh2SXJDRUhLbVhLZw?oc=5",
-      "sentiment": "Bearish",
-      "importance_score": 7,
-      "short_term_impact": "Reported by Saur Energy on 2026-11-23. Corporate development in Strategic Corporate News.",
+      "date": "2026-11-25",
+      "headline": "Waaree Renewable Technologies (NSE:WAAREERTL) Subsidiary Novates Solar Project Rights - Kalkine India",
+      "category": "Corporate Action & M&A",
+      "source_name": "Kalkine India",
+      "source_link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOakl5d0luXzI2YndaRUw2TWpWODZ0b1g3dmhsUHVzeWhqeWdOU2pGZ3NVVjJjQ2lzMGh3SGNuZE9mUnJiNmloQnZqb1BmdWh5UGZkN0x1UVYtZG5wbW9saUpqUV85eU1ENUZOMy1lNzc1cUh6V2I4RW5DSkRKLXRCd3hGbXlXOHJ3enlhd0pyX21qV1prN1pVN1JDSDZ5TXdWcFJwME5zS1FsbGpjeG1wVWtQOGlSaUpKRGQ5VkdWc2tzRm5Fa2hiLVI1QVpfTVVSN1ZET0lubkJrSm1xMGhlNUY5akRob3hSR280NVNjZTM4M0gxejQ2T3VFUlE0dw?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Kalkine India on 2026-11-25. Corporate development in Corporate Action & M&A.",
       "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Bearish",
+      "thesis_impact": "Neutral",
       "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Near-term market volatility or earnings/regulatory headwind.",
+      "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
-      "hidden_implications": "Information verified directly from Saur Energy publication."
+      "hidden_implications": "Information verified directly from Kalkine India publication."
     },
     {
       "date": "2026-11-25",

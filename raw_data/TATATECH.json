@@ -11,7 +11,7 @@
   "fifty_two_week_low": 507.4,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "(2026-11-19) Tata Technologies Jumps 10% As FY30 Revenue Target Of $1.3 Bn, Margin Ambitions Lift Sentiment - TradingView [TradingView]",
+    "direct_company_news": "(2026-11-19) Tata Technologies aims to double its revenue by $1.3 billion by 2030 - Business Standard [Business Standard]",
     "sector_news": "Sector developments monitored across IT & Telecom.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
@@ -23,6 +23,22 @@
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
   "developments": [
+    {
+      "date": "2026-11-23",
+      "headline": "Tata Technologies Dividend 2026: ₹8.35, Record Date 18 Jun - INDmoney",
+      "category": "Corporate Action & M&A",
+      "source_name": "INDmoney",
+      "source_link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41eVZySFZNRkc4QkxFR0g2clZqS1JueUdSYngyYWlGenoyQTRCcUlnNlE0V1lHdUI2T2x6YzZpUGJsTEk0YXRJT3RObFFiWnUzYUJUMXM5cFJEeWNGUmE1Z3lRNl9ROThfUjJtQnptRV8yX1BHSDlFUmNTNA?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by INDmoney on 2026-11-23. Corporate development in Corporate Action & M&A.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from INDmoney publication."
+    },
     {
       "date": "2026-11-19",
       "headline": "Tata Technologies Targets $1.3 Billion Revenue By 2030 - Autocar Professional",
@@ -54,22 +70,6 @@
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
       "hidden_implications": "Information verified directly from Business Standard publication."
-    },
-    {
-      "date": "2026-11-19",
-      "headline": "Tata Technologies Jumps 10% As FY30 Revenue Target Of $1.3 Bn, Margin Ambitions Lift Sentiment - TradingView",
-      "category": "Financial Performance & Results",
-      "source_name": "TradingView",
-      "source_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZVJmRDdYNnI3ZVlnNWtYVC1LNGdXdUw2cWt5S1lzM1g0V2NRVlFZYlJkTlp5VWhfQzIwYUNiazlkZHpxWlhBWmtGRHlSTG5mdXFIcFE2X2xtaU52ZF9KQzdkOXlDbkc2elpMMnF3LVBmNDFGZHlTeHRDWTNtVjEwa3JBMHpXdk9mbWpxRnM3RnRBZmZwRW5oRTgyLW5tUWNXQjhTOGhqNWNWMGcxTTdNZk1qem55a3ZLX0ZBWDhwNjdwZzFPbkZaQ0t4aFkzNWxEb25EMG1RVzN4WUhaTGNKVE9n?oc=5",
-      "sentiment": "Bullish",
-      "importance_score": 7,
-      "short_term_impact": "Reported by TradingView on 2026-11-19. Corporate development in Financial Performance & Results.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Bullish",
-      "opportunities": "Positive operational and institutional sentiment momentum.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from TradingView publication."
     }
   ]
 }

@@ -16,29 +16,13 @@
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
-    "order_inflow_changes": "(2026-11-22) RailTel wins ₹27 crore order to develop Legal AI platform for Andhra Pradesh government - CNBC TV18 [CNBC TV18]",
+    "order_inflow_changes": "(2026-11-25) RailTel Wins Rs. 270.26 mn Order for Andhra Pradesh Legal AI Platform - Construction World [Construction World]",
     "demand_cycle_changes": "Demand trends across institutional and retail segments.",
     "management_commentary": "Quarterly guidance and management strategic updates.",
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
   "developments": [
-    {
-      "date": "2026-11-18",
-      "headline": "RailTel Corporation Secures ₹4,44,44,44,444 KSWAN 3.0 Order from Centre For E-Governance - scanx.trade",
-      "category": "Order Inflows & Contracts",
-      "source_name": "scanx.trade",
-      "source_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNzZLTGxNZjdQM243bm9tQ21XdU1wdUZDWEJfb25qeFNpUVBGRzhRX0MtTFlrSDFrQXo3Q1lGaFUya3hTV0hrN3J5cmt3VFQ3MS0yb2dnblM5bndybFd0SlAyUTZWLVJkdEs0Tl9kOTNZZ2VSdkdOTm43aDU0V093SmV0YXdWdjFBOE1abW4zX0JjSlBidmhPVzVpcWM0ZFhDZ0daR0FRY1haTjRFbC1ELVZvQ0FRYXNZRTc0Z2ZFdHFIRE5FSDdrcURhY3B4c2I5WHc?oc=5",
-      "sentiment": "Bullish",
-      "importance_score": 7,
-      "short_term_impact": "Reported by scanx.trade on 2026-11-18. Corporate development in Order Inflows & Contracts.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Bullish",
-      "opportunities": "Positive operational and institutional sentiment momentum.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from scanx.trade publication."
-    },
     {
       "date": "2026-11-22",
       "headline": "RailTel bags ₹27 crore order for AI-powered legal assistant platform in Andhra Pradesh - ET Infra",
@@ -70,6 +54,22 @@
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
       "hidden_implications": "Information verified directly from CNBC TV18 publication."
+    },
+    {
+      "date": "2026-11-25",
+      "headline": "RailTel Wins Rs. 270.26 mn Order for Andhra Pradesh Legal AI Platform - Construction World",
+      "category": "Order Inflows & Contracts",
+      "source_name": "Construction World",
+      "source_link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxORnd0VGVlaEQ5UXJKb3pzOUY0Y2t3NVRlaWE1dmFjVlJFZkVldTJtdHFobnVuYVBoVGpUNkxUM3EyX24wUGZYUXJaakNlYWw0cWxxdTVWbldjSHNqUkJsQXJVTGRjUlNPaG9kbWhQa0YwbndSdWlKa1JEV255V3ZBYVM1U29vZ1pnM0RlbW55Y0R2TWdTa3hoemMtSElSUW9VVGYwSzllcHNOaXBZOEsxYWVUMW55dHpLX0Y5cmZkMjhnaVhqRWVkbC1SaF91S2pwRnduUDdYR2RMSU0wVjlmaXZDVTE0RVo3aFVJWlcyZWNYY2J6M1ZPUXVEdU8wMHBLOFZ3?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by Construction World on 2026-11-25. Corporate development in Order Inflows & Contracts.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Construction World publication."
     }
   ]
 }

@@ -14,18 +14,33 @@
     "direct_company_news": "No material corporate earnings/results reported in the last 7 days.",
     "sector_news": "Sector developments monitored across Financials.",
     "competitor_news": "Peer performance and market share movements.",
-    "government_policy_changes": "(2026-11-23) SBI, HDFC Bank, ICICI Bank retain D-SIB status; RBI maintains capital requirements - The Hindu [The Hindu]",
+    "government_policy_changes": "(2026-11-23) RBI retains SBI, HDFC Bank and ICICI Bank in 2026 list of systemically important banks - bfsi.economictimes.indiatimes.com [bfsi.economictimes.indiatimes.com]",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
     "order_inflow_changes": "Commercial order book and revenue visibility.",
     "demand_cycle_changes": "Demand trends across institutional and retail segments.",
     "management_commentary": "Quarterly guidance and management strategic updates.",
-    "institutional_activity": "(2026-11-19) RBI, Kohima holds Special Meeting with Stakeholders for Financial Inclusion of Noklak District - पीआईबी [पीआईबी]",
-    "promoter_activity": "(2026-11-19) RBI, Kohima holds Special Meeting with Stakeholders for Financial Inclusion of Noklak District - पीआईबी [पीआईबी]"
+    "institutional_activity": "FII/DII holding changes and block trading trends.",
+    "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
   "developments": [
     {
+      "date": "2026-11-25",
+      "headline": "HDFC Bank Ltd - 500180 - Announcement under Regulation 30 (LODR)-Change in Directorate",
+      "source_name": "BSE Official Filing (PDF)",
+      "source_link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/74191bfa-12e0-4cc3-9e25-56875f02c1a5.pdf",
+      "sentiment": "Neutral",
+      "importance_score": 9,
+      "short_term_impact": "Official regulatory disclosure filed with BSE under Scrip Code 500180.",
+      "long_term_impact": "Direct regulatory compliance event filed on official exchange repository.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Verified exchange-level corporate action/announcement.",
+      "risks": "Subject to operational execution.",
+      "red_flags": "None",
+      "hidden_implications": "Original signed filing document available at official BSE repository."
+    },
+    {
       "date": "2026-11-20",
-      "headline": "HDFC Bank Market Capitalisation Reclaims ₹13 Lakh Crore After ₹2.38 Lakh Crore Addition in 15 Sessions - Kotak Neo",
+      "headline": "HDFC Bank Market Capitalisation Reclaims \u20b913 Lakh Crore After \u20b92.38 Lakh Crore Addition in 15 Sessions - Kotak Neo",
       "category": "Government Policy & Regulatory",
       "source_name": "Kotak Neo",
       "source_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUTVPN19SYjAybFp6UU9NVldPeEtER05YME9haVJvUGpaLWZmYy1IeHVDeTZ5WmlaYkJzSmVxdDF0ZVJDTDNHVzdPVG1udWtrbDg0SXJYVG4tNXRQWU9faE9aSENRRjdEY09IYnFROVpWT0tlbG5LY054YmVKcmZjSi1haDE4NE9pQTkzamZR?oc=5",
@@ -56,20 +71,20 @@
       "hidden_implications": "Information verified directly from The Hindu publication."
     },
     {
-      "date": "2026-11-19",
-      "headline": "RBI, Kohima holds Special Meeting with Stakeholders for Financial Inclusion of Noklak District - पीआईबी",
-      "category": "Institutional & Promoter Activity",
-      "source_name": "पीआईबी",
-      "source_link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zek5rY0U1ZWR0cXI2OXhmdHFYbGNZZGh1VDFpUmFzZWQyZm1MQ0xUazRIQnlWZWU1aDQycDhhb194blcwRU1FX2gzQVYxeXRKQk9OLTRQanJfZkVpN2otd1Znb0dPRjFB?oc=5",
+      "date": "2026-11-23",
+      "headline": "RBI retains SBI, HDFC Bank and ICICI Bank in 2026 list of systemically important banks - bfsi.economictimes.indiatimes.com",
+      "category": "Government Policy & Regulatory",
+      "source_name": "bfsi.economictimes.indiatimes.com",
+      "source_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSHZrSGlWVVI2bE9wM3oxZUJnNHpxTTBPUDB2YVp2VTdzY0VaOVQ5Vk4wTHYwam1kSm9nVEQ0d2lHLUpOcjR5d2JKUHA2QWRMN1h5NFVoR3p4UWpiZkdXcGVJckQ5VjlVbm5zbURIMExoNzVEZVBVQkVYYzQ1NWhWTElrRjBLQkJMVkFlQTRPeHBGV0lIWmxOd0xsM1JNcHZ3TDktekp2Tlpxelp6UU9MWEFlVjRKV3ZjR3hOYm1KZnl3M0V1a0tKU1d0T2tCQndlaGlybWIxRU1TQkVFQW8w0gHkAUFVX3lxTE5iZlZhdVVQa3ZCN2ZQcFBBaFQ5NWltajMweWU2V1dvTEVFajNSVHZFazdnQWl0bm0wNkQyU2FmVFY2MDctOUtkeDNCWVBpU2laRUYxaUR5eExGWFVIbzhKMmd1N1pSWkdvYVhraFZ5b1J5bjk1TERKbmpmMGU5WUJRTzdGUngydDhOVEx0R0dOUk9SQ2lwX1lVamlmd1ZVb295UENhbm5ubm94LUhLX3QyVEpsV2JqalF0U3NaZGctdEswbmNWQjNQYlo4NjQ0VUgzbGhSVGxYUXlOQjRFMTNadjRDYw?oc=5",
       "sentiment": "Neutral",
       "importance_score": 6,
-      "short_term_impact": "Reported by पीआईबी on 2026-11-19. Corporate development in Institutional & Promoter Activity.",
+      "short_term_impact": "Reported by bfsi.economictimes.indiatimes.com on 2026-11-23. Corporate development in Government Policy & Regulatory.",
       "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
       "thesis_impact": "Neutral",
       "opportunities": "Monitoring risk factors and entry levels.",
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
-      "hidden_implications": "Information verified directly from पीआईबी publication."
+      "hidden_implications": "Information verified directly from bfsi.economictimes.indiatimes.com publication."
     }
   ]
 }

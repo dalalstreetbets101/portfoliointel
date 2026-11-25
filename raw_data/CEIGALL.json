@@ -17,12 +17,42 @@
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
     "order_inflow_changes": "Commercial order book and revenue visibility.",
-    "demand_cycle_changes": "Demand trends across institutional and retail segments.",
-    "management_commentary": "(2026-11-25) Ceigall India Share Price Target 2027: 3.1% Upside, Bull Rs 473 - Univest [Univest]",
+    "demand_cycle_changes": "(2026-11-25) Ceigall India to host analyst and investor meetings in Mumbai - scanx.trade [scanx.trade]",
+    "management_commentary": "(2026-11-23) Ceigall India Share Price Target 2026 Analyst Forecast - Univest [Univest]",
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
   "developments": [
+    {
+      "date": "2026-11-25",
+      "headline": "Ceigall India Ltd - 544223 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+      "source_name": "BSE Official Filing (PDF)",
+      "source_link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/4c645475-a9e7-40bd-b30d-2f2e41ca620f.pdf",
+      "sentiment": "Neutral",
+      "importance_score": 9,
+      "short_term_impact": "Official regulatory disclosure filed with BSE under Scrip Code 544223.",
+      "long_term_impact": "Direct regulatory compliance event filed on official exchange repository.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Verified exchange-level corporate action/announcement.",
+      "risks": "Subject to operational execution.",
+      "red_flags": "None",
+      "hidden_implications": "Original signed filing document available at official BSE repository."
+    },
+    {
+      "date": "2026-11-25",
+      "headline": "Ceigall India Ltd - 544223 - Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation",
+      "source_name": "BSE Official Filing (PDF)",
+      "source_link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/b2e10f85-c87f-4a85-b2af-2874bf8066a8.pdf",
+      "sentiment": "Neutral",
+      "importance_score": 9,
+      "short_term_impact": "Official regulatory disclosure filed with BSE under Scrip Code 544223.",
+      "long_term_impact": "Direct regulatory compliance event filed on official exchange repository.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Verified exchange-level corporate action/announcement.",
+      "risks": "Subject to operational execution.",
+      "red_flags": "None",
+      "hidden_implications": "Original signed filing document available at official BSE repository."
+    },
     {
       "date": "2026-11-23",
       "headline": "Ceigall India Share Price Target 2026 Analyst Forecast - Univest",
@@ -41,6 +71,22 @@
     },
     {
       "date": "2026-11-25",
+      "headline": "Ceigall India to host analyst and investor meetings in Mumbai - scanx.trade",
+      "category": "Capex & Expansion",
+      "source_name": "scanx.trade",
+      "source_link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYWtMOTEtZW9IR0h6cHZROXNQV0Y2Y25RZ3E0Z19UTWh6Q2JxOFJ1QW1tTnZGdUxWZ1V6dWlUWUNWbE9zSTF2SnBUTVpuaXBVS2lUUW5VMzlkTXdxajVpM2YxZHV2MnRJZHlWLWRZcjBJZE16QnBLYmVnQ3ozZU9JeHprQkd3aUowa3BIU2dPbHE1dUVCWHZjS3NidHJCY21fNnp3LUl0QWJzNnFV?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by scanx.trade on 2026-11-25. Corporate development in Capex & Expansion.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from scanx.trade publication."
+    },
+    {
+      "date": "2026-11-25",
       "headline": "Ceigall India CEIGALL Postal Ballot Notice Dispatch 2026 - Kalkine India",
       "category": "Financial Performance & Results",
       "source_name": "Kalkine India",
@@ -54,22 +100,6 @@
       "risks": "Near-term market volatility or earnings/regulatory headwind.",
       "red_flags": "None",
       "hidden_implications": "Information verified directly from Kalkine India publication."
-    },
-    {
-      "date": "2026-11-25",
-      "headline": "Ceigall India Share Price Target 2027: 3.1% Upside, Bull Rs 473 - Univest",
-      "category": "Management & Strategy",
-      "source_name": "Univest",
-      "source_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zcTg2bmlvMFpuRzhpcmpEaVB3UkFGSWxDN3FXSkljVmpVMk56dlVpYXlaNkVPMWloRzNRMXRiSnk5ZHpMczREZXdkTzNVbTB2UUZiYl9CODVaejcyaTlKVW9oOUFXdnBfN0FpNEY1RQ?oc=5",
-      "sentiment": "Bullish",
-      "importance_score": 7,
-      "short_term_impact": "Reported by Univest on 2026-11-25. Corporate development in Management & Strategy.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Bullish",
-      "opportunities": "Positive operational and institutional sentiment momentum.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from Univest publication."
     }
   ]
 }
