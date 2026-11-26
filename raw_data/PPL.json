@@ -3,10 +3,10 @@
   "company_name": "Prakash Pipes Ltd",
   "sector": "Auto, FMCG & Energy",
   "news_found": true,
-  "ltp": 220.84,
-  "change": 7.39,
-  "change_percent": 3.46,
-  "prev_close": 213.45,
+  "ltp": 222.63,
+  "change": 1.79,
+  "change_percent": 0.81,
+  "prev_close": 220.84,
   "fifty_two_week_high": 334.4,
   "fifty_two_week_low": 163.21,
   "currency": "INR",
@@ -18,7 +18,7 @@
     "raw_material_changes": "Input cost trends monitored against operating margins.",
     "order_inflow_changes": "Commercial order book and revenue visibility.",
     "demand_cycle_changes": "Demand trends across institutional and retail segments.",
-    "management_commentary": "Quarterly guidance and management strategic updates.",
+    "management_commentary": "(2026-11-23) Prakash Pipes Share Price Target 2026 Analyst Forecast - Univest [Univest]",
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
@@ -38,6 +38,22 @@
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
       "hidden_implications": "Information verified directly from Simply Wall St publication."
+    },
+    {
+      "date": "2026-11-23",
+      "headline": "Prakash Pipes Share Price Target 2026 Analyst Forecast - Univest",
+      "category": "Management & Strategy",
+      "source_name": "Univest",
+      "source_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55RUVadnRINTBBZzBySFRkM0hQWVloWU4wWW4zbTVfa1Y1TEc3WFlwS0Q1WFFFcnZNRWRnU0FfVkZZeVdZWHZSaE9hSG5rMy1xUjliRy1VZkdJSFpaNkUtSGpMZXFTM0w0OEo4Z0RhNA?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by Univest on 2026-11-23. Corporate development in Management & Strategy.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Univest publication."
     }
   ]
 }

@@ -3,15 +3,15 @@
   "company_name": "Central Depository Services (India) Limited",
   "sector": "Financials",
   "news_found": true,
-  "ltp": 1413,
-  "change": 18,
-  "change_percent": 1.29,
-  "prev_close": 1395,
+  "ltp": 1441,
+  "change": 28,
+  "change_percent": 1.98,
+  "prev_close": 1413,
   "fifty_two_week_high": 1638.9,
   "fifty_two_week_low": 1116.3,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "(2026-11-25) Ceigall India CEIGALL Postal Ballot Notice Dispatch 2026 - Kalkine India [Kalkine India]",
+    "direct_company_news": "(2026-11-26) NSDL Vs CDSL: One leads in profits, the other in custody value – mapping Q2 performance - The Financial Express [The Financial Express]",
     "sector_news": "Sector developments monitored across Financials.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "(2026-11-23) Capital Market Stocks Slide Up to 3% as SEBI Weighs Linking - Univest [Univest]",
@@ -56,20 +56,20 @@
       "hidden_implications": "Information verified directly from Univest publication."
     },
     {
-      "date": "2026-11-25",
-      "headline": "Ceigall India CEIGALL Postal Ballot Notice Dispatch 2026 - Kalkine India",
+      "date": "2026-11-26",
+      "headline": "NSDL Vs CDSL: One leads in profits, the other in custody value – mapping Q2 performance - The Financial Express",
       "category": "Financial Performance & Results",
-      "source_name": "Kalkine India",
-      "source_link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZEhUV2J6QUZvb0RwX2h4NHpqMVBKVHdkN1pnRjRhS09FNnp5MVRtN2hsV05QUlcxME5oV0w3Wk51elBiRUVSemVQendoTWk2bDF0bVhfSmtHaXdnYXViY1hKUXJERjJrWTJYbE1NelN0ZVpsZlM0QmMzckJLdmtZQzBxZnJ0NTVqMVhmMXRiOXJYbkVaUi03dDZ5TzBCVWFEN0xiSGxOdEJNRTRIOVVleDZOZjd0SUNyTWRnRWRR?oc=5",
-      "sentiment": "Bearish",
-      "importance_score": 7,
-      "short_term_impact": "Reported by Kalkine India on 2026-11-25. Corporate development in Financial Performance & Results.",
+      "source_name": "The Financial Express",
+      "source_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS29TZmR0ak1WbFlIOTNPVDVaTjhUaDlhbDhqdnNhTG1aTjZVTnQzMEdTbjdjSW1wMjFodXhFUFJGMXFNN0I3c2tmSWdnY1RpNUlXdDU1bmRRcEdpRGo5X0tRZU9HcW5iTGV6aUxWWmhWSzllMmNEN1VUd1ZkNUlQc1hpMHZSTDAzTTJtcFhlbmJLRzlCM3JYLWVpWXFNRmlzWHFkSi10NXVjOUprSWtfWVlnYUE3MmZGZmpENTJTS1Vza1hLcFh4UEEyT1rSAdMBQVVfeXFMTi1Lc2NJY2pxNThNdUg1UWp2clhaYXowd1NwWC1uQ1JzTXJiY0pZRDljbElvYVN5Q2FUc2NTaV9xd0hHbk1DZFVxVWI4UVh5UGJSM3owaWNmUHlCZW55VTY5WG9mc0ZrYmRELW4tM0ZaUUx1anNQMW9rTFZmaDVYMGhhbERldG9PajdVeVY2c243ZU8xRXF1MEcxVndnUUMtSzZ5U0N3a3NVUVlvRkZYOXRYQkx1eG5ELUppaDNzbUQ3b3o0VlB2SlZjNUZfTlBTcUxuMA?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by The Financial Express on 2026-11-26. Corporate development in Financial Performance & Results.",
       "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Bearish",
+      "thesis_impact": "Neutral",
       "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Near-term market volatility or earnings/regulatory headwind.",
+      "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
-      "hidden_implications": "Information verified directly from Kalkine India publication."
+      "hidden_implications": "Information verified directly from The Financial Express publication."
     }
   ]
 }

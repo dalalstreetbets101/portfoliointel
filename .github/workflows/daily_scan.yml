@@ -2,8 +2,10 @@ name: Daily Stock Scan & Website Update
 
 on:
   schedule:
-    # Runs at 12:00 UTC (5:30 PM IST), Monday through Friday after Indian market close
-    - cron: '0 12 * * 1-5'
+    # Runs at off-peak minutes after Indian market close (5:55 PM IST & 6:25 PM IST fallback)
+    # Using non-zero minutes (:25, :55) avoids GitHub Actions :00 peak queue drops and delays
+    - cron: '25 12 * * 1-5'
+    - cron: '55 12 * * 1-5'
   workflow_dispatch: # Allows manual trigger button from GitHub Actions UI
 
 permissions:

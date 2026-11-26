@@ -3,11 +3,11 @@
   "company_name": "Welspun Living Ltd",
   "sector": "Auto, FMCG & Energy",
   "news_found": true,
-  "ltp": 276.57,
-  "change": 5.81,
-  "change_percent": 2.15,
-  "prev_close": 270.76,
-  "fifty_two_week_high": 278.99,
+  "ltp": 280.35,
+  "change": 3.78,
+  "change_percent": 1.37,
+  "prev_close": 276.57,
+  "fifty_two_week_high": 284.5,
   "fifty_two_week_low": 107.1,
   "currency": "INR",
   "canvas_categories": {
@@ -17,8 +17,8 @@
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
     "order_inflow_changes": "Commercial order book and revenue visibility.",
-    "demand_cycle_changes": "(2026-11-22) Welspun Living plans ₹3,200 crore investment in capacity expansion by December 2028 - CNBC TV18 [CNBC TV18]",
-    "management_commentary": "Quarterly guidance and management strategic updates.",
+    "demand_cycle_changes": "(2026-11-23) Welspun Living Plans Rs 3,200 Crore Capex for 30% Towel Growth - Multibagg AI [Multibagg AI]",
+    "management_commentary": "(2026-11-25) Buy Welspun Living; target of Rs 320: Motilal Oswal - Moneycontrol.com [Moneycontrol.com]",
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
@@ -41,10 +41,10 @@
     },
     {
       "date": "2026-11-23",
-      "headline": "Welspun Living targets 30% towel capacity rise with ₹3,200 crore - Multibagg AI",
+      "headline": "Welspun Living Plans Rs 3,200 Crore Capex for 30% Towel Growth - Multibagg AI",
       "category": "Capex & Expansion",
       "source_name": "Multibagg AI",
-      "source_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcTVGM3h0ZGdsa0hrSmVoS1libl95YTRBVzZOUTl4MW9yc0h5LTBoV0pfX2gzeEVDdEtiWnk2ZVlGX1oteFhoU01ZZEZZNFZKS1Qwb3EwbmNLSHdpMXE3MVFmbk5vM18zWjRSQXpUQWxzX1NhaXJWS2J4MUt2SVBVRmFMbVVMOW93QTVxTU54M2RiMjFKYmtEYXc2WTNoRDlkbzB4dVlVR1IyMkhxZHdCT2F3?oc=5",
+      "source_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUW54WmlEVHhxaDFOWjh4bjdmekdxSkt2eFY3Wm9qQklHRFdlekdjS2h1R3czSTIzakozbUpOejJtQVZCdGljMHE4cGZwYVNaczRod1dNMHA1UV9QcDhNY2ZDR3dCMWRCVGxoNC1TeTR4c2pVb1RjRmlfSmtyeENQSzNlRHJLbXZDTXdHREVmNzJlWjZoXzhSbWQteEpnY2VuSXRHVVQzOC1FcDA?oc=5",
       "sentiment": "Bullish",
       "importance_score": 7,
       "short_term_impact": "Reported by Multibagg AI on 2026-11-23. Corporate development in Capex & Expansion.",
@@ -56,20 +56,20 @@
       "hidden_implications": "Information verified directly from Multibagg AI publication."
     },
     {
-      "date": "2026-11-22",
-      "headline": "Welspun Living plans ₹3,200 crore investment in capacity expansion by December 2028 - CNBC TV18",
-      "category": "Capex & Expansion",
-      "source_name": "CNBC TV18",
-      "source_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTzRCdm9GZ2I4YmJRU1E0dWJYVkw0N2M3SHdteUdzVW1DQlc3a2xHNFhXRTJjSUtHYjZtRy1IemFSMUR5clEwdVhPaGpubkFNUGJyZTAwQS1ERnZSc0ZrU2N6MzVENF83bnlZRkJXOERzeWlWM3psbHIyb045bERiS19PbDMtMFlISG9PWDB0dVIxSFZiUFZDSXpkdDFZdFNZOGtFRGZHQzN0aWtjZkxwZnQtdEFfNzFhWEhGTXZ0VFR1amk1MDFDU09LbHJTR1Zr0gHWAUFVX3lxTE84TmRFZTFrWEZhOUxpNWNzVFpObEJFYmhoeGtfU1FPa2hqTURoRVJ5RzF6WDREdWhjbi1XSVZUYUd2aWV2aUw1NHBwSW1fQkhtUHJrVm02Nk1hRGQ5S1FmLWdLMC1zSEo5aUEzckhEbUJlYk4xa19CZHY0eUhxU2ZVSUNtaUR4UjJNeGF5cGk5QWZlakRqXzd4SVpLdGVKS2dBejIyUFhSTXFjSElsSW9jQjQ3M0dDVTRKVzRqSDh1bF9JLWhlRUhpWTRHMUJRSnZkU0hDZmc?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by CNBC TV18 on 2026-11-22. Corporate development in Capex & Expansion.",
+      "date": "2026-11-25",
+      "headline": "Buy Welspun Living; target of Rs 320: Motilal Oswal - Moneycontrol.com",
+      "category": "Management & Strategy",
+      "source_name": "Moneycontrol.com",
+      "source_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWHNKbGJVZG1hVXNLSzZfVnVBZnpDMEhQdnBTazRLYjNOQ2tKenFFc293bXpsMXEyZkk4MXZKclY3OVNVOFg2ZlBxTkZLak8wbC1GQWxOLXJ4ZWlvWVRmOGZvb0dXR0RCamI5a09IcEpBaERqeDU5d20taTZhdDJRb1AtelpseUFnVEltazVjU0RLVHRMTnMtM05CdXFjZk5mbHVFMWtNOUw5Z9IBrwFBVV95cUxQOXBCRzdORkNjdGdDUVAtZGhOeTFLTzZpUFNkZU1EdGg3bFpDU1hSQ21GYkstTGRUUzBjeWNlOTFMcTkxZUplMnFZSWpFNmpBeEVvTWdhRVE4cFFBd2hyclNLbnJxd1ZmUFl1TzFmTVR6cnAtTHFpcVpodDVzNTJjRDFmaGNFRzRpdmZfdmI1N2NnWW9lTWhZR2loR0JERExKejFiMjRqQkJqYXFvOFZn?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by Moneycontrol.com on 2026-11-25. Corporate development in Management & Strategy.",
       "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
-      "hidden_implications": "Information verified directly from CNBC TV18 publication."
+      "hidden_implications": "Information verified directly from Moneycontrol.com publication."
     }
   ]
 }

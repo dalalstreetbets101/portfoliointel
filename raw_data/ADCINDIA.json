@@ -3,10 +3,10 @@
   "company_name": "ADC India Communications Ltd",
   "sector": "IT & Telecom",
   "news_found": true,
-  "ltp": 2180.55,
-  "change": 53.8,
-  "change_percent": 2.53,
-  "prev_close": 2126.75,
+  "ltp": 2173.75,
+  "change": -6.8,
+  "change_percent": -0.31,
+  "prev_close": 2180.55,
   "fifty_two_week_high": 2678.35,
   "fifty_two_week_low": 1150.25,
   "currency": "INR",
@@ -17,7 +17,7 @@
     "government_policy_changes": "(2026-11-20) ADC India Communications appoints Lavanya Ashok as independent director - scanx.trade [scanx.trade]",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
     "order_inflow_changes": "Commercial order book and revenue visibility.",
-    "demand_cycle_changes": "(2026-11-20) ADC India Investor Analysis | StockIQ - The Economic Times [The Economic Times]",
+    "demand_cycle_changes": "Demand trends across institutional and retail segments.",
     "management_commentary": "(2026-11-23) Ex-Goldman Sachs MD Lavanya Ashok joins ADC India Communications Ltd - Whispers in the Corridors [Whispers in the Corridors]",
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
@@ -54,22 +54,6 @@
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
       "hidden_implications": "Information verified directly from scanx.trade publication."
-    },
-    {
-      "date": "2026-11-20",
-      "headline": "ADC India Investor Analysis | StockIQ - The Economic Times",
-      "category": "Capex & Expansion",
-      "source_name": "The Economic Times",
-      "source_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPXzRyekxnTDdJai1NaVFwVldzOHFpdk5pVnI4SUhxQUdwNnZzQ256X0N3NUxESDJzdkpUaUhDcjdxYVpxbS1kYW50R0llY1hqMmYzaTlNY053LUc4MVpDSzFqVTktbzFaZS14RTNuNzdCZDhkN2txejZiLW9jRjhGQ254ZTZqNE1XRlJUODN4NkxHeHNJR1NEUnVWTUY?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by The Economic Times on 2026-11-20. Corporate development in Capex & Expansion.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from The Economic Times publication."
     }
   ]
 }
