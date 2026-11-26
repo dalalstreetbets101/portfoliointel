@@ -9,14 +9,16 @@
 
 | Stock | News Count | Sentiment | Risk Level | Most Important Development |
 | :--- | :---: | :---: | :---: | :--- |
+| **NSE:BSOFT**<br>Birlasoft Limited | 4 | Neutral | Low | Birlasoft Ltd - 532400 - Announcement under Regulation 30 (LODR)-Newspaper Publication |
+| **NSE:HDFCBANK**<br>HDFC Bank Limited | 4 | Neutral | Low | HDFC Bank Ltd - 500180 - Announcement under Regulation 30 (LODR)-Change in Directorate |
+| **NSE:NHPC**<br>NHPC Ltd | 4 | Neutral | Low | `Strategic Corporate News` NBCC & NHPC Sign MoU - https://www.fintechbiznews.com/ |
+| **NSE:WAAREERTL**<br>Waaree Renewable Technologies Ltd | 4 | Neutral | Low | Waaree Renewable Technologies Ltd - 534618 - Announcement under Regulation 30 (LODR)-Credit Rating |
 | **NSE:BBOX**<br>Black Box Limited | 3 | Bearish | Medium | `Government Policy & Regulatory` Black Box Ltd pays ₹1.26 crore RBI penalty for FEMA violations - scanx.trade |
 | **NSE:BSE**<br>BSE Limited | 3 | Neutral | Low | `Strategic Corporate News` Zelio E-Mobility gets BSE nod for ₹168 crore fundraise - Manufacturing Today India |
-| **NSE:BSOFT**<br>Birlasoft Limited | 3 | Neutral | Low | `Strategic Corporate News` BSOFT Outlook for the Week - Equitypandit |
 | **NSE:CDSL**<br>Central Depository Services (India) Limited | 3 | Neutral | Low | `Capex & Expansion` CDSL Data Breach Exposes Sensitive Details of 44 Mn Indian Investors - CISO Mag |
 | **NSE:CEIGALL**<br>Ceigall India Ltd | 3 | Bullish | Low | `Capex & Expansion` Ceigall India to host analyst and investor meetings in Mumbai - scanx.trade |
 | **NSE:EMBDL**<br>Embassy Developments Ltd | 3 | Neutral | Low | `Government Policy & Regulatory` Embassy Developments Updates Share Encumbrance Details Under SEBI Takeover Code - scanx.trade |
 | **NSE:EMSLIMITED**<br>EMS Ltd | 3 | Bullish | Low | `Order Inflows & Contracts` EMS Limited (NSE:EMSLIMITED): Did It Win an NHAI Order Worth Rs 2,595.55 Lakhs? - Kalkine India |
-| **NSE:HDFCBANK**<br>HDFC Bank Limited | 3 | Neutral | Low | `Government Policy & Regulatory` HDFC Bank Market Capitalisation Reclaims ₹13 Lakh Crore After ₹2.38 Lakh Crore Addition in 15 Sessions - Kotak Neo |
 | **NSE:HUDCO**<br>Housing and Urban Development Corporation Limited | 3 | Neutral | Low | `Strategic Corporate News` HUDCO 52 Week Low Streak: Fundamentals and peers - Univest |
 | **NSE:INFY**<br>Infosys Limited | 3 | Bullish | Low | `Strategic Corporate News` INFY Outlook for the Week - Equitypandit |
 | **NSE:IOC**<br>Indian Oil Corporation Ltd | 3 | Bullish | Low | `Strategic Corporate News` IOC Outlook for the Week - Equitypandit |
@@ -24,7 +26,6 @@
 | **NSE:IREDA**<br>Indian Renewable Energy Development Agency Ltd | 3 | Bullish | Low | `Strategic Corporate News` IREDA Share Price Jumps 30% in November After Six-Month Losing Streak; PSU Stock Rebounds From ₹98.78 Low - Kotak Neo |
 | **NSE:ITC**<br>ITC Ltd | 3 | Bearish | Medium | `Financial Performance & Results` ITC Hotels Posts Q1 Gains, Advances Expansion Strategy - https://safariindia.com/ |
 | **NSE:JIOFIN**<br>Jio Financial Services Limited | 3 | Bullish | Low | `Financial Performance & Results` Jio Financial Services Releases Q4 FY26 Earnings Call Transcript with Business Updates - scanx.trade |
-| **NSE:NHPC**<br>NHPC Ltd | 3 | Neutral | Low | `Strategic Corporate News` NBCC & NHPC Sign MoU - https://www.fintechbiznews.com/ |
 | **NSE:OLECTRA**<br>Olectra Greentech Ltd | 3 | Bullish | Low | `Financial Performance & Results` Olectra targets fivefold revenue growth, plans ₹1,000-crore investment - BusinessLine |
 | **NSE:ORIENTTECH**<br>Orient Technologies Limited | 3 | Bullish | Low | `Financial Performance & Results` Recurring Revenue Is Not Guaranteed Profitability: Orient Technologies CFO - TradingView |
 | **NSE:ORIRAIL**<br>Oriental Rail Infrastructure Ltd | 3 | Bullish | Low | `Order Inflows & Contracts` Oriental Rail Infrastructure Secures ₹4.11 Crore Railway Coach Seat Order; Shares Rise 1.30% - HDFC Sky |
@@ -42,7 +43,6 @@
 | **NSE:TITAGARH**<br>Titagarh Rail Systems Ltd | 3 | Bullish | Low | `Order Inflows & Contracts` Titagarh Rail Systems targets 200 metro cars in FY27, order book at ₹28,600 crore - scanx.trade |
 | **NSE:TMCV**<br>Tata Motors Commercial Vehicles Ltd | 3 | Neutral | Low | `Corporate Action & M&A` Tata Motors TMCV: ACGL Turns Subsidiary After Buyback - Kalkine India |
 | **NSE:TMPV**<br>Tata Motors Passenger Vehicles Ltd | 3 | Bullish | Low | `Capex & Expansion` What Should Investors Do About The Stock of Tata Motors Passenger Vehicles? - BusinessLine |
-| **NSE:WAAREERTL**<br>Waaree Renewable Technologies Ltd | 3 | Bullish | Low | `Corporate Action & M&A` Waaree Renewable subsidiary novates solar project rights for ₹79 Cr - scanx.trade |
 | **NSE:WELSPUNLIV**<br>Welspun Living Ltd | 3 | Bullish | Low | `Capex & Expansion` Welspun Living Approves ₹3,200 Crore Capex Plan to Add 29,000 Tonnes tf Towel Manufacturing Capacity - Kotak Neo |
 | **NSE:ADCINDIA**<br>ADC India Communications Ltd | 2 | Neutral | Low | `Management & Strategy` Ex-Goldman Sachs MD Lavanya Ashok joins ADC India Communications Ltd - Whispers in the Corridors |
 | **NSE:PPL**<br>Prakash Pipes Ltd | 2 | Bullish | Low | `Financial Performance & Results` Solid Earnings May Not Tell The Whole Story For Prakash Pipes (NSE:PPL) - Simply Wall St |
@@ -140,6 +140,14 @@
 ---
 
 ### Ticker: NSE:BSOFT - Name: Birlasoft Limited (LTP: ₹303.5)
+
+**A. News Summary:**
+- **Headline:** Birlasoft Ltd - 532400 - Announcement under Regulation 30 (LODR)-Newspaper Publication
+- **Category:** `Strategic Corporate News`
+- **Date:** 2026-11-25 | **Source:** [BSE Official Filing (PDF)](https://www.bseindia.com/xml-data/corpfiling/AttachLive/85ebfde5-1818-47b0-9de3-e86b1f42dc73.pdf)
+- **Importance Score:** **9/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Official regulatory disclosure filed with BSE under Scrip Code 532400.
+- **Long-Term Impact:** Direct regulatory compliance event filed on official exchange repository.
 
 **A. News Summary:**
 - **Headline:** BSOFT Outlook for the Week - Equitypandit
@@ -292,6 +300,14 @@
 ---
 
 ### Ticker: NSE:HDFCBANK - Name: HDFC Bank Limited (LTP: ₹862)
+
+**A. News Summary:**
+- **Headline:** HDFC Bank Ltd - 500180 - Announcement under Regulation 30 (LODR)-Change in Directorate
+- **Category:** `Strategic Corporate News`
+- **Date:** 2026-11-25 | **Source:** [BSE Official Filing (PDF)](https://www.bseindia.com/xml-data/corpfiling/AttachLive/74191bfa-12e0-4cc3-9e25-56875f02c1a5.pdf)
+- **Importance Score:** **9/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Official regulatory disclosure filed with BSE under Scrip Code 500180.
+- **Long-Term Impact:** Direct regulatory compliance event filed on official exchange repository.
 
 **A. News Summary:**
 - **Headline:** HDFC Bank Market Capitalisation Reclaims ₹13 Lakh Crore After ₹2.38 Lakh Crore Addition in 15 Sessions - Kotak Neo
@@ -551,6 +567,14 @@
 - **Date:** 2026-11-20 | **Source:** [Multibagg AI](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYzdsc0F5a1VOZUdIbVdEOUs4dmdqRldXQVBvSHlnSGdXNG9Fa21UZUhiZGZsS1l5WXBWLXZzbDF3YUFVck5EMnlQX2xSakQ3U21FNXNoVFZmRkd5ZlNZRlYzTzRhYS1qa2dIb2J0S3poT29kWWxqWDZwbWtUemVqVlJ6SEVFdmQ4cHhpeDNPREp1NFRraVZPcU1hWDdFdXNtazZTWEk4dkpYNTJzeFJXVkpWd1JCWUF6VzZsVkFqNEk?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
 - **Short-Term Impact:** Reported by Multibagg AI on 2026-11-20. Corporate development in Corporate Action & M&A.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+
+**A. News Summary:**
+- **Headline:** NHPC Enters Settlement Agreement With Patel-L&T Consortium For Parbati-III HE Project Claims - TradingView
+- **Category:** `Financial Performance & Results`
+- **Date:** 2026-11-19 | **Source:** [TradingView](https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUzYxRG9HdzA5UGpCeTVlYlA3Y29qaldYdHlsSjhGcF96R3oyZW04LURYZnRTNjlHeUsxNjhfczktYXVQc216TzFQTHcyczlpYWhDd3MxbGMtMGhCb2hRY0g4czlqVTJ6T0c4QU5XNnVMSXpMa3lTYUVxTThVclEzM0dGcjdJbng4dHpOOGN0ZXBkZXo1TTI5N01jdTRIRFpmN0VhWTFYelM3dmVLaVZucU5HdmNab0NpOHFhUXd3ZEl3WF9XNnZYVmljb01tNk5CVHZRVWo5bjJyOUVocXB4YUUyUWxZckFaZHgyMmgzTUFCNHNw?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by TradingView on 2026-11-19. Corporate development in Financial Performance & Results.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 
 ---
@@ -1084,6 +1108,14 @@
 ---
 
 ### Ticker: NSE:WAAREERTL - Name: Waaree Renewable Technologies Ltd (LTP: ₹688.1)
+
+**A. News Summary:**
+- **Headline:** Waaree Renewable Technologies Ltd - 534618 - Announcement under Regulation 30 (LODR)-Credit Rating
+- **Category:** `Strategic Corporate News`
+- **Date:** 2026-11-25 | **Source:** [BSE Official Filing (PDF)](https://www.bseindia.com/xml-data/corpfiling/AttachLive/89a1cb8f-0bd4-4e02-998d-4b13573aa21c.pdf)
+- **Importance Score:** **9/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Official regulatory disclosure filed with BSE under Scrip Code 534618.
+- **Long-Term Impact:** Direct regulatory compliance event filed on official exchange repository.
 
 **A. News Summary:**
 - **Headline:** Waaree Renewable subsidiary novates solar project rights for ₹79 Cr - scanx.trade

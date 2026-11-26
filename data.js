@@ -259,6 +259,21 @@ const stockData = [
     "action_required": "Hold/Monitor",
     "developments": [
       {
+        "date": "2026-11-25",
+        "headline": "Birlasoft Ltd - 532400 - Announcement under Regulation 30 (LODR)-Newspaper Publication",
+        "source_name": "BSE Official Filing (PDF)",
+        "source_link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/85ebfde5-1818-47b0-9de3-e86b1f42dc73.pdf",
+        "sentiment": "Neutral",
+        "importance_score": 9,
+        "short_term_impact": "Official regulatory disclosure filed with BSE under Scrip Code 532400.",
+        "long_term_impact": "Direct regulatory compliance event filed on official exchange repository.",
+        "thesis_impact": "Bullish",
+        "opportunities": "Verified exchange-level corporate action/announcement.",
+        "risks": "Subject to operational execution.",
+        "red_flags": "None",
+        "hidden_implications": "Original signed filing document available at official BSE repository."
+      },
+      {
         "date": "2026-11-20",
         "headline": "BSOFT Outlook for the Week - Equitypandit",
         "category": "Strategic Corporate News",
@@ -390,7 +405,7 @@ const stockData = [
       "competitor_news": "Peer performance and market share movements.",
       "government_policy_changes": "(2026-11-23) Capital Market Stocks Slide Up to 3% as SEBI Weighs Linking - Univest [Univest]",
       "raw_material_changes": "Input cost trends monitored against operating margins.",
-      "order_inflow_changes": "Commercial order book and revenue visibility.",
+      "order_inflow_changes": "(2026-11-23) CASE Expands Access to Loans Against Securities Across Platforms - SMEStreet [SMEStreet]",
       "demand_cycle_changes": "(2026-11-20) CDSL Data Breach Exposes Sensitive Details of 44 Mn Indian Investors - CISO Mag [CISO Mag]",
       "management_commentary": "Quarterly guidance and management strategic updates.",
       "institutional_activity": "FII/DII holding changes and block trading trends.",
@@ -700,6 +715,21 @@ const stockData = [
     "action_required": "Hold/Monitor",
     "developments": [
       {
+        "date": "2026-11-25",
+        "headline": "HDFC Bank Ltd - 500180 - Announcement under Regulation 30 (LODR)-Change in Directorate",
+        "source_name": "BSE Official Filing (PDF)",
+        "source_link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/74191bfa-12e0-4cc3-9e25-56875f02c1a5.pdf",
+        "sentiment": "Neutral",
+        "importance_score": 9,
+        "short_term_impact": "Official regulatory disclosure filed with BSE under Scrip Code 500180.",
+        "long_term_impact": "Direct regulatory compliance event filed on official exchange repository.",
+        "thesis_impact": "Bullish",
+        "opportunities": "Verified exchange-level corporate action/announcement.",
+        "risks": "Subject to operational execution.",
+        "red_flags": "None",
+        "hidden_implications": "Original signed filing document available at official BSE repository."
+      },
+      {
         "date": "2026-11-20",
         "headline": "HDFC Bank Market Capitalisation Reclaims ₹13 Lakh Crore After ₹2.38 Lakh Crore Addition in 15 Sessions - Kotak Neo",
         "category": "Government Policy & Regulatory",
@@ -893,13 +923,13 @@ const stockData = [
         "source_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZExRRUIycEVkUnQyTFdoTm9DMVItY2hUWERqN2dNdUFSTXVsUmJULTRPRDk4VDZsWlF3LWlFbmNURU1YbGJ1SkozQmd5VTVaa3BncVdQbW5Pc0dfamNzRk4tYmxyREF0WnpHMHg5bHZuU0poUk1taHVHeHBTSTJOWE9ueVJFRnlZLUdUZ3pLS0pMUQ?oc=5",
         "sentiment": "Neutral",
         "importance_score": 6,
-        "short_term_impact": "Reported by Energy Digital Magazine on 2026-11-23. Corporate development in Management & Strategy.",
+        "short_term_impact": "Reported by BusinessLine on 2026-11-19. Corporate development in Corporate Action & M&A.",
         "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
         "thesis_impact": "Neutral",
         "opportunities": "Monitoring risk factors and entry levels.",
         "risks": "Broad market swings and execution risk.",
         "red_flags": "None",
-        "hidden_implications": "Information verified directly from Energy Digital Magazine publication."
+        "hidden_implications": "Information verified directly from BusinessLine publication."
       }
     ],
     "canvas_categories": {
@@ -910,7 +940,7 @@ const stockData = [
       "raw_material_changes": "Input cost trends monitored against operating margins.",
       "order_inflow_changes": "Commercial order book and revenue visibility.",
       "demand_cycle_changes": "Demand trends across institutional and retail segments.",
-      "management_commentary": "(2026-11-23) Infosys’ Mitrankur Majumdar on UK Grid Balancing Solutions - Energy Digital Magazine [Energy Digital Magazine]",
+      "management_commentary": "Quarterly guidance and management strategic updates.",
       "institutional_activity": "FII/DII holding changes and block trading trends.",
       "promoter_activity": "Promoter shareholding stability and pledge tracking."
     }
@@ -1049,8 +1079,8 @@ const stockData = [
         "importance_score": 7,
         "short_term_impact": "Reported by Univest on 2026-11-22. Corporate development in Management & Strategy.",
         "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-        "thesis_impact": "Bullish",
-        "opportunities": "Positive operational and institutional sentiment momentum.",
+        "thesis_impact": "Neutral",
+        "opportunities": "Monitoring risk factors and entry levels.",
         "risks": "Broad market swings and execution risk.",
         "red_flags": "None",
         "hidden_implications": "Information verified directly from Univest publication."
@@ -1211,7 +1241,7 @@ const stockData = [
       }
     ],
     "canvas_categories": {
-      "direct_company_news": "(2026-11-23) Weekly Recap: Quarterly profit falls 20.1% and cigarette prices rise - TradingView [TradingView]",
+      "direct_company_news": "(2026-11-23) ITC Q4 Results 2026: Date, Revenue Estimates - Univest [Univest]",
       "sector_news": "Sector developments monitored across Auto, FMCG & Energy.",
       "competitor_news": "Peer performance and market share movements.",
       "government_policy_changes": "Policy environment remains supportive for domestic industry.",
@@ -1407,10 +1437,26 @@ const stockData = [
         "risks": "Broad market swings and execution risk.",
         "red_flags": "None",
         "hidden_implications": "Information verified directly from Multibagg AI publication."
+      },
+      {
+        "date": "2026-11-19",
+        "headline": "NHPC Enters Settlement Agreement With Patel-L&T Consortium For Parbati-III HE Project Claims - TradingView",
+        "category": "Financial Performance & Results",
+        "source_name": "TradingView",
+        "source_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUzYxRG9HdzA5UGpCeTVlYlA3Y29qaldYdHlsSjhGcF96R3oyZW04LURYZnRTNjlHeUsxNjhfczktYXVQc216TzFQTHcyczlpYWhDd3MxbGMtMGhCb2hRY0g4czlqVTJ6T0c4QU5XNnVMSXpMa3lTYUVxTThVclEzM0dGcjdJbng4dHpOOGN0ZXBkZXo1TTI5N01jdTRIRFpmN0VhWTFYelM3dmVLaVZucU5HdmNab0NpOHFhUXd3ZEl3WF9XNnZYVmljb01tNk5CVHZRVWo5bjJyOUVocXB4YUUyUWxZckFaZHgyMmgzTUFCNHNw?oc=5",
+        "sentiment": "Neutral",
+        "importance_score": 6,
+        "short_term_impact": "Reported by TradingView on 2026-11-19. Corporate development in Financial Performance & Results.",
+        "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+        "thesis_impact": "Neutral",
+        "opportunities": "Monitoring risk factors and entry levels.",
+        "risks": "Broad market swings and execution risk.",
+        "red_flags": "None",
+        "hidden_implications": "Information verified directly from TradingView publication."
       }
     ],
     "canvas_categories": {
-      "direct_company_news": "(2026-11-20) NHPC Limited merger gets government sanction, pending ROC filing - Multibagg AI [Multibagg AI]",
+      "direct_company_news": "(2026-11-19) NHPC Enters Settlement Agreement With Patel-L&T Consortium For Parbati-III HE Project Claims - TradingView [TradingView]",
       "sector_news": "Sector developments monitored across Power & Renewables.",
       "competitor_news": "Peer performance and market share movements.",
       "government_policy_changes": "Policy environment remains supportive for domestic industry.",
@@ -1791,7 +1837,7 @@ const stockData = [
         "opportunities": "Monitoring risk factors and entry levels.",
         "risks": "Broad market swings and execution risk.",
         "red_flags": "None",
-        "hidden_implications": "Information verified directly from scanx.trade publication."
+        "hidden_implications": "Information verified directly from India CSR publication."
       }
     ],
     "canvas_categories": {
@@ -1800,7 +1846,7 @@ const stockData = [
       "competitor_news": "Peer performance and market share movements.",
       "government_policy_changes": "(2026-11-26) Poonawalla Fincorp board to consider preferential equity issue on Dec 1 - scanx.trade [scanx.trade]",
       "raw_material_changes": "Input cost trends monitored against operating margins.",
-      "order_inflow_changes": "(2026-11-21) Poonawalla Fincorp bets on EMI-based gold loans as NBFCs face repayment risks - bfsi.economictimes.indiatimes.com [bfsi.economictimes.indiatimes.com]",
+      "order_inflow_changes": "(2026-11-25) Which Are the Best NBFCs for Personal Loans in India? - India CSR [India CSR]",
       "demand_cycle_changes": "Demand trends across institutional and retail segments.",
       "management_commentary": "(2026-11-26) Poonawalla Fincorp Says Board To Consider Equity Fund Raising Via Private Placement On December 1, 2026 - TradingView [TradingView]",
       "institutional_activity": "FII/DII holding changes and block trading trends.",
@@ -2384,7 +2430,7 @@ const stockData = [
       "competitor_news": "Peer performance and market share movements.",
       "government_policy_changes": "Policy environment remains supportive for domestic industry.",
       "raw_material_changes": "Input cost trends monitored against operating margins.",
-      "order_inflow_changes": "(2026-11-24) Tata Projects receives 1.6GW thermal power plant contract in India - Power Technology [Power Technology]",
+      "order_inflow_changes": "Commercial order book and revenue visibility.",
       "demand_cycle_changes": "Demand trends across institutional and retail segments.",
       "management_commentary": "Quarterly guidance and management strategic updates.",
       "institutional_activity": "FII/DII holding changes and block trading trends.",
@@ -2909,10 +2955,25 @@ const stockData = [
     "fifty_two_week_high": 1202,
     "fifty_two_week_low": 653.75,
     "news_found": true,
-    "sentiment": "Bullish",
+    "sentiment": "Neutral",
     "risk_level": "Low",
-    "action_required": "Accumulate on dips",
+    "action_required": "Hold/Monitor",
     "developments": [
+      {
+        "date": "2026-11-25",
+        "headline": "Waaree Renewable Technologies Ltd - 534618 - Announcement under Regulation 30 (LODR)-Credit Rating",
+        "source_name": "BSE Official Filing (PDF)",
+        "source_link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/89a1cb8f-0bd4-4e02-998d-4b13573aa21c.pdf",
+        "sentiment": "Neutral",
+        "importance_score": 9,
+        "short_term_impact": "Official regulatory disclosure filed with BSE under Scrip Code 534618.",
+        "long_term_impact": "Direct regulatory compliance event filed on official exchange repository.",
+        "thesis_impact": "Bullish",
+        "opportunities": "Verified exchange-level corporate action/announcement.",
+        "risks": "Subject to operational execution.",
+        "red_flags": "None",
+        "hidden_implications": "Original signed filing document available at official BSE repository."
+      },
       {
         "date": "2026-11-24",
         "headline": "Waaree Renewable subsidiary novates solar project rights for ₹79 Cr - scanx.trade",
@@ -3014,13 +3075,13 @@ const stockData = [
         "source_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUW54WmlEVHhxaDFOWjh4bjdmekdxSkt2eFY3Wm9qQklHRFdlekdjS2h1R3czSTIzakozbUpOejJtQVZCdGljMHE4cGZwYVNaczRod1dNMHA1UV9QcDhNY2ZDR3dCMWRCVGxoNC1TeTR4c2pVb1RjRmlfSmtyeENQSzNlRHJLbXZDTXdHREVmNzJlWjZoXzhSbWQteEpnY2VuSXRHVVQzOC1FcDA?oc=5",
         "sentiment": "Bullish",
         "importance_score": 7,
-        "short_term_impact": "Reported by Multibagg AI on 2026-11-23. Corporate development in Capex & Expansion.",
+        "short_term_impact": "Reported by Moneycontrol.com on 2026-11-25. Corporate development in Management & Strategy.",
         "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
         "thesis_impact": "Bullish",
         "opportunities": "Positive operational and institutional sentiment momentum.",
         "risks": "Broad market swings and execution risk.",
         "red_flags": "None",
-        "hidden_implications": "Information verified directly from Multibagg AI publication."
+        "hidden_implications": "Information verified directly from Moneycontrol.com publication."
       },
       {
         "date": "2026-11-25",
