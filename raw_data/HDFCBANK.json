@@ -24,8 +24,23 @@
   },
   "developments": [
     {
+      "date": "2026-11-25",
+      "headline": "HDFC Bank Ltd - 500180 - Announcement under Regulation 30 (LODR)-Change in Directorate",
+      "source_name": "BSE Official Filing (PDF)",
+      "source_link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/74191bfa-12e0-4cc3-9e25-56875f02c1a5.pdf",
+      "sentiment": "Neutral",
+      "importance_score": 9,
+      "short_term_impact": "Official regulatory disclosure filed with BSE under Scrip Code 500180.",
+      "long_term_impact": "Direct regulatory compliance event filed on official exchange repository.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Verified exchange-level corporate action/announcement.",
+      "risks": "Subject to operational execution.",
+      "red_flags": "None",
+      "hidden_implications": "Original signed filing document available at official BSE repository."
+    },
+    {
       "date": "2026-11-20",
-      "headline": "HDFC Bank Market Capitalisation Reclaims ₹13 Lakh Crore After ₹2.38 Lakh Crore Addition in 15 Sessions - Kotak Neo",
+      "headline": "HDFC Bank Market Capitalisation Reclaims \u20b913 Lakh Crore After \u20b92.38 Lakh Crore Addition in 15 Sessions - Kotak Neo",
       "category": "Government Policy & Regulatory",
       "source_name": "Kotak Neo",
       "source_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUTVPN19SYjAybFp6UU9NVldPeEtER05YME9haVJvUGpaLWZmYy1IeHVDeTZ5WmlaYkJzSmVxdDF0ZVJDTDNHVzdPVG1udWtrbDg0SXJYVG4tNXRQWU9faE9aSENRRjdEY09IYnFROVpWT0tlbG5LY054YmVKcmZjSi1haDE4NE9pQTkzamZR?oc=5",

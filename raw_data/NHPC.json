@@ -11,7 +11,7 @@
   "fifty_two_week_low": 68.79,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "(2026-11-20) NHPC Limited merger gets government sanction, pending ROC filing - Multibagg AI [Multibagg AI]",
+    "direct_company_news": "(2026-11-19) NHPC Enters Settlement Agreement With Patel-L&T Consortium For Parbati-III HE Project Claims - TradingView [TradingView]",
     "sector_news": "Sector developments monitored across Power & Renewables.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
@@ -70,6 +70,22 @@
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
       "hidden_implications": "Information verified directly from Multibagg AI publication."
+    },
+    {
+      "date": "2026-11-19",
+      "headline": "NHPC Enters Settlement Agreement With Patel-L&T Consortium For Parbati-III HE Project Claims - TradingView",
+      "category": "Financial Performance & Results",
+      "source_name": "TradingView",
+      "source_link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUzYxRG9HdzA5UGpCeTVlYlA3Y29qaldYdHlsSjhGcF96R3oyZW04LURYZnRTNjlHeUsxNjhfczktYXVQc216TzFQTHcyczlpYWhDd3MxbGMtMGhCb2hRY0g4czlqVTJ6T0c4QU5XNnVMSXpMa3lTYUVxTThVclEzM0dGcjdJbng4dHpOOGN0ZXBkZXo1TTI5N01jdTRIRFpmN0VhWTFYelM3dmVLaVZucU5HdmNab0NpOHFhUXd3ZEl3WF9XNnZYVmljb01tNk5CVHZRVWo5bjJyOUVocXB4YUUyUWxZckFaZHgyMmgzTUFCNHNw?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by TradingView on 2026-11-19. Corporate development in Financial Performance & Results.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from TradingView publication."
     }
   ]
 }

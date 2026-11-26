@@ -370,7 +370,7 @@
 - **Category:** `Management & Strategy`
 - **Date:** 2026-11-23 | **Source:** [Energy Digital Magazine](https://news.google.com/rss/articles/CBMikgFBVV95cUxOZExRRUIycEVkUnQyTFdoTm9DMVItY2hUWERqN2dNdUFSTXVsUmJULTRPRDk4VDZsWlF3LWlFbmNURU1YbGJ1SkozQmd5VTVaa3BncVdQbW5Pc0dfamNzRk4tYmxyREF0WnpHMHg5bHZuU0poUk1taHVHeHBTSTJOWE9ueVJFRnlZLUdUZ3pLS0pMUQ?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by Energy Digital Magazine on 2026-11-23. Corporate development in Management & Strategy.
+- **Short-Term Impact:** Reported by BusinessLine on 2026-11-19. Corporate development in Corporate Action & M&A.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 
 ---
@@ -1126,7 +1126,7 @@
 - **Category:** `Capex & Expansion`
 - **Date:** 2026-11-23 | **Source:** [Multibagg AI](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUW54WmlEVHhxaDFOWjh4bjdmekdxSkt2eFY3Wm9qQklHRFdlekdjS2h1R3czSTIzakozbUpOejJtQVZCdGljMHE4cGZwYVNaczRod1dNMHA1UV9QcDhNY2ZDR3dCMWRCVGxoNC1TeTR4c2pVb1RjRmlfSmtyeENQSzNlRHJLbXZDTXdHREVmNzJlWjZoXzhSbWQteEpnY2VuSXRHVVQzOC1FcDA?oc=5)
 - **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by Multibagg AI on 2026-11-23. Corporate development in Capex & Expansion.
+- **Short-Term Impact:** Reported by Moneycontrol.com on 2026-11-25. Corporate development in Management & Strategy.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 
 **A. News Summary:**
