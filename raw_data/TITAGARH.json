@@ -11,7 +11,7 @@
   "fifty_two_week_low": 568.7,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "(2026-11-23) Titagarh Rail Systems naval subsidiary delivers second diving support craft to the Indian Navy - The Economic Times [The Economic Times]",
+    "direct_company_news": "No material corporate earnings/results reported in the last 7 days.",
     "sector_news": "Sector developments monitored across Infra & Railways.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
@@ -23,6 +23,22 @@
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
   "developments": [
+    {
+      "date": "2026-11-27",
+      "headline": "Titagarh Rail Systems targets 200 metro cars in FY27, order book at ₹28,600 crore - scanx.trade",
+      "category": "Order Inflows & Contracts",
+      "source_name": "scanx.trade",
+      "source_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONGN2Sms4RXhWS3dhbXVfR1dmVlpJNjMwNFRUZDdjSXVmcmdLMndHRHJyaEtQN21LOXdVNW5qVVVDcksyQ2c0YU1PcGYyeWlYSlhlbWxBOGljQ0hfZTFCOFpyU0FVQkJ4akoxUnhTVHVnTzdRb0s5Z0dMYno1UDVDM0FtTE5KUjE5a1EyRDVFcEZkUmtjRFJxN0owSFdvT0NSTUhDNmtWdXFpc3l4R29nYjJ4bmZMb2JxR3pILU1TN3pWTHRW?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by scanx.trade on 2026-11-27. Corporate development in Order Inflows & Contracts.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from scanx.trade publication."
+    },
     {
       "date": "2026-11-23",
       "headline": "Titagarh Rail Systems wins JSW wagon order, delivers naval vessel, gets auto carrier clearance - BusinessLine",
@@ -54,22 +70,6 @@
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
       "hidden_implications": "Information verified directly from Construction World publication."
-    },
-    {
-      "date": "2026-11-23",
-      "headline": "Titagarh Rail Systems naval subsidiary delivers second diving support craft to the Indian Navy - The Economic Times",
-      "category": "Corporate Action & M&A",
-      "source_name": "The Economic Times",
-      "source_link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNWXJDMVotcUNvcktqU25MWnlLVExrSE95UjRZN0lRLUNoX0VtR2ZZTkZDLUxZZHBURlBBb0VFMnc4MHlGN1RBNFQ5X3U4U29LdEhubmRRTk5mU09tUWRhbHZUU0xiaV9nMi1ONi02YXNYTDRtMDd5ZkhJS2twVkpEOGI3N1Y5eFE2dFhfa0pBOXhfZjZwbENLOUVhNlM4QWV6NDdtd203TmhLOE5IaHlHZl9vcVVxcVAzTFFYdUdTNVhtUFcwWGpDejZOcmllVWdEUnl2bUsyTTZ2OWdVN243YWwyNWFiUlNCWGlIS1V1RWlTMXRidi1nYTJhZUhBdTFWRnhNSTlnanhsYll6V1BRZ0w5Vm1qWWtrUXdXLXVmYWtCTUd6QjZrR3ZoWWpRVVBZWjZvQjBiVWc3LThnOEpRMzBQTHlqc2FlVTk5dE1pOU5pZEpQY1lzSjJWZVjSAfgBQVVfeXFMUHdhdXBHOW12LXJXTkktenVpNFlBSUlxUHBkUFkxTDJxYmFUTTc1NHJKYnZnckdkSFNvcUdqS0RzQ0d4ZnhWMktUSU5fc1pVMEVpb2xmc3p4d1JnR1VTOTJheEVSUVlZaWllN1E4dFBTQnNTNlB6RFo0alZyZUEtYVNMUERUZG12c2dmRkJ1RnlQTzF4ZEJhdjM3VUNWSGFOR3pFTi1GOC0zSFM3S05ZM19WRFg1OVZ6NXpqMnVxMTBFNWdqQlQ4bW1mSTNjdXFpYmNWNU5CQmplU0VHckxWYW1LZzZNWUJOdGxRZ1R5TjRaZ3pqOHh1Q24?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by The Economic Times on 2026-11-23. Corporate development in Corporate Action & M&A.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from The Economic Times publication."
     }
   ]
 }

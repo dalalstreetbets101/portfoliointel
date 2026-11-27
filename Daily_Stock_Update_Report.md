@@ -9,10 +9,11 @@
 
 | Stock | News Count | Sentiment | Risk Level | Most Important Development |
 | :--- | :---: | :---: | :---: | :--- |
+| **NSE:CDSL**<br>Central Depository Services (India) Limited | 4 | Neutral | Low | 7NR Retail Ltd - 540615 - Announcement under Regulation 30 (LODR)-Resignation of Director |
+| **NSE:SKIPPER**<br>Skipper Ltd | 4 | Neutral | Low | Skipper Ltd - 538562 - Shareholder Meeting / Postal Ballot-Outcome of Postal_Ballot |
 | **NSE:BBOX**<br>Black Box Limited | 3 | Bearish | Medium | `Management & Strategy` A Black Box, a Golden Key and No Explanation: How Mumbai's Top CEOs Were Pulled Into India's Most Curated Marketing Room - afaqs! |
-| **NSE:BSE**<br>BSE Limited | 3 | Bullish | Low | `Management & Strategy` Bridge Securities Limited MD exits in 11.11% sale agreement - Multibagg AI |
+| **NSE:BSE**<br>BSE Limited | 3 | Neutral | Low | `Strategic Corporate News` Zelio E-Mobility gets BSE nod for ₹168 crore fundraise - Manufacturing Today India |
 | **NSE:BSOFT**<br>Birlasoft Limited | 3 | Neutral | Low | `Management & Strategy` Birlasoft Elevates Usha Sri Addepalli as CFO – Markets and Senior Vice President, Finance - https://hrtoday.in/ |
-| **NSE:CDSL**<br>Central Depository Services (India) Limited | 3 | Bullish | Low | `Strategic Corporate News` CDSL Share Price Rise Streak: Price Action and Fundamentals - Univest |
 | **NSE:CEIGALL**<br>Ceigall India Ltd | 3 | Bullish | Low | `Capex & Expansion` Ceigall India to host analyst and investor meetings in Mumbai - scanx.trade |
 | **NSE:EMSLIMITED**<br>EMS Ltd | 3 | Bullish | Low | `Order Inflows & Contracts` EMS Limited Secures ₹25.96 Cr NHAI Contract for Hatnoor Fee Plaza in Maharashtra - FlipItMoney |
 | **NSE:HDFCBANK**<br>HDFC Bank Limited | 3 | Bullish | Low | `Government Policy & Regulatory` HDFC Bank Share Price Rallies Nearly 25% in November, Reclaims India's Second-Largest Market Cap Spot - Kotak Neo |
@@ -31,13 +32,12 @@
 | **NSE:RELIANCE**<br>Reliance Industries Ltd | 3 | Neutral | Low | `Institutional & Promoter Activity` Reliance Industries Promoters Buy Rs 194 Cr Worth Of Shares In Two Sessions - TradingView |
 | **NSE:SBIN**<br>State Bank of India | 3 | Neutral | Low | `Government Policy & Regulatory` Bank holidays this week: Are SBI, HDFC branches closed for customers from 27-29 Nov in Bangalore? Check RBI calendar - Livemint |
 | **NSE:SJVN**<br>SJVN Ltd | 3 | Bearish | Medium | `Corporate Action & M&A` SJVN Limited Shares Fall 1.47% Despite New Hydro PPAs - Multibagg AI |
-| **NSE:SKIPPER**<br>Skipper Ltd | 3 | Bullish | Low | `Capex & Expansion` ETFs Investing in Skipper Ltd Stocks - TradingView |
 | **NSE:SWSOLAR**<br>Sterling and Wilson Renewable Energy Ltd | 3 | Bullish | Low | `Order Inflows & Contracts` Sterling and Wilson Renewable secures ₹2,050 crore-plus project wins - ET EnergyWorld |
 | **NSE:TATAPOWER**<br>Tata Power Company Ltd | 3 | Bearish | Medium | `Strategic Corporate News` Tata Power builds a digital brain to forecast renewable power and curb losses - ET EnergyWorld |
 | **NSE:TATATECH**<br>Tata Technologies Ltd | 3 | Bullish | Low | `Corporate Action & M&A` Tata Technologies Dividend 2026: ₹8.35, Record Date 18 Jun - INDmoney |
 | **NSE:TCS**<br>Tata Consultancy Services Limited | 3 | Bullish | Low | `Strategic Corporate News` TCS Share Price Jumps Nearly 5% to ₹2,493 Today as Indian IT Stocks Defy Nvidia-Led Global Tech Sell-Off - Kotak Neo |
 | **NSE:TEMBO**<br>Tembo Global Industries Ltd | 3 | Bullish | Low | `Financial Performance & Results` Tembo Global Industries Limited H1 FY27 PAT Rises 36.2% to ₹57 Crore - Multibagg AI |
-| **NSE:TITAGARH**<br>Titagarh Rail Systems Ltd | 3 | Bullish | Low | `Order Inflows & Contracts` Titagarh Rail Systems wins JSW wagon order, delivers naval vessel, gets auto carrier clearance - BusinessLine |
+| **NSE:TITAGARH**<br>Titagarh Rail Systems Ltd | 3 | Bullish | Low | `Order Inflows & Contracts` Titagarh Rail Systems targets 200 metro cars in FY27, order book at ₹28,600 crore - scanx.trade |
 | **NSE:TMCV**<br>Tata Motors Commercial Vehicles Ltd | 3 | Neutral | Low | `Corporate Action & M&A` Tata Motors TMCV: ACGL Turns Subsidiary After Buyback - Kalkine India |
 | **NSE:TMPV**<br>Tata Motors Passenger Vehicles Ltd | 3 | Bullish | Low | `Financial Performance & Results` Tata Motors PV Q2FY27: JLR wholesales up 25%, UVC domestic sales surge - scanx.trade |
 | **NSE:WAAREERTL**<br>Waaree Renewable Technologies Ltd | 3 | Bullish | Low | `Strategic Corporate News` Waaree Renewable Shares Rally After Securing 120 MWp Solar Project With EPC and Module Supply - Kotak Neo |
@@ -88,11 +88,11 @@
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 
 **A. News Summary:**
-- **Headline:** Recovered black box from Ethiopian Airlines crashed flight is cockpit voice recorder - Yeni Safak English
-- **Category:** `Order Inflows & Contracts`
-- **Date:** 2026-11-27 | **Source:** [Yeni Safak English](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWG5oREFzX0hOSmx6bmdwYzBELXdYUVBPd2Job3M4dnR4VkVwejZwZkdlZmFpNWVzQ0dSd3BheGxGQXVkNGJSeGw1OWpDUk5INENqN0dnUHE1aDZnRUxxUzVsMzFnNWFJdC1JYTVsczY1WUFnNXlST3o5ajZWNS13MFNsWGhlVmFSZGNMVmZIY25vSmg5UDg3bmhqcXNYT195TDhENzJ4WFl0b1BnZTRTank2SUo3VG9Fc0ZWYzFhV3c?oc=5)
-- **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by Yeni Safak English on 2026-11-27. Corporate development in Order Inflows & Contracts.
+- **Headline:** Black Box Scales Up Data Centre Business - Is Profitability on the Horizon? - FlipItMoney
+- **Category:** `Financial Performance & Results`
+- **Date:** 2026-11-27 | **Source:** [FlipItMoney](https://news.google.com/rss/articles/CBMioAFBVV95cUxNY0pSTmJOTi1MVDRUYk50dGE2ZlBVNlRMdG1CUHFpZWlqeXdleDhPMmpmZ0h6cldHbU9wQWhBZUlWMWRUOFdjUGZiNGJURTEzYUZhOFJKX05fbXBuNEIzdVc3NGhRMjJ6NFR5Z3VOcGdWejNLNEs5TVpFZXZZclhLM0RoaS1kbi1hZTNDQTlXUFVYQXpnRjk1VmRTbF9NUUh6?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by FlipItMoney on 2026-11-27. Corporate development in Financial Performance & Results.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 
 ---
@@ -106,27 +106,27 @@
 ### Ticker: NSE:BSE - Name: BSE Limited (LTP: ₹3945)
 
 **A. News Summary:**
-- **Headline:** Bridge Securities Limited MD exits in 11.11% sale agreement - Multibagg AI
-- **Category:** `Management & Strategy`
-- **Date:** 2026-11-23 | **Source:** [Multibagg AI](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU0RCMnQ3WWhpOE9YNFQ5ZnVmOEpncjN1U0FhMVV6THQ2dUd4RXpKRXBhb3hRbWxCcHZ0eFdkX2FqVFlzYTQyX2ZhX1RvMm11SkwtRDZ4aGxMbW11QmxsbkhSczd3Zk42VTc5Vm5iaVg0alVQZngzbzBiUVRKSFlTd0RhMHZjc3M2N2dHdmtYWkF3Q3labHNvd2RybGlyNW1DX3pobVVwbGdqWEJqSk5nU0pZb21xTWJr?oc=5)
+- **Headline:** Zelio E-Mobility gets BSE nod for ₹168 crore fundraise - Manufacturing Today India
+- **Category:** `Strategic Corporate News`
+- **Date:** 2026-11-21 | **Source:** [Manufacturing Today India](https://news.google.com/rss/articles/CBMipAFBVV95cUxNMHk0RTRsa3RnMVNMU0U3WUEyVTJob3VVMG1kMV9nN2x1dmFyb1JEWURkOVUzUmhIZURaREl1S3RvYk8tNlEzcjc1aGw2Zl83N0s1aXU5SXdGVWJnNW10UlFrc1VibUlGY3pmRThtWk54MXpEcHg2ekVOMkI5c0xtTlFzdEVQRUdOYzl6clRYd3ZzWExJNDBHYkt5dVo3WWpPUmJhMg?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by Multibagg AI on 2026-11-23. Corporate development in Management & Strategy.
+- **Short-Term Impact:** Reported by Manufacturing Today India on 2026-11-21. Corporate development in Strategic Corporate News.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 
 **A. News Summary:**
-- **Headline:** Galgotias University Signs Key MoU with BSE to Drive Investor Awareness - tennews.in
-- **Category:** `Capex & Expansion`
-- **Date:** 2026-11-27 | **Source:** [tennews.in](https://news.google.com/rss/articles/CBMilgFBVV95cUxPS0dGTzh0aE5kcm1JRGNILWhwVjNmQW16OFp0RW9yUTJzVloxX2QxWkJwLXU5OUlncGFlQ05BTWtNV1FfMHNRQ2NWeFM3MDAwbFFqNW55TUhSUkZaeURubzlaUU1iNEMxUHN2NHROZDZoanpaTUNJbklhcFhIODdpc2ZmUUlzamJvU0VpXzR0YV9xaFY5ZWc?oc=5)
+- **Headline:** Bloom Dekor Limited submits FY26 annual report, sets 35th AGM - Multibagg AI
+- **Category:** `Strategic Corporate News`
+- **Date:** 2026-11-23 | **Source:** [Multibagg AI](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUXFvbHFsb3BlSXpfSWxrVjBvdUVCV2V0aUZzZVJ0TGJGS0tiZWw2UHVnRllVREZoOWw1UTZUSlV0Q0VsTUkzYWp0WEpId3YxQXJMRFNxWGlnOUdJaWtRRGVMdDh3dG5KeFRnanVXMERDd2Qtbk1QczBUZzlmb21PQzhZR0wzUmRWZG12X3BKT1FzWkp1d0xCMk5hXzcydlFuRWtXeGh3?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by tennews.in on 2026-11-27. Corporate development in Capex & Expansion.
+- **Short-Term Impact:** Reported by Multibagg AI on 2026-11-23. Corporate development in Strategic Corporate News.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 
 **A. News Summary:**
-- **Headline:** Bse Share Price Target 2026 Analyst Forecast - Univest
-- **Category:** `Management & Strategy`
-- **Date:** 2026-11-23 | **Source:** [Univest](https://news.google.com/rss/articles/CBMibEFVX3lxTFB1NldnR09pN3FkSlFiblVjeUVWMHJGWDY2N3I0WDZSdVlXYWloRUdFUTRKZHJpVHVwaFVrQUk2RTl2NlIyVGNkdFRYdl9UU2xEdHF6Rlhic2JWR0NRZTYxOHBzSDQ3YkJwb1g4MA?oc=5)
-- **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by Univest on 2026-11-23. Corporate development in Management & Strategy.
+- **Headline:** HD Fire Protect IPO: Price, Apply or Avoid - INDmoney
+- **Category:** `Strategic Corporate News`
+- **Date:** 2026-11-25 | **Source:** [INDmoney](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGYU5SWEhhcmpjcHpDMVliZk1yaWdJa3VfUUVIS0NESGd5eXg3S1c0Rmw3dUxuSHRSZkZrYzVRSWNrWUEta2hydTZZeWtWUjIyU0V2UnhOcllxMVhYM043UTNn?oc=5)
+- **Importance Score:** **6/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Reported by INDmoney on 2026-11-25. Corporate development in Strategic Corporate News.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 
 ---
@@ -136,9 +136,9 @@
 **A. News Summary:**
 - **Headline:** Birlasoft Elevates Usha Sri Addepalli as CFO – Markets and Senior Vice President, Finance - https://hrtoday.in/
 - **Category:** `Management & Strategy`
-- **Date:** 2026-11-27 | **Source:** [https://hrtoday.in/](https://news.google.com/rss/articles/CBMiqgFBVV95cUxObmRvNzVSX1RPS1ctc3VLbkZzLUFxRFU3YldEaVlIcFByaGRLS1FpTm9DcEJZWi1jZkotQ0ZpYWgtNHo3SGo5cTlCeUhsZzRVdmxJajM3NUJfdlFRalFZY09zT01qYld5MUgwWVpHUzE0ZDEzN2Nla2N4UV92WW5Ca3FtR3VqRDJ2RHdfbzBqckVIX0V6Y1lPTllBbVM5QjdfMGxoTjJkZnNodw?oc=5)
+- **Date:** 2026-11-24 | **Source:** [https://hrtoday.in/](https://news.google.com/rss/articles/CBMiqgFBVV95cUxObmRvNzVSX1RPS1ctc3VLbkZzLUFxRFU3YldEaVlIcFByaGRLS1FpTm9DcEJZWi1jZkotQ0ZpYWgtNHo3SGo5cTlCeUhsZzRVdmxJajM3NUJfdlFRalFZY09zT01qYld5MUgwWVpHUzE0ZDEzN2Nla2N4UV92WW5Ca3FtR3VqRDJ2RHdfbzBqckVIX0V6Y1lPTllBbVM5QjdfMGxoTjJkZnNodw?oc=5)
 - **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by https://hrtoday.in/ on 2026-11-27. Corporate development in Management & Strategy.
+- **Short-Term Impact:** Reported by https://hrtoday.in/ on 2026-11-24. Corporate development in Management & Strategy.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 
 **A. News Summary:**
@@ -160,6 +160,14 @@
 ---
 
 ### Ticker: NSE:CDSL - Name: Central Depository Services (India) Limited (LTP: ₹1453)
+
+**A. News Summary:**
+- **Headline:** 7NR Retail Ltd - 540615 - Announcement under Regulation 30 (LODR)-Resignation of Director
+- **Category:** `Strategic Corporate News`
+- **Date:** 2026-11-27 | **Source:** [BSE Official Filing (PDF)](https://www.bseindia.com/xml-data/corpfiling/AttachLive/9fe31a29-1530-471f-ae8b-53525b8aadb3.pdf)
+- **Importance Score:** **9/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Official regulatory disclosure filed with BSE under Scrip Code 540615.
+- **Long-Term Impact:** Direct regulatory compliance event filed on official exchange repository.
 
 **A. News Summary:**
 - **Headline:** CDSL Share Price Rise Streak: Price Action and Fundamentals - Univest
@@ -590,11 +598,11 @@
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 
 **A. News Summary:**
-- **Headline:** Oriental Rail Infrastructure Wins Rs 4.11 Crore ICF Seats Order, Shares Trade Higher - Dalal Street Investment Journal
+- **Headline:** Oriental Rail Infrastructure wins Rs 4.11 crore work order from Integral Coach Factory - scanx.trade
 - **Category:** `Order Inflows & Contracts`
-- **Date:** 2026-11-26 | **Source:** [Dalal Street Investment Journal](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVXVDRV9sT2ZpRThKdGJNVEhHRGpQSHJhWFd4RThITGNra1F2dWF1YmJDMWlvWDAxVXRPcmFIaHoxeTNtalJDNFg4b1FRbW1MYnN2UV96SWpRRzR3NnEwb2F1VFFJaDNIeUwzOEMxUjNHMkdVYUZCZVVwVFRiS19yMUJkRmY3amdFQVlrcTBkN2ZzNkFzUTRFaDlPNk9ZRlFDYllUakphd2pIbHNyWWlaQmRCSmpHdC1XRWIxX1V4UHpPYW8?oc=5)
+- **Date:** 2026-11-26 | **Source:** [scanx.trade](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPei1TV1lXTE1pVG5OVjZiSks4UVEtOFBNelZCUEFGSVRzZ2QycDdib1c1dHhpOVJPcWdOOEs5VGw0dUNiMklWdUdkM3ctZHJYWTBIUWFqaFRiMmhHMUZWQncwWmpBdnhLNzdYXzJ4ejNIUmpZX1Ayc1BKT3o2NjY0emhEMDhzVWd1b2FyTG9RbGVXOExwMXVNZmdtMGFTcS12UVJGMzVYd28xUTVlZ3pDYnZEbGQ0dHAyUFZIbWVQcWVLUQ?oc=5)
 - **Importance Score:** **7/10** | **Sentiment:** Bullish
-- **Short-Term Impact:** Reported by Dalal Street Investment Journal on 2026-11-26. Corporate development in Order Inflows & Contracts.
+- **Short-Term Impact:** Reported by scanx.trade on 2026-11-26. Corporate development in Order Inflows & Contracts.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 
 ---
@@ -782,6 +790,14 @@
 ### Ticker: NSE:SKIPPER - Name: Skipper Ltd (LTP: ₹510.2)
 
 **A. News Summary:**
+- **Headline:** Skipper Ltd - 538562 - Shareholder Meeting / Postal Ballot-Outcome of Postal_Ballot
+- **Category:** `Strategic Corporate News`
+- **Date:** 2026-11-27 | **Source:** [BSE Official Filing (PDF)](https://www.bseindia.com/xml-data/corpfiling/AttachLive/cbf76027-abd3-45fd-b28f-28b425dc3154.pdf)
+- **Importance Score:** **9/10** | **Sentiment:** Neutral
+- **Short-Term Impact:** Official regulatory disclosure filed with BSE under Scrip Code 538562.
+- **Long-Term Impact:** Direct regulatory compliance event filed on official exchange repository.
+
+**A. News Summary:**
 - **Headline:** ETFs Investing in Skipper Ltd Stocks - TradingView
 - **Category:** `Capex & Expansion`
 - **Date:** 2026-11-26 | **Source:** [TradingView](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOVnVLcWY5ZkFQQ01lVkpPS1J4TWROQUdWdmdUVXZUazlnR1JrSjVlcVJydWtvZmVlSmJlbHZINUE5bkNuVU1POU43ajd1MDVtUWtXOG81NGdMU1RDT2xSTmFDWQ?oc=5)
@@ -950,6 +966,14 @@
 ### Ticker: NSE:TITAGARH - Name: Titagarh Rail Systems Ltd (LTP: ₹751.35)
 
 **A. News Summary:**
+- **Headline:** Titagarh Rail Systems targets 200 metro cars in FY27, order book at ₹28,600 crore - scanx.trade
+- **Category:** `Order Inflows & Contracts`
+- **Date:** 2026-11-27 | **Source:** [scanx.trade](https://news.google.com/rss/articles/CBMixAFBVV95cUxONGN2Sms4RXhWS3dhbXVfR1dmVlpJNjMwNFRUZDdjSXVmcmdLMndHRHJyaEtQN21LOXdVNW5qVVVDcksyQ2c0YU1PcGYyeWlYSlhlbWxBOGljQ0hfZTFCOFpyU0FVQkJ4akoxUnhTVHVnTzdRb0s5Z0dMYno1UDVDM0FtTE5KUjE5a1EyRDVFcEZkUmtjRFJxN0owSFdvT0NSTUhDNmtWdXFpc3l4R29nYjJ4bmZMb2JxR3pILU1TN3pWTHRW?oc=5)
+- **Importance Score:** **7/10** | **Sentiment:** Bullish
+- **Short-Term Impact:** Reported by scanx.trade on 2026-11-27. Corporate development in Order Inflows & Contracts.
+- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
+
+**A. News Summary:**
 - **Headline:** Titagarh Rail Systems wins JSW wagon order, delivers naval vessel, gets auto carrier clearance - BusinessLine
 - **Category:** `Order Inflows & Contracts`
 - **Date:** 2026-11-23 | **Source:** [BusinessLine](https://news.google.com/rss/articles/CBMigAJBVV95cUxNaElKTk5QdzBfRHVpaDU3QWJxNFJVZ1hLSkJuVTh1V3dGbXpXLXZIVHhjOHQzU2xITnl6TGQzanliSjFJcDZodFc5TmNMVUFnWGJvLUFFa3EwQTRWa2VvYllORGRyV0REMVlJdUgzY3QzcW1xLV83NDBFaEh2OVFUNHFHOUk0YURGNjNmdFNhenQzMmRMVkF6REhrbXkwQVNBbkJCOXMwSUpsNTNpZHRNeG93U2tsdmJEVEVBTUc4Q20zX2xaMmFTZWlBVEhaaU94ZTc5ZkdkdXNPSVJkM3lhcDZCZGtGUjRFMHZtT3lfeVhrbXdBRTNhcmtzdGh4YW9W0gGHAkFVX3lxTE02M3dSX0hZRUhXdFRKUFBzUWpJYlp5amxYNGRraENaMl9KTHVfYjNIaHZrMEV3aDhfUzNUUkhxdTVmS19qSlVuREZkeHBMc0Ztd0VGb1QtR3Z5ZG9yMGRLZ3pUNUQ4THVGUy05X3NhNi10OTNUbkpmVjR6WXpIRlVWTjQ4YU9GRUp0bGVyVHdjN2VPX2hpYnFyZndmM3VsN2MxZHRjcC1rUVRmQWRLajJ6NFc0VHQ5QS1aV2NhV0hBcm9palA5M2FVTU8tQlBacXliN1FRN2l2THFITkQ1Q3VVRGhEOVZhR0tkM19SWDQ2LUh3QjJLcWdBc0VIQ1BtaC04el84c3lV?oc=5)
@@ -963,14 +987,6 @@
 - **Date:** 2026-11-27 | **Source:** [Construction World](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSU5sY3VwTk5KVzVycV9pbkVmd09yNzAzdHo4RkxjZlFTTHk3Q2lZOWZLQVZMTGJQTmlaOEUwLXNoZjJqMlZsdlY0SVdGWTVvNnM3TXUwaEN6U0ttWHpiaWo1ZDdIakVYRkhqYlVydnMyQ1NiMGpUVmdGd1prSEtQZ3kwZGFmUXhVX0ZyeERuVWFMcnRwdktjM1VTWXhqVGMtVE82Z0MzaVhPZkw1aHBwd1JFazNwMjdXTkQ5YVhiUXMzY2tDY21pZkVtU19xVGtfRjJyTVlZTFE5Ql9HRWotcnkzY2lHUEZMTm5mY0RKb2M?oc=5)
 - **Importance Score:** **7/10** | **Sentiment:** Bullish
 - **Short-Term Impact:** Reported by Construction World on 2026-11-27. Corporate development in Order Inflows & Contracts.
-- **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
-
-**A. News Summary:**
-- **Headline:** Titagarh Rail Systems naval subsidiary delivers second diving support craft to the Indian Navy - The Economic Times
-- **Category:** `Corporate Action & M&A`
-- **Date:** 2026-11-23 | **Source:** [The Economic Times](https://news.google.com/rss/articles/CBMi3AJBVV95cUxNWXJDMVotcUNvcktqU25MWnlLVExrSE95UjRZN0lRLUNoX0VtR2ZZTkZDLUxZZHBURlBBb0VFMnc4MHlGN1RBNFQ5X3U4U29LdEhubmRRTk5mU09tUWRhbHZUU0xiaV9nMi1ONi02YXNYTDRtMDd5ZkhJS2twVkpEOGI3N1Y5eFE2dFhfa0pBOXhfZjZwbENLOUVhNlM4QWV6NDdtd203TmhLOE5IaHlHZl9vcVVxcVAzTFFYdUdTNVhtUFcwWGpDejZOcmllVWdEUnl2bUsyTTZ2OWdVN243YWwyNWFiUlNCWGlIS1V1RWlTMXRidi1nYTJhZUhBdTFWRnhNSTlnanhsYll6V1BRZ0w5Vm1qWWtrUXdXLXVmYWtCTUd6QjZrR3ZoWWpRVVBZWjZvQjBiVWc3LThnOEpRMzBQTHlqc2FlVTk5dE1pOU5pZEpQY1lzSjJWZVjSAfgBQVVfeXFMUHdhdXBHOW12LXJXTkktenVpNFlBSUlxUHBkUFkxTDJxYmFUTTc1NHJKYnZnckdkSFNvcUdqS0RzQ0d4ZnhWMktUSU5fc1pVMEVpb2xmc3p4d1JnR1VTOTJheEVSUVlZaWllN1E4dFBTQnNTNlB6RFo0alZyZUEtYVNMUERUZG12c2dmRkJ1RnlQTzF4ZEJhdjM3VUNWSGFOR3pFTi1GOC0zSFM3S05ZM19WRFg1OVZ6NXpqMnVxMTBFNWdqQlQ4bW1mSTNjdXFpYmNWNU5CQmplU0VHckxWYW1LZzZNWUJOdGxRZ1R5TjRaZ3pqOHh1Q24?oc=5)
-- **Importance Score:** **6/10** | **Sentiment:** Neutral
-- **Short-Term Impact:** Reported by The Economic Times on 2026-11-23. Corporate development in Corporate Action & M&A.
 - **Long-Term Impact:** Operational and fundamental impact tracked against long-term sector trends.
 
 ---

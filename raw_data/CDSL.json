@@ -25,6 +25,21 @@
   "developments": [
     {
       "date": "2026-11-27",
+      "headline": "7NR Retail Ltd - 540615 - Announcement under Regulation 30 (LODR)-Resignation of Director",
+      "source_name": "BSE Official Filing (PDF)",
+      "source_link": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/9fe31a29-1530-471f-ae8b-53525b8aadb3.pdf",
+      "sentiment": "Neutral",
+      "importance_score": 9,
+      "short_term_impact": "Official regulatory disclosure filed with BSE under Scrip Code 540615.",
+      "long_term_impact": "Direct regulatory compliance event filed on official exchange repository.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Verified exchange-level corporate action/announcement.",
+      "risks": "Subject to operational execution.",
+      "red_flags": "None",
+      "hidden_implications": "Original signed filing document available at official BSE repository."
+    },
+    {
+      "date": "2026-11-27",
       "headline": "CDSL Share Price Rise Streak: Price Action and Fundamentals - Univest",
       "category": "Strategic Corporate News",
       "source_name": "Univest",
