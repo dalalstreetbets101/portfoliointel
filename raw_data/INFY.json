@@ -3,15 +3,15 @@
   "company_name": "Infosys Limited",
   "sector": "IT & Telecom",
   "news_found": true,
-  "ltp": 1183,
-  "change": 53,
-  "change_percent": 4.69,
-  "prev_close": 1130,
+  "ltp": 1151.3,
+  "change": -31.7,
+  "change_percent": -2.68,
+  "prev_close": 1183,
   "fifty_two_week_high": 1728,
   "fifty_two_week_low": 980.4,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "(2026-11-25) Infosys, Mphasis and TCS Shares Rally as Nifty IT Gains Over 2%; Why Are IT Stocks Rising Today? - Kotak Neo [Kotak Neo]",
+    "direct_company_news": "(2026-11-26) Infosys wants AI agents to understand its 200 enterprise applications. Its answer is a digital twin - Express Computer [Express Computer]",
     "sector_news": "Sector developments monitored across IT & Telecom.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
@@ -23,22 +23,6 @@
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
   "developments": [
-    {
-      "date": "2026-11-20",
-      "headline": "INFY Outlook for the Week - Equitypandit",
-      "category": "Strategic Corporate News",
-      "source_name": "Equitypandit",
-      "source_link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kS1diXzYtdHFHS3d2QnlYTHpYSkpqRnJER2FlSGFjeWpkVXF6MEtxNnBfMUlSRDZDQktianllTDlIVVBSc2N5QURTbjQzdmtFSHhqQ1FEeHZXcEw5bEtpVWRZQkZTZw?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by Equitypandit on 2026-11-20. Corporate development in Strategic Corporate News.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from Equitypandit publication."
-    },
     {
       "date": "2026-11-25",
       "headline": "Infosys, Mphasis and TCS Shares Rally as Nifty IT Gains Over 2%; Why Are IT Stocks Rising Today? - Kotak Neo",
@@ -56,20 +40,36 @@
       "hidden_implications": "Information verified directly from Kotak Neo publication."
     },
     {
-      "date": "2026-11-23",
-      "headline": "Infosys’ Mitrankur Majumdar on UK Grid Balancing Solutions - Energy Digital Magazine",
-      "category": "Management & Strategy",
-      "source_name": "Energy Digital Magazine",
-      "source_link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZExRRUIycEVkUnQyTFdoTm9DMVItY2hUWERqN2dNdUFSTXVsUmJULTRPRDk4VDZsWlF3LWlFbmNURU1YbGJ1SkozQmd5VTVaa3BncVdQbW5Pc0dfamNzRk4tYmxyREF0WnpHMHg5bHZuU0poUk1taHVHeHBTSTJOWE9ueVJFRnlZLUdUZ3pLS0pMUQ?oc=5",
+      "date": "2026-11-26",
+      "headline": "Infosys to hire 7,500 freshers by 2032 for Visakhapatnam campus - The Hindu",
+      "category": "Financial Performance & Results",
+      "source_name": "The Hindu",
+      "source_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMUNBbVZCbmg5bk5CUmw1VllrMGFPUmFFMmVSVTl3WngyVFJfaVp2VWtsLUFhcGlSOEx1c0lZdExKS3hWZWxlenN0czVKcWFhVjlSSTg1Q0ZxS0JBeDc2bVpEdktjU0gyZER3M0xvZlZMMFVqMFNwc1E3YzBfc1NmTjNIa0dIVWlOWnJBRmRJRXpjV2xSUnROclhhdmJmdzYyRFBSWjRGb0k4YW5OVG9vVTBSUFlEUzEwdWtZSVFFRXhxMGEtVjBMZV9CT290enVrZEHSAdgBQVVfeXFMT3VKMEkyQU9neXRFc1JkTWgtZG5ZeUJZSllNV0Vmc3Z1UFFoRUhITkJ5ZWw1dmpCQUpmVFZqQ3lvY2F3V3FTbHVyNXZ0X29wQUZIazdzNXR5VW5PRlBIeDBsMHNFTTRIVHdoOFVycC0taExBTUVrRUxFTHdxZGtKZF9vYm1FMXhZbE5KU1QwWG5za1VickhHTWp4QTFMcmd1aktOQzd1cXN4VDgyczhzZkZ2RzNnTUV6c1FCajU2UVZTanV1TUw4ci12ZjMzMmt2cDBEUmEtbFdF?oc=5",
       "sentiment": "Neutral",
       "importance_score": 6,
-      "short_term_impact": "Reported by BusinessLine on 2026-11-19. Corporate development in Corporate Action & M&A.",
+      "short_term_impact": "Reported by The Hindu on 2026-11-26. Corporate development in Financial Performance & Results.",
       "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
       "thesis_impact": "Neutral",
       "opportunities": "Monitoring risk factors and entry levels.",
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
-      "hidden_implications": "Information verified directly from BusinessLine publication."
+      "hidden_implications": "Information verified directly from The Hindu publication."
+    },
+    {
+      "date": "2026-11-26",
+      "headline": "Infosys wants AI agents to understand its 200 enterprise applications. Its answer is a digital twin - Express Computer",
+      "category": "Strategic Corporate News",
+      "source_name": "Express Computer",
+      "source_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ09tVzJnS3d4cC1HamNoMU9FWkpxSjFWVHpseTduT2hJeEN1SGtFaEMyQW85QVo0M0o2M0RXTUVkY05Jek9YSzJMbGh2My1YWWZMSXQzeU84eW5FYWRZcHRrZTJhVUFtSTNlRXdjRVpQZGdCc2NMYlhxZEpacjVNWTBJcGdTUERPOW5yNlBZQVVFaFZwSnNubHV6c3dFWFJQQXFLMFpxbDN0WGFJNzdOU1ZrMDRocDdEcTJXSUtxX0wtaTJSVlhsLUdMQS1iQjZ2VXFVWjV5NFIydw?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by Express Computer on 2026-11-26. Corporate development in Strategic Corporate News.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Express Computer publication."
     }
   ]
 }

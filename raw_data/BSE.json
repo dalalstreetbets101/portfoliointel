@@ -3,15 +3,15 @@
   "company_name": "BSE Limited",
   "sector": "Financials",
   "news_found": true,
-  "ltp": 3990.4,
-  "change": 215.2,
-  "change_percent": 5.7,
-  "prev_close": 3775.2,
+  "ltp": 3945,
+  "change": -45.4,
+  "change_percent": -1.14,
+  "prev_close": 3990.4,
   "fifty_two_week_high": 4446.8,
   "fifty_two_week_low": 2377.4,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "(2026-11-20) Zelio E-Mobility Gets BSE Nod for Rs 168 Cr Fundraise - Rediff MoneyWiz [Rediff MoneyWiz]",
+    "direct_company_news": "(2026-11-23) Bloom Dekor Limited submits FY26 annual report, sets 35th AGM - Multibagg AI [Multibagg AI]",
     "sector_news": "Sector developments monitored across Financials.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
@@ -23,6 +23,22 @@
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
   "developments": [
+    {
+      "date": "2026-11-20",
+      "headline": "SEIL receives BSE certificate for proposed merger with Grew Energy, SLIPL - ET EnergyWorld",
+      "category": "Corporate Action & M&A",
+      "source_name": "ET EnergyWorld",
+      "source_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMFVZd2xBSWhnNmd4OUZVQXdLNVhzcEhYY3VHVWFlNThfLXA3UDh6cy1OZHgxM0w0MXR4ZlNjN0hEMnQ4TGJORHFzYUw5ci1OV0JrclIyekJXRHBvaFpUZkVDVHpaQ3N5X1U5SlRlLXBROW9vbWhGaTV5Z3M3a0hRUWpqTEZKUThjUzZ5QVA4VGNudEk1T1Bpd3NCb2NVM1NZZWtFNTNIam5kU0sxaEpNU0RYUTlCQnozNDR3X0QyNENjSVNSdVhrNUE0SnNDQ3FaU1FUWF93dHPSAd4BQVVfeXFMUGt1MnZkNVVLdnFySmFwTUR2eGdOTmduMjU4Qmg2dkZERExjaXNhclRieVJwN0hQUXRKVlBDTEJCQXY5ZERRWTY2RDY5QmtoZENEX25lSFY4Z003Mlo0dzNaVzQ4TnBzT3Rtc25CSjluRlF6UHhBQVJ0eDZReTA3Z0VyQWVGN3FydkxBTmw1bGcwZ0laNF94V0ZKSjR1RjlHenRBcmRoYzZUdXBtYVZIdXZTZnFaWEt4aXNIRVp6V2JGQ182LXRZOThwMEVSakV6U2FrMUN6cGVFSEIySGFR?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by ET EnergyWorld on 2026-11-20. Corporate development in Corporate Action & M&A.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from ET EnergyWorld publication."
+    },
     {
       "date": "2026-11-21",
       "headline": "Zelio E-Mobility gets BSE nod for ₹168 crore fundraise - Manufacturing Today India",
@@ -41,35 +57,19 @@
     },
     {
       "date": "2026-11-23",
-      "headline": "Zelio E-Mobility Gets BSE Approval For Rs 168 Cr Fundraise; H1 Revenue Rises 120% - TradingView",
-      "category": "Financial Performance & Results",
-      "source_name": "TradingView",
-      "source_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVGRySV9XVlVSVVhvZVRuRDN3X1BQQTZmdzVHc2podE8xb0pfODlDTjZCbDRUa1lmN2EzdVNERkRFenl6LWdqOXZodEp4MFBqazFsc1Axdi1qelNLN09zMEhESEFfaGY5YmY3WFlMbHpGRUdwbDhhX0VEd3g3ckQ1cE5uMXlnclU0OHVXN1hVYmxSY0cya1M2bUNRS0NvOVhvUzFZNGhUYUVrZy1iRjlaTzBzTFphdmoyaWhkYWFtQngwcTRSczczQ2hkd01KNExlSnc?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by TradingView on 2026-11-23. Corporate development in Financial Performance & Results.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from TradingView publication."
-    },
-    {
-      "date": "2026-11-20",
-      "headline": "Zelio E-Mobility Gets BSE Nod for Rs 168 Cr Fundraise - Rediff MoneyWiz",
+      "headline": "Bloom Dekor Limited submits FY26 annual report, sets 35th AGM - Multibagg AI",
       "category": "Strategic Corporate News",
-      "source_name": "Rediff MoneyWiz",
-      "source_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd1hST0dWUEdXaTcxZ1pWUXJpQmpvQkprVUVWYS1tUUhrclY0ZzRoLVAtNUdBVkdkYWQ2dy1LU3RTNjU5ellsa3BFejdhUEpGM01mUDFyVi1rS1I3NDRDUTlBa2JnVEtLdm5CN0NPU3lINkNGMHpLZ2NrYll0SDYyNFFXUFpwOEFHekJiMjl6N1B1UzBXaW1YMkc1TU9NMnFObUxac19NTXbSAa4BQVVfeXFMTjVUazdKOWJzSWZ4cFgyNm4xM0l4bWtPdU9GOUJyT0ZBeWhqQVV5MDhkSzdpenJ4ZGZ2T2xMamlNQ2I2VjFkTzNIQ3RfcHJYWGdPUU82NXZiLU1uUlZXUjVfNGhWZmg3MVZaTFBGOHRENmRZX0phZzh6RDhfSFJaTDdSSjNyWllCcFFMZXlxWWhnWGNZU2xXRkZPQ0hjelA2ME8wUHdldE5YcTB5cE5B?oc=5",
+      "source_name": "Multibagg AI",
+      "source_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUXFvbHFsb3BlSXpfSWxrVjBvdUVCV2V0aUZzZVJ0TGJGS0tiZWw2UHVnRllVREZoOWw1UTZUSlV0Q0VsTUkzYWp0WEpId3YxQXJMRFNxWGlnOUdJaWtRRGVMdDh3dG5KeFRnanVXMERDd2Qtbk1QczBUZzlmb21PQzhZR0wzUmRWZG12X3BKT1FzWkp1d0xCMk5hXzcydlFuRWtXeGh3?oc=5",
       "sentiment": "Neutral",
       "importance_score": 6,
-      "short_term_impact": "Reported by Rediff MoneyWiz on 2026-11-20. Corporate development in Strategic Corporate News.",
+      "short_term_impact": "Reported by Multibagg AI on 2026-11-23. Corporate development in Strategic Corporate News.",
       "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
       "thesis_impact": "Neutral",
       "opportunities": "Monitoring risk factors and entry levels.",
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
-      "hidden_implications": "Information verified directly from Rediff MoneyWiz publication."
+      "hidden_implications": "Information verified directly from Multibagg AI publication."
     }
   ]
 }

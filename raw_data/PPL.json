@@ -3,15 +3,15 @@
   "company_name": "Prakash Pipes Ltd",
   "sector": "Auto, FMCG & Energy",
   "news_found": true,
-  "ltp": 222.63,
-  "change": 1.79,
-  "change_percent": 0.81,
-  "prev_close": 220.84,
+  "ltp": 235.69,
+  "change": 13.06,
+  "change_percent": 5.87,
+  "prev_close": 222.63,
   "fifty_two_week_high": 334.4,
   "fifty_two_week_low": 163.21,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "(2026-11-20) Solid Earnings May Not Tell The Whole Story For Prakash Pipes (NSE:PPL) - Simply Wall St [Simply Wall St]",
+    "direct_company_news": "No material corporate earnings/results reported in the last 7 days.",
     "sector_news": "Sector developments monitored across Auto, FMCG & Energy.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
@@ -23,22 +23,6 @@
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
   "developments": [
-    {
-      "date": "2026-11-20",
-      "headline": "Solid Earnings May Not Tell The Whole Story For Prakash Pipes (NSE:PPL) - Simply Wall St",
-      "category": "Financial Performance & Results",
-      "source_name": "Simply Wall St",
-      "source_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLXdUUGtoZ2J2RlJXX0wzOHZldlV1M3d0aU54TWxVS0VERDY4UWNwRThoNnFLZW1tR0RHMm81aDZicGp0b0dvQVpWNmtyWXd2WFJfQTZXRGJaUzdTbXJjVTc3U3EzdnU0Yk5xdWFXSllXdmoxTXo4WFZreWVFTjZJRElZdHNUaDhZWUw3UnRweUFBQVMzdkdQRnFWV1ZYTVNNeU1kQ0o4XzNrbGhYaUVFVVdwaDVWc0JnVVNSX19RYU1JWEdfZEZEMnFrZ3lTWS1xZXVQd2NCTdIB3AFBVV95cUxNVzZRMTF5VzJxN2tIUGVJTURlaEpkWXllTjRHNTk4SERweGktQVlMbmVjaVRfUVZqbkVCUkh4ZzFsN01qb2ozTXZPTDM1N1NOT1JscVlGLWpsQmtMelVoTWRUX2RDVGQxZm5UaER0SzZjaHdGTXhabjNjVTZ1QWtibkxWbFFGYWJFdXRZSmY3SHlPMldPUHNFRXgzZzh3MktfSjhRN180MFhWeDNDSW1MTDA0U2xsX2FHa2hFTmpjZVVVUTFDX3BBcEx3V1d2a2lwcE1XZHlvRkNWTDNH?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by Simply Wall St on 2026-11-20. Corporate development in Financial Performance & Results.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from Simply Wall St publication."
-    },
     {
       "date": "2026-11-23",
       "headline": "Prakash Pipes Share Price Target 2026 Analyst Forecast - Univest",

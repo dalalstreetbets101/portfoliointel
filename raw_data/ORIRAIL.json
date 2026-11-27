@@ -3,10 +3,10 @@
   "company_name": "Oriental Rail Infrastructure Ltd",
   "sector": "Infra & Railways",
   "news_found": true,
-  "ltp": 118.78,
-  "change": 0.12,
-  "change_percent": 0.1,
-  "prev_close": 118.66,
+  "ltp": 119.81,
+  "change": 1.03,
+  "change_percent": 0.87,
+  "prev_close": 118.78,
   "fifty_two_week_high": 142,
   "fifty_two_week_low": 102.8,
   "currency": "INR",
@@ -16,7 +16,7 @@
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
-    "order_inflow_changes": "(2026-11-26) Oriental Rail Infrastructure Wins Rs 4.11 Crore ICF Seats Order, Shares Trade Higher - Dalal Street Investment Journal [Dalal Street Investment Journal]",
+    "order_inflow_changes": "(2026-11-26) Oriental Rail Infrastructure wins Rs 4.11 crore work order from Integral Coach Factory - scanx.trade [scanx.trade]",
     "demand_cycle_changes": "Demand trends across institutional and retail segments.",
     "management_commentary": "Quarterly guidance and management strategic updates.",
     "institutional_activity": "FII/DII holding changes and block trading trends.",
@@ -57,19 +57,19 @@
     },
     {
       "date": "2026-11-26",
-      "headline": "Oriental Rail Infrastructure Wins Rs 4.11 Crore ICF Seats Order, Shares Trade Higher - Dalal Street Investment Journal",
+      "headline": "Oriental Rail Infrastructure wins Rs 4.11 crore work order from Integral Coach Factory - scanx.trade",
       "category": "Order Inflows & Contracts",
-      "source_name": "Dalal Street Investment Journal",
-      "source_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVXVDRV9sT2ZpRThKdGJNVEhHRGpQSHJhWFd4RThITGNra1F2dWF1YmJDMWlvWDAxVXRPcmFIaHoxeTNtalJDNFg4b1FRbW1MYnN2UV96SWpRRzR3NnEwb2F1VFFJaDNIeUwzOEMxUjNHMkdVYUZCZVVwVFRiS19yMUJkRmY3amdFQVlrcTBkN2ZzNkFzUTRFaDlPNk9ZRlFDYllUakphd2pIbHNyWWlaQmRCSmpHdC1XRWIxX1V4UHpPYW8?oc=5",
+      "source_name": "scanx.trade",
+      "source_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPei1TV1lXTE1pVG5OVjZiSks4UVEtOFBNelZCUEFGSVRzZ2QycDdib1c1dHhpOVJPcWdOOEs5VGw0dUNiMklWdUdkM3ctZHJYWTBIUWFqaFRiMmhHMUZWQncwWmpBdnhLNzdYXzJ4ejNIUmpZX1Ayc1BKT3o2NjY0emhEMDhzVWd1b2FyTG9RbGVXOExwMXVNZmdtMGFTcS12UVJGMzVYd28xUTVlZ3pDYnZEbGQ0dHAyUFZIbWVQcWVLUQ?oc=5",
       "sentiment": "Bullish",
       "importance_score": 7,
-      "short_term_impact": "Reported by Dalal Street Investment Journal on 2026-11-26. Corporate development in Order Inflows & Contracts.",
+      "short_term_impact": "Reported by scanx.trade on 2026-11-26. Corporate development in Order Inflows & Contracts.",
       "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
       "thesis_impact": "Bullish",
       "opportunities": "Positive operational and institutional sentiment momentum.",
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
-      "hidden_implications": "Information verified directly from Dalal Street Investment Journal publication."
+      "hidden_implications": "Information verified directly from scanx.trade publication."
     }
   ]
 }

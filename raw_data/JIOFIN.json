@@ -3,18 +3,18 @@
   "company_name": "Jio Financial Services Limited",
   "sector": "Financials",
   "news_found": true,
-  "ltp": 227,
-  "change": 4.15,
-  "change_percent": 1.86,
-  "prev_close": 222.85,
-  "fifty_two_week_high": 309.8,
+  "ltp": 222.6,
+  "change": -4.4,
+  "change_percent": -1.94,
+  "prev_close": 227,
+  "fifty_two_week_high": 308.15,
   "fifty_two_week_low": 202.51,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "(2026-11-26) Is Jio Financial Services (NSEI:JIOFIN) Above Fair Value On Earnings? - Simply Wall St [Simply Wall St]",
+    "direct_company_news": "(2026-11-24) Buy, Sell Or Hold: Tata Technologies, Welspun Corp., Vedanta, Suzlon, Jio Financial, And Bharat Forge — Ask Profit - NDTV Profit [NDTV Profit]",
     "sector_news": "Sector developments monitored across Financials.",
     "competitor_news": "Peer performance and market share movements.",
-    "government_policy_changes": "(2026-11-20) Sensex Jumps 898 Points, Nifty Reclaims 25,800; Banking Stocks Lead Rally - India Infoline [India Infoline]",
+    "government_policy_changes": "Policy environment remains supportive for domestic industry.",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
     "order_inflow_changes": "Commercial order book and revenue visibility.",
     "demand_cycle_changes": "Demand trends across institutional and retail segments.",
@@ -23,22 +23,6 @@
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
   "developments": [
-    {
-      "date": "2026-11-22",
-      "headline": "Jio Financial Services Releases Q4 FY26 Earnings Call Transcript with Business Updates - scanx.trade",
-      "category": "Financial Performance & Results",
-      "source_name": "scanx.trade",
-      "source_link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZHp0MUNzZkdDZUhWcXE0Y0R4UzJabFozMDBPa01yWDNuRW8yUXFPOHVzZHVDcEFJblhvMFdHUUpXWDl3ZTVKV2c3el9WMjl4TlBVOFhBb0pEUHZ3Nk4xQjNNcWhlcXVkNURhR0V5OEtnY3FONXVYV2ZwY1NKT1pYbWZfMzhPSU5Ed2ZHR25wQ1pnblJJVGdWN0xpR1ZaaEFZbHQxY2ZfMUJKOWhiLWR3N3VKZnFvRTRvZmdpZTNEb1FlUnBjcWQxdWNrMmMzRm9fZTVOVVJSRkljWkd4LVpHag?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by scanx.trade on 2026-11-22. Corporate development in Financial Performance & Results.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from scanx.trade publication."
-    },
     {
       "date": "2026-11-26",
       "headline": "Is Jio Financial Services (NSEI:JIOFIN) Above Fair Value On Earnings? - Simply Wall St",
@@ -56,20 +40,36 @@
       "hidden_implications": "Information verified directly from Simply Wall St publication."
     },
     {
-      "date": "2026-11-20",
-      "headline": "Sensex Jumps 898 Points, Nifty Reclaims 25,800; Banking Stocks Lead Rally - India Infoline",
-      "category": "Government Policy & Regulatory",
-      "source_name": "India Infoline",
-      "source_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaG5JZ2lId2FfTWZkMENtNXdid1BLVnhTcE9CRGR1QjFMT2UwSk5WVC04UGpOa0ZPQWFDTHVNZmh5NnJMV016VEdjZHhkemx2aHAwRldGdzdsN0VKV0VVU3dSTHBWTjkyMEVnZUJSS1VyU25OVW1tT0hqNjVJSkpFZzljbGU0TV9SZFpSUkNocHBJcmhnbm1ZV1QtYi1nTTh3MlZ5aEhPWm5ZV3o1b256bEJkcw?oc=5",
+      "date": "2026-11-25",
+      "headline": "Jio Financial Services vs Reliance vs Jio Platforms shares: Which Mukesh Ambani's stock to buy amid Dalal Street rally? - Livemint",
+      "category": "Strategic Corporate News",
+      "source_name": "Livemint",
+      "source_link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNMThQczI3WlYyOWpfaXZ2MXZJM2M0Ml9RQUtCM3U3U3F4RFNWQnhnLUJURnJSQmpQZmVHS2xBdFRyN3VBRW5IZnVpUXpzLVJwWXZBLTkwaEVrN0JKWFlDSldvNm5BNXQ0SkJrc01MckZlMDBoWE9xbHNGVEFzOXFlZE9WbE03VVpiTXB3U0hjMndleWtQVHg3c0oteUlxOXA1LVBmZ1IwY0tmZDBad2tnR3RaRzJ0bFlsdGNiVWh1aUl2NGZSSzNNWndLT3Y5Y1ptUWNBQjRpSGhmV3F0NDd5SGdMTFRtVDNjNEg2ZEFBVlBZOFIwTTBOaGRXWmk2aWFaVF9keWtSZmNuSjhWS29icjR4elnSAZoCQVVfeXFMTWVrNWhPU3ZMa01lZEFlZ3J5SjNIaERSbHNrUU56TnN1R2dZT0lhZTg1VGc1OHZOMUxXa2F4NWR1bzMzbFVwQWx1VHQ3STIxRUFXMVI2V19XTUNCY0FwMDB6M3BDbGNwdU9URnhyNEFIVzR2MWtXS0lKZ0VlWmtCNHhrVWN0VjYtN3JyNHplX0JGd2M1NDA1dnFKNXBKUndoT2JIZTVqRkJwRzhJUFlkbE1EX3dyNFZLQS1od1kzd2M5VWtKcXBrZWkxeG11MzJORVdhS25JRDZrWXRCLXVtak5GWjRScndFX01CaE16X3ZMaml4R3pTWlFYMkdhSmdHcmM2a3pXNHJJZG1UNWdUbXRpTlF4Y0syYlln?oc=5",
       "sentiment": "Bullish",
       "importance_score": 7,
-      "short_term_impact": "Reported by India Infoline on 2026-11-20. Corporate development in Government Policy & Regulatory.",
+      "short_term_impact": "Reported by Livemint on 2026-11-25. Corporate development in Strategic Corporate News.",
       "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
       "thesis_impact": "Bullish",
       "opportunities": "Positive operational and institutional sentiment momentum.",
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
-      "hidden_implications": "Information verified directly from India Infoline publication."
+      "hidden_implications": "Information verified directly from Livemint publication."
+    },
+    {
+      "date": "2026-11-24",
+      "headline": "Buy, Sell Or Hold: Tata Technologies, Welspun Corp., Vedanta, Suzlon, Jio Financial, And Bharat Forge — Ask Profit - NDTV Profit",
+      "category": "Financial Performance & Results",
+      "source_name": "NDTV Profit",
+      "source_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeS1yMXRPREZVN3ZqcjB6U1dBaTNEYnlMb3haSEl0d3hydnZXald4ZlJGTEFMY0ZlR181QjZFb2dBa21yNThsQWpXOEJRLWdtc196ODlRREZ1aFJDajN6cm1rZmtyWlFpaEc3VEtBcDFrNlM1UndXOFZTUjc4WmpXZktoNl9uUEwtTVJDSFloU3V0ZWVGc3NsejFEQUgxN0xoV0xlTFd5WTdXSnViSTQ4S2J6eXBtUDY4REpjd2xiTk5MNWxKR3oxdlVTYUZzeXQxdzk3ZUdxWURnTmxXd0UxaUxR0gHqAUFVX3lxTE9RQVdYZWZwS3J6N252cHdTUlplczZyMzdZMjVGcExkajRIb0JLZ3htRW1KOWpMZHREOWpRZ3BwaktUVHhBVmtRYnZHeXJGc1o3alZTUTdmVTA2QzlWd3hnN0ZtSTlYdzZISG1zN0U5QTFBVnRIR2dTc2tGVTFSYi00T0phVVZkTVdESENIcFlZbTduTUxZZVExLVQ0S0pfOGttXzdfOHk1TGJGS0xFTzVsZHpaMS0yWmxXR3VFcFVFbGZydjIwRk5qUVpIZmV2SUNPMnFmWTBGamxRcnR0UFp3S3VvdVBKSW9oZw?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by NDTV Profit on 2026-11-24. Corporate development in Financial Performance & Results.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from NDTV Profit publication."
     }
   ]
 }

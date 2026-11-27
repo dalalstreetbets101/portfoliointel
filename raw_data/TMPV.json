@@ -3,15 +3,15 @@
   "company_name": "Tata Motors Passenger Vehicles Ltd",
   "sector": "Auto, FMCG & Energy",
   "news_found": true,
-  "ltp": 262,
-  "change": -0.1,
-  "change_percent": -0.04,
-  "prev_close": 262.1,
+  "ltp": 258,
+  "change": -4,
+  "change_percent": -1.53,
+  "prev_close": 262,
   "fifty_two_week_high": 408,
   "fifty_two_week_low": 251.5,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "(2026-11-20) Tata Motors PV Earmarks 6–7% of Revenue for FY27 Capex to Fund Next Phase of Capacity Expansion - Autocar Professional [Autocar Professional]",
+    "direct_company_news": "(2026-11-21) TMPV Q1 Results FY27: PAT Rs 843 Cr, Revenue Rs 95799 crore - Univest [Univest]",
     "sector_news": "Sector developments monitored across Auto, FMCG & Energy.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
@@ -56,20 +56,20 @@
       "hidden_implications": "Information verified directly from scanx.trade publication."
     },
     {
-      "date": "2026-11-20",
-      "headline": "Tata Motors PV Earmarks 6–7% of Revenue for FY27 Capex to Fund Next Phase of Capacity Expansion - Autocar Professional",
+      "date": "2026-11-21",
+      "headline": "TMPV Q1 Results FY27: PAT Rs 843 Cr, Revenue Rs 95799 crore - Univest",
       "category": "Financial Performance & Results",
-      "source_name": "Autocar Professional",
-      "source_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWjBBQU9DWHRaYzRfVWVzakpWbFZjYXA4cFBseWsybVQ3cldCMS12cWlVMVgyMUsta3N3ZzJ4aW9xcEQ2cklJRG5hRnh4LUN2d2JmNmVmbXJsRThrUTlILUxBRlllQk15NVZpVWlkNUZUNlRNdVlPWm9jTXUzNHRITVY1Mi1STkw3ZWVleHFNS2xhbThHdnNsNXRfRnlEX2dwcXlUWTF3WlZOY2stY244ZEJPaW5BSUlWRDZPS0FzaTRGVzFVWGI1UlduY3JTaGU4YjlfR05B0gHeAUFVX3lxTE1zazl4TzNiRmNHd3FJeU1LZ0lzN2RVWVljUGtmNkNqZWIyS0J4Wm04Sjh2NFdaRWMzdDdqcEZJSG1pcnExVmI0NkNYU3ZPdXV0SmI3ZXd2QkN0STZ6YkdNOUN5Q21pSWZRZ2JvZlNLSm9lYTBEZDMyTnhQVkxrUTRLbW5BX0V1OHA3T2pESVFiMjRqaGZBcldKc1NsMGJQYUpQSm5LWE9SX1ZtUDJVMjBfZzRmZ0x1SUgwbWtQRDdOUkV6QjItNl9LRkhxZ1VKVmVnaktSMUREQzdSeUJfUQ?oc=5",
+      "source_name": "Univest",
+      "source_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UYU9GN1NJUC1DdVBBa1lBcUdCZ0hGc25COWRJODZlNmdBcktLM2FxVmRfaXRaQnozb0hVTGxMZC1JY1AtRk4xVmJUSmNvNW1sQWU2WVNwZTZVV19QOF9Tc1ZjZWZXSERBenFB?oc=5",
       "sentiment": "Neutral",
       "importance_score": 6,
-      "short_term_impact": "Reported by Autocar Professional on 2026-11-20. Corporate development in Financial Performance & Results.",
+      "short_term_impact": "Reported by Univest on 2026-11-21. Corporate development in Financial Performance & Results.",
       "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
       "thesis_impact": "Neutral",
       "opportunities": "Monitoring risk factors and entry levels.",
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
-      "hidden_implications": "Information verified directly from Autocar Professional publication."
+      "hidden_implications": "Information verified directly from Univest publication."
     }
   ]
 }

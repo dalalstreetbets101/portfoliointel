@@ -3,10 +3,10 @@
   "company_name": "Poonawalla Fincorp Limited",
   "sector": "Financials",
   "news_found": true,
-  "ltp": 508.6,
-  "change": -4.85,
-  "change_percent": -0.94,
-  "prev_close": 513.45,
+  "ltp": 494.9,
+  "change": -13.7,
+  "change_percent": -2.69,
+  "prev_close": 508.6,
   "fifty_two_week_high": 532.3,
   "fifty_two_week_low": 361.2,
   "currency": "INR",
@@ -16,7 +16,7 @@
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "(2026-11-26) Poonawalla Fincorp board to consider preferential equity issue on Dec 1 - scanx.trade [scanx.trade]",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
-    "order_inflow_changes": "(2026-11-25) Which Are the Best NBFCs for Personal Loans in India? - India CSR [India CSR]",
+    "order_inflow_changes": "(2026-11-21) Poonawalla Fincorp bets on EMI-based gold loans as NBFCs face repayment risks - bfsi.economictimes.indiatimes.com [bfsi.economictimes.indiatimes.com]",
     "demand_cycle_changes": "Demand trends across institutional and retail segments.",
     "management_commentary": "(2026-11-26) Poonawalla Fincorp Says Board To Consider Equity Fund Raising Via Private Placement On December 1, 2026 - TradingView [TradingView]",
     "institutional_activity": "FII/DII holding changes and block trading trends.",
@@ -69,7 +69,7 @@
       "opportunities": "Monitoring risk factors and entry levels.",
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
-      "hidden_implications": "Information verified directly from India CSR publication."
+      "hidden_implications": "Information verified directly from scanx.trade publication."
     }
   ]
 }

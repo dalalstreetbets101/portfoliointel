@@ -2,11 +2,11 @@
   "ticker": "NSE:LIKHITHA",
   "company_name": "Likhitha Infrastructure Ltd",
   "sector": "Infra & Railways",
-  "news_found": true,
-  "ltp": 189.22,
-  "change": 4.76,
-  "change_percent": 2.58,
-  "prev_close": 184.46,
+  "news_found": false,
+  "ltp": 191.89,
+  "change": 2.67,
+  "change_percent": 1.41,
+  "prev_close": 189.22,
   "fifty_two_week_high": 272,
   "fifty_two_week_low": 131.45,
   "currency": "INR",
@@ -17,27 +17,10 @@
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
     "order_inflow_changes": "Commercial order book and revenue visibility.",
-    "demand_cycle_changes": "(2026-11-23) Likhitha Infra Investor Analysis | StockIQ - The Economic Times [The Economic Times]",
+    "demand_cycle_changes": "Demand trends across institutional and retail segments.",
     "management_commentary": "Quarterly guidance and management strategic updates.",
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
-  "developments": [
-    {
-      "date": "2026-11-23",
-      "headline": "Likhitha Infra Investor Analysis | StockIQ - The Economic Times",
-      "category": "Capex & Expansion",
-      "source_name": "The Economic Times",
-      "source_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNTE5TzV6aEJ4dU42SlNoemJlX25ZMFRRalR0dXhGVEN2Tk9BbGNBOHloZmxYajF1d1dkQ1BQSzdwX0s5cWk3VjhabTBNUjRsUmw2NXg0Rk8teDRtcm5YN1dDZkwtLTJ3QmZtcjJmMkYwX0xrOGthUTNvSlVLVzNKdUVMSmRDcU5jTzhNQlg3RUU5aUMzOS1VS1pFNExYZw?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by The Economic Times on 2026-11-23. Corporate development in Capex & Expansion.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from The Economic Times publication."
-    }
-  ]
+  "developments": []
 }

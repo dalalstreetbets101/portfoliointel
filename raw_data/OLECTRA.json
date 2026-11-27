@@ -3,10 +3,10 @@
   "company_name": "Olectra Greentech Ltd",
   "sector": "Power & Renewables",
   "news_found": true,
-  "ltp": 983.5,
-  "change": 6.9,
-  "change_percent": 0.71,
-  "prev_close": 976.6,
+  "ltp": 1019.6,
+  "change": 36.1,
+  "change_percent": 3.67,
+  "prev_close": 983.5,
   "fifty_two_week_high": 1556,
   "fifty_two_week_low": 866.6,
   "currency": "INR",
@@ -17,7 +17,7 @@
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
     "order_inflow_changes": "Commercial order book and revenue visibility.",
-    "demand_cycle_changes": "(2026-11-22) Weekly News Wrap: Tata Draws Global OEM Interest, Ashok Leyland Eyes Expansion, VinFast Revises India Plans - Autocar Professional [Autocar Professional]",
+    "demand_cycle_changes": "(2026-11-23) Olectra’s Electric Bus Expansion Tests India’s Depot Readiness - Urban Acres [Urban Acres]",
     "management_commentary": "Quarterly guidance and management strategic updates.",
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
@@ -56,20 +56,20 @@
       "hidden_implications": "Information verified directly from The Times of India publication."
     },
     {
-      "date": "2026-11-22",
-      "headline": "Weekly News Wrap: Tata Draws Global OEM Interest, Ashok Leyland Eyes Expansion, VinFast Revises India Plans - Autocar Professional",
+      "date": "2026-11-23",
+      "headline": "Olectra’s Electric Bus Expansion Tests India’s Depot Readiness - Urban Acres",
       "category": "Capex & Expansion",
-      "source_name": "Autocar Professional",
-      "source_link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZk5VQlRDcHdrZmtXdVU0QmZDaDNBVnJCWUNKQ2xlb3lxTEtXZGlvanFoekdVRGZiZkRHYUNST1kwNWxqV1JWWWRzSHB3OEtuemR3ZGU2eUEwQXJEaTk5UGpkYVg0blFqNVVUcm91N1BXUEJtckpYM25xVGRfU212MzZPVm9fckx4LXpJcFdFVlk1NVR0b0xpZ01EWmpvcHkyT043bWFQaFF2cUxKT2RHTzNXTF9YVjZaQk1hVXVBVW5lc25VYlNoaW5HWktwNm4tOWNsTjJMQk1iUdIB4gFBVV95cUxOZkdxRlBTYXhpNzYyaUFpWlFwamJtc25XYnZjeHA0ZFBtbzM1a3ZYM0N0SzRBcHhpR3BLWVFrYXN2WVFkSUVqVGE4NXY0Yjk0cjF3a0NZWE41LVpyeDd1VUtMTUg2ZUxBYkg1MjZHZGx6dmljNzZ1Z2ZDRDBPWmtIVlhYd0xhQjEtZ214N3VWYVM5ZDl1aU9JN05pNGthZVFyYWZ5VWJFcTV3TGZ4LTdTZndYc3ozRFRHSnNlb29wa3pmejZKeURIbkYydy1SLWJBWVJSYzZac0RVYzE0ZFdnTDZB?oc=5",
+      "source_name": "Urban Acres",
+      "source_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaUNPbGxyQnRQZGlISjV0NjUwdE9QRElDRUpTM3pNTzZ2RzR4WDUtblZFX1lYMzcyaUplVzJ4Q3FWRFVmT1ZiMmFpTEcxLU5ELTltQ0J5dzVTSWRyN0E2YmdDaGlOOHJHUTd2TkQtcG9Ya3ZuMlVLRThDSnlueU1sUE1KSUc2Z0x5UEM5WnV2Y3dfTjlfOWtXTnZWZlppSWdvN1VXMWdrV0tweXM?oc=5",
       "sentiment": "Neutral",
       "importance_score": 6,
-      "short_term_impact": "Reported by Autocar Professional on 2026-11-22. Corporate development in Capex & Expansion.",
+      "short_term_impact": "Reported by Urban Acres on 2026-11-23. Corporate development in Capex & Expansion.",
       "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
       "thesis_impact": "Neutral",
       "opportunities": "Monitoring risk factors and entry levels.",
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
-      "hidden_implications": "Information verified directly from Autocar Professional publication."
+      "hidden_implications": "Information verified directly from Urban Acres publication."
     }
   ]
 }
