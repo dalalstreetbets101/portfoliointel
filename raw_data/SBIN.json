@@ -14,15 +14,31 @@
     "direct_company_news": "No material corporate earnings/results reported in the last 7 days.",
     "sector_news": "Sector developments monitored across Financials.",
     "competitor_news": "Peer performance and market share movements.",
-    "government_policy_changes": "Policy environment remains supportive for domestic industry.",
+    "government_policy_changes": "(2026-11-26) Bank holidays this week: Are SBI, HDFC branches closed for customers from 27-29 Nov in Bangalore? Check RBI calendar - Livemint [Livemint]",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
     "order_inflow_changes": "Commercial order book and revenue visibility.",
     "demand_cycle_changes": "Demand trends across institutional and retail segments.",
     "management_commentary": "(2026-11-26) SBI announces onboarding of 1,540 junior associates - bfsi.economictimes.indiatimes.com [bfsi.economictimes.indiatimes.com]",
-    "institutional_activity": "(2026-11-25) RBI Clears SBI MF To Acquire 9.99% Stake In South Indian Bank - TradingView [TradingView]",
-    "promoter_activity": "(2026-11-25) RBI Clears SBI MF To Acquire 9.99% Stake In South Indian Bank - TradingView [TradingView]"
+    "institutional_activity": "(2026-11-25) South Indian Bank Shares in Focus After RBI Allows SBI Mutual Fund to Acquire Up to 9.99% Stake; Check Key Details - Kotak Neo [Kotak Neo]",
+    "promoter_activity": "(2026-11-25) South Indian Bank Shares in Focus After RBI Allows SBI Mutual Fund to Acquire Up to 9.99% Stake; Check Key Details - Kotak Neo [Kotak Neo]"
   },
   "developments": [
+    {
+      "date": "2026-11-26",
+      "headline": "Bank holidays this week: Are SBI, HDFC branches closed for customers from 27-29 Nov in Bangalore? Check RBI calendar - Livemint",
+      "category": "Government Policy & Regulatory",
+      "source_name": "Livemint",
+      "source_link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPT3BYQXIyM3dRQXdieXJfTU5McVhZTHBqRWFpb01HZlUzUG50UmNVdk9NTEtkSUJRUlF3b0Raa3UyYUYxSTdSLVItanI1cC1iX1FfaDZvMUFRdFBQaFI0a0dIYWx3M1d2VnpqMk9xREs2MUs4V05QZXp5TlVueEdhTExPU3hBQUQ0STYtMXVKT2xWVW43NVNCbmRzMEk0YjdPeHJTVUNCdmN6TU10czhTT2U3S0w5cWEyX0lnY0t0Z1RHaEp0ZXlMZVluMFlxemQ4ekxpd2xTc2Q2OW0yWTZzbFFFTVp1LWdlU19IMTVIQkdPX3JuQzV3dzhXZWpZRDF60gGGAkFVX3lxTE5QZkctYlVacTdNT0o2V0ppc2VKeHBJdEJhU281SVpPaVRXS0N1ZHlacFkyQVpOaWhTN005bW1mVU9YTG5zMVhMcF9VZG03MEtmVEd3Uzc3dS1CZkktT29uM0Z1RmNxZ1I4TkFXcm95UENIb1k2WmZqNGJiV3lKSnF6LTNSMENVTm82RVluNFZpNVB4MHZqWWZZR2JzbkxQTjhrdUx4amtMX1ktd0R1UlFWbXhDbDR3eDM2M25Uc05sUmttdl9nZ0VIOXp4dFNYVW9FMEtMMmI2cDVIZVZqbWd1NXloWlVpc3NKRTlkd1RjeVNlM0ZKcC1JY3kwSllyOXdnVlRmQ1E?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Livemint on 2026-11-26. Corporate development in Government Policy & Regulatory.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Livemint publication."
+    },
     {
       "date": "2026-11-25",
       "headline": "South Indian Bank Shares in Focus After RBI Allows SBI Mutual Fund to Acquire Up to 9.99% Stake; Check Key Details - Kotak Neo",
@@ -54,22 +70,6 @@
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
       "hidden_implications": "Information verified directly from bfsi.economictimes.indiatimes.com publication."
-    },
-    {
-      "date": "2026-11-25",
-      "headline": "RBI Clears SBI MF To Acquire 9.99% Stake In South Indian Bank - TradingView",
-      "category": "Institutional & Promoter Activity",
-      "source_name": "TradingView",
-      "source_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTTdoZ1RfUGE3ZFVRdTB0VFdtWTgtRG1mQWNjc2kzNnFQMm51Skd1Z3lOaUhjdzEzdGxCSnI4TlBUdWhqMnNKM1NTLTdPalBpYWliSEhzNXN4RjFSYnNubUhTNmNhRldPR2hNemhKMl9TRGJMWU5SR0p0c2dBTFV5YVJGX0RxeFEwNms4S0J5cWwxQzZDcnR1ZjN4c3pDZ0Q3czZGUmpMQVRtVkQ5SkpRUnhpNG9xaWFy?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by TradingView on 2026-11-25. Corporate development in Institutional & Promoter Activity.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from TradingView publication."
     }
   ]
 }

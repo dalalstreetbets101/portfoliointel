@@ -11,7 +11,7 @@
   "fifty_two_week_low": 202.51,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "(2026-11-24) Buy, Sell Or Hold: Tata Technologies, Welspun Corp., Vedanta, Suzlon, Jio Financial, And Bharat Forge — Ask Profit - NDTV Profit [NDTV Profit]",
+    "direct_company_news": "(2026-11-25) Jio Financial Services vs Reliance vs Jio Platforms shares: Which Mukesh Ambani's stock to buy amid Dalal Street rally? - Livemint [Livemint]",
     "sector_news": "Sector developments monitored across Financials.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
@@ -23,6 +23,22 @@
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
   "developments": [
+    {
+      "date": "2026-11-27",
+      "headline": "Jio Financial Business Growth, Profit and Chart Recovery - Kalkine India",
+      "category": "Financial Performance & Results",
+      "source_name": "Kalkine India",
+      "source_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNGN1OW5ENHV1cVl4dDNoZEVlZUxENmFkYVJZYl9DaWw3WHVMRVVMLVJWMXFOcTduQ0J0UmF3OEllWmRCcWN4TzZLd05DUmNlOEpSMEdFTURhOXYtVmVzR2FlSTItdW51QVpJUWt6ejVLQUlKZkdOczR4djY5ek1RM2hCUGRRZlhuLVVhdEZid2RZTEtBYWZUbWhRbEtCOUtZQ01qcFZ0ZU53TkYwM2M1M1Y1VlFPc2k2VTlETzJXY2Y?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by Kalkine India on 2026-11-27. Corporate development in Financial Performance & Results.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Kalkine India publication."
+    },
     {
       "date": "2026-11-26",
       "headline": "Is Jio Financial Services (NSEI:JIOFIN) Above Fair Value On Earnings? - Simply Wall St",
@@ -54,22 +70,6 @@
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
       "hidden_implications": "Information verified directly from Livemint publication."
-    },
-    {
-      "date": "2026-11-24",
-      "headline": "Buy, Sell Or Hold: Tata Technologies, Welspun Corp., Vedanta, Suzlon, Jio Financial, And Bharat Forge — Ask Profit - NDTV Profit",
-      "category": "Financial Performance & Results",
-      "source_name": "NDTV Profit",
-      "source_link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeS1yMXRPREZVN3ZqcjB6U1dBaTNEYnlMb3haSEl0d3hydnZXald4ZlJGTEFMY0ZlR181QjZFb2dBa21yNThsQWpXOEJRLWdtc196ODlRREZ1aFJDajN6cm1rZmtyWlFpaEc3VEtBcDFrNlM1UndXOFZTUjc4WmpXZktoNl9uUEwtTVJDSFloU3V0ZWVGc3NsejFEQUgxN0xoV0xlTFd5WTdXSnViSTQ4S2J6eXBtUDY4REpjd2xiTk5MNWxKR3oxdlVTYUZzeXQxdzk3ZUdxWURnTmxXd0UxaUxR0gHqAUFVX3lxTE9RQVdYZWZwS3J6N252cHdTUlplczZyMzdZMjVGcExkajRIb0JLZ3htRW1KOWpMZHREOWpRZ3BwaktUVHhBVmtRYnZHeXJGc1o3alZTUTdmVTA2QzlWd3hnN0ZtSTlYdzZISG1zN0U5QTFBVnRIR2dTc2tGVTFSYi00T0phVVZkTVdESENIcFlZbTduTUxZZVExLVQ0S0pfOGttXzdfOHk1TGJGS0xFTzVsZHpaMS0yWmxXR3VFcFVFbGZydjIwRk5qUVpIZmV2SUNPMnFmWTBGamxRcnR0UFp3S3VvdVBKSW9oZw?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by NDTV Profit on 2026-11-24. Corporate development in Financial Performance & Results.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from NDTV Profit publication."
     }
   ]
 }

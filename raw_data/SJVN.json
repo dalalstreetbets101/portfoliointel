@@ -2,7 +2,7 @@
   "ticker": "NSE:SJVN",
   "company_name": "SJVN Ltd",
   "sector": "Power & Renewables",
-  "news_found": false,
+  "news_found": true,
   "ltp": 55.05,
   "change": 0.01,
   "change_percent": 0.02,
@@ -11,7 +11,7 @@
   "fifty_two_week_low": 46.08,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "No material corporate earnings/results reported in the last 7 days.",
+    "direct_company_news": "(2026-11-27) SJVN announces winners for 2 GW PSP auction - Renewable Watch [Renewable Watch]",
     "sector_news": "Sector developments monitored across Power & Renewables.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
@@ -22,5 +22,54 @@
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
-  "developments": []
+  "developments": [
+    {
+      "date": "2026-11-23",
+      "headline": "SJVN Limited Shares Fall 1.47% Despite New Hydro PPAs - Multibagg AI",
+      "category": "Corporate Action & M&A",
+      "source_name": "Multibagg AI",
+      "source_link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT1ZkQXJrYTgyWC1DdTIwRTNXZG8yM0hSMlRGTHVvMnBXY1VWYWkwV3k1Znpfa0o2OWlGSDd0SllDdDVHZ05mSHZONVZyWXdSbEt3UkxSZmtiZS1Xc2o3dnktX0ZfaWV0UXQ5UTEzMXYwSnR6U1A5WTZuOHRQeURpaEtKX3JiUVBTVnJZUnpEaU9yVFRkNXFpQklTazN0RDVKaUE?oc=5",
+      "sentiment": "Bearish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by Multibagg AI on 2026-11-23. Corporate development in Corporate Action & M&A.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bearish",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Near-term market volatility or earnings/regulatory headwind.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Multibagg AI publication."
+    },
+    {
+      "date": "2026-11-25",
+      "headline": "SJVN Announces Winners of 2 GW Pumped Storage Auction - Mercomindia.com",
+      "category": "Corporate Action & M&A",
+      "source_name": "Mercomindia.com",
+      "source_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWXdKaFV1V2dzSTdGa3gzTTIxV09LVm5HZDRoQjFScEE4dGdPUnRaZWxIU2Vxd3VEaDJRWnYyejNSd1F1dDVBNzdnQnR1M000dXV6RlJMcXhudUJyeXhYSDdDNnJCVy1COWNLaFJ6ZnJiN0JOeGpiNmZGZ0xKbTJPaG5QSDc?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by Mercomindia.com on 2026-11-25. Corporate development in Corporate Action & M&A.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Mercomindia.com publication."
+    },
+    {
+      "date": "2026-11-27",
+      "headline": "SJVN announces winners for 2 GW PSP auction - Renewable Watch",
+      "category": "Corporate Action & M&A",
+      "source_name": "Renewable Watch",
+      "source_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTjliRDN1ZWdlU3hLbkEtdDZ0b0Exc1Fnb3RzWUp3OGVRRzFPM3pQTHhTRUwyY3pNN3N3eVdEX0s5ZndfWGtzQm9nRktOd1IwVWZUc0xYbHZtQjdoUWI5NUtGTkk5eEM0MVBQVDFIZlUtWHJNZzNKLThnaWN6TWZabnVydFRWSnRuVmNz?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by Renewable Watch on 2026-11-27. Corporate development in Corporate Action & M&A.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Renewable Watch publication."
+    }
+  ]
 }

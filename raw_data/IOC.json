@@ -14,10 +14,10 @@
     "direct_company_news": "No material corporate earnings/results reported in the last 7 days.",
     "sector_news": "Sector developments monitored across Auto, FMCG & Energy.",
     "competitor_news": "Peer performance and market share movements.",
-    "government_policy_changes": "(2026-11-27) E20 petrol meets prescribed quality standards, 893 samples across 27 states and UTs compliant: Ministry - DD News [DD News]",
+    "government_policy_changes": "Policy environment remains supportive for domestic industry.",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
     "order_inflow_changes": "(2026-11-20) Annu Projects wins Rs 3.82 crore work order from Indian Oil Corporation Limited - scanx.trade [scanx.trade]",
-    "demand_cycle_changes": "(2026-11-25) ONGC, Oil India step up capex; HPCL, IOCL lag FY27 spending targets - ET EnergyWorld [ET EnergyWorld]",
+    "demand_cycle_changes": "(2026-11-27) Karnataka steps up scrutiny of oil terminals amid E20 row, finds fuel measurement discrepancies at IOCL facility - Moneycontrol.com [Moneycontrol.com]",
     "management_commentary": "Quarterly guidance and management strategic updates.",
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
@@ -57,19 +57,19 @@
     },
     {
       "date": "2026-11-27",
-      "headline": "E20 petrol meets prescribed quality standards, 893 samples across 27 states and UTs compliant: Ministry - DD News",
-      "category": "Government Policy & Regulatory",
-      "source_name": "DD News",
-      "source_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQlBlWXpsbzNybTBvbkU2dTEyY29MZ0VZSDYxU1A0VHNIRjE5UlZ5UlV2M016eGlad0RsQ1p0cnNXV240RTg0SkNNV19JUUhOS2M2UVRVZEN2LVc0Q1ZhVkQ2LUNYOWFTYlhEaGJUcFlLQXBDUzZHTXFtc1RHcmZoT0lHckdlWWV1MEVjS0IzaE5URTRURktQb2cwNEZhT2p2ZkJualNQbF9wR0dNNXlGOWlfSFZPVmZzaW5PQ3ltQ1FDdFNYa3c?oc=5",
+      "headline": "Karnataka steps up scrutiny of oil terminals amid E20 row, finds fuel measurement discrepancies at IOCL facility - Moneycontrol.com",
+      "category": "Capex & Expansion",
+      "source_name": "Moneycontrol.com",
+      "source_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQRTVHVDN5N0wwdE5QaVdydkczRWZBaUwtbjZFUkV2Q0lTMjNHQmpqU08xY1NHV3gyTTI0a1VRVS0tOTZDcW40dFlVRlZ2cWpjSW80Nkt6U3F1bmxHcXpDWjZpT1F3bHN4a3VsQ2JtVVhRbnlfUkZnMFUwUllGTEYzWkczYW1WNHY5RlRrLVNIUy1YemdlY1hTOWk5MENiZXRQNEhfaHBYSEZtRXJFWjVFQkMzREcwUlY4enp0M3VWRTY1SkRmeF9lem1qLWNwcm5kOHdaU3hxUlZ1S3RpaENudlFhRGdVU01Wc1RKMlZ6VFRKaTJiNGI0bA?oc=5",
       "sentiment": "Neutral",
       "importance_score": 6,
-      "short_term_impact": "Reported by DD News on 2026-11-27. Corporate development in Government Policy & Regulatory.",
+      "short_term_impact": "Reported by Moneycontrol.com on 2026-11-27. Corporate development in Capex & Expansion.",
       "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
       "thesis_impact": "Neutral",
       "opportunities": "Monitoring risk factors and entry levels.",
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
-      "hidden_implications": "Information verified directly from DD News publication."
+      "hidden_implications": "Information verified directly from Moneycontrol.com publication."
     }
   ]
 }
