@@ -11,7 +11,7 @@
   "fifty_two_week_low": 327.05,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "No material corporate earnings/results reported in the last 7 days.",
+    "direct_company_news": "(2026-11-27) Skipper NSE:SKIPPER Independent Director Postal Ballot Result - Kalkine India [Kalkine India]",
     "sector_news": "Sector developments monitored across Power & Renewables.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
@@ -54,6 +54,22 @@
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
       "hidden_implications": "Information verified directly from Univest publication."
+    },
+    {
+      "date": "2026-11-27",
+      "headline": "Skipper NSE:SKIPPER Independent Director Postal Ballot Result - Kalkine India",
+      "category": "Financial Performance & Results",
+      "source_name": "Kalkine India",
+      "source_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZXlXaGRRQ3FNRy0yNTBUS0ZoanM5NUpDbVZFa0k0dHlwY0FyclR3NDVFRk11QzVra2VjajVaNWw5MV92UkZnVk5xdG5WcnR2OG1NUE9vU2pDM3hrYlpPNkJZcFlfaExfR0x2OHROUF9qcGFua1hocldZZDNnT25TVFlBdGtsUWxWT3pMWm5aRmFRNGU3VlhUN0paYkw5blFEQ0xTRmVOUEZWaDdZMXJscHJPLWZMTzhwamg5aA?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Kalkine India on 2026-11-27. Corporate development in Financial Performance & Results.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Kalkine India publication."
     }
   ]
 }

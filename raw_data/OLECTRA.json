@@ -17,10 +17,10 @@
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
     "order_inflow_changes": "Commercial order book and revenue visibility.",
-    "demand_cycle_changes": "(2026-11-23) Olectra’s Electric Bus Expansion Tests India’s Depot Readiness - Urban Acres [Urban Acres]",
+    "demand_cycle_changes": "Demand trends across institutional and retail segments.",
     "management_commentary": "Quarterly guidance and management strategic updates.",
-    "institutional_activity": "FII/DII holding changes and block trading trends.",
-    "promoter_activity": "Promoter shareholding stability and pledge tracking."
+    "institutional_activity": "(2026-11-28) Aditya Birla Real Estate and RHI Magnesita India were down 27% each - Jaiprakash Power Ventures, CarTrade Tech among 11 smallcap stocks that plunged the most in a year, but mutual funds raised stakes - The Economic Times [The Economic Times]",
+    "promoter_activity": "(2026-11-28) Aditya Birla Real Estate and RHI Magnesita India were down 27% each - Jaiprakash Power Ventures, CarTrade Tech among 11 smallcap stocks that plunged the most in a year, but mutual funds raised stakes - The Economic Times [The Economic Times]"
   },
   "developments": [
     {
@@ -40,6 +40,22 @@
       "hidden_implications": "Information verified directly from BusinessLine publication."
     },
     {
+      "date": "2026-11-28",
+      "headline": "Aditya Birla Real Estate and RHI Magnesita India were down 27% each - Jaiprakash Power Ventures, CarTrade Tech among 11 smallcap stocks that plunged the most in a year, but mutual funds raised stakes - The Economic Times",
+      "category": "Institutional & Promoter Activity",
+      "source_name": "The Economic Times",
+      "source_link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOblJfWlM5aWRZUGphODJXaGYxZERGWTNwMmdKQkxWaWFPWWFrWjU0dGVGbnZ1NjFkbF9DaG42OFJGZlZSaml3amt3QVFod19hZS1fM1V2WmhQeS00SWJwQ2lBNmNna3kxWGxoVGpzelNIYTRzOTFaQ0ZYSFo3TlVtR2ZFYjQ5RlBKZjN0YWp5bUhLSDhRa2tiMk9TZzd2MEoydnlOS2pLRnY0UVhvT21xMW1qbWNBSm50RmdJT1lPbWlkUXpMVkYyaEZnOHZzeGZRT1k2Mk9XY1JXMzFnVml2bEcwWEF3d2ppTzFYSFp5NGQ2cXRqRWhsZ25Lc1FJamlPVjhmS0REa0dEY2I3VlBhZ2Z2dHhCOGc2VXJyZFlVZEgyZFFIcmNrcHIwaVhfajVsNEVsOURFZE9jNjByQlJ0cTExdDFnYl9qOGlXNkpSZ3U2SEdkSVFnWUVXdUVQdm5Uc0hTa1lNWnozZ3lPZG5VU2dKbGxFWWxYYVM2U0ptVUo1TjMyaTdjVW92aw?oc=5",
+      "sentiment": "Bearish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by The Economic Times on 2026-11-28. Corporate development in Institutional & Promoter Activity.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bearish",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Near-term market volatility or earnings/regulatory headwind.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from The Economic Times publication."
+    },
+    {
       "date": "2026-11-23",
       "headline": "BEST to audit wet-lease buses as costs, safety concerns mount; Mumbai needs 13,000 buses: BEST general ma - The Times of India",
       "category": "Strategic Corporate News",
@@ -54,22 +70,6 @@
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
       "hidden_implications": "Information verified directly from The Times of India publication."
-    },
-    {
-      "date": "2026-11-23",
-      "headline": "Olectra’s Electric Bus Expansion Tests India’s Depot Readiness - Urban Acres",
-      "category": "Capex & Expansion",
-      "source_name": "Urban Acres",
-      "source_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaUNPbGxyQnRQZGlISjV0NjUwdE9QRElDRUpTM3pNTzZ2RzR4WDUtblZFX1lYMzcyaUplVzJ4Q3FWRFVmT1ZiMmFpTEcxLU5ELTltQ0J5dzVTSWRyN0E2YmdDaGlOOHJHUTd2TkQtcG9Ya3ZuMlVLRThDSnlueU1sUE1KSUc2Z0x5UEM5WnV2Y3dfTjlfOWtXTnZWZlppSWdvN1VXMWdrV0tweXM?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by Urban Acres on 2026-11-23. Corporate development in Capex & Expansion.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from Urban Acres publication."
     }
   ]
 }

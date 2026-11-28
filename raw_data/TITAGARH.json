@@ -2,7 +2,7 @@
   "ticker": "NSE:TITAGARH",
   "company_name": "Titagarh Rail Systems Ltd",
   "sector": "Infra & Railways",
-  "news_found": false,
+  "news_found": true,
   "ltp": 751.35,
   "change": 3.55,
   "change_percent": 0.47,
@@ -16,11 +16,60 @@
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
     "raw_material_changes": "Input cost trends monitored against operating margins.",
-    "order_inflow_changes": "Commercial order book and revenue visibility.",
+    "order_inflow_changes": "(2026-11-23) Titagarh Rail Systems wins JSW wagon order, delivers naval vessel, gets auto carrier clearance - BusinessLine [BusinessLine]",
     "demand_cycle_changes": "Demand trends across institutional and retail segments.",
     "management_commentary": "Quarterly guidance and management strategic updates.",
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
-  "developments": []
+  "developments": [
+    {
+      "date": "2026-11-27",
+      "headline": "Titagarh Rail Systems targets 200 metro cars in FY27, order book at ₹28,600 crore - scanx.trade",
+      "category": "Order Inflows & Contracts",
+      "source_name": "scanx.trade",
+      "source_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONGN2Sms4RXhWS3dhbXVfR1dmVlpJNjMwNFRUZDdjSXVmcmdLMndHRHJyaEtQN21LOXdVNW5qVVVDcksyQ2c0YU1PcGYyeWlYSlhlbWxBOGljQ0hfZTFCOFpyU0FVQkJ4akoxUnhTVHVnTzdRb0s5Z0dMYno1UDVDM0FtTE5KUjE5a1EyRDVFcEZkUmtjRFJxN0owSFdvT0NSTUhDNmtWdXFpc3l4R29nYjJ4bmZMb2JxR3pILU1TN3pWTHRW?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by scanx.trade on 2026-11-27. Corporate development in Order Inflows & Contracts.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from scanx.trade publication."
+    },
+    {
+      "date": "2026-11-28",
+      "headline": "Titagarh Rail Systems Secures ₹77.09 Crore JSW Order - Machine Maker",
+      "category": "Order Inflows & Contracts",
+      "source_name": "Machine Maker",
+      "source_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTGZ1OFo5UUlTbTcyLTRzc196c3ZxdTk4RmV5VVFJdHhoNjNWQ241T3gtdzNTcGhIYzB0eHhONmNtS0NSYldHdndCS2ZwVGFrSWlubmhfNkJJbGlqWXhRSnFBRXZFVi1DRlVId3JHMURseThkQkNNeXU0dHlRVzBSTjJ2Y1h1VmJUOERkM1pfWmZfNjhGLXVua213?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by Machine Maker on 2026-11-28. Corporate development in Order Inflows & Contracts.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Machine Maker publication."
+    },
+    {
+      "date": "2026-11-23",
+      "headline": "Titagarh Rail Systems wins JSW wagon order, delivers naval vessel, gets auto carrier clearance - BusinessLine",
+      "category": "Order Inflows & Contracts",
+      "source_name": "BusinessLine",
+      "source_link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNaElKTk5QdzBfRHVpaDU3QWJxNFJVZ1hLSkJuVTh1V3dGbXpXLXZIVHhjOHQzU2xITnl6TGQzanliSjFJcDZodFc5TmNMVUFnWGJvLUFFa3EwQTRWa2VvYllORGRyV0REMVlJdUgzY3QzcW1xLV83NDBFaEh2OVFUNHFHOUk0YURGNjNmdFNhenQzMmRMVkF6REhrbXkwQVNBbkJCOXMwSUpsNTNpZHRNeG93U2tsdmJEVEVBTUc4Q20zX2xaMmFTZWlBVEhaaU94ZTc5ZkdkdXNPSVJkM3lhcDZCZGtGUjRFMHZtT3lfeVhrbXdBRTNhcmtzdGh4YW9W0gGHAkFVX3lxTE02M3dSX0hZRUhXdFRKUFBzUWpJYlp5amxYNGRraENaMl9KTHVfYjNIaHZrMEV3aDhfUzNUUkhxdTVmS19qSlVuREZkeHBMc0Ztd0VGb1QtR3Z5ZG9yMGRLZ3pUNUQ4THVGUy05X3NhNi10OTNUbkpmVjR6WXpIRlVWTjQ4YU9GRUp0bGVyVHdjN2VPX2hpYnFyZndmM3VsN2MxZHRjcC1rUVRmQWRLajJ6NFc0VHQ5QS1aV2NhV0hBcm9palA5M2FVTU8tQlBacXliN1FRN2l2THFITkQ1Q3VVRGhEOVZhR0tkM19SWDQ2LUh3QjJLcWdBc0VIQ1BtaC04el84c3lV?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by BusinessLine on 2026-11-23. Corporate development in Order Inflows & Contracts.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from BusinessLine publication."
+    }
+  ]
 }

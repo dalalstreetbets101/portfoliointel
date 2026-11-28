@@ -2,16 +2,16 @@
   "ticker": "NSE:HUDCO",
   "company_name": "Housing and Urban Development Corporation Limited",
   "sector": "Financials",
-  "news_found": false,
+  "news_found": true,
   "ltp": 155.64,
   "change": 0.83,
   "change_percent": 0.54,
   "prev_close": 154.81,
-  "fifty_two_week_high": 242.3,
+  "fifty_two_week_high": 240.9,
   "fifty_two_week_low": 141.81,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "No material corporate earnings/results reported in the last 7 days.",
+    "direct_company_news": "(2026-11-23) PSU Dividend Record Dates, Ex-Dividend Date: ONGC, HUDCO - Univest [Univest]",
     "sector_news": "Sector developments monitored across Financials.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
@@ -22,5 +22,38 @@
     "institutional_activity": "FII/DII holding changes and block trading trends.",
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
-  "developments": []
+  "developments": [
+    {
+      "date": "2026-11-23",
+      "headline": "Housing And Urban Development Corporation Q4 Results 2026 - Univest",
+      "category": "Financial Performance & Results",
+      "source_name": "Univest",
+      "source_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMi1jWGVyUjhVdTBoVmNWLXNmRU9KUXNQNXhRTWVpc3o2MU1wTnBWNFl2OVpfSlRCeVF5d2FuSmpYSXdkcFR3SzRqN2lpRGl4Zmg1UzdKTjNRVWZBVkZTS04yODk1TDVVNTlpYkg4MzhwOV80djhUS1pwRlpiMEFUamEyRVM3dkFvLWt6UE1LMWQxbTV3?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Univest on 2026-11-23. Corporate development in Financial Performance & Results.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Univest publication."
+    },
+    {
+      "date": "2026-11-23",
+      "headline": "PSU Dividend Record Dates, Ex-Dividend Date: ONGC, HUDCO - Univest",
+      "category": "Corporate Action & M&A",
+      "source_name": "Univest",
+      "source_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbGgtMGF6T09ucWNTa2o5NnBQaE1OQjA0Qll1TkRTYkNZajVXajA2X1BFV2h1eWcxc1hfZ0hFaVBRZk95ZTh5ZGo1bGJxVDdHSFBsRW85NlFxYXY5a1lhY18zVTFXNDI2OTBWbVpKX3dtcXE5Nk92LXdmQ25NX1ZBcW5wcVFURTIxc0Rwd2E5VzFqbVcza2U5bEJoU1lScmJHcjVrMWZPeVQ4ZDVGVlhPOGlMRWI4Y0FZbkpBdTMtbkdWZ0FvT2tZQ3BoYnhRd1d5VkZB?oc=5",
+      "sentiment": "Bullish",
+      "importance_score": 7,
+      "short_term_impact": "Reported by Univest on 2026-11-23. Corporate development in Corporate Action & M&A.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Bullish",
+      "opportunities": "Positive operational and institutional sentiment momentum.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Univest publication."
+    }
+  ]
 }

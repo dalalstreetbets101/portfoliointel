@@ -11,7 +11,7 @@
   "fifty_two_week_low": 251.5,
   "currency": "INR",
   "canvas_categories": {
-    "direct_company_news": "(2026-11-21) TMPV Q1 Results FY27: PAT Rs 843 Cr, Revenue Rs 95799 crore - Univest [Univest]",
+    "direct_company_news": "(2026-11-23) TMPV Near 52-Week Low: JLR Performance and Q2 FY27 Results - Kalkine India [Kalkine India]",
     "sector_news": "Sector developments monitored across Auto, FMCG & Energy.",
     "competitor_news": "Peer performance and market share movements.",
     "government_policy_changes": "Policy environment remains supportive for domestic industry.",
@@ -23,22 +23,6 @@
     "promoter_activity": "Promoter shareholding stability and pledge tracking."
   },
   "developments": [
-    {
-      "date": "2026-11-21",
-      "headline": "What Should Investors Do About The Stock of Tata Motors Passenger Vehicles? - BusinessLine",
-      "category": "Capex & Expansion",
-      "source_name": "BusinessLine",
-      "source_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQLXI5b010b2xzLWVYdEEzZzVqWnJ1OVRnWlV2QldiZWw1czgydFhGUnBnUW5veHY5ZEMwRWozNGlkYkNOVGszNkk0UGpnUEFWcTJwVEJvcmdkT1NEbmlOSndYMzI5OGx3QU9pNDFHQWF1SkhDc1V0d0hVZVNUT1RWdkhBbXhjNTFHV3JjLXZtc0NQclM5dkEtZk03Zjdjb3k3OU5OeFBmeUpuYkpTRzV3aTlGZ09jbzZxQnBQSUFrd0VueFF5YlJsckdXamxSRTlvZHFCN3BVdU10QWZOWGJzOFU0WmJsekFoYThTVEFMWmpJeS1ZNlJHb2Fnek10ZlRMYk5TVtIBiwJBVV95cUxNS2tuRGUxTDdFTF83aGlxTXgxdWxpSkxFWjBSWVdsT1ZvMEIxazFodnFuaUpqcUd3WVBQWnFDeHBuRUNnaW1IRzl0bW1YTWJESjlNSkNEZUFoVUoxb1hkR3BSZERtSFFwczdXdTA0WXlLRUh0SDRmU3dxaFR1YXhLakRiMG1BbGtyNHFkaTgxRHJqd1ptVjl1MnVrSkI5cktTVDVtbHZCRTd2a09QTXctb3l0b3RCTm9QeGpzTmJtN0JQaHIwRG1ueXVpSWI0V3RMWFU3MkpFWjUydWxmSlVEejFSaDdldjZqWEN3aXdtbXZfV1VVYUJDdjgyb3h4WEdsU2s3Rl9XN2NDUkE?oc=5",
-      "sentiment": "Neutral",
-      "importance_score": 6,
-      "short_term_impact": "Reported by BusinessLine on 2026-11-21. Corporate development in Capex & Expansion.",
-      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
-      "thesis_impact": "Neutral",
-      "opportunities": "Monitoring risk factors and entry levels.",
-      "risks": "Broad market swings and execution risk.",
-      "red_flags": "None",
-      "hidden_implications": "Information verified directly from BusinessLine publication."
-    },
     {
       "date": "2026-11-22",
       "headline": "Tata Motors PV Q2FY27: JLR wholesales up 25%, UVC domestic sales surge - scanx.trade",
@@ -57,19 +41,35 @@
     },
     {
       "date": "2026-11-21",
-      "headline": "TMPV Q1 Results FY27: PAT Rs 843 Cr, Revenue Rs 95799 crore - Univest",
-      "category": "Financial Performance & Results",
-      "source_name": "Univest",
-      "source_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UYU9GN1NJUC1DdVBBa1lBcUdCZ0hGc25COWRJODZlNmdBcktLM2FxVmRfaXRaQnozb0hVTGxMZC1JY1AtRk4xVmJUSmNvNW1sQWU2WVNwZTZVV19QOF9Tc1ZjZWZXSERBenFB?oc=5",
+      "headline": "What Should Investors Do About The Stock of Tata Motors Passenger Vehicles? - BusinessLine",
+      "category": "Capex & Expansion",
+      "source_name": "BusinessLine",
+      "source_link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQLXI5b010b2xzLWVYdEEzZzVqWnJ1OVRnWlV2QldiZWw1czgydFhGUnBnUW5veHY5ZEMwRWozNGlkYkNOVGszNkk0UGpnUEFWcTJwVEJvcmdkT1NEbmlOSndYMzI5OGx3QU9pNDFHQWF1SkhDc1V0d0hVZVNUT1RWdkhBbXhjNTFHV3JjLXZtc0NQclM5dkEtZk03Zjdjb3k3OU5OeFBmeUpuYkpTRzV3aTlGZ09jbzZxQnBQSUFrd0VueFF5YlJsckdXamxSRTlvZHFCN3BVdU10QWZOWGJzOFU0WmJsekFoYThTVEFMWmpJeS1ZNlJHb2Fnek10ZlRMYk5TVtIBiwJBVV95cUxNS2tuRGUxTDdFTF83aGlxTXgxdWxpSkxFWjBSWVdsT1ZvMEIxazFodnFuaUpqcUd3WVBQWnFDeHBuRUNnaW1IRzl0bW1YTWJESjlNSkNEZUFoVUoxb1hkR3BSZERtSFFwczdXdTA0WXlLRUh0SDRmU3dxaFR1YXhLakRiMG1BbGtyNHFkaTgxRHJqd1ptVjl1MnVrSkI5cktTVDVtbHZCRTd2a09QTXctb3l0b3RCTm9QeGpzTmJtN0JQaHIwRG1ueXVpSWI0V3RMWFU3MkpFWjUydWxmSlVEejFSaDdldjZqWEN3aXdtbXZfV1VVYUJDdjgyb3h4WEdsU2s3Rl9XN2NDUkE?oc=5",
       "sentiment": "Neutral",
       "importance_score": 6,
-      "short_term_impact": "Reported by Univest on 2026-11-21. Corporate development in Financial Performance & Results.",
+      "short_term_impact": "Reported by BusinessLine on 2026-11-21. Corporate development in Capex & Expansion.",
       "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
       "thesis_impact": "Neutral",
       "opportunities": "Monitoring risk factors and entry levels.",
       "risks": "Broad market swings and execution risk.",
       "red_flags": "None",
-      "hidden_implications": "Information verified directly from Univest publication."
+      "hidden_implications": "Information verified directly from BusinessLine publication."
+    },
+    {
+      "date": "2026-11-23",
+      "headline": "TMPV Near 52-Week Low: JLR Performance and Q2 FY27 Results - Kalkine India",
+      "category": "Financial Performance & Results",
+      "source_name": "Kalkine India",
+      "source_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZzQ5NVJhcTc4NUZhRl9wQ0pCSXFUSXlGeGM4WHltMTlVeEotTXVvRnRkQllQSW0zbkE0RHo0VG9fT3dzaVlDTkdsTVc4SXpVYmMyeGxGNzZWTVNEU0QxYXNmai1HbEEtYVY2cEtCU2ZVSDctaVBvbTRBRDBQSWFlS3I1WUVoWVFaVkR5cTN0eVBnMVo4SkhicG9qOU93TWZtNzltYkhUS2pydW5iSFVEb0dLeWc5VkgxNUZyN1duamZCOFhGMktQck1JX3FzUzBUX0hJemJULS1IRjFLV2pj?oc=5",
+      "sentiment": "Neutral",
+      "importance_score": 6,
+      "short_term_impact": "Reported by Kalkine India on 2026-11-23. Corporate development in Financial Performance & Results.",
+      "long_term_impact": "Operational and fundamental impact tracked against long-term sector trends.",
+      "thesis_impact": "Neutral",
+      "opportunities": "Monitoring risk factors and entry levels.",
+      "risks": "Broad market swings and execution risk.",
+      "red_flags": "None",
+      "hidden_implications": "Information verified directly from Kalkine India publication."
     }
   ]
 }
